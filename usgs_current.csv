@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-07T18:24:19.470Z,38.2260017,-119.0899963,-2.09,2.81,md,37,94,0.3016,0.21,nc,nc73702521,2022-03-07T18:31:10.777Z,"7km WNW of Bodie, CA",earthquake,0.34,0.99,0.19,27,automatic,nc,nc
-2022-03-07T18:13:13.400Z,2.6851,125.8373,78.33,5.3,mww,,31,2.439,1.55,us,us6000h2u5,2022-03-07T18:34:04.201Z,"163 km NE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,6.9,6.4,0.083,14,reviewed,us,us
+2022-03-07T18:47:50.840Z,33.9798317,-117.0568314,8.76,1.07,ml,20,122,0.1189,0.15,ci,ci40201472,2022-03-07T18:49:56.389Z,"1km SSW of Calimesa, CA",earthquake,0.4,2,0.191,4,automatic,ci,ci
+2022-03-07T18:34:29.154Z,6.812,-73.0168,152.65,4.9,mb,,62,0.915,1.03,us,us6000h2un,2022-03-07T18:47:24.040Z,"7 km NW of Cepitá, Colombia",earthquake,7,5.4,0.028,411,reviewed,us,us
+2022-03-07T18:24:19.470Z,38.2260017,-119.0899963,-2.09,2.81,md,37,94,0.3016,0.21,nc,nc73702521,2022-03-07T18:47:25.722Z,"7km WNW of Bodie, CA",earthquake,0.34,0.99,0.19,27,automatic,nc,nc
+2022-03-07T18:13:13.400Z,2.6851,125.8373,78.33,5.3,mww,,31,2.439,1.55,us,us6000h2u5,2022-03-07T18:39:16.775Z,"163 km NE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,6.9,6.4,0.083,14,reviewed,us,us
 2022-03-07T17:55:12.676Z,-35.9161,-102.7897,10,5.2,mb,,98,10.404,1.29,us,us6000h2sn,2022-03-07T18:15:11.040Z,"southeast of Easter Island",earthquake,13.1,1.9,0.049,134,reviewed,us,us
 2022-03-07T17:54:52.940Z,37.3261667,-122.1281667,12.38,0.71,md,5,163,0.02129,0.02,nc,nc73702501,2022-03-07T18:35:12.252Z,"4km SW of Loyola, CA",earthquake,0.68,1.04,0.051,7,reviewed,nc,nc
 2022-03-07T17:53:17.785Z,38.5037,-119.5126,3.8,1.4,ml,9,174.39,0.058,0.1054,nn,nn00835017,2022-03-07T17:57:05.392Z,"3 km WSW of Walker, California",earthquake,,0.5,0.21,4,automatic,nn,nn
@@ -19,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T16:30:06.594Z,59.8801,-151.4727,57,1.8,ml,,,,0.71,ak,ak02231f6a8t,2022-03-07T16:35:43.933Z,"10 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-07T16:27:15.170Z,35.6959991,-121.1395035,7.22,1.25,md,8,167,0.0179,0.04,nc,nc73702491,2022-03-07T17:57:17.571Z,"7km NE of San Simeon, CA",earthquake,2.25,1.83,0.19,4,automatic,nc,nc
 2022-03-07T16:23:46.860Z,38.8356667,-122.8166656,1.37,1.12,md,22,63,0.01329,0.04,nc,nc73702481,2022-03-07T17:16:15.308Z,"8km W of Cobb, CA",earthquake,0.2,0.47,0.05,3,automatic,nc,nc
-2022-03-07T16:22:42.910Z,38.2228317,-119.0830002,13.85,3.54,mw,50,94,0.3079,0.18,nc,nc73702486,2022-03-07T18:26:15.188Z,"6km WNW of Bodie, CA",earthquake,0.35,1.01,,3,reviewed,nc,nc
+2022-03-07T16:22:42.910Z,38.2228317,-119.0830002,13.85,3.54,mw,50,94,0.3079,0.18,nc,nc73702486,2022-03-07T18:40:59.935Z,"6km WNW of Bodie, CA",earthquake,0.35,1.01,,3,reviewed,nc,nc
 2022-03-07T16:21:45.066Z,60.4816,-151.6551,67.8,1.4,ml,,,,0.55,ak,ak02231f4fty,2022-03-07T16:25:52.626Z,"21 km WNW of Kalifornsky, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-03-07T15:57:40.965Z,63.4645,-149.6251,98.2,1.6,ml,,,,0.29,ak,ak02231eqpn4,2022-03-07T16:10:10.288Z,"34 km WNW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-03-07T15:51:22.910Z,35.7458333,-117.5375,11.35,1.43,ml,18,141,0.08513,0.21,ci,ci40201328,2022-03-07T15:54:58.990Z,"12km W of Searles Valley, CA",earthquake,0.44,1.04,0.142,21,automatic,ci,ci
@@ -70,9 +72,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T09:43:04.632Z,61.0229,-152.3935,13.2,0.7,ml,,,,0.63,ak,ak02231b31fu,2022-03-07T16:21:41.941Z,"68 km W of Tyonek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-03-07T09:40:34.580Z,38.8170013,-122.8193359,2.57,0.57,md,12,112,0.009649,0.02,nc,nc73702426,2022-03-07T10:11:22.640Z,"7km NW of The Geysers, CA",earthquake,0.35,0.75,0.34,2,automatic,nc,nc
 2022-03-07T09:37:11.449Z,62.8075,-151.8121,7.3,1.8,ml,,,,0.61,ak,ak02231b1re6,2022-03-07T09:49:37.223Z,"63 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-07T09:25:18.920Z,38.8298333,-122.8141667,2.39,2.15,md,57,30,0.00718,0.05,nc,nc73702421,2022-03-07T18:35:11.809Z,"8km NW of The Geysers, CA",earthquake,0.14,0.2,0.087,12,reviewed,nc,nc
+2022-03-07T09:25:18.920Z,38.8298333,-122.8141667,2.39,2.15,md,57,30,0.00718,0.05,nc,nc73702421,2022-03-07T18:39:17.833Z,"8km NW of The Geysers, CA",earthquake,0.14,0.2,0.087,12,reviewed,nc,nc
 2022-03-07T09:20:16.870Z,35.7806667,-117.5945,2.93,1.59,ml,24,66,0.03508,0.16,ci,ci40201184,2022-03-07T09:30:49.770Z,"17km W of Searles Valley, CA",earthquake,0.25,0.43,0.127,21,automatic,ci,ci
-2022-03-07T09:18:22.370Z,37.4968333,-121.8271667,3.77,1.38,md,55,33,0.01827,0.07,nc,nc73702411,2022-03-07T18:22:10.719Z,"10km NE of Milpitas, CA",earthquake,0.13,0.2,0.208,35,reviewed,nc,nc
+2022-03-07T09:18:22.370Z,37.4968333,-121.8271667,3.77,1.38,md,55,33,0.01827,0.07,nc,nc73702411,2022-03-07T18:44:15.864Z,"10km NE of Milpitas, CA",earthquake,0.13,0.2,0.208,35,reviewed,nc,nc
+2022-03-07T09:11:56.510Z,35.8958333,-120.057,11.14,1.6,md,29,218,0.1674,0.06,nc,nc73702406,2022-03-07T18:44:54.080Z,"14km SSE of Avenal, CA",earthquake,0.41,0.63,0.244,32,reviewed,nc,nc
 2022-03-07T09:03:09.357Z,62.5928,-151.4928,6.6,1.4,ml,,,,0.53,ak,ak02231augvv,2022-03-07T09:15:33.306Z,"38 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-07T08:55:53.270Z,19.2434997558594,-155.406494140625,31.3099994659424,2.41,ml,48,131,,0.180000007,hv,hv72941187,2022-03-07T14:38:30.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.58,0.720000029,3.58,12,automatic,hv,hv
 2022-03-07T08:54:06.250Z,40.4726667,-121.5185,3.5,1.55,md,8,126,0.008458,0.05,nc,nc73702401,2022-03-07T18:35:11.939Z,"14km NNE of Mineral, CA",earthquake,0.4,0.51,0.19,11,reviewed,nc,nc
@@ -210,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T19:16:14.040Z,19.5023326873779,-155.658172607422,-1.52999997138977,1.72000003,md,23,71,,0.25999999,hv,hv72940352,2022-03-06T19:21:45.330Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.670000017,0.810000002,11,automatic,hv,hv
 2022-03-06T19:12:10.320Z,35.6613333,-117.4855,4.57,1.72,ml,25,87,0.07705,0.15,ci,ci40200856,2022-03-06T19:23:16.640Z,"14km SSW of Searles Valley, CA",earthquake,0.28,0.75,0.215,26,automatic,ci,ci
 2022-03-06T18:58:00.840Z,34.021,-117.2081667,16.08,1.17,ml,39,92,0.0791,0.22,ci,ci40200840,2022-03-06T19:01:42.481Z,"4km SSW of Redlands, CA",earthquake,0.34,0.76,0.175,29,automatic,ci,ci
-2022-03-06T18:48:58.000Z,37.6368333,-118.4841667,11.12,2.03,md,21,140,0.04109,0.04,nc,nc73702146,2022-03-06T20:22:11.360Z,"19km ENE of Toms Place, CA",earthquake,0.61,0.94,0.195,21,reviewed,nc,nc
-2022-03-06T18:45:49.180Z,19.1823329925537,-155.503997802734,35.3300018310547,1.87,md,40,81,,0.119999997,hv,hv72940322,2022-03-06T18:48:54.630Z,"3 km SW of Pāhala, Hawaii",earthquake,0.49,0.829999983,0.74000001,9,automatic,hv,hv
