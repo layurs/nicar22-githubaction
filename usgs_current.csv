@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-08T03:21:00.520Z,38.8300018,-122.8121643,1.42,0.36,md,9,89,0.006796,0.01,nc,nc73702676,2022-03-08T03:22:34.513Z,"8km NW of The Geysers, CA",earthquake,0.4,0.89,,1,automatic,nc,nc
-2022-03-08T03:19:38.870Z,38.8233337,-122.7618332,2.01,0.7,md,10,128,0.00952,0.01,nc,nc73702671,2022-03-08T03:21:14.732Z,"3km W of Cobb, CA",earthquake,0.4,0.6,0.16,2,automatic,nc,nc
+2022-03-08T03:27:22.723Z,61.8666,-151.7819,101,1.9,ml,,,,0.46,ak,ak02232uydzv,2022-03-08T03:30:14.284Z,"24 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-08T03:21:00.520Z,38.8300018,-122.8121643,1.42,0.36,md,9,89,0.006796,0.01,nc,nc73702676,2022-03-08T03:27:10.106Z,"8km NW of The Geysers, CA",earthquake,0.4,0.89,,1,automatic,nc,nc
+2022-03-08T03:19:38.870Z,38.8233337,-122.7618332,2.01,0.7,md,10,128,0.00952,0.01,nc,nc73702671,2022-03-08T03:27:10.228Z,"3km W of Cobb, CA",earthquake,0.4,0.6,0.16,2,automatic,nc,nc
 2022-03-08T03:17:20.710Z,38.8436661,-122.8266678,2.02,0.37,md,8,143,0.008552,0.02,nc,nc73702666,2022-03-08T03:23:12.075Z,"9km WNW of Cobb, CA",earthquake,0.4,1.2,,1,automatic,nc,nc
 2022-03-08T03:12:24.609Z,63.3754,-151.5637,7,1.5,ml,,,,0.24,ak,ak02232uv6e9,2022-03-08T03:22:48.565Z,"20 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-08T03:05:59.280Z,17.9818333333333,-66.9275,10.54,2.53,md,18,146,,0.16,pr,pr71339428,2022-03-08T03:19:51.900Z,"1 km WSW of Fuig, Puerto Rico",earthquake,0.42,0.46,0.172666848903682,10,reviewed,pr,pr
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T01:59:00.502Z,70.6979,-14.097,10,4,mb,,61,2.632,0.83,us,us6000h2xw,2022-03-08T02:12:21.040Z,"198 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.7,1.9,0.164,10,reviewed,us,us
 2022-03-08T01:48:08.298Z,50.3391,90.4624,10,4,mb,,134,5.013,0.77,us,us6000h2xt,2022-03-08T02:02:11.040Z,"Russia-Mongolia border region",earthquake,6.9,2,0.184,8,reviewed,us,us
 2022-03-08T01:35:02.550Z,36.019165,-120.8553314,9.69,2.36,md,51,51,0.02809,0.14,nc,nc73702641,2022-03-08T02:56:10.899Z,"4km E of San Ardo, CA",earthquake,0.25,0.65,0.23,47,automatic,nc,nc
-2022-03-08T01:27:31.970Z,38.7890015,-122.762001,1.74,0.87,md,16,66,0.01174,0.03,nc,nc73702636,2022-03-08T01:44:16.463Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.49,0.25,4,automatic,nc,nc
+2022-03-08T01:27:31.970Z,38.7890015,-122.762001,1.74,0.87,md,16,66,0.01174,0.03,nc,nc73702636,2022-03-08T03:25:14.090Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.49,0.25,4,automatic,nc,nc
 2022-03-08T01:20:43.379Z,60.5335,-147.4729,17.2,1.9,ml,,,,0.69,ak,ak02232tq2cx,2022-03-08T01:24:06.696Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-08T01:13:57.030Z,38.2244987,-119.081665,10.55,2.79,md,29,95,0.3082,0.25,nc,nc73702626,2022-03-08T02:29:16.731Z,"6km WNW of Bodie, CA",earthquake,0.5,2.08,0.3,25,automatic,nc,nc
 2022-03-08T01:10:19.580Z,19.2171669006348,-155.388336181641,30.9200000762939,1.98000002,md,40,155,,0.140000001,hv,hv72942117,2022-03-08T01:13:29.280Z,"9 km E of Pāhala, Hawaii",earthquake,0.69,0.779999971,,5,automatic,hv,hv
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T03:47:21.367Z,-8.0046,122.3745,10,4.5,mb,,143,0.641,1.19,us,us6000h2qs,2022-03-07T21:55:27.040Z,"70 km NNE of Maumere, Indonesia",earthquake,4.2,1.9,0.271,5,reviewed,us,us
 2022-03-07T03:43:35.280Z,35.6605,-117.4883333,6.18,1.6,ml,32,64,0.07685,0.11,ci,ci40201096,2022-03-07T20:51:47.310Z,"14km SSW of Searles Valley, CA",earthquake,0.16,0.58,0.217,14,reviewed,ci,ci
 2022-03-07T03:42:34.344Z,37.8808,-118.0812,0,1.8,ml,21,95.64,0.203,0.1847,nn,nn00834985,2022-03-08T02:37:45.040Z,"23 km N of Dyer, Nevada",earthquake,,2.7,0.34,10,reviewed,nn,nn
-2022-03-07T03:36:06.980Z,19.2098331451416,-155.421493530273,33.5,2.19,ml,42,142,,0.150000006,hv,hv72940892,2022-03-07T03:41:37.880Z,"6 km E of Pāhala, Hawaii",earthquake,0.56,0.839999974,0.22,3,automatic,hv,hv
-2022-03-07T03:24:26.713Z,40.4037,-126.3753,7.76,2.8,ml,,284,1.721,0.27,us,us6000h2nc,2022-03-07T17:43:10.489Z,"180 km W of Ferndale, California",earthquake,12.6,16.1,0.046,62,reviewed,us,us
