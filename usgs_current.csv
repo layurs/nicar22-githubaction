@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-08T21:29:12.490Z,19.1523342132568,-155.482162475586,34.1300010681152,2.02999997,md,35,144,,0.129999995,hv,hv72943532,2022-03-08T21:32:21.740Z,"5 km S of Pāhala, Hawaii",earthquake,0.6,0.829999983,1.28999996,7,automatic,hv,hv
-2022-03-08T21:28:05.060Z,60.8328,-150.6127,45.1,3.6,ml,,,,0.77,ak,ak022335od6n,2022-03-08T21:46:52.299Z,"10 km SSE of Point Possession, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-03-08T21:28:05.060Z,60.8328,-150.6127,45.1,3.6,ml,,,,0.77,ak,ak022335od6n,2022-03-08T21:57:06.679Z,"10 km SSE of Point Possession, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-03-08T21:27:34.560Z,38.7608337,-122.7233353,0.92,0.61,md,8,111,0.001413,0.02,nc,nc73703016,2022-03-08T21:35:11.263Z,"3km WSW of Anderson Springs, CA",earthquake,0.45,0.36,0.28,2,automatic,nc,nc
 2022-03-08T21:05:42.280Z,36.6518326,-121.2663345,1.42,1.72,md,13,160,0.0536,0.07,nc,nc73703011,2022-03-08T21:14:11.271Z,"16km SSE of Tres Pinos, CA",earthquake,0.46,1.06,0.23,11,automatic,nc,nc
 2022-03-08T21:05:41.500Z,36.19783333,-95.88366667,0,1.35,ml,58,114,0.2969417299,0.47,ok,ok2022esey,2022-03-08T21:13:22.066Z,"8 km SSW of Owasso, Oklahoma",quarry blast,,0.5,0.18,25,reviewed,ok,ok
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T19:06:18.250Z,38.8203316,-122.7661667,1.59,1,md,11,180,0.01054,0.02,nc,nc73702946,2022-03-08T19:15:10.973Z,"4km W of Cobb, CA",earthquake,0.68,0.61,0.23,2,automatic,nc,nc
 2022-03-08T19:06:02.920Z,38.8195,-122.7633362,1.88,1.03,md,12,194,0.0121,0.03,nc,nc73702941,2022-03-08T19:53:23.626Z,"4km W of Cobb, CA",earthquake,0.7,0.87,0.07,2,automatic,nc,nc
 2022-03-08T19:04:58.650Z,19.2141666412354,-155.422836303711,32.3800010681152,2.00999999,md,43,138,,0.109999999,hv,hv72943347,2022-03-08T19:10:30.120Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.56,0.800000012,1.62,14,automatic,hv,hv
-2022-03-08T19:03:50.670Z,38.8180008,-122.7655029,1.38,1.78,md,33,49,0.01277,0.06,nc,nc73702931,2022-03-08T20:47:12.066Z,"4km W of Cobb, CA",earthquake,0.2,0.31,0.07,10,automatic,nc,nc
+2022-03-08T19:03:50.670Z,38.8180008,-122.7655029,1.38,1.78,md,33,49,0.01277,0.06,nc,nc73702931,2022-03-08T21:50:15.362Z,"4km W of Cobb, CA",earthquake,0.2,0.31,0.07,10,automatic,nc,nc
 2022-03-08T19:00:10.450Z,38.8204994,-122.7641678,1.72,0.85,md,13,192,0.01092,0.02,nc,nc73702926,2022-03-08T21:24:16.195Z,"4km W of Cobb, CA",earthquake,0.39,0.69,,1,automatic,nc,nc
 2022-03-08T18:44:44.180Z,52.2532,-170.0887,47.27,3.8,mb,,179,1.041,1.13,us,us6000h34l,2022-03-08T20:12:42.040Z,"112 km SW of Nikolski, Alaska",earthquake,3.4,8.2,0.073,54,reviewed,us,us
 2022-03-08T18:43:49.270Z,39.4275,-110.3226667,-1.33,1.24,md,4,191,0.003883,0.02,uu,uu60484857,2022-03-08T19:59:37.450Z,"14 km SSE of Sunnyside, Utah",earthquake,1.26,0.24,0.142,4,reviewed,uu,uu
@@ -272,4 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T22:13:29.743Z,-30.0916,-177.8991,35,5.2,mb,,190,0.827,0.96,us,us6000h2wp,2022-03-07T23:10:59.040Z,"Kermadec Islands, New Zealand",earthquake,10.3,1.8,0.099,34,reviewed,us,us
 2022-03-07T22:09:39.028Z,38.2197,-118.3237,2.8,0,ml,8,250.86,0.146,0.0807,nn,nn00835049,2022-03-08T02:38:27.330Z,"26 km SW of Mina, Nevada",earthquake,,40.4,0,1,reviewed,nn,nn
 2022-03-07T22:05:35.990Z,38.2428,-118.3531,10.6,-0.1,ml,6,258.94,0.12,0.0498,nn,nn00835048,2022-03-08T02:38:26.517Z,"26 km SW of Mina, Nevada",earthquake,,9.6,0,1,reviewed,nn,nn
-2022-03-07T21:49:46.010Z,48.70466666666667,-123.66583333333334,-0.24,0.37,md,5,101,0.1519,0.4,uw,uw61820661,2022-03-08T05:12:23.320Z,"4 km SW of Cowichan Bay, Canada",explosion,1.33,31.61,0.29363252242812643,4,reviewed,uw,uw
