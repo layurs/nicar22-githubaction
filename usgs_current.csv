@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-17T10:33:12.445Z,61.3869,-151.5315,69.4,2,ml,,,,0.59,ak,ak0223huzt5x,2022-03-17T10:38:05.675Z,"36 km NW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-17T10:07:08.670Z,33.06,-116.2083333,9.21,1.04,ml,18,98,0.1013,0.24,ci,ci39969975,2022-03-17T10:10:42.947Z,"12km SW of Ocotillo Wells, CA",earthquake,0.49,1.41,0.161,17,automatic,ci,ci
 2022-03-17T09:36:35.522Z,62.8607,-143.6466,4.7,2,ml,,,,0.75,ak,ak0223huf2hu,2022-03-17T09:41:14.284Z,"9 km SE of Mentasta Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-17T09:18:44.460Z,35.8581657,-117.6999969,6.25,1.36,ml,22,71,0.07232,0.1,ci,ci39969967,2022-03-17T09:22:14.456Z,"21km ESE of Little Lake, CA",earthquake,0.25,0.72,0.169,5,automatic,ci,ci
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T06:34:19.292Z,64.5603,-149.3173,17,1.1,ml,,,,0.16,ak,ak0223hsmazt,2022-03-17T06:44:01.908Z,"10 km WSW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-17T06:30:12.274Z,69.6006,-144.3689,10.2,2.7,ml,,,,0.84,ak,ak0223hslgtm,2022-03-17T06:52:42.040Z,"65 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-17T06:27:03.420Z,38.831665,-122.8170013,1.44,0.82,md,23,52,0.009873,0.02,nc,nc73706671,2022-03-17T07:07:21.761Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.23,4,automatic,nc,nc
+2022-03-17T06:20:23.072Z,25.0234,-45.2489,10,4.7,mb,,145,17.139,1.07,us,us6000h5c2,2022-03-17T10:39:07.040Z,"northern Mid-Atlantic Ridge",earthquake,15.1,1.9,0.082,45,reviewed,us,us
 2022-03-17T06:07:03.580Z,38.8118324,-122.8284988,1.76,1.01,md,20,57,0.003007,0.03,nc,nc73706666,2022-03-17T06:14:10.566Z,"7km WNW of The Geysers, CA",earthquake,0.2,0.39,0.14,3,automatic,nc,nc
 2022-03-17T05:56:09.220Z,38.8043327,-122.807663,1.5,0.49,md,15,54,0.01032,0.02,nc,nc73706661,2022-03-17T06:07:10.383Z,"5km NW of The Geysers, CA",earthquake,0.24,0.56,0.35,2,automatic,nc,nc
 2022-03-17T05:35:15.565Z,36.13393784,-97.53929901,2.348222733,2.09,ml,61,20.82073975,0.09669910371,0.5475576258,ok,ok2022fhlu,2022-03-17T05:38:10.145Z,"8 km ESE of Marshall, Oklahoma",earthquake,1.394914992,1.271850485,,45,automatic,ok,ok
@@ -197,9 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T10:50:11.460Z,35.9376667,-117.2205,5.09,1.07,ml,20,92,0.06909,0.14,ci,ci39969239,2022-03-16T15:58:34.170Z,"24km NE of Trona, CA",earthquake,0.21,0.47,0.019,5,reviewed,ci,ci
 2022-03-16T10:48:10.386Z,40.0303,-119.5571,10.7,0.6,ml,3,270.17,0.223,0.0853,nn,nn00835479,2022-03-17T02:38:58.924Z,"9 km NNE of Sutcliffe, Nevada",earthquake,,13.5,0,1,reviewed,nn,nn
 2022-03-16T10:46:14.466Z,-23.4521,-179.8516,523.49,4.7,mb,,66,6.007,0.77,us,us6000h50g,2022-03-16T11:02:07.040Z,"south of the Fiji Islands",earthquake,11.4,8.1,0.035,247,reviewed,us,us
-2022-03-16T10:46:03.608Z,38.8775,-119.6498,0,0.8,ml,4,252.46,0.036,0.1017,nn,nn00835478,2022-03-17T02:38:58.004Z,"1 km NNW of Carter Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2022-03-16T10:40:01.479Z,61.1625,-152.2153,10.5,0.7,ml,,,,0.08,ak,ak0223g7hxxp,2022-03-16T10:48:59.153Z,"59 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-16T10:37:41.200Z,38.8278333,-122.855,2.37,0.58,md,28,61,0.001491,0.03,nc,nc71127444,2022-03-16T19:24:13.101Z,"10km WNW of The Geysers, CA",earthquake,0.17,0.37,0.13,4,reviewed,nc,nc
-2022-03-16T10:37:37.840Z,38.8545,-122.8036667,1.38,0.47,md,28,99,0.005107,0.05,nc,nc73706366,2022-03-16T19:03:13.974Z,"8km WNW of Cobb, CA",earthquake,0.16,0.23,0.342,5,reviewed,nc,nc
-2022-03-16T10:34:40.019Z,64.8666,-149.3756,15.6,0.9,ml,,,,0.28,ak,ak0223g7gqj1,2022-03-16T10:48:42.905Z,"31 km S of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-16T10:32:02.955Z,38.0932,-118.7474,9.1,1.3,ml,13,210.61,0.248,0.1286,nn,nn00835477,2022-03-17T02:38:56.794Z,"35 km E of Mono City, California",earthquake,,1.9,0.09,3,reviewed,nn,nn
