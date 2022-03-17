@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-17T17:22:02.820Z,34.8571667,-118.8995,10.88,1.46,ml,19,64,0.05591,0.19,ci,ci39970207,2022-03-17T17:25:42.526Z,"4km WNW of Lebec, CA",earthquake,0.32,0.66,0.265,26,automatic,ci,ci
-2022-03-17T17:16:17.480Z,33.6648333,-116.7181667,17.22,0.65,ml,18,78,0.04633,0.29,ci,ci39970199,2022-03-17T17:19:54.491Z,"8km S of Idyllwild, CA",earthquake,0.61,0.81,0.112,10,automatic,ci,ci
+2022-03-17T17:22:02.720Z,34.8555,-118.8951667,11.74,1.34,ml,25,64,0.05282,0.17,ci,ci39970207,2022-03-17T17:50:21.274Z,"3km WNW of Lebec, CA",earthquake,0.23,0.45,0.143,17,reviewed,ci,ci
+2022-03-17T17:16:17.670Z,33.6861667,-116.7068333,15.37,0.64,ml,19,117,0.02567,0.1,ci,ci39970199,2022-03-17T17:43:01.111Z,"6km S of Idyllwild, CA",earthquake,0.28,0.37,0.089,8,reviewed,ci,ci
 2022-03-17T17:14:38.780Z,19.521333694458,-155.65983581543,0.850000023841858,2.38,ml,31,42,,0.219999999,hv,hv72953582,2022-03-17T17:20:10.070Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,1.02999997,3.47,11,automatic,hv,hv
 2022-03-17T17:02:54.420Z,38.277,-108.9185,1.55,2.01,md,7,118,0.04219,0.08,uu,uu60486042,2022-03-17T17:19:39.560Z,"29 km E of La Sal, Utah",earthquake,0.7,7.89,0.083,3,reviewed,uu,uu
-2022-03-17T16:57:53.490Z,42.382666666666665,-122.81133333333334,-0.87,2.4,md,6,129,0.03459,0.06,uw,uw61822901,2022-03-17T17:30:58.820Z,"7 km SSE of White City, Oregon",explosion,0.45,31.61,0.5101621222834076,3,reviewed,uw,uw
+2022-03-17T16:57:53.490Z,42.382666666666665,-122.81133333333334,-0.87,2.4,md,6,129,0.03459,0.06,uw,uw61822901,2022-03-17T17:44:15.247Z,"7 km SSE of White City, Oregon",explosion,0.45,31.61,0.5101621222834076,3,reviewed,uw,uw
 2022-03-17T16:51:57.984Z,63.0538,-150.5946,105.9,1.5,ml,,,,1,ak,ak0223hyod7a,2022-03-17T17:01:58.567Z,"62 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-17T16:47:59.108Z,63.2796,-150.4204,126.7,1.1,ml,,,,0.48,ak,ak0223hyniga,2022-03-17T17:01:06.412Z,"71 km ESE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-03-17T16:44:15.440Z,38.8241653,-122.7978363,2.15,1.27,md,27,33,0.00959,0.04,nc,nc73706826,2022-03-17T17:03:13.690Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.2,5,automatic,nc,nc
@@ -43,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T12:24:22.620Z,38.8178329,-122.8099976,3.2,1.63,md,31,53,0.005554,0.03,nc,nc73706736,2022-03-17T13:51:17.390Z,"6km NW of The Geysers, CA",earthquake,0.21,0.36,0.07,9,automatic,nc,nc
 2022-03-17T12:24:07.540Z,38.8301659,-122.8183365,2.02,1.3,md,26,48,0.009347,0.02,nc,nc73706731,2022-03-17T13:25:11.210Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.12,6,automatic,nc,nc
 2022-03-17T12:11:57.140Z,38.7876663,-122.7689972,2.28,0.83,md,17,80,0.01484,0.02,nc,nc73706726,2022-03-17T12:58:18.029Z,"2km NW of The Geysers, CA",earthquake,0.28,0.57,0.29,4,automatic,nc,nc
+2022-03-17T12:03:40.369Z,37.1877,-117.8628,0,1.1,ml,12,122.28,0.179,0.1601,nn,nn00835499,2022-03-17T17:42:54.109Z,"37 km E of Big Pine, California",earthquake,,0,0.97,3,reviewed,nn,nn
 2022-03-17T12:00:30.080Z,36.0233333,-117.7706667,2.16,0.2,ml,10,64,0.004766,0.08,ci,ci39969999,2022-03-17T15:51:01.839Z,"16km NE of Little Lake, CA",earthquake,0.17,0.18,0.167,2,reviewed,ci,ci
 2022-03-17T12:00:11.490Z,38.7868347,-122.7679977,3.33,0.34,md,9,100,0.01522,0.01,nc,nc73706721,2022-03-17T12:32:10.849Z,"2km NW of The Geysers, CA",earthquake,0.37,1.01,0.28,3,automatic,nc,nc
 2022-03-17T11:59:35.747Z,61.8903,-149.2077,18.4,1.4,ml,,,,0.55,ak,ak0223hvqv6u,2022-03-17T12:02:26.976Z,"16 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
