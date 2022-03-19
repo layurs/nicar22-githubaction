@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-19T09:15:03.270Z,33.9106667,-116.7465,17.3,0.91,ml,24,54,0.03141,0.2,ci,ci39972063,2022-03-19T09:18:40.008Z,"4km ESE of Cabazon, CA",earthquake,0.41,0.86,0.254,27,automatic,ci,ci
-2022-03-19T08:54:45.640Z,36.4961662,-120.9020004,14.64,1.1,md,9,125,0.1322,0.19,nc,nc73707626,2022-03-19T09:04:10.245Z,"22km E of Pinnacles, CA",earthquake,0.82,2.06,0.08,5,automatic,nc,nc
+2022-03-19T08:54:45.640Z,36.4961662,-120.9020004,14.64,1.1,md,9,125,0.1322,0.19,nc,nc73707626,2022-03-19T09:20:13.354Z,"22km E of Pinnacles, CA",earthquake,0.82,2.06,0.08,5,automatic,nc,nc
 2022-03-19T08:49:43.400Z,19.1813335418701,-155.48616027832,34.2900009155273,1.94000006,md,41,129,,0.129999995,hv,hv72955437,2022-03-19T08:53:01.610Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.7,0.75999999,0.879999995,7,automatic,hv,hv
 2022-03-19T08:47:41.210Z,32.9458333,-115.5308333,5.23,1.34,ml,15,85,0.05088,0.19,ci,ci39972055,2022-03-19T08:51:12.267Z,"4km S of Brawley, CA",earthquake,0.42,0.75,0.263,17,automatic,ci,ci
 2022-03-19T08:45:49.440Z,32.9393333,-115.5306667,2.28,1.19,ml,8,125,0.04543,0.24,ci,ci39972047,2022-03-19T08:49:25.844Z,"4km S of Brawley, CA",earthquake,0.62,1.19,0.096,8,automatic,ci,ci
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T06:22:21.797Z,37.5957,72.3196,192.84,4.2,mb,,112,1.466,0.58,us,us6000h5z3,2022-03-19T06:51:42.040Z,"68 km E of Khorugh, Tajikistan",earthquake,8.4,8.1,0.124,18,reviewed,us,us
 2022-03-19T06:17:42.430Z,57.8009,-156.1218,110.6,2.2,ml,,,,0.13,ak,ak0223l3lelf,2022-03-19T06:21:09.884Z,"82 km ENE of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-19T06:11:35.866Z,38.197,-117.8797,3.3,1.9,ml,16,108.64,0.32,0.298,nn,nn00835642,2022-03-19T06:15:28.657Z,"Nevada",earthquake,,1,0.18,9,automatic,nn,nn
-2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T08:40:11.109Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
+2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T09:24:12.386Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
 2022-03-19T06:00:58.480Z,36.9695015,-121.6324997,4.44,2.23,md,44,39,0.04283,0.18,nc,nc73707551,2022-03-19T09:09:14.441Z,"7km SW of Gilroy, CA",earthquake,0.26,0.51,0.17,40,automatic,nc,nc
 2022-03-19T05:58:50.040Z,37.4731674,-118.9980011,4.13,1.77,md,13,167,0.1406,0.02,nc,nc73707546,2022-03-19T06:25:13.326Z,"18km S of Mammoth Lakes, CA",earthquake,0.61,2.04,0.12,12,automatic,nc,nc
 2022-03-19T05:58:02.430Z,17.9366666666667,-67.0213333333333,9.71,2.17,md,3,236,,0.02,pr,pr71340828,2022-03-19T06:15:44.940Z,"5 km SSE of La Parguera, Puerto Rico",earthquake,2.61,0.9,0.114856619740067,3,reviewed,pr,pr
@@ -270,7 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T09:44:43.390Z,19.202,-155.3975,30.66,3.28,ml,56,159,,0.12,hv,hv72954502,2022-03-18T18:05:18.463Z,"8 km E of Pāhala, Hawaii",earthquake,0.47,0.56,0.178932272660203,40,reviewed,hv,hv
 2022-03-18T09:40:53.850Z,17.916,-66.96,12.12,1.95,md,5,237,,0.06,pr,pr71340683,2022-03-18T09:48:55.130Z,"8 km SW of Guánica, Puerto Rico",earthquake,1.54,0.48,0.126218550981149,4,reviewed,pr,pr
 2022-03-18T09:38:41.480Z,59.3835,-151.2217,20,1.6,ml,,,,0.81,ak,ak0223jhyuvo,2022-03-18T09:40:47.198Z,"23 km S of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-18T09:27:15.930Z,36.0988333,-117.8936667,5.25,2.24,ml,45,50,0.03657,0.15,ci,ci39970959,2022-03-18T18:17:50.130Z,"8km NE of Coso Junction, CA",earthquake,0.12,0.3,0.181,24,reviewed,ci,ci
-2022-03-18T09:25:45.553Z,38.5202,-119.5264,5.3,1.1,ml,15,76.16,0.066,0.0995,nn,nn00835589,2022-03-19T02:39:03.643Z,"4 km W of Walker, California",earthquake,,1.1,0.23,6,reviewed,nn,nn
-2022-03-18T09:23:48.290Z,36.096,-117.8988333,4.61,1.34,ml,29,61,0.04161,0.14,ci,ci39970951,2022-03-18T18:05:22.330Z,"7km NE of Coso Junction, CA",earthquake,0.15,0.27,0.152,15,reviewed,ci,ci
-2022-03-18T09:21:45.630Z,38.8165016,-122.7594986,1.86,0.85,md,7,118,0.01615,0.01,nc,nc73707141,2022-03-18T09:45:15.940Z,"3km W of Cobb, CA",earthquake,0.49,1.2,,1,automatic,nc,nc
