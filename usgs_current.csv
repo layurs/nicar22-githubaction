@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-20T23:32:31.290Z,38.8230019,-122.7651672,1.97,1.5,md,13,120,0.01554,0.02,nc,nc73708216,2022-03-20T23:34:05.539Z,"4km W of Cobb, CA",earthquake,0.35,0.66,0.44,2,automatic,nc,nc
-2022-03-20T23:31:48.580Z,33.1131668,-115.5983353,10.83,3.21,ml,77,57,0.01719,0.25,ci,ci39973183,2022-03-20T23:36:09.697Z,"8km W of Calipatria, CA",earthquake,0.21,0.38,0.329,19,automatic,ci,ci
+2022-03-20T23:40:58.140Z,38.8106651,-122.7928314,3.05,0.83,md,8,110,0.003314,0.02,nc,nc73708221,2022-03-20T23:42:35.660Z,"5km NW of The Geysers, CA",earthquake,0.49,1.14,,1,automatic,nc,nc
+2022-03-20T23:32:31.290Z,38.8230019,-122.7651672,1.97,1.5,md,13,120,0.01554,0.02,nc,nc73708216,2022-03-20T23:49:16.313Z,"4km W of Cobb, CA",earthquake,0.35,0.66,0.44,2,automatic,nc,nc
+2022-03-20T23:31:48.580Z,33.1131668,-115.5983353,10.83,3.21,ml,77,57,0.01719,0.25,ci,ci39973183,2022-03-20T23:46:17.368Z,"8km W of Calipatria, CA",earthquake,0.21,0.38,0.329,19,automatic,ci,ci
 2022-03-20T23:18:03.800Z,18.02,-66.7706666666667,13.34,2.68,md,6,179,,0.21,pr,pr71340988,2022-03-20T23:28:54.040Z,"0 km NNW of Magas Arriba, Puerto Rico",earthquake,0.74,1.05,0.136234219820779,2,reviewed,pr,pr
 2022-03-20T23:15:12.081Z,38.192,-117.7477,3.7,2.7,ml,19,95.5,0.175,0.3135,nn,nn00835709,2022-03-20T23:20:53.464Z,"38 km SE of Mina, Nevada",earthquake,,1.1,0.24,13,automatic,nn,nn
 2022-03-20T23:11:10.530Z,60.6866,-144.2754,18.8,1.8,ml,,,,1.15,ak,ak0223n17rkm,2022-03-20T23:30:48.296Z,"82 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T17:47:36.140Z,60.0151,-141.1054,2.1,2.3,ml,,,,0.78,ak,ak0223mxuxt8,2022-03-20T18:00:27.433Z,"93 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-20T17:47:04.938Z,60.2537,-152.1814,81.2,1.6,ml,,,,0.58,ak,ak0223mxuvd5,2022-03-20T17:58:25.854Z,"36 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-20T17:44:48.500Z,38.8154984,-122.7949982,2.34,0.89,md,25,38,0.007523,0.04,nc,nc73708121,2022-03-20T18:11:22.459Z,"5km NW of The Geysers, CA",earthquake,0.21,0.43,0.14,4,automatic,nc,nc
-2022-03-20T17:29:33.380Z,19.858,-155.567333333333,23.41,4.54,ml,56,117,,0.11,hv,hv72956917,2022-03-20T23:33:17.500Z,"21 km SSE of Waimea, Hawaii",earthquake,0.43,0.85,0.172792073498313,43,reviewed,hv,hv
+2022-03-20T17:29:33.380Z,19.858,-155.567333333333,23.41,4.54,ml,56,117,,0.11,hv,hv72956917,2022-03-20T23:48:58.330Z,"21 km SSE of Waimea, Hawaii",earthquake,0.43,0.85,0.172792073498313,43,reviewed,hv,hv
 2022-03-20T17:13:21.520Z,35.9111667,-117.676,7.49,0.98,ml,13,79,0.04214,0.17,ci,ci39973047,2022-03-20T17:17:02.453Z,"21km E of Little Lake, CA",earthquake,0.4,0.9,0.096,12,automatic,ci,ci
 2022-03-20T17:07:54.934Z,60.2616,-150.3161,35.1,1.8,ml,,,,0.54,ak,ak0223mxmejp,2022-03-20T17:09:57.186Z,"36 km SE of Funny River, Alaska",earthquake,,6.5,,,automatic,ak,ak
 2022-03-20T17:04:52.480Z,38.8308334,-122.802002,0.66,0.36,md,8,77,0.009743,0.03,nc,nc73708111,2022-03-20T18:01:16.409Z,"7km W of Cobb, CA",earthquake,0.41,0.82,,1,automatic,nc,nc
@@ -186,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T00:01:55.559Z,62.0289,-149.0975,41.8,1.7,ml,,,,0.51,ak,ak0223mngr0j,2022-03-20T00:04:12.329Z,"32 km NNE of Fishhook, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-03-20T00:00:15.601Z,37.5191,-97.7384,2.35,3.5,mb_lg,,50,0.365,0.25,us,us6000h63l,2022-03-20T03:44:46.822Z,"9 km WNW of Viola, Kansas",earthquake,1.8,7.5,0.041,153,reviewed,us,us
 2022-03-19T23:53:49.540Z,39.4653,143.4607,10.2,4.6,mb,,146,2.263,0.53,us,us6000h63k,2022-03-20T00:14:46.040Z,"130 km E of Yamada, Japan",earthquake,6.5,5.1,0.073,57,reviewed,us,us
-2022-03-19T23:46:11.230Z,38.5215,-119.5418333,-0.77,2.26,md,14,72,0.04915,0.09,nc,nc73707946,2022-03-20T18:58:14.551Z,"6km W of Walker, CA",earthquake,0.19,0.51,0.26,27,reviewed,nc,nc
-2022-03-19T23:42:05.440Z,33.7008333,-116.7605,15.97,0.83,ml,19,71,0.03998,0.23,ci,ci39972591,2022-03-20T13:35:04.524Z,"6km SW of Idyllwild, CA",earthquake,0.59,0.69,0.162,14,reviewed,ci,ci
