@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T15:50:42.810Z,34.8386667,-118.8798333,6.52,1.5,ml,26,49,0.03253,0.2,ci,ci39975351,2022-03-23T15:54:35.115Z,"1km WSW of Lebec, CA",earthquake,0.38,0.51,0.19,23,automatic,ci,ci
 2022-03-23T15:27:10.006Z,61.8921,-151.3667,70.6,1.9,ml,,,,0.67,ak,ak0223rv5roa,2022-03-23T15:31:39.620Z,"11 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-23T15:11:09.970Z,19.2056674957275,-155.473831176758,32.5,2.1500001,md,40,144,,0.129999995,hv,hv72960022,2022-03-23T15:14:21.660Z,"0 km ENE of Pāhala, Hawaii",earthquake,0.67,0.910000026,1.02999997,12,automatic,hv,hv
 2022-03-23T14:55:17.443Z,61.8844,-149.2831,5.8,1.7,ml,,,,0.67,ak,ak0223ruqcow,2022-03-23T14:57:24.774Z,"15 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -120,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T02:19:45.650Z,35.9151667,-117.7055,8.89,0.77,ml,16,62,0.05539,0.14,ci,ci39974991,2022-03-23T02:23:27.249Z,"18km E of Little Lake, CA",earthquake,0.37,0.67,0.16,10,automatic,ci,ci
 2022-03-23T02:18:15.130Z,17.8485,-66.863,6.58,1.54,md,4,254,,0.12,pr,pr71341518,2022-03-23T03:59:03.900Z,"14 km SSE of Guánica, Puerto Rico",earthquake,1.09,0.46,0.0877505116895372,4,reviewed,pr,pr
 2022-03-23T01:59:58.791Z,61.8781,-151.1067,64.1,1.9,ml,,,,0.67,ak,ak0223rn0nvy,2022-03-23T02:27:53.031Z,"19 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-23T01:58:44.790Z,34.2956667,-118.4243333,4.17,2.6,ml,63,42,0.04748,0.25,ci,ci39974975,2022-03-23T12:21:41.249Z,"2km NE of San Fernando, CA",earthquake,0.24,0.8,0.195,27,automatic,ci,ci
+2022-03-23T01:58:44.750Z,34.291,-118.4318333,7.47,2.61,ml,97,26,0.04028,0.22,ci,ci39974975,2022-03-23T15:54:56.100Z,"1km ENE of San Fernando, CA",earthquake,0.12,0.3,0.19,27,reviewed,ci,ci
 2022-03-23T01:55:54.199Z,23.385,121.5934,10,4.5,mb,,98,0.272,0.77,us,us6000h6v1,2022-03-23T05:27:33.118Z,"65 km S of Hualien City, Taiwan",earthquake,2.5,1.5,0.135,16,reviewed,us,us
 2022-03-23T01:54:31.081Z,-14.1429,-14.2239,10,5.1,mb,,53,6.173,0.56,us,us6000h6v0,2022-03-23T02:16:03.040Z,"southern Mid-Atlantic Ridge",earthquake,8.6,1.8,0.058,98,reviewed,us,us
 2022-03-23T01:41:58.980Z,17.9681666666667,-66.9615,10.8,2.46,md,14,187,,0.19,pr,pr71341513,2022-03-23T03:20:54.280Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.49,0.72,0.170535164758914,8,reviewed,pr,pr
@@ -251,9 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T16:18:28.030Z,38.771,-122.7111667,1.98,1.7,md,41,93,0.008292,0.05,nc,nc73708831,2022-03-22T21:12:16.391Z,"2km WSW of Anderson Springs, CA",earthquake,0.17,0.21,0.085,14,reviewed,nc,nc
 2022-03-22T16:15:03.140Z,18.6646666666667,-66.7483333333333,66.14,2.93,md,23,216,,0.21,pr,pr71341388,2022-03-22T16:45:32.725Z,"20 km NNE of Carrizales, Puerto Rico",earthquake,0.83,0.68,0.0210418750422172,11,reviewed,pr,pr
 2022-03-22T16:14:09.201Z,62.9953,-149.4056,73.1,2,ml,,,,0.77,ak,ak0223q852ex,2022-03-22T16:23:12.103Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-22T15:55:04.990Z,17.9646666666667,-67.0085,11.49,1.22,md,3,317,,0.02,pr,pr71341443,2022-03-22T20:46:08.890Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,1.14,31.61,0.037716628679791,3,reviewed,pr,pr
-2022-03-22T15:51:41.490Z,38.840168,-122.8068314,2.29,0.85,md,8,92,0.013,0.01,nc,nc73708826,2022-03-22T15:53:16.277Z,"8km WNW of Cobb, CA",earthquake,0.45,1.1,,1,automatic,nc,nc
-2022-03-22T15:50:41.009Z,36.3516,-116.3203,8.2,1.7,ml,26,80.19,0.106,0.1589,nn,nn00835766,2022-03-23T00:35:38.715Z,"34 km WNW of Pahrump, Nevada",earthquake,,1.9,0.37,14,reviewed,nn,nn
-2022-03-22T15:48:45.140Z,38.8416672,-122.878334,2.13,0.86,md,13,93,0.005273,0.03,nc,nc73708821,2022-03-22T15:50:21.367Z,"13km ENE of Cloverdale, CA",earthquake,0.36,0.45,0.02,2,automatic,nc,nc
-2022-03-22T15:46:53.730Z,38.8411667,-122.8791667,2.76,0.04,md,16,93,0.004455,0.03,nc,nc71127494,2022-03-22T18:48:18.247Z,"13km ENE of Cloverdale, CA",earthquake,0.3,0.27,0.01,2,reviewed,nc,nc
-2022-03-22T15:46:39.880Z,38.8211667,-122.764,2.56,0.47,md,15,115,0.01038,0.03,nc,nc73708816,2022-03-22T21:03:33.332Z,"4km W of Cobb, CA",earthquake,0.42,0.35,0.099,2,reviewed,nc,nc
