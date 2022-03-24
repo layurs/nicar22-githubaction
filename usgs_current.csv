@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-24T10:26:36.430Z,38.838501,-122.8078308,2.05,0.71,md,13,61,0.01366,0.02,nc,nc73709581,2022-03-24T10:28:13.017Z,"8km WNW of Cobb, CA",earthquake,0.29,0.6,0.14,2,automatic,nc,nc
+2022-03-24T10:26:36.430Z,38.838501,-122.8078308,2.05,0.71,md,13,61,0.01366,0.02,nc,nc73709581,2022-03-24T10:44:14.543Z,"8km WNW of Cobb, CA",earthquake,0.29,0.6,0.14,2,automatic,nc,nc
 2022-03-24T10:13:52.490Z,33.0125,-116.3595,7.17,0.81,ml,20,70,0.07456,0.2,ci,ci39976495,2022-03-24T10:17:20.079Z,"24km ESE of Julian, CA",earthquake,0.34,0.79,0.173,12,automatic,ci,ci
 2022-03-24T10:11:50.740Z,32.6685,-117.1266667,8.14,0.89,ml,9,257,0.1692,0.17,ci,ci39976487,2022-03-24T10:15:33.207Z,"3km WSW of National City, CA",earthquake,0.88,2.41,0.097,5,automatic,ci,ci
-2022-03-24T10:08:51.020Z,38.8364983,-122.8096695,1.96,1.2,md,28,36,0.01309,0.03,nc,nc73709576,2022-03-24T10:25:13.439Z,"8km WNW of Cobb, CA",earthquake,0.19,0.36,0.08,6,automatic,nc,nc
+2022-03-24T10:08:51.020Z,38.8364983,-122.8096695,1.96,1.2,md,28,36,0.01309,0.03,nc,nc73709576,2022-03-24T10:41:10.523Z,"8km WNW of Cobb, CA",earthquake,0.19,0.36,0.08,6,automatic,nc,nc
 2022-03-24T10:04:13.680Z,19.1844997406006,-155.45100402832,37.1300010681152,1.83000004,md,32,136,,0.100000001,hv,hv72960737,2022-03-24T10:07:26.490Z,"3 km SE of Pāhala, Hawaii",earthquake,0.58,0.769999981,1.10000002,7,automatic,hv,hv
 2022-03-24T10:02:31.422Z,61.014,-150.9828,0,1.9,ml,,,,0.71,ak,ak0223tfkmw6,2022-03-24T10:10:29.303Z,"10 km SE of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-24T09:50:57.621Z,55.5538,-158.8212,24.1,2.7,ml,,,,0.46,ak,ak0223tf9joi,2022-03-24T10:10:27.588Z,"44 km SSE of Perryville, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T22:20:37.500Z,17.8045,-66.8816666666667,7.48,2.82,md,26,237,,0.19,pr,pr71341638,2022-03-23T22:47:54.830Z,"18 km S of Guánica, Puerto Rico",earthquake,0.89,1.32,0.157250342617708,14,reviewed,pr,pr
 2022-03-23T22:20:27.270Z,38.8411674,-122.878334,2.6,1.09,md,15,139,0.004962,0.02,nc,nc73709421,2022-03-23T22:22:00.859Z,"13km ENE of Cloverdale, CA",earthquake,0.28,0.55,0.17,4,automatic,nc,nc
 2022-03-23T22:05:29.630Z,35.9921667,-117.2948333,3.16,1.13,ml,14,155,0.1014,0.1,ci,ci39975991,2022-03-23T23:16:54.710Z,"26km NNE of Trona, CA",earthquake,0.27,0.67,0.119,7,reviewed,ci,ci
-2022-03-23T21:57:00.438Z,-15.1542,167.3908,115.69,6,mww,,25,0.342,1.22,us,us7000gwpw,2022-03-24T02:18:09.974Z,"36 km ESE of Port-Olry, Vanuatu",earthquake,8.5,1,0.039,63,reviewed,us,us
+2022-03-23T21:57:00.438Z,-15.1542,167.3908,115.69,6,mww,,25,0.342,1.22,us,us7000gwpw,2022-03-24T10:39:17.015Z,"36 km ESE of Port-Olry, Vanuatu",earthquake,8.5,1,0.039,63,reviewed,us,us
 2022-03-23T21:54:05.836Z,51.9864,178.3815,5.7,1.2,ml,,,,0.24,ak,ak0223ryw4yw,2022-03-24T00:34:15.245Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,4.7,,,reviewed,ak,ak
 2022-03-23T21:48:34.620Z,33.2231667,-116.7373333,12.2,0.59,ml,23,56,0.07921,0.15,ci,ci39975927,2022-03-23T23:13:18.657Z,"3km SE of Lake Henshaw, CA",earthquake,0.23,0.62,0.135,8,reviewed,ci,ci
 2022-03-23T21:33:11.240Z,33.4345,-116.62,6.09,1.1,ml,46,39,0.06186,0.13,ci,ci39975895,2022-03-23T23:07:38.360Z,"14km SSE of Anza, CA",earthquake,0.13,0.32,0.139,24,reviewed,ci,ci
@@ -232,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T11:02:42.520Z,35.6118333,-117.4633333,5.49,0.9,ml,17,112,0.02529,0.11,ci,ci39975135,2022-03-23T17:09:31.343Z,"18km SSW of Searles Valley, CA",earthquake,0.25,0.36,0.198,12,reviewed,ci,ci
 2022-03-23T11:01:35.110Z,18.9355,-64.0881,29,3.83,md,15,338,1.3455,0.31,pr,pr2022082000,2022-03-23T11:49:44.503Z,"100 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.83,21.38,0.04,9,reviewed,pr,pr
 2022-03-23T10:57:00.720Z,35.8818333,-117.6868333,5.08,0.08,ml,13,80,0.07226,0.08,ci,ci39975127,2022-03-23T17:06:25.508Z,"21km ESE of Little Lake, CA",earthquake,0.18,0.78,0.04,5,reviewed,ci,ci
-2022-03-23T10:42:20.100Z,33.8921667,-116.274,5.52,0.77,ml,22,87,0.09001,0.11,ci,ci39975119,2022-03-23T17:04:52.061Z,"13km NE of Thousand Palms, CA",earthquake,0.21,0.97,0.164,14,reviewed,ci,ci
-2022-03-23T10:37:49.290Z,40.3983333,-122.1945,27.34,1.82,md,19,40,0.1188,0.18,nc,nc73709236,2022-03-24T08:17:17.727Z,"10km ESE of Anderson, CA",earthquake,0.53,0.62,0.103,20,reviewed,nc,nc
