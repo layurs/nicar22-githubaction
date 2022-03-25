@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T20:10:13.670Z,39.1576653,-122.2858353,0.61,2.29,md,7,204,0.2907,0.07,nc,nc73710311,2022-03-25T21:48:11.151Z,"12km W of Williams, CA",earthquake,1.35,9.31,0.1,7,automatic,nc,nc
 2022-03-25T19:50:05.820Z,17.9003333333333,-66.9228333333333,11.08,2.17,md,4,272,,0.08,pr,pr71342018,2022-03-25T20:21:35.970Z,"8 km SSW of Guánica, Puerto Rico",earthquake,0.81,1.19,0.0516435835395268,2,reviewed,pr,pr
 2022-03-25T19:50:00.560Z,38.4207,-118.9124,3.6,0.9,ml,14,163.85,0.362,0.1614,nn,nn00836028,2022-03-25T20:22:42.342Z,"27 km WSW of Hawthorne, Nevada",earthquake,,5.7,0.35,3,reviewed,nn,nn
-2022-03-25T19:34:01.936Z,8.7831,-82.7762,10,4.4,mb,,136,0.088,1.05,us,us7000gxd2,2022-03-25T22:28:28.362Z,"5 km ESE of Monte Lirio, Panama",earthquake,5.8,1.9,0.115,22,reviewed,us,us
+2022-03-25T19:34:01.936Z,8.7831,-82.7762,10,4.4,mb,,136,0.088,1.05,us,us7000gxd2,2022-03-25T22:33:46.356Z,"5 km ESE of Monte Lirio, Panama",earthquake,5.8,1.9,0.115,22,reviewed,us,us
 2022-03-25T19:29:59.900Z,38.8341667,-122.8051667,2.24,1.72,md,31,53,0.01142,0.03,nc,nc71127519,2022-03-25T21:25:14.011Z,"7km W of Cobb, CA",earthquake,0.18,0.34,0.034,4,reviewed,nc,nc
 2022-03-25T19:29:54.780Z,38.833,-122.8051667,2.06,1.92,md,53,32,0.01033,0.02,nc,nc73710291,2022-03-25T22:13:10.278Z,"7km W of Cobb, CA",earthquake,0.11,0.21,0.096,4,reviewed,nc,nc
 2022-03-25T19:29:28.400Z,33.6888333,-117.0911667,1.17,0.87,ml,13,115,0.07207,0.19,ci,ci39978263,2022-03-25T19:33:10.422Z,"2km SSW of Winchester, CA",earthquake,0.53,0.78,0.111,17,automatic,ci,ci
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T16:36:05.980Z,35.6331667,-90.4231667,4.3,1.51,md,15,96,0.04067,0.46,nm,nm60378842,2022-03-25T18:27:16.960Z,"8 km WNW of Lepanto, Arkansas",earthquake,0.74,1.16,0.057,11,reviewed,nm,nm
 2022-03-25T16:32:05.758Z,-34.7587,-70.9373,108.92,4.1,mb,,80,0.132,0.33,us,us7000gx8t,2022-03-25T19:21:30.435Z,"10 km ESE of Chimbarongo, Chile",earthquake,4.8,7,0.371,2,reviewed,us,us
 2022-03-25T16:28:42.944Z,38.5517,97.296,10,5,mb,,37,14.689,0.73,us,us7000gx8v,2022-03-25T16:48:58.040Z,"147 km SSW of Laojunmiao, China",earthquake,10.4,1.9,0.045,159,reviewed,us,us
-2022-03-25T16:24:59.210Z,38.5216667,-119.5385,1.1,2.26,md,14,65,0.04658,0.06,nc,nc73710261,2022-03-25T21:32:10.059Z,"5km W of Walker, CA",earthquake,0.19,0.81,0.286,19,reviewed,nc,nc
+2022-03-25T16:24:59.210Z,38.5216667,-119.5385,1.1,2.26,md,14,65,0.04658,0.06,nc,nc73710261,2022-03-25T22:40:13.425Z,"5km W of Walker, CA",earthquake,0.19,0.81,0.286,19,reviewed,nc,nc
 2022-03-25T16:23:51.840Z,38.5188333,-119.5386667,0.1,2.65,md,18,69,0.04637,0.09,nc,nc73710256,2022-03-25T22:24:16.339Z,"5km W of Walker, CA",earthquake,0.2,0.96,0.23,59,reviewed,nc,nc
 2022-03-25T16:21:04.053Z,38.5457,97.2948,10,5.7,mww,,40,11.407,1.05,us,us7000gx8m,2022-03-25T18:25:35.525Z,"147 km SSW of Laojunmiao, China",earthquake,8.8,1.9,0.098,10,reviewed,us,us
 2022-03-25T16:19:07.690Z,36.8838333,-121.411,4.15,1.17,md,21,71,0.03322,0.12,nc,nc73710251,2022-03-25T21:43:13.121Z,"4km NNW of Hollister, CA",earthquake,0.38,0.78,0.248,15,reviewed,nc,nc
@@ -259,6 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T22:57:20.398Z,19.5461,-109.2395,10,4.2,mb,,233,4.171,0.3,us,us7000gx0k,2022-03-24T23:16:32.040Z,"Revilla Gigedo Islands region",earthquake,9.8,2,0.052,104,reviewed,us,us
 2022-03-24T22:52:03.100Z,17.9596666666667,-67.154,10.03,2.45,md,4,316,,0.11,pr,pr71341878,2022-03-24T23:25:50.780Z,"3 km ESE of Pole Ojea, Puerto Rico",earthquake,1.08,0.52,0.114846539429823,4,reviewed,pr,pr
 2022-03-24T22:47:25.260Z,46.72233333333333,-121.06833333333333,2.3,0.89,ml,18,128,0.1678,0.22,uw,uw61815982,2022-03-25T17:56:19.120Z,"14 km SW of Nile, Washington",earthquake,0.74,1.6,0.14571692714711348,7,reviewed,uw,uw
-2022-03-24T22:37:20.531Z,14.4872,119.2211,10,4.8,mb,,95,8.471,0.74,us,us7000gx0h,2022-03-24T23:09:53.040Z,"105 km WSW of San Nicolas, Philippines",earthquake,7.7,1.9,0.052,113,reviewed,us,us
-2022-03-24T22:37:07.003Z,37.387,-114.2379,8.5,1,ml,7,120.33,0.312,0.0815,nn,nn00835999,2022-03-25T02:40:18.919Z,"35 km SE of Caliente, Nevada",earthquake,,4.3,0.33,4,reviewed,nn,nn
-2022-03-24T22:32:35.970Z,19.1588325500488,-155.474502563477,32.6699981689453,1.89999998,md,25,210,,0.180000007,hv,hv72961197,2022-03-24T22:35:39.590Z,"4 km S of Pāhala, Hawaii",earthquake,1.06,1.37,0.540000021,5,automatic,hv,hv
