@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T20:50:31.020Z,17.9476666666667,-66.8773333333333,14.71,2.17,md,10,213,,0.19,pr,pr71342158,2022-03-26T20:59:21.050Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.82,0.7,0.0806538274335333,8,reviewed,pr,pr
 2022-03-26T20:43:50.450Z,36.027832,-120.591835,3.33,1.34,md,20,116,0.04104,0.06,nc,nc73710776,2022-03-26T21:02:14.540Z,"20km NW of Parkfield, CA",earthquake,0.29,0.6,0.2,10,automatic,nc,nc
 2022-03-26T20:33:57.631Z,61.3425,-149.8914,33.7,1.4,ml,,,,0.75,ak,ak0223wwsd5e,2022-03-26T20:52:36.692Z,"5 km ESE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-26T20:32:40.771Z,61.6491,-150.8452,61.7,1.3,ml,,,,0.59,ak,ak0223wws44t,2022-03-26T20:34:39.847Z,"21 km WNW of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-03-26T20:32:40.771Z,61.6491,-150.8452,61.7,1.3,ml,,,,0.59,ak,ak0223wws44t,2022-03-26T20:34:39.847Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-26T20:27:06.150Z,34.0666667,-118.2788333,0.39,1.4,ml,10,154,0.05435,0.39,ci,ci39979263,2022-03-26T20:30:53.838Z,"1km N of MacArthur Park, CA",earthquake,1.72,31.61,0.327,17,automatic,ci,ci
 2022-03-26T20:10:41.010Z,19.3658332824707,-155.058166503906,7.92000007629395,3.14,ml,42,166,,0.239999995,hv,hv72963027,2022-03-26T21:02:00.767Z,"13 km SE of Fern Forest, Hawaii",earthquake,0.69,0.419999987,3.18,33,automatic,hv,hv
 2022-03-26T20:06:05.421Z,61.1131,-150.2028,37.1,1.8,ml,,,,0.64,ak,ak0223wwmgr4,2022-03-26T20:17:29.982Z,"20 km SW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T17:06:30.820Z,38.7901649,-122.7259979,1.58,0.46,md,8,94,0.01087,0.01,nc,nc73710671,2022-03-26T17:30:14.294Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.72,0.08,2,automatic,nc,nc
 2022-03-26T16:43:51.370Z,38.8231667,-122.7678333,2.38,0.38,md,16,102,0.007472,0.03,nc,nc73710661,2022-03-26T19:08:12.809Z,"4km W of Cobb, CA",earthquake,0.35,0.38,0.184,3,reviewed,nc,nc
 2022-03-26T16:42:37.710Z,34.0155,-117.5831667,2.91,1.49,ml,48,39,0.02094,0.19,ci,ci39979071,2022-03-26T16:53:20.660Z,"6km SE of Ontario, CA",earthquake,0.21,0.34,0.224,30,automatic,ci,ci
-2022-03-26T16:26:31.630Z,39.4381667,-123.1288333,8.69,1.16,md,6,197,0.06453,0.03,nc,nc71127524,2022-03-26T20:13:13.222Z,"15km WNW of Lake Pillsbury, CA",earthquake,0.47,0.93,0.498,6,reviewed,nc,nc
+2022-03-26T16:26:31.630Z,39.4381667,-123.1288333,8.69,1.16,md,6,197,0.06453,0.03,nc,nc71127524,2022-03-26T22:01:10.910Z,"15km WNW of Lake Pillsbury, CA",earthquake,0.47,0.93,0.498,6,reviewed,nc,nc
 2022-03-26T16:26:13.920Z,38.7946667,-122.767,3.02,-0.07,md,17,71,0.008236,0.02,nc,nc73710656,2022-03-26T19:40:03.314Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.34,0.047,4,reviewed,nc,nc
 2022-03-26T16:19:10.180Z,38.810833,-122.822998,2.12,0.9,md,23,59,0.005212,0.03,nc,nc73710651,2022-03-26T16:37:12.988Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.41,0.21,4,automatic,nc,nc
 2022-03-26T16:12:42.505Z,61.3814,-145.9464,34.1,1.8,ml,,,,0.64,ak,ak0223wua3i0,2022-03-26T16:32:24.389Z,"35 km NE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -208,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T22:26:08.170Z,46.49216666666667,-122.98783333333333,-0.32,1.69,ml,12,79,0.1061,0.49,uw,uw61816392,2022-03-26T00:38:22.840Z,"3 km W of Winlock, Washington",explosion,1.49,31.61,0.11222135515550147,8,reviewed,uw,uw
 2022-03-25T22:15:10.920Z,58.2685,-154.999833333333,3.18,-0.06,ml,9,128,,0.17,av,av91523021,2022-03-26T02:03:31.860Z,"84 km NNW of Karluk, Alaska",earthquake,0.33,0.87,0.255979587628692,9,reviewed,av,av
 2022-03-25T22:13:13.140Z,58.4431666666667,-154.511,2.7,0.19,ml,5,265,,0.19,av,av91052873,2022-03-26T02:52:35.850Z,"97 km N of Karluk, Alaska",earthquake,1.05,0.69,0.120140191564129,5,reviewed,av,av
-2022-03-25T22:01:12.062Z,61.0428,-150.2925,34.4,1.8,ml,,,,1.1,ak,ak0223va8xfw,2022-03-25T22:07:09.379Z,"25 km ENE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-25T21:54:30.080Z,34.0536667,-117.2615,15.52,0.75,ml,14,168,0.1121,0.13,ci,ci39978575,2022-03-26T00:25:01.649Z,"1km N of Loma Linda, CA",earthquake,0.45,0.56,0.153,9,reviewed,ci,ci
-2022-03-25T21:52:43.790Z,38.5451667,-119.527,4.61,2.22,md,15,54,0.04109,0.07,nc,nc73710366,2022-03-26T07:46:13.665Z,"5km NW of Walker, CA",earthquake,0.22,0.41,0.166,23,reviewed,nc,nc
