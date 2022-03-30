@@ -73,6 +73,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T06:58:52.630Z,38.8171654,-122.8083344,3.28,0.84,md,19,66,0.006367,0.01,nc,nc73712226,2022-03-30T07:16:15.980Z,"6km NW of The Geysers, CA",earthquake,0.26,0.94,,1,automatic,nc,nc
 2022-03-30T06:44:57.340Z,36.5643333,-121.0848333,10.83,1.13,md,19,122,0.03908,0.12,nc,nc73712221,2022-03-30T09:53:22.956Z,"6km NE of Pinnacles, CA",earthquake,0.33,0.5,0.127,15,reviewed,nc,nc
 2022-03-30T06:36:02.246Z,38.0076,-117.9481,0,1.3,ml,10,166.95,0.194,0.2509,nn,nn00836303,2022-03-30T06:39:56.937Z,"39 km NNE of Dyer, Nevada",earthquake,,12.9,0.53,5,automatic,nn,nn
+2022-03-30T06:34:19.800Z,47.5823333,-113.7075,15.06,-0.18,md,6,192,0.21,0.07,mb,mb80541804,2022-03-30T15:53:42.350Z,"6 km N of Condon, Montana",earthquake,0.51,1.69,0.01,3,reviewed,mb,mb
+2022-03-30T06:25:41.490Z,48.0726667,-114.2525,13.65,-0.48,md,7,263,0.265,0.13,mb,mb80541799,2022-03-30T15:50:08.730Z,"2 km WSW of Somers, Montana",earthquake,1.79,1.03,,1,reviewed,mb,mb
 2022-03-30T06:23:42.930Z,19.1781666666667,-155.507,36.24,3.4,ml,52,100,,0.1,hv,hv72967212,2022-03-30T08:58:48.392Z,"4 km SW of Pāhala, Hawaii",earthquake,0.52,0.62,0.168907133699963,38,reviewed,hv,hv
 2022-03-30T06:19:59.250Z,34.6733333,-85.1028333,10.62,2.04,md,13,107,0.07195,0.11,se,se60148443,2022-03-30T13:01:46.750Z,"16 km SW of Dalton, Georgia",earthquake,0.38,0.9,0.145,12,reviewed,se,se
 2022-03-30T06:18:16.280Z,19.2220001220703,-155.401672363281,32.439998626709,2.00999999,md,43,145,,0.129999995,hv,hv72967207,2022-03-30T06:36:16.707Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.49,0.689999998,1.23000002,15,automatic,hv,hv
@@ -107,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T04:12:04.770Z,38.8144989,-122.795166,2.68,0.5,md,15,56,0.006522,0.02,nc,nc73712181,2022-03-30T06:22:15.650Z,"5km NW of The Geysers, CA",earthquake,0.31,0.77,0.35,2,automatic,nc,nc
 2022-03-30T04:08:02.614Z,37.1422,-116.2156,0,1,ml,10,100.57,0.096,0.4407,nn,nn00836288,2022-03-30T04:11:20.069Z,"54 km ENE of Beatty, Nevada",earthquake,,7.1,0.71,7,automatic,nn,nn
 2022-03-30T04:06:41.910Z,19.1585006713867,-155.470336914062,32.060001373291,1.83000004,md,32,210,,0.119999997,hv,hv72966987,2022-03-30T04:10:02.250Z,"4 km S of Pāhala, Hawaii",earthquake,0.8,0.949999988,1.83000004,4,automatic,hv,hv
-2022-03-30T04:03:26.082Z,61.054,-148.3717,0,0.9,ml,,,,0.57,ak,ak0224398bnl,2022-03-30T04:21:51.795Z,"35 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-30T04:03:26.082Z,61.054,-148.3717,0,0.9,ml,,,,0.57,ak,ak0224398bnl,2022-03-30T15:55:29.344Z,"35 km NNE of Whittier, Alaska",ice quake,,0.6,,,automatic,ak,ak
 2022-03-30T03:57:03.352Z,58.9358,-153.9769,99,2.2,ml,,,,0.57,ak,ak022438yeu2,2022-03-30T04:08:45.943Z,"72 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-30T03:52:33.120Z,27.1791,103.1198,33.19,4.5,mb,,117,6.391,0.56,us,us7000gyah,2022-03-30T04:31:13.040Z,"61 km WSW of Zhaotong, China",earthquake,10.5,6.7,0.11,24,reviewed,us,us
 2022-03-30T03:21:42.608Z,0.0184,124.4623,70.92,4.5,mb,,67,1.991,0.67,us,us7000gya8,2022-03-30T03:32:55.040Z,"148 km SSW of Tomohon, Indonesia",earthquake,8.6,7.8,0.144,14,reviewed,us,us
@@ -265,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T16:02:14.490Z,36.34033333,-97.4145,6.04,1.81,ml,33,56,0.02789452614,0.22,ok,ok2022geen,2022-03-30T13:33:30.826Z,"8 km NNE of Lucien, Oklahoma",earthquake,,0.5,0.12,4,reviewed,ok,ok
 2022-03-29T16:00:43.135Z,38.286,141.9988,35,4.4,mb,,188,2.602,0.66,us,us7000gy57,2022-03-29T16:58:52.040Z,"62 km ESE of Ishinomaki, Japan",earthquake,5.9,1.9,0.12,22,reviewed,us,us
 2022-03-29T15:59:08.480Z,38.8144989,-122.8261642,2.02,0.85,md,16,55,0.006096,0.03,nc,nc73711911,2022-03-29T16:19:13.630Z,"7km NW of The Geysers, CA",earthquake,0.27,0.51,0.02,3,automatic,nc,nc
-2022-03-29T15:49:38.850Z,38.8343315,-122.7486649,0.56,1.03,md,9,179,0.01704,0.02,nc,nc73711906,2022-03-29T16:08:12.576Z,"3km WNW of Cobb, CA",earthquake,0.43,1.11,0.17,2,automatic,nc,nc
