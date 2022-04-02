@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-02T17:28:09.842Z,38.1731,-117.8901,11.5,0.8,ml,8,172.89,0.064,0.0986,nn,nn00836588,2022-04-02T17:33:28.583Z,"30 km SE of Mina, Nevada",earthquake,,0.9,0.43,4,automatic,nn,nn
 2022-04-02T17:27:56.667Z,36.6269,-116.8495,6.8,1.1,ml,16,152.21,0.141,0.1384,nn,nn00836587,2022-04-02T17:31:01.117Z,"19 km N of Furnace Creek, California",earthquake,,1.1,0.87,11,automatic,nn,nn
-2022-04-02T17:27:34.940Z,33.9685,-116.6845,16.01,1.32,ml,41,41,0.07616,0.19,ci,ci39984647,2022-04-02T17:31:13.547Z,"11km ENE of Cabazon, CA",earthquake,0.26,0.64,0.1,26,automatic,ci,ci
-2022-04-02T17:17:27.470Z,38.7859993,-122.7588348,2.04,0.86,md,9,108,0.01462,0.02,nc,nc73713441,2022-04-02T17:19:01.834Z,"1km NNW of The Geysers, CA",earthquake,0.4,1.04,,1,automatic,nc,nc
+2022-04-02T17:27:34.940Z,33.9685,-116.6845,16.01,1.32,ml,41,41,0.07616,0.19,ci,ci39984647,2022-04-02T17:38:21.910Z,"11km ENE of Cabazon, CA",earthquake,0.26,0.64,0.1,26,automatic,ci,ci
+2022-04-02T17:17:27.470Z,38.7859993,-122.7588348,2.04,0.86,md,9,108,0.01462,0.02,nc,nc73713441,2022-04-02T17:37:13.600Z,"1km NNW of The Geysers, CA",earthquake,0.4,1.04,,1,automatic,nc,nc
 2022-04-02T17:13:20.440Z,35.6906667,-117.5025,3.79,1.23,ml,18,109,0.109,0.16,ci,ci39984639,2022-04-02T17:16:50.878Z,"12km SW of Searles Valley, CA",earthquake,0.48,0.93,0.231,14,automatic,ci,ci
 2022-04-02T17:05:17.691Z,35.60830688,-97.96952057,2.987691879,1.82,ml,12,70.17169189,0.1129141301,0.9214266865,ok,ok2022glop,2022-04-02T17:07:54.111Z,"8 km N of El Reno, Oklahoma",earthquake,3.442227923,2.75970453,,8,automatic,ok,ok
 2022-04-02T16:58:22.130Z,36.6735,-116.2658,6.6,1.4,ml,20,82.93,0.065,0.2758,nn,nn00836585,2022-04-02T17:01:32.442Z,"51 km ESE of Beatty, Nevada",earthquake,,0.5,0.93,15,automatic,nn,nn
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T16:35:30.640Z,38.8388329,-122.802002,1.28,0.36,md,7,112,0.009114,0.01,nc,nc73713421,2022-04-02T16:53:16.364Z,"7km WNW of Cobb, CA",earthquake,0.44,1.41,,1,automatic,nc,nc
 2022-04-02T16:21:50.210Z,33.7031667,-116.716,17.4,0.76,ml,23,69,0.008125,0.21,ci,ci39984591,2022-04-02T16:25:26.455Z,"4km S of Idyllwild, CA",earthquake,0.46,0.6,0.156,17,automatic,ci,ci
 2022-04-02T16:11:07.900Z,18.8523330688477,-155.130661010742,14.1800003051758,1.94000006,md,41,281,,0.200000003,hv,hv72971272,2022-04-02T16:14:34.530Z,"52 km ESE of Naalehu, Hawaii",earthquake,3.78,5.26000023,1.66999996,10,automatic,hv,hv
-2022-04-02T16:10:36.110Z,36.8549995,-121.5551682,3.99,1.55,md,7,143,0.04166,0.04,nc,nc73713416,2022-04-02T16:43:10.304Z,"2km NW of San Juan Bautista, CA",earthquake,0.57,1.21,0.06,7,automatic,nc,nc
+2022-04-02T16:10:36.110Z,36.8549995,-121.5551682,3.99,1.55,md,7,143,0.04166,0.04,nc,nc73713416,2022-04-02T17:37:13.711Z,"2km NW of San Juan Bautista, CA",earthquake,0.57,1.21,0.06,7,automatic,nc,nc
 2022-04-02T15:58:47.751Z,38.1892,-117.7801,3.9,2.1,ml,22,112.63,0.126,0.3151,nn,nn00836581,2022-04-02T16:02:27.461Z,"36 km SE of Mina, Nevada",earthquake,,1,0.19,14,automatic,nn,nn
 2022-04-02T15:28:16.653Z,31.70688049,-104.2923358,6.979931641,2,ml,9,70,0.06777869899,0.2,tx,tx2022gllh,2022-04-02T17:23:13.927Z,"52 km S of Whites City, New Mexico",earthquake,1.419846011,2.126658453,0.2,9,reviewed,tx,tx
 2022-04-02T14:40:07.050Z,34.0270004,-117.1691666,13.44,1.26,ml,50,85,0.04789,0.19,ci,ci39984543,2022-04-02T14:43:39.122Z,"3km SSE of Redlands, CA",earthquake,0.29,0.68,0.187,9,automatic,ci,ci
@@ -208,7 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T19:25:31.814Z,31.63930764,-104.1613105,6.080151367,2.6,ml,14,62,0.111403055,0.2,tx,tx2022gjxs,2022-04-02T17:15:08.330Z,"50 km NW of Toyah, Texas",earthquake,1.318516654,1.307963023,0.2,8,reviewed,tx,tx
 2022-04-01T19:24:19.900Z,44.2955,-114.9568333,8.2,2.34,ml,11,74,0.831,0.23,mb,mb80541974,2022-04-01T20:20:56.300Z,"8 km N of Stanley, Idaho",earthquake,0.56,1.35,0.131,14,reviewed,mb,mb
 2022-04-01T19:19:54.960Z,35.835,-120.5546667,8.35,1.19,md,38,51,0.0403,0.04,nc,nc73713146,2022-04-02T11:01:27.097Z,"13km WSW of Parkfield, CA",earthquake,0.21,0.38,0.135,16,reviewed,nc,nc
-2022-04-01T19:19:46.417Z,63.4937,-148.4236,3.9,2.6,ml,,,,0.55,ak,ak02246tbzmb,2022-04-01T19:31:30.487Z,"28 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-01T19:19:46.417Z,63.4937,-148.4236,3.9,2.6,ml,,,,0.55,ak,ak02246tbzmb,2022-04-02T17:45:24.040Z,"28 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T19:19:30.780Z,40.4981667,-122.1055,14.26,1.47,md,15,55,0.03611,0.17,nc,nc71127564,2022-04-02T11:29:16.283Z,"9km SE of Millville, CA",earthquake,0.58,0.97,0.201,14,reviewed,nc,nc
 2022-04-01T19:12:41.220Z,44.8033333,-112.0393333,9.56,0.83,ml,10,98,0.276,0.11,mb,mb80541969,2022-04-01T20:27:09.660Z,"47 km ENE of Lima, Montana",earthquake,0.4,3.51,0.11,3,reviewed,mb,mb
 2022-04-01T19:07:22.480Z,35.0606667,-118.335,-1.01,1.27,ml,17,63,0.07011,0.13,ci,ci39983951,2022-04-02T00:01:33.722Z,"13km SE of Tehachapi, CA",quarry blast,0.31,31.61,0.139,26,reviewed,ci,ci
@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T18:04:20.031Z,61.3951,-147.2527,19.7,1.9,ml,,,,0.55,ak,ak02246sna8i,2022-04-01T18:06:48.066Z,"50 km SSE of Glacier View, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-01T18:01:21.160Z,33.851,-117.4918333,-0.51,1.84,ml,47,38,0.05138,0.22,ci,ci39983879,2022-04-01T22:40:42.498Z,"4km SE of Home Gardens, CA",quarry blast,0.32,31.61,0.15,29,reviewed,ci,ci
 2022-04-01T17:53:50.260Z,34.4585,-119.2906667,1.72,0.97,ml,10,83,0.09906,0.19,ci,ci39983871,2022-04-01T19:36:49.753Z,"4km WNW of Ojai, CA",earthquake,0.55,1.11,0.193,3,reviewed,ci,ci
-2022-04-01T17:41:08.220Z,33.3173333,-116.3571667,8.82,1,ml,38,73,0.01255,0.18,ci,ci39983839,2022-04-01T22:35:05.695Z,"7km NNE of Borrego Springs, CA",earthquake,0.22,0.45,0.168,26,reviewed,ci,ci
