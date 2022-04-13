@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-13T14:22:13.690Z,38.7913322,-122.9029999,5.31,0.8,md,12,212,0.02495,0.02,nc,nc73717876,2022-04-13T14:23:49.384Z,"10km E of Cloverdale, CA",earthquake,0.77,1.36,0.1,3,automatic,nc,nc
+2022-04-13T14:43:41.110Z,38.8300018,-122.8153305,1.69,0.36,md,7,115,0.01793,0.01,nc,nc73717881,2022-04-13T14:45:14.605Z,"8km NW of The Geysers, CA",earthquake,0.57,1.37,,1,automatic,nc,nc
+2022-04-13T14:22:13.690Z,38.7913322,-122.9029999,5.31,0.8,md,12,212,0.02495,0.02,nc,nc73717876,2022-04-13T14:46:13.448Z,"10km E of Cloverdale, CA",earthquake,0.77,1.36,0.1,3,automatic,nc,nc
 2022-04-13T14:19:45.164Z,36.6677,-116.2657,7.1,0.6,ml,16,92.15,0.063,0.1902,nn,nn00837109,2022-04-13T14:22:52.101Z,"51 km ESE of Beatty, Nevada",earthquake,,0.7,0.99,11,automatic,nn,nn
 2022-04-13T14:19:36.070Z,34.1031667,-118.3288333,6.99,1.57,ml,40,37,0.02804,0.26,ci,ci39991367,2022-04-13T14:23:26.256Z,"1km NNW of Hollywood, CA",earthquake,0.36,0.64,0.137,27,automatic,ci,ci
 2022-04-13T14:19:16.880Z,34.3873333,-117.0728333,24.49,1.8,ml,7,74,0.4817,0.25,ci,ci39991359,2022-04-13T14:22:58.456Z,"12km WSW of Lucerne Valley, CA",earthquake,0.99,6.36,0.312,23,automatic,ci,ci
@@ -13,9 +14,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T13:09:20.660Z,36.7241669,-121.4073334,5.34,1.37,md,10,146,0.05108,0.1,nc,nc73717846,2022-04-13T14:13:13.260Z,"10km SSW of Ridgemark, CA",earthquake,0.55,1.19,0.13,7,automatic,nc,nc
 2022-04-13T13:09:04.095Z,65.6156,-145.3965,8.7,1.6,ml,,,,1.33,ak,ak0224qk5bpc,2022-04-13T13:21:56.805Z,"27 km W of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-13T13:03:16.490Z,33.3773333,-116.8775,4.83,2.02,ml,62,44,0.02673,0.24,ci,ci39991303,2022-04-13T13:14:09.110Z,"3km NNW of Palomar Observatory, CA",earthquake,0.21,0.73,0.149,26,automatic,ci,ci
-2022-04-13T12:31:29.197Z,26.8034,126.2691,10,4.5,mb,,68,3.749,0.77,us,us7000h1q8,2022-04-13T14:07:56.928Z,"155 km WNW of Naha, Japan",earthquake,8.8,1.9,0.115,22,reviewed,us,us
+2022-04-13T12:31:29.197Z,26.8034,126.2691,10,4.5,mb,,68,3.749,0.77,us,us7000h1q8,2022-04-13T14:07:56.928Z,"Ryukyu Islands, Japan",earthquake,8.8,1.9,0.115,22,reviewed,us,us
 2022-04-13T12:24:56.387Z,-6.3246,130.145,156.58,4.2,mb,,79,2.006,0.78,us,us7000h1q7,2022-04-13T12:53:36.040Z,"298 km WSW of Tual, Indonesia",earthquake,8.1,8.6,0.132,16,reviewed,us,us
 2022-04-13T12:15:53.690Z,38.8423347,-122.87883,2.65,0.34,md,11,95,0.005467,0.01,nc,nc73717826,2022-04-13T13:05:16.823Z,"13km ENE of Cloverdale, CA",earthquake,0.43,0.59,0.05,3,automatic,nc,nc
+2022-04-13T12:10:47.040Z,33.7131667,-116.7536667,17.06,0.62,ml,21,75,0.03299,0.1,ci,ci37412284,2022-04-13T14:46:57.450Z,"4km SW of Idyllwild, CA",earthquake,0.28,0.49,0.248,8,reviewed,ci,ci
 2022-04-13T12:09:24.440Z,38.8411674,-122.8775024,2.54,1.22,md,21,89,0.005499,0.01,nc,nc73717821,2022-04-13T12:41:15.677Z,"13km NW of The Geysers, CA",earthquake,0.26,0.47,0.01,3,automatic,nc,nc
 2022-04-13T11:51:41.874Z,62.1708,-150.4328,17.3,1,ml,,,,0.36,ak,ak0224qj7j9n,2022-04-13T11:53:27.683Z,"19 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-13T11:23:39.660Z,19.1704998016357,-155.492004394531,34.3400001525879,1.77999997,md,36,104,,0.129999995,hv,hv72982567,2022-04-13T11:27:00.430Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.54,0.829999983,1.79999995,4,automatic,hv,hv
@@ -233,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T15:13:48.284Z,31.68410204,-104.4095243,5.437451172,2.4,ml,10,68,0.07931883029,0.2,tx,tx2022hdrz,2022-04-13T13:55:44.250Z,"54 km S of Whites City, New Mexico",earthquake,1.917510996,1.976979317,0.1,7,reviewed,tx,tx
 2022-04-12T15:01:27.180Z,35.3478333,-117.5525,2.57,1.55,ml,18,78,0.1688,0.12,ci,ci39990735,2022-04-12T15:22:57.824Z,"8km ESE of Johannesburg, CA",earthquake,0.23,0.78,0.185,14,reviewed,ci,ci
 2022-04-12T14:58:32.032Z,31.6840665,-104.4149079,5.334619141,2.6,ml,12,68,0.07481640561,0.2,tx,tx2022hdrl,2022-04-13T13:49:11.030Z,"54 km S of Whites City, New Mexico",earthquake,1.230127797,1.71655597,0.1,6,reviewed,tx,tx
-2022-04-12T14:45:42.850Z,46.934,-121.97116666666666,9.47,0.24,md,10,95,0.01267,0.16,uw,uw61830941,2022-04-12T22:29:18.800Z,"17 km SSE of Carbonado, Washington",earthquake,0.51,0.74,0.2608502488649571,9,reviewed,uw,uw
-2022-04-12T14:44:32.340Z,35.63,-84.287,9.17,1.78,md,7,91,0.08544,0.09,se,se60382607,2022-04-12T17:01:33.010Z,"6 km NW of Vonore, Tennessee",earthquake,0.3,0.95,0.074,6,reviewed,se,se
