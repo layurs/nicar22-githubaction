@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T21:04:46.750Z,38.8504982,-122.7853317,1.28,0.22,md,7,178,0.0102,0.02,nc,nc73719045,2022-04-17T21:11:24.967Z,"6km WNW of Cobb, CA",earthquake,0.51,0.75,0.15,2,automatic,nc,nc
+2022-04-17T21:04:46.750Z,38.8504982,-122.7853317,1.28,0.22,md,7,178,0.0102,0.02,nc,nc73719045,2022-04-17T21:26:54.178Z,"6km WNW of Cobb, CA",earthquake,0.51,0.75,0.15,2,automatic,nc,nc
 2022-04-17T21:00:27.608Z,39.1815,-118.8096,14,1.1,ml,12,81.73,0.388,0.1476,nn,nn00837339,2022-04-17T21:04:42.800Z,"25 km N of Schurz, Nevada",earthquake,,1,0.25,7,automatic,nn,nn
 2022-04-17T20:59:49.730Z,32.6391667,-115.7243333,7.67,1.6,ml,21,131,0.01028,0.22,ci,ci40239184,2022-04-17T21:03:38.730Z,"15km WNW of Progreso, B.C., MX",earthquake,0.51,0.69,0.254,20,automatic,ci,ci
 2022-04-17T20:58:29.210Z,38.8291664,-122.8041687,1.87,0.33,md,14,53,0.007382,0.01,nc,nc73719040,2022-04-17T21:14:34.125Z,"7km W of Cobb, CA",earthquake,0.27,0.71,0.35,2,automatic,nc,nc
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T17:35:33.460Z,38.8361664,-122.8239975,1.17,0.86,md,7,136,0.01562,0.07,nc,nc73718970,2022-04-17T19:13:53.430Z,"9km NW of The Geysers, CA",earthquake,0.75,1.83,,1,automatic,nc,nc
 2022-04-17T17:34:53.350Z,38.8185005,-122.7886658,1.32,0.92,md,20,42,0.00814,0.04,nc,nc73718965,2022-04-17T18:46:53.254Z,"5km NNW of The Geysers, CA",earthquake,0.21,0.41,0.05,4,automatic,nc,nc
 2022-04-17T17:31:04.610Z,59.9635,-151.843,50.1,1.4,ml,,,,0.48,ak,ak0224x8t5os,2022-04-17T17:43:39.281Z,"6 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-04-17T17:22:51.960Z,40.4778333,-122.0681667,9.19,1.49,md,8,167,0.07065,0.17,nc,nc73718960,2022-04-17T21:16:27.110Z,"13km SE of Millville, CA",earthquake,0.68,1.53,0.081,8,reviewed,nc,nc
+2022-04-17T17:22:51.960Z,40.4778333,-122.0681667,9.19,1.49,md,8,167,0.07065,0.17,nc,nc73718960,2022-04-17T21:34:53.237Z,"13km SE of Millville, CA",earthquake,0.68,1.53,0.081,8,reviewed,nc,nc
 2022-04-17T17:21:33.362Z,59.7994,-152.3648,97.6,1.1,ml,,,,1,ak,ak0224x8r2r7,2022-04-17T17:35:18.769Z,"30 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-17T17:17:00.170Z,36.3930016,-119.928833,21.43,2.4,md,18,141,0.1626,0.14,nc,nc73718955,2022-04-17T17:55:52.982Z,"6km S of Lanare, CA",earthquake,1.54,0.55,0.41,9,automatic,nc,nc
 2022-04-17T16:57:30.930Z,34.0598333,-117.2528333,13.85,0.98,ml,39,70,0.1214,0.3,ci,ci40239072,2022-04-17T17:01:02.457Z,"2km NNE of Loma Linda, CA",earthquake,0.44,1.14,0.112,30,automatic,ci,ci
@@ -128,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T08:49:58.660Z,33.502,-116.5148333,9.96,0.42,ml,18,87,0.05698,0.14,ci,ci40238792,2022-04-17T13:49:58.635Z,"16km ESE of Anza, CA",earthquake,0.26,0.6,0.117,10,reviewed,ci,ci
 2022-04-17T08:48:54.510Z,38.8250008,-122.8113327,1.23,1.41,md,26,38,0.001881,0.03,nc,nc73718745,2022-04-17T11:13:53.544Z,"7km NW of The Geysers, CA",earthquake,0.17,0.31,0.02,5,automatic,nc,nc
 2022-04-17T08:38:36.950Z,38.8240013,-122.8018341,-0.28,0.82,md,18,34,0.006465,0.06,nc,nc73718735,2022-04-17T10:21:54.265Z,"6km NW of The Geysers, CA",earthquake,0.19,0.51,0.28,3,automatic,nc,nc
+2022-04-17T08:34:41.840Z,46.852833333333336,-121.757,1.12,1.01,ml,18,100,0.02383,0.1,uw,uw61823457,2022-04-17T21:28:35.010Z,"23 km ENE of Ashford, Washington",earthquake,0.27,0.73,0.10028022692696037,6,reviewed,uw,uw
 2022-04-17T08:33:34.013Z,44.3696,-115.1558,10,2.7,ml,,61,0.936,0.6,us,us7000h2v1,2022-04-17T14:33:32.050Z,"24 km NW of Stanley, Idaho",earthquake,2.4,2,0.047,60,reviewed,us,us
 2022-04-17T08:24:19.350Z,46.8258333,-111.589,4.91,1.79,ml,28,98,0.383,0.26,mb,mb80543194,2022-04-17T14:48:37.160Z,"31 km ENE of Helena Valley Northeast, Montana",earthquake,0.6,2,0.219,9,reviewed,mb,mb
 2022-04-17T08:18:18.038Z,2.1609,128.537,75.58,4.4,mb,,115,1.809,0.61,us,us7000h2ux,2022-04-17T09:01:22.040Z,"75 km NE of Tobelo, Indonesia",earthquake,6.9,8.5,0.117,26,reviewed,us,us
