@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T13:32:35.390Z,35.9319992,-117.7111664,10.33,1.09,ml,13,92,0.05182,0.07,ci,ci40239000,2022-04-17T13:34:40.576Z,"18km E of Little Lake, CA",earthquake,0.39,0.62,0.306,5,automatic,ci,ci
+2022-04-17T13:32:35.480Z,35.9343333,-117.7128333,9.76,1.06,ml,14,59,0.05246,0.12,ci,ci40239000,2022-04-17T13:36:16.497Z,"18km E of Little Lake, CA",earthquake,0.31,0.58,0.408,8,automatic,ci,ci
 2022-04-17T13:19:26.954Z,63.5046,-151.2386,4.2,1.4,ml,,,,1.12,ak,ak0224x6cwdz,2022-04-17T13:22:52.968Z,"24 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T13:10:30.030Z,37.0843333,-117.9395,3.42,1.99,ml,6,118,0.2344,0.02,ci,ci40238984,2022-04-17T13:14:22.388Z,"32km ESE of Big Pine, CA",earthquake,0.3,0.83,0.282,13,automatic,ci,ci
 2022-04-17T12:56:41.955Z,62.947,-150.2873,67.7,1.4,ml,,,,1.19,ak,ak0224x5zffn,2022-04-17T13:05:51.528Z,"55 km NNE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T05:49:28.737Z,-1.3832,136.9333,10,5.4,mww,,25,4.923,0.91,us,us7000h2ti,2022-04-17T07:53:03.896Z,"97 km ESE of Biak, Indonesia",earthquake,8.5,1.8,0.086,13,reviewed,us,us
 2022-04-17T05:48:27.722Z,60.8289,-151.742,59.3,1.6,ml,,,,0.82,ak,ak0224x1rndg,2022-04-17T06:03:11.970Z,"29 km WNW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-17T05:42:17.110Z,34.0395,-116.8598333,12.95,1.61,ml,62,37,0.04344,0.19,ci,ci40238744,2022-04-17T05:56:49.124Z,"13km N of Banning, CA",earthquake,0.19,0.46,0.104,28,automatic,ci,ci
-2022-04-17T05:38:25.420Z,31.6538333,-115.9406667,16.73,3.73,mw,10,138,0.2939,0.14,ci,ci40238728,2022-04-17T12:39:32.586Z,"60km E of Maneadero, B.C., MX",earthquake,0.39,0.95,,4,reviewed,ci,ci
+2022-04-17T05:38:25.420Z,31.6538333,-115.9406667,16.73,3.73,mw,10,138,0.2939,0.14,ci,ci40238728,2022-04-17T13:42:55.831Z,"60km E of Maneadero, B.C., MX",earthquake,0.39,0.95,,4,reviewed,ci,ci
 2022-04-17T05:35:21.015Z,63.1806,-150.6459,10.4,1.2,ml,,,,0.94,ak,ak0224x1oujm,2022-04-17T05:41:19.745Z,"67 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-17T05:21:46.580Z,35.6628333,-118.3928333,3.62,1.4,ml,30,34,0.0464,0.19,ci,ci40238720,2022-04-17T05:32:26.540Z,"8km SE of Wofford Heights, CA",earthquake,0.31,0.65,0.192,21,automatic,ci,ci
 2022-04-17T05:09:58.570Z,38.8354988,-122.7911682,1.88,1.14,md,19,53,0.002976,0.01,nc,nc73718690,2022-04-17T07:28:53.230Z,"6km WNW of Cobb, CA",earthquake,0.22,0.4,0.03,3,automatic,nc,nc
@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T13:51:17.946Z,62.4959,-151.3175,18.3,1.4,ml,,,,1.08,ak,ak0224vj0e42,2022-04-16T14:06:16.437Z,"28 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-16T13:50:39.270Z,38.813,-122.8278333,3.31,0.73,md,7,184,0.004258,0.01,nc,nc73718350,2022-04-16T19:39:57.346Z,"7km WNW of The Geysers, CA",earthquake,1.32,3.49,0.147,2,reviewed,nc,nc
 2022-04-16T13:47:36.544Z,63.2497,-145.3022,5.1,1.6,ml,,,,0.69,ak,ak0224vizkom,2022-04-16T14:06:17.331Z,"23 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-16T13:37:38.671Z,-0.1676,-78.3583,4.61,4,mb,,102,0.235,0.65,us,us7000h2su,2022-04-17T13:19:58.227Z,"4 km NW of Oyambarillo, Ecuador",earthquake,1.8,8,0.259,4,reviewed,us,us
