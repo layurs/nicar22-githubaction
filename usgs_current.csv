@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T22:45:51.800Z,33.6695,-116.7541667,15.35,1.35,ml,46,46,0.05329,0.19,ci,ci40241616,2022-04-19T22:56:37.220Z,"8km SSW of Idyllwild, CA",earthquake,0.27,0.42,0.184,27,automatic,ci,ci
 2022-04-19T22:44:40.115Z,38.8459,70.4753,13.11,5,mb,,46,1.162,1.04,us,us7000h3fw,2022-04-19T23:19:23.918Z,"22 km SSE of Rasht, Tajikistan",earthquake,6,4.3,0.043,180,reviewed,us,us
 2022-04-19T22:28:42.800Z,35.6755,-117.551,7.96,1.33,ml,12,142,0.1145,0.17,ci,ci40241600,2022-04-19T22:32:16.140Z,"13km ENE of Ridgecrest, CA",earthquake,0.41,1.45,0.195,15,automatic,ci,ci
-2022-04-19T22:24:54.300Z,36.1183319,-119.9941635,11.4,2.34,md,28,127,0.3717,0.15,nc,nc73720425,2022-04-19T22:33:01.933Z,"13km NNW of Kettleman City, CA",earthquake,0.92,3.67,0.13,17,automatic,nc,nc
+2022-04-19T22:24:54.300Z,36.1183319,-119.9941635,11.4,2.34,md,28,127,0.3717,0.15,nc,nc73720425,2022-04-19T23:45:45.394Z,"13km NNW of Kettleman City, CA",earthquake,0.92,3.67,0.13,17,automatic,nc,nc
 2022-04-19T22:01:26.760Z,19.1989994049072,-155.48583984375,32.439998626709,1.84000003,md,28,77,,0.180000007,hv,hv72989717,2022-04-19T22:04:38.660Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.72,1.12,1.62,6,automatic,hv,hv
 2022-04-19T21:49:47.997Z,60.1397,-140.9526,8.9,1.3,ml,,,,0.55,ak,ak02250mdjbj,2022-04-19T21:54:03.800Z,"95 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-19T21:43:11.850Z,32.9023333,-115.5075,4.98,1.72,ml,15,160,0.04477,0.22,ci,ci40241552,2022-04-19T21:46:59.861Z,"8km NE of Imperial, CA",earthquake,0.55,0.59,0.18,27,automatic,ci,ci
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T20:51:28.540Z,32.891,-115.4971667,1.14,2.65,ml,24,66,0.05447,0.24,ci,ci40241472,2022-04-19T22:01:37.040Z,"8km NE of Imperial, CA",earthquake,0.41,31.61,0.13,26,automatic,ci,ci
 2022-04-19T20:42:54.450Z,35.6905,-117.5883333,6.28,1.06,ml,12,137,0.07277,0.12,ci,ci40241464,2022-04-19T22:40:06.496Z,"11km NE of Ridgecrest, CA",earthquake,0.29,0.78,0.026,3,reviewed,ci,ci
 2022-04-19T20:40:55.910Z,32.8905,-115.507,3.51,2.24,ml,23,84,0.04649,0.27,ci,ci40241456,2022-04-19T20:51:37.200Z,"8km NE of Imperial, CA",earthquake,0.44,0.52,0.18,27,automatic,ci,ci
-2022-04-19T20:30:08.380Z,32.9098333,-115.5135,15.55,3.72,mw,59,36,0.04058,0.31,ci,ci40241440,2022-04-19T22:35:24.386Z,"8km SSE of Brawley, CA",earthquake,0.27,0.5,,4,reviewed,ci,ci
+2022-04-19T20:30:08.380Z,32.9098333,-115.5135,15.55,3.72,mw,59,36,0.04058,0.31,ci,ci40241440,2022-04-19T23:48:42.591Z,"8km SSE of Brawley, CA",earthquake,0.27,0.5,,4,reviewed,ci,ci
 2022-04-19T20:22:41.490Z,32.9093333,-115.5146667,15.38,3.61,mw,84,36,0.03952,0.31,ci,ci40241424,2022-04-19T22:27:13.290Z,"8km S of Brawley, CA",earthquake,0.2,0.37,,4,reviewed,ci,ci
 2022-04-19T20:15:51.620Z,33.4181667,-116.6113333,6.5,0.41,ml,17,107,0.07671,0.09,ci,ci40241416,2022-04-19T22:36:58.903Z,"15km N of Warner Springs, CA",earthquake,0.19,0.35,0.1,6,reviewed,ci,ci
 2022-04-19T20:15:44.450Z,17.9461666666667,-66.9371666666667,12.73,2.18,md,12,214,,0.07,pr,pr71345123,2022-04-19T20:34:15.940Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.45,0.22,0.0469107250501213,5,reviewed,pr,pr
@@ -200,6 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T03:48:56.736Z,61.5566,-146.4502,30.3,1.1,ml,,,,1.1,ak,ak02250bnje3,2022-04-19T03:52:00.981Z,"47 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-19T03:45:51.610Z,34.5615,-118.5476667,16.98,1.41,ml,33,39,0.1224,0.25,ci,ci40240760,2022-04-19T03:56:52.020Z,"11km NE of Castaic, CA",earthquake,0.36,1,0.198,29,automatic,ci,ci
 2022-04-19T03:38:07.550Z,19.2096666666667,-155.371833333333,33.36,3.25,ml,58,160,,0.14,hv,hv72989102,2022-04-19T05:55:21.897Z,"11 km E of Pāhala, Hawaii",earthquake,0.4,0.46,0.153044287150747,35,reviewed,hv,hv
+2022-04-19T03:36:31.180Z,58.2813333333333,-154.958166666667,3.11,-0.16,ml,6,139,,0.23,av,av91055293,2022-04-19T23:47:12.690Z,"84 km NNW of Karluk, Alaska",earthquake,1.28,3.02,0.0902948512106093,6,reviewed,av,av
 2022-04-19T03:33:07.005Z,63.5952,-147.1447,71.1,1.3,ml,,,,0.85,ak,ak02250bk7u9,2022-04-19T03:44:19.460Z,"85 km SW of Delta Junction, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-19T03:30:32.100Z,17.9516666666667,-66.7976666666667,12.83,2.4,md,21,171,,0.13,pr,pr71345023,2022-04-19T03:47:12.480Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.41,0.29,0.298467356192725,10,reviewed,pr,pr
 2022-04-19T03:30:02.230Z,38.7981682,-122.9844971,1.36,1.55,md,12,104,0.03737,0.1,nc,nc73719970,2022-04-19T14:27:13.347Z,"3km ESE of Cloverdale, CA",earthquake,0.45,1.72,0.06,7,automatic,nc,nc
@@ -246,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T00:06:19.949Z,38.522,-119.5349,2.5,1.5,ml,6,182.72,0.065,0.1124,nn,nn00837454,2022-04-19T19:36:48.334Z,"5 km W of Walker, California",earthquake,,5.2,0.4,3,reviewed,nn,nn
 2022-04-19T00:00:15.320Z,32.3688333,-115.2778333,11.81,1.7,ml,14,175,0.0555,0.24,ci,ci37496021,2022-04-19T15:15:32.392Z,"8km W of Delta, B.C., MX",earthquake,0.48,0.67,0.083,5,reviewed,ci,ci
 2022-04-19T00:00:03.350Z,32.3358333,-115.2545,10.97,2.21,ml,17,216,0.09373,0.27,ci,ci40240656,2022-04-19T15:13:23.360Z,"6km WSW of Delta, B.C., MX",earthquake,0.92,0.71,0.232,7,reviewed,ci,ci
-2022-04-18T23:48:12.184Z,60.9814,-150.5491,37.5,1.5,ml,,,,0.4,ak,ak0224z00rk2,2022-04-18T23:54:22.395Z,"9 km NE of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-04-18T23:43:37.000Z,33.7911667,-116.0915,3.26,1.55,ml,51,44,0.1084,0.15,ci,ci40240640,2022-04-19T21:32:00.800Z,"14km NE of Indio, CA",earthquake,0.13,0.52,0.209,25,reviewed,ci,ci
