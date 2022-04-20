@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-20T20:27:34.162Z,17.688,-68.5163,35,4.2,mb,,126,0.832,0.48,us,us6000hf3k,2022-04-20T20:44:27.040Z,"77 km S of Boca de Yuma, Dominican Republic",earthquake,3,2,0.263,4,reviewed,us,us
 2022-04-20T20:16:55.860Z,32.9111667,-115.5166667,3.79,1.6,ml,11,137,0.08382,0.27,ci,ci40242560,2022-04-20T20:20:41.532Z,"8km S of Brawley, CA",earthquake,0.79,1.09,0.265,23,automatic,ci,ci
-2022-04-20T20:15:55.980Z,38.8041649,-122.7848358,2.35,0.82,md,13,77,0.009017,0.02,nc,nc73720895,2022-04-20T20:18:29.840Z,"4km NW of The Geysers, CA",earthquake,0.31,0.65,0.45,2,automatic,nc,nc
+2022-04-20T20:15:55.980Z,38.8041649,-122.7848358,2.35,0.82,md,13,77,0.009017,0.02,nc,nc73720895,2022-04-20T20:33:15.985Z,"4km NW of The Geysers, CA",earthquake,0.31,0.65,0.45,2,automatic,nc,nc
 2022-04-20T20:06:56.874Z,60.6687,-151.6243,72.6,1.3,ml,,,,0.57,ak,ak0225292937,2022-04-20T20:17:29.484Z,"17 km WNW of Salamatof, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-20T20:04:16.280Z,57.1519,-154.5485,10,2,ml,,,,0.31,ak,ak0225291qjg,2022-04-20T20:07:20.355Z,"32 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-20T20:02:30.263Z,57.1407,-154.554,9.4,1.8,ml,,,,0.5,ak,ak0225291c6w,2022-04-20T20:05:45.646Z,"31 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -94,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T10:08:20.420Z,19.1919994354248,-155.488327026367,33.5400009155273,2.01999998,md,36,71,,0.180000007,hv,hv72990287,2022-04-20T10:11:27.180Z,"1 km SW of Pāhala, Hawaii",earthquake,0.62,0.970000029,1.64999998,10,automatic,hv,hv
 2022-04-20T10:06:36.228Z,-33.7452,-179.3735,10,4.9,mb,,83,4.251,0.94,us,us7000h3in,2022-04-20T11:51:00.040Z,"south of the Kermadec Islands",earthquake,11.7,1.9,0.097,33,reviewed,us,us
 2022-04-20T10:06:34.117Z,61.2554,-150.6874,46.7,1.6,ml,,,,0.6,ak,ak0225233var,2022-04-20T10:08:16.377Z,"24 km ENE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-20T10:06:12.750Z,35.2471667,-118.0745,0.9,1.17,ml,19,123,0.1057,0.17,ci,ci40242048,2022-04-20T10:09:49.655Z,"16km NNW of California City, CA",earthquake,0.3,0.63,0.189,18,automatic,ci,ci
+2022-04-20T10:06:12.740Z,35.2453333,-118.0666667,2.51,0.99,ml,30,74,0.1013,0.16,ci,ci40242048,2022-04-20T20:35:29.616Z,"15km NNW of California City, CA",earthquake,0.18,0.42,0.137,13,reviewed,ci,ci
 2022-04-20T09:58:55.710Z,17.9545,-66.9488333333333,9.3,1.76,md,4,208,,0.07,pr,pr71345193,2022-04-20T17:09:25.620Z,"4 km WSW of Guánica, Puerto Rico",earthquake,1.11,1.03,0.0235781682818468,4,reviewed,pr,pr
 2022-04-20T09:54:05.230Z,33.4923333,-116.7438333,10.13,0.86,ml,27,42,0.06421,0.13,ci,ci40242040,2022-04-20T13:13:55.740Z,"10km SW of Anza, CA",earthquake,0.18,0.49,0.171,30,reviewed,ci,ci
 2022-04-20T09:52:47.050Z,35.9143333,-117.7278333,6.52,0.76,ml,10,88,0.07123,0.06,ci,ci40242032,2022-04-20T13:14:00.693Z,"16km E of Little Lake, CA",earthquake,0.22,0.69,0.184,7,reviewed,ci,ci
@@ -249,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T20:56:35.960Z,32.9465,-115.5123333,2.21,1.86,ml,15,154,0.0606,0.2,ci,ci40241488,2022-04-19T21:00:21.592Z,"4km SSE of Brawley, CA",earthquake,0.67,0.63,0.205,27,automatic,ci,ci
 2022-04-19T20:53:02.700Z,32.9096667,-115.51,3.63,1.8,ml,18,93,0.04343,0.25,ci,ci40241480,2022-04-19T20:56:45.570Z,"8km SSE of Brawley, CA",earthquake,0.46,0.45,0.157,25,automatic,ci,ci
 2022-04-19T20:51:28.540Z,32.891,-115.4971667,1.14,2.65,ml,24,66,0.05447,0.24,ci,ci40241472,2022-04-19T22:01:37.040Z,"8km NE of Imperial, CA",earthquake,0.41,31.61,0.13,26,automatic,ci,ci
-2022-04-19T20:42:54.450Z,35.6905,-117.5883333,6.28,1.06,ml,12,137,0.07277,0.12,ci,ci40241464,2022-04-19T22:40:06.496Z,"11km NE of Ridgecrest, CA",earthquake,0.29,0.78,0.026,3,reviewed,ci,ci
-2022-04-19T20:40:55.910Z,32.8905,-115.507,3.51,2.24,ml,23,84,0.04649,0.27,ci,ci40241456,2022-04-19T20:51:37.200Z,"8km NE of Imperial, CA",earthquake,0.44,0.52,0.18,27,automatic,ci,ci
