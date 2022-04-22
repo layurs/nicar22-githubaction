@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-22T08:39:56.022Z,61.5014,-149.8958,34,2,ml,,,,0.46,ak,ak02255d6te9,2022-04-22T08:42:10.313Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-22T08:39:56.034Z,61.5008,-149.9029,33.7,2,ml,,,,0.55,ak,ak02255d6te9,2022-04-22T08:55:01.692Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-22T08:39:17.880Z,38.7903328,-122.7600021,1.59,0.55,md,17,67,0.01028,0.03,nc,nc73721655,2022-04-22T08:41:53.564Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.48,0.39,4,automatic,nc,nc
 2022-04-22T08:23:26.800Z,37.0135002,-121.4513321,5.51,1.83,md,34,64,0.02909,0.16,nc,nc73721645,2022-04-22T08:34:01.809Z,"10km E of Gilroy, CA",earthquake,0.26,0.74,0.15,25,automatic,nc,nc
 2022-04-22T08:22:38.710Z,38.7898331,-122.7623367,1.59,0.64,md,12,116,0.01927,0.02,nc,nc73721635,2022-04-22T08:24:52.787Z,"2km NNW of The Geysers, CA",earthquake,0.34,0.93,,1,automatic,nc,nc
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T04:08:04.040Z,38.8253326,-122.8566666,2.31,0.37,md,11,65,0.01705,0.01,nc,nc73721555,2022-04-22T04:44:14.434Z,"10km WNW of The Geysers, CA",earthquake,0.33,1.2,,1,automatic,nc,nc
 2022-04-22T04:05:43.150Z,38.8251648,-122.8563309,2.48,1.43,md,11,113,0.002414,0.01,nc,nc73721545,2022-04-22T06:21:16.039Z,"10km WNW of The Geysers, CA",earthquake,0.37,1.08,,1,automatic,nc,nc
 2022-04-22T04:00:47.322Z,62.9423,-150.4327,53.8,1.8,ml,,,,0.93,ak,ak02255akpdo,2022-04-22T04:05:32.363Z,"52 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-04-22T03:59:05.470Z,39.4430008,-123.0026703,4.34,2.01,md,11,121,0.1193,0.09,nc,nc73721540,2022-04-22T05:55:14.892Z,"5km NW of Lake Pillsbury, CA",earthquake,0.41,1.81,0.11,9,automatic,nc,nc
+2022-04-22T03:59:05.510Z,39.4483333,-122.9995,3.26,1.99,md,34,52,0.1244,0.18,nc,nc73721540,2022-04-22T08:50:44.919Z,"6km NW of Lake Pillsbury, CA",earthquake,0.25,1.4,0.158,28,reviewed,nc,nc
 2022-04-22T03:57:51.150Z,32.91,-115.5148333,2.83,1.74,ml,16,64,0.03952,0.2,ci,ci40243576,2022-04-22T04:01:31.106Z,"8km S of Brawley, CA",earthquake,0.42,0.43,0.157,25,automatic,ci,ci
 2022-04-22T03:51:27.849Z,14.0026,92.9602,10,4.9,mb,,93,5.987,0.81,us,us6000hfgp,2022-04-22T04:41:25.040Z,"256 km N of Bamboo Flat, India",earthquake,6.9,1.7,0.081,50,reviewed,us,us
 2022-04-22T03:31:04.167Z,61.3609,-152.2173,111.1,2,ml,,,,0.57,ak,ak02255a5tms,2022-04-22T03:42:56.101Z,"65 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -258,6 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T09:10:01.340Z,19.2474994659424,-155.376327514648,31.5599994659424,2.08,ml,46,142,,0.159999996,hv,hv72991262,2022-04-21T11:56:08.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.55,0.920000017,3.48,10,automatic,hv,hv
 2022-04-21T09:06:05.137Z,11.5689,-86.9465,47.37,4.1,mb,,164,0.894,0.99,us,us6000hf85,2022-04-21T10:18:38.040Z,"52 km WSW of Masachapa, Nicaragua",earthquake,7.1,16.3,0.184,8,reviewed,us,us
 2022-04-21T09:05:08.810Z,19.2706661224365,-155.385665893555,-0.46000000834465,1.75,md,35,127,,0.230000004,hv,hv72991252,2022-04-21T09:08:28.590Z,"12 km NE of Pāhala, Hawaii",earthquake,0.44,0.349999994,0.74000001,16,automatic,hv,hv
-2022-04-21T08:54:38.350Z,61.6011,-151.0551,61.2,0.7,ml,,,,0.34,ak,ak02253pqlpe,2022-04-21T18:27:33.479Z,"29 km WNW of Susitna, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2022-04-21T08:50:22.760Z,33.4788333,-116.4423333,12.35,1.05,ml,43,44,0.1079,0.19,ci,ci40242968,2022-04-21T13:12:41.920Z,"23km ESE of Anza, CA",earthquake,0.25,0.56,0.145,27,reviewed,ci,ci
-2022-04-21T08:47:12.942Z,-21.6274,-66.743,221.04,4.4,mb,,81,1.872,0.93,us,us6000hf81,2022-04-21T11:36:11.040Z,"93 km SW of Atocha, Bolivia",earthquake,8.9,10.3,0.139,15,reviewed,us,us
