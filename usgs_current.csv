@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-25T18:57:13.257Z,60.7247,-150.6575,20.8,1.3,ml,,,,0.75,ak,ak0225ahuyil,2022-04-25T18:59:46.230Z,"21 km NNE of Sterling, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-25T18:33:36.720Z,35.9166667,-117.7315,8.34,0.52,ml,9,116,0.07284,0.15,ci,ci40245920,2022-04-25T18:37:06.758Z,"16km E of Little Lake, CA",earthquake,0.49,1.07,0.167,5,automatic,ci,ci
-2022-04-25T18:29:01.870Z,35.9041667,-117.744,6.98,1.51,ml,17,63,0.07492,0.15,ci,ci40245912,2022-04-25T18:32:38.720Z,"15km ESE of Little Lake, CA",earthquake,0.27,0.81,0.197,18,automatic,ci,ci
+2022-04-25T18:29:01.870Z,35.9041667,-117.744,6.98,1.51,ml,17,63,0.07492,0.15,ci,ci40245912,2022-04-25T18:50:08.276Z,"15km ESE of Little Lake, CA",earthquake,0.27,0.81,0.197,18,reviewed,ci,ci
 2022-04-25T18:16:17.945Z,61.3212,-150.0481,46.9,1.1,ml,,,,0.42,ak,ak0225ahm6jf,2022-04-25T18:18:43.674Z,"5 km SW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-25T18:12:16.390Z,47.410833333333336,-117.89233333333334,-0.63,2.07,ml,9,103,0.3865,0.41,uw,uw61834011,2022-04-25T18:35:03.570Z,"13 km NNE of Sprague, Washington",explosion,2.29,31.61,0.1653872601236165,6,reviewed,uw,uw
-2022-04-25T18:01:17.100Z,32.6118333,-117.1275,9.96,0.68,ml,7,286,0.199,0.04,ci,ci40245880,2022-04-25T18:04:59.562Z,"3km NNW of Imperial Beach, CA",earthquake,2.91,1.11,0.111,4,automatic,ci,ci
 2022-04-25T17:58:07.830Z,36.43183333,-96.90516667,6.34,0.98,ml,32,70,0.03599293696,0.23,ok,ok2022ibqw,2022-04-25T18:09:23.036Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.6,0.25,6,reviewed,ok,ok
 2022-04-25T17:36:43.730Z,36.109,-117.8778333,4.87,1.33,ml,12,199,0.02048,0.25,ci,ci40245856,2022-04-25T17:40:16.771Z,"10km NE of Coso Junction, CA",earthquake,0.87,31.61,0.185,17,automatic,ci,ci
 2022-04-25T17:25:26.748Z,59.8803,-152.7239,76.7,1.8,ml,,,,0.55,ak,ak0225ah2p1o,2022-04-25T17:33:23.258Z,"51 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -16,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T16:49:29.754Z,64.6622,-147.7427,16.5,0.6,ml,,,,0.53,ak,ak0225agmev0,2022-04-25T18:03:29.915Z,"16 km S of South Van Horn, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-04-25T16:41:39.330Z,61.4034,-150.0251,41.1,2.5,ml,,,,0.61,ak,ak0225agkpuz,2022-04-25T16:44:32.426Z,"5 km NNW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-25T16:38:48.960Z,38.8334999,-122.8816681,2.32,1.27,md,24,127,0.004918,0.02,nc,nc73723250,2022-04-25T17:26:11.312Z,"12km ENE of Cloverdale, CA",earthquake,0.26,0.4,0.12,5,automatic,nc,nc
+2022-04-25T16:31:47.699Z,41.9478,23.0187,8.22,4,mb,,52,2.052,0.56,us,us6000hg93,2022-04-25T18:45:37.040Z,"10 km SW of Blagoevgrad, Bulgaria",earthquake,5.4,6.5,0.211,7,reviewed,us,us
 2022-04-25T16:31:29.034Z,54.446,-156.1136,25.9,4.2,ml,,,,1.58,ak,ak0225agijwj,2022-04-25T18:23:24.040Z,"251 km SE of Chignik, Alaska",earthquake,,2.8,,,reviewed,ak,ak
 2022-04-25T16:28:24.671Z,60.8334,-138.0677,11.2,-0.1,ml,,,,0.51,ak,ak0225aghv5q,2022-04-25T17:57:33.488Z,"31 km WNW of Haines Junction, Canada",earthquake,,1.2,,,reviewed,ak,ak
 2022-04-25T16:23:09.580Z,33.5268333,-116.4995,12.16,-0.14,ml,8,219,0.04034,0.08,ci,ci40245800,2022-04-25T18:43:46.623Z,"16km E of Anza, CA",earthquake,0.51,0.55,0.046,2,reviewed,ci,ci
@@ -240,8 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T19:19:51.444Z,64.6799,-149.3021,15.9,1.4,ml,,,,0.76,ak,ak02258uozd4,2022-04-24T19:31:04.935Z,"12 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-24T19:09:37.366Z,60.6209,-152.7413,18.9,-0.2,ml,,,,0.38,ak,ak02258umsiu,2022-04-24T20:16:26.525Z,"77 km W of Salamatof, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-04-24T19:04:15.640Z,31.5818,-104.2469,5,2.4,ml,,89,0.233,0.56,us,us6000hg35,2022-04-24T20:53:19.040Z,"52 km NW of Toyah, Texas",earthquake,1,1.9,0.115,50,reviewed,us,us
-2022-04-24T19:01:01.366Z,36.571,-116.2792,7.1,1.7,ml,31,85.86,0.089,0.1551,nn,nn00837801,2022-04-25T17:04:44.847Z,"48 km NNW of Pahrump, Nevada",earthquake,,1.3,0.82,17,reviewed,nn,nn
-2022-04-24T19:00:48.616Z,59.7824,-151.1919,65.8,1.2,ml,,,,0.81,ak,ak02258ukwjh,2022-04-24T19:07:58.381Z,"7 km NE of Fritz Creek, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2022-04-24T18:58:56.820Z,36.6008339,-121.1848297,1.8,1.62,md,12,128,0.02908,0.08,nc,nc73722805,2022-04-24T21:01:12.826Z,"8km NNW of Pinnacles, CA",earthquake,0.48,0.68,0.08,8,automatic,nc,nc
-2022-04-24T18:57:25.761Z,-21.1803,-178.7067,554.7,4.3,mb,,148,4.585,0.79,us,us6000hg36,2022-04-24T20:45:39.040Z,"Fiji region",earthquake,14.7,8.4,0.081,43,reviewed,us,us
-2022-04-24T18:47:59.410Z,46.84916666666667,-121.75433333333334,1.78,0.43,ml,15,101,0.01995,0.08,uw,uw61833811,2022-04-24T21:24:14.910Z,"23 km ENE of Ashford, Washington",earthquake,0.23,0.54,0.09472280710435796,6,reviewed,uw,uw
