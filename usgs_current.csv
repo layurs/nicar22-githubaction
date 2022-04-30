@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-30T17:31:28.720Z,38.8373337,-122.8356705,1.78,0.37,md,8,108,0.01421,0.01,nc,nc73726556,2022-04-30T17:38:20.863Z,"10km NW of The Geysers, CA",earthquake,0.35,1.21,,1,automatic,nc,nc
-2022-04-30T17:29:35.830Z,38.8343315,-122.8191681,1.72,0.85,md,14,62,0.01303,0.02,nc,nc73726551,2022-04-30T17:38:20.727Z,"8km NW of The Geysers, CA",earthquake,0.31,0.78,,1,automatic,nc,nc
+2022-04-30T17:29:35.830Z,38.8343315,-122.8191681,1.72,0.85,md,14,62,0.01303,0.02,nc,nc73726551,2022-04-30T17:47:17.790Z,"8km NW of The Geysers, CA",earthquake,0.31,0.78,,1,automatic,nc,nc
 2022-04-30T17:09:13.050Z,61.4715,-146.5506,28.9,1.4,ml,,,,0.84,ak,ak0225iqnyzu,2022-04-30T17:25:37.045Z,"39 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-30T17:07:28.690Z,35.6305,-117.4238333,6.8,0.69,ml,12,174,0.0539,0.17,ci,ci40249256,2022-04-30T17:11:03.005Z,"15km S of Searles Valley, CA",earthquake,0.54,0.91,0.102,7,automatic,ci,ci
 2022-04-30T16:47:41.990Z,38.7809982,-122.7675018,1.67,0.95,md,15,86,0.01035,0.03,nc,nc73726546,2022-04-30T17:09:14.562Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.54,0.23,3,automatic,nc,nc
@@ -160,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T22:41:23.280Z,38.8325005,-122.8176651,2.04,0.85,md,9,70,0.01085,0.01,nc,nc73726316,2022-04-29T23:01:15.263Z,"8km NW of The Geysers, CA",earthquake,0.44,1.16,,1,automatic,nc,nc
 2022-04-29T22:41:11.165Z,63.5608,-147.4824,25.7,1.1,ml,,,,0.66,ak,ak0225h6anbc,2022-04-29T22:44:15.463Z,"73 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-29T22:33:22.720Z,35.5431671,-120.8619995,6.64,1.13,md,9,123,,0.06,nc,nc73726306,2022-04-30T01:31:21.192Z,"12km NNE of Cayucos, CA",earthquake,0.49,1.05,0.12,5,automatic,nc,nc
-2022-04-29T22:30:38.700Z,38.529,-90.4996667,7.93,2.84,md,22,55,0.05574,0.2,nm,nm60392336,2022-04-30T17:41:42.064Z,"1 km SSW of Peerless Park, Missouri",earthquake,0.35,0.58,0.057,12,reviewed,nm,nm
+2022-04-29T22:30:38.700Z,38.529,-90.4996667,7.93,2.84,md,22,55,0.05574,0.2,nm,nm60392336,2022-04-30T17:48:48.053Z,"1 km SSW of Peerless Park, Missouri",earthquake,0.35,0.58,0.057,12,reviewed,nm,nm
 2022-04-29T22:28:54.414Z,38.5837,-119.4383,7.8,1.4,ml,16,65.78,0.064,0.0916,nn,nn00838098,2022-04-30T02:39:33.158Z,"6 km ENE of Coleville, California",earthquake,,1.6,0.36,4,reviewed,nn,nn
 2022-04-29T22:17:30.140Z,33.4878333,-116.4816667,14.41,0.9,ml,30,63,0.05869,0.13,ci,ci40248640,2022-04-30T00:07:26.260Z,"19km ESE of Anza, CA",earthquake,0.18,0.32,0.152,19,reviewed,ci,ci
 2022-04-29T22:15:57.913Z,38.5863,-119.4342,7.3,1.8,ml,16,66.23,0.067,0.1113,nn,nn00838093,2022-04-30T02:39:30.733Z,"6 km ENE of Coleville, California",earthquake,,1.7,0.35,4,reviewed,nn,nn
@@ -211,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T18:15:33.238Z,38.1649,-117.8989,9.5,1.2,ml,13,157.26,0.054,0.1389,nn,nn00838068,2022-04-30T02:39:15.438Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.69,4,reviewed,nn,nn
 2022-04-29T18:13:42.699Z,-25.0536,-176.918,62.14,5,mb,,72,4.285,0.87,us,us7000h5vs,2022-04-29T19:00:34.785Z,"south of the Fiji Islands",earthquake,10.3,6,0.061,91,reviewed,us,us
 2022-04-29T17:56:10.260Z,38.8051682,-122.7921677,1.05,0.91,md,23,42,0.003717,0.03,nc,nc73726226,2022-04-29T18:18:12.730Z,"4km NW of The Geysers, CA",earthquake,0.19,0.35,0.05,5,automatic,nc,nc
-2022-04-29T17:46:52.109Z,38.6979,-118.467,6.9,0.8,ml,10,199.88,0.282,0.1106,nn,nn00838097,2022-04-30T02:39:31.658Z,"23 km NE of Hawthorne, Nevada",earthquake,,4.6,0,2,reviewed,nn,nn
-2022-04-29T17:45:18.954Z,62.9017,-151.1036,35,1.2,ml,,,,1.2,ak,ak0225h3ccqf,2022-04-29T18:01:24.599Z,"48 km NNW of Petersville, Alaska",earthquake,,5,,,automatic,ak,ak
-2022-04-29T17:44:26.140Z,38.8033333,-122.7771683,3.58,0.21,md,12,70,0.01028,0.02,nc,nc73726221,2022-04-29T18:10:13.548Z,"3km NNW of The Geysers, CA",earthquake,0.4,0.92,0.15,2,automatic,nc,nc
