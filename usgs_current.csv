@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T21:25:30.300Z,38.2313347,-119.3401642,10.27,2.66,md,17,103,0.1414,0.23,nc,nc73730551,2022-05-07T21:49:20.463Z,"10km WSW of Bridgeport, CA",earthquake,0.57,2.72,0.27,13,automatic,nc,nc
 2022-05-07T20:59:17.338Z,65.0263,-146.7936,15.4,0.9,ml,,,,0.55,ak,ak0225udifed,2022-05-07T21:01:22.549Z,"16 km NNE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T20:41:20.706Z,63.1606,-149.4257,98.9,1.4,ml,,,,0.74,ak,ak0225udekra,2022-05-07T20:44:05.300Z,"35 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-07T20:22:46.820Z,61.1991,-147.0272,0,1.6,ml,,,,1.29,ak,ak0225udak6i,2022-05-07T20:30:28.058Z,"37 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-07T20:22:46.820Z,61.1991,-147.0272,0,1.6,ml,,,,1.29,ak,ak0225udak6i,2022-05-07T22:36:38.663Z,"37 km WNW of Valdez, Alaska",ice quake,,0.5,,,automatic,ak,ak
 2022-05-07T20:08:14.916Z,38.1654,-117.8812,9.6,1.7,ml,9,167.26,0.088,0.3265,nn,nn00838501,2022-05-07T20:11:59.270Z,"31 km SE of Mina, Nevada",earthquake,,0.5,1.11,6,automatic,nn,nn
 2022-05-07T19:49:07.740Z,60.0844,-140.7609,22.9,1.2,ml,,,,0.82,ak,ak0225ucuu0q,2022-05-07T19:57:22.738Z,"83 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-07T19:46:47.090Z,17.8383333333333,-66.8835,6.37,2.13,md,4,258,,0.1,pr,pr71347808,2022-05-07T20:00:49.080Z,"Puerto Rico region",earthquake,0.89,0.41,0.0396946930427915,4,reviewed,pr,pr
@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T19:44:39.525Z,61.7915,-144.86,53.4,1.2,ml,,,,0.6,ak,ak0225ucttrk,2022-05-07T19:50:43.231Z,"9 km NNE of Kenny Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-07T19:31:57.710Z,17.9798333333333,-66.9516666666667,11.4,1.79,md,3,173,,0.07,pr,pr71347803,2022-05-07T19:49:47.490Z,"3 km WSW of Fuig, Puerto Rico",earthquake,2.63,1,0.064085101311721,3,reviewed,pr,pr
 2022-05-07T19:26:45.289Z,59.9322,-141.5968,17.5,1.2,ml,,,,0.67,ak,ak0225ucpzbk,2022-05-07T19:30:00.970Z,"113 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-07T19:24:34.564Z,52.0255,-175.7004,240,2.2,ml,,,,0.36,ak,ak0225ucpk8b,2022-05-07T22:35:35.921Z,"66 km ENE of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-05-07T19:23:18.030Z,19.1823329925537,-155.471496582031,34.0200004577637,2.03999996,md,29,200,,0.140000001,hv,hv73005692,2022-05-07T19:26:35.690Z,"Island of Hawaii, Hawaii",earthquake,0.91,1.27999997,1.84000003,10,automatic,hv,hv
 2022-05-07T19:20:59.578Z,61.9656,-151.5113,77.3,0.7,ml,,,,0.3,ak,ak0225ucoobt,2022-05-07T22:32:23.716Z,"6 km WSW of Skwentna, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2022-05-07T19:18:35.770Z,33.9673333,-117.2495,2.87,0.78,ml,9,150,0.1762,0.29,ci,ci40254336,2022-05-07T19:22:14.411Z,"5km NNW of Moreno Valley, CA",earthquake,2.25,31.61,0.175,7,automatic,ci,ci
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T22:55:59.810Z,46.9015,-112.5183333,11.35,1.06,ml,12,69,0.06,0.17,mb,mb80545149,2022-05-07T13:57:23.960Z,"13 km ESE of Lincoln, Montana",earthquake,0.58,0.76,0.13,3,reviewed,mb,mb
 2022-05-06T22:54:55.550Z,51.8411666666667,-177.8355,6,-0.55,ml,4,211,,0.2,av,av91057583,2022-05-07T01:31:43.370Z,"82 km W of Adak, Alaska",earthquake,1.05,1.39,0.0594263653922962,4,reviewed,av,av
 2022-05-06T22:48:36.530Z,34.7233333,-116.2955,5.1,1.86,ml,21,44,0.1107,0.12,ci,ci40253944,2022-05-06T22:59:47.967Z,"12km W of Ludlow, CA",earthquake,0.16,0.47,0.17,24,reviewed,ci,ci
-2022-05-06T22:35:14.069Z,-34.9741,-74.328,10,4.3,mb,,97,1.968,0.92,us,us7000h7nf,2022-05-06T22:52:21.040Z,"179 km WNW of Constitución, Chile",earthquake,6.3,2,0.306,3,reviewed,us,us
