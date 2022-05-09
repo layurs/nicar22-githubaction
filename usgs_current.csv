@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-09T09:29:24.350Z,37.7141685,-121.9738312,10.46,1.44,md,17,130,0.07596,0.04,nc,nc73731166,2022-05-09T09:31:00.434Z,"4km WNW of Dublin, CA",earthquake,0.41,0.46,0.06,11,automatic,nc,nc
+2022-05-09T09:29:24.350Z,37.7141685,-121.9738312,10.46,1.44,md,17,130,0.07596,0.04,nc,nc73731166,2022-05-09T09:46:16.238Z,"4km WNW of Dublin, CA",earthquake,0.41,0.46,0.06,11,automatic,nc,nc
 2022-05-09T09:26:07.530Z,37.3764992,-118.8036652,11.67,2.57,md,23,79,0.193,0.07,nc,nc73731161,2022-05-09T09:33:17.023Z,"19km WSW of Round Valley, CA",earthquake,0.34,1.94,0.16,29,automatic,nc,nc
 2022-05-09T09:08:10.070Z,38.8305016,-122.8123322,1.82,1.01,md,24,46,0.007312,0.03,nc,nc73731156,2022-05-09T09:25:14.974Z,"8km NW of The Geysers, CA",earthquake,0.19,0.41,0.16,4,automatic,nc,nc
 2022-05-09T08:42:03.400Z,19.1916675567627,-155.493667602539,31.8400001525879,2.89,ml,49,68,,0.109999999,hv,hv73007062,2022-05-09T08:47:34.450Z,"2 km SW of Pāhala, Hawaii",earthquake,0.42,0.579999983,3.48,31,automatic,hv,hv
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T06:09:12.590Z,19.2546672821045,-155.421997070312,30.5900001525879,1.98000002,md,41,119,,0.119999997,hv,hv73006962,2022-05-09T06:12:12.850Z,"8 km NE of Pāhala, Hawaii",earthquake,0.53,0.74000001,1.57000005,26,automatic,hv,hv
 2022-05-09T05:59:29.510Z,19.2474994659424,-155.398834228516,31.3099994659424,1.77999997,md,24,151,,0.119999997,hv,hv73006957,2022-05-09T06:03:11.880Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.72,0.75999999,1.88,4,automatic,hv,hv
 2022-05-09T05:37:34.031Z,61.8599,-150.8012,45.7,1.4,ml,,,,0.65,ak,ak0225xfixuj,2022-05-09T05:48:34.332Z,"34 km ESE of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-05-09T05:32:47.530Z,34.1668333,-80.7261667,3.08,3.29,md,19,63,0.03936,0.28,se,se60393731,2022-05-09T09:34:06.736Z,"6 km E of Elgin, South Carolina",earthquake,0.56,0.85,0.146,15,reviewed,se,se
+2022-05-09T05:32:47.530Z,34.1668333,-80.7261667,3.08,3.29,md,19,63,0.03936,0.28,se,se60393731,2022-05-09T09:44:21.767Z,"6 km E of Elgin, South Carolina",earthquake,0.56,0.85,0.146,15,reviewed,se,se
 2022-05-09T05:11:31.750Z,33.7701667,-116.029,1.85,1.59,ml,35,94,0.1192,0.28,ci,ci40254672,2022-05-09T05:15:15.291Z,"17km NE of Coachella, CA",earthquake,0.36,0.83,0.12,26,automatic,ci,ci
 2022-05-09T05:07:47.810Z,38.8581657,-122.7978363,1.48,1.25,md,16,159,0.003347,0.03,nc,nc73731111,2022-05-09T05:59:26.806Z,"8km WNW of Cobb, CA",earthquake,0.47,0.54,0.24,2,automatic,nc,nc
 2022-05-09T05:06:43.516Z,-22.1273,-68.8277,122.57,4.4,mb,,45,0.861,0.6,us,us7000h826,2022-05-09T09:08:43.040Z,"37 km NNE of Calama, Chile",earthquake,4.6,5.6,0.117,21,reviewed,us,us
@@ -164,6 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T10:09:26.253Z,63.1449,-150.4199,105,1,ml,,,,0.34,ak,ak0225vusqq4,2022-05-08T10:16:33.743Z,"74 km NNE of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-05-08T10:06:58.016Z,35.10013199,-95.53887177,0.6244754791,2.49,ml,17,143.7559891,0.1166593358,0.6497310184,ok,ok2022iyux,2022-05-08T10:10:49.523Z,"12 km ESE of Crowder, Oklahoma",earthquake,4.456260425,2.93809358,,13,automatic,ok,ok
 2022-05-08T09:50:26.845Z,60.0795,-151.7992,93.2,1.2,ml,,,,0.45,ak,ak0225vug3gv,2022-05-08T10:00:23.312Z,"7 km WNW of Ninilchik, Alaska",earthquake,,2,,,automatic,ak,ak
-2022-05-08T09:48:03.941Z,64.0982,-149.3842,7.6,1.2,ml,,,,0.79,ak,ak0225vufmbt,2022-05-08T10:05:55.912Z,"15 km NW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-08T09:47:26.363Z,61.9908,-147.1976,40.2,0.8,ml,,,,0.26,ak,ak0225vuff2s,2022-05-08T14:23:09.141Z,"6 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2022-05-08T09:38:31.646Z,64.4208,-146.6964,0,1.6,ml,,,,0.64,ak,ak0225vudjaw,2022-05-08T09:55:33.943Z,"7 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
