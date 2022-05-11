@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-11T07:40:48.420Z,38.8221664,-122.8570023,2.54,0.72,md,23,71,0.005372,0.02,nc,nc73732071,2022-05-11T07:42:22.211Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.46,0.13,4,automatic,nc,nc
 2022-05-11T07:25:19.370Z,33.4778333,-116.4866667,13.19,2.7,ml,78,27,0.06827,0.27,ci,ci40256064,2022-05-11T07:29:09.407Z,"19km ESE of Anza, CA",earthquake,0.24,0.46,0.2,25,automatic,ci,ci
 2022-05-11T07:18:20.942Z,62.2418,-149.6678,53.8,1.5,ml,,,,0.52,ak,ak02260roefq,2022-05-11T07:20:53.464Z,"13 km NE of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-05-11T07:15:44.320Z,33.3658333,-116.3178333,9.99,0.79,ml,23,97,0.007708,0.2,ci,ci40256056,2022-05-11T07:19:21.272Z,"13km NNE of Borrego Springs, CA",earthquake,0.39,0.64,0.124,14,automatic,ci,ci
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T06:04:30.049Z,36.614,-115.1048,6.4,0.6,ml,8,257.04,0.117,0.081,nn,nn00838709,2022-05-11T06:08:08.817Z,"41 km N of Nellis Air Force Base, Nevada",earthquake,,3.1,0.95,4,automatic,nn,nn
 2022-05-11T06:03:10.930Z,35.0761667,-118.937,4.57,1.27,ml,12,132,0.1012,0.3,ci,ci40256008,2022-05-11T06:06:41.947Z,"15km N of Grapevine, CA",earthquake,0.9,1.99,0.111,17,automatic,ci,ci
 2022-05-11T05:54:47.308Z,64.7829,-152.407,15.3,1,ml,,,,0.92,ak,ak02260qpb16,2022-05-11T06:10:58.978Z,"45 km SSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-11T05:52:23.420Z,38.7885017,-122.7708359,1.19,0.64,md,8,97,0.01414,0.03,nc,nc73732041,2022-05-11T06:09:18.501Z,"2km NW of The Geysers, CA",earthquake,0.4,0.55,0.21,3,automatic,nc,nc
+2022-05-11T05:52:23.420Z,38.7885017,-122.7708359,1.19,0.64,md,8,97,0.01414,0.03,nc,nc73732041,2022-05-11T07:42:16.055Z,"2km NW of The Geysers, CA",earthquake,0.4,0.55,0.21,3,automatic,nc,nc
 2022-05-11T05:44:25.595Z,60.2759,-141.6411,1.6,1.2,ml,,,,0.45,ak,ak02260qn473,2022-05-11T05:55:32.597Z,"134 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-11T05:35:31.390Z,34.2408333,-117.0745,2.12,1.04,ml,23,95,0.1291,0.25,ci,ci40256000,2022-05-11T05:39:12.672Z,"5km NE of Running Springs, CA",earthquake,0.45,2.07,0.174,23,automatic,ci,ci
 2022-05-11T05:30:08.120Z,36.011,-117.911,3.86,0.62,ml,9,154,0.01702,0.15,ci,ci40255992,2022-05-11T05:33:38.406Z,"5km SE of Coso Junction, CA",earthquake,0.58,0.87,0.064,6,automatic,ci,ci
@@ -236,7 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T07:48:25.040Z,38.8209991,-122.7656631,2.25,0.96,md,18,113,0.01002,0.03,nc,nc73731641,2022-05-10T08:21:17.368Z,"4km W of Cobb, CA",earthquake,0.29,0.52,0.19,3,automatic,nc,nc
 2022-05-10T07:47:34.390Z,47.1008333,-113.4931667,6.11,-0.73,md,4,183,0.089,0.1,mb,mb80545514,2022-05-10T15:22:54.920Z,"8 km S of Seeley Lake, Montana",earthquake,3.4,6.5,,1,reviewed,mb,mb
 2022-05-10T07:46:58.980Z,18.002,-67.0186666666667,5.49,2.01,md,5,143,,0.1,pr,pr71348193,2022-05-10T08:06:00.760Z,"4 km NE of La Parguera, Puerto Rico",earthquake,0.47,0.98,0.0717084676128579,3,reviewed,pr,pr
-2022-05-10T07:46:09.266Z,38.252,-118.3585,10.5,1.9,ml,21,70.31,0.115,0.1419,nn,nn00838600,2022-05-10T16:17:47.857Z,"26 km SW of Mina, Nevada",earthquake,,1.1,0.21,8,reviewed,nn,nn
-2022-05-10T07:45:52.971Z,-55.8283,-27.1888,28.46,4.8,mb,,87,5.565,0.49,us,us7000h8af,2022-05-10T09:17:59.040Z,"South Sandwich Islands region",earthquake,11.9,3.4,0.074,56,reviewed,us,us
-2022-05-10T07:45:13.520Z,43.6408333,-114.2615,1.62,1.44,ml,10,125,0.136,0.17,mb,mb80545484,2022-05-10T14:50:04.610Z,"9 km ESE of Ketchum, Idaho",earthquake,0.71,1.88,0.199,10,reviewed,mb,mb
-2022-05-10T07:41:35.600Z,17.8583333333333,-66.9426666666667,11.98,2.38,md,17,255,,0.13,pr,pr71348183,2022-05-10T07:55:38.650Z,"13 km SSW of Guánica, Puerto Rico",earthquake,0.55,0.36,0.0367102433415505,8,reviewed,pr,pr
