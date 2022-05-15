@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-15T11:12:38.420Z,34.5188333,-118.8181667,-0.21,1.14,ml,18,208,0.1233,0.2,ci,ci40019359,2022-05-15T11:16:12.551Z,"12km N of Piru, CA",earthquake,0.71,31.61,0.207,28,automatic,ci,ci
-2022-05-15T11:09:53.002Z,11.8795,142.2766,19.49,5.5,mww,,32,3.046,0.59,us,us6000hlak,2022-05-15T11:29:17.040Z,"south of the Mariana Islands",earthquake,8.9,4,0.073,18,reviewed,us,us
+2022-05-15T11:09:53.002Z,11.8795,142.2766,19.49,5.5,mww,,32,3.046,0.59,us,us6000hlak,2022-05-15T11:32:50.098Z,"south of the Mariana Islands",earthquake,8.9,4,0.073,18,reviewed,us,us
 2022-05-15T11:03:19.364Z,61.5237,-146.3997,16.5,2,ml,,,,0.87,ak,ak02267g4ay5,2022-05-15T11:11:04.913Z,"43 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-15T10:57:08.860Z,33.231,-116.7316667,11.21,0.47,ml,19,92,0.02324,0.19,ci,ci40019351,2022-05-15T11:00:50.419Z,"3km ESE of Lake Henshaw, CA",earthquake,0.38,0.58,0.202,10,automatic,ci,ci
 2022-05-15T10:46:04.361Z,61.7683,-150.7466,61.2,1.2,ml,,,,0.86,ak,ak02267fs1zy,2022-05-15T11:04:39.055Z,"27 km NNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T09:32:18.711Z,63.2536,-149.4789,3.7,1.6,ml,,,,0.79,ak,ak02267f3ngq,2022-05-15T09:39:58.831Z,"30 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-15T09:22:44.420Z,-28.6884,-176.5663,10,4.9,mb,,70,1.316,0.45,us,us6000hla3,2022-05-15T09:52:38.040Z,"Kermadec Islands region",earthquake,11.1,1.9,0.046,147,reviewed,us,us
 2022-05-15T08:41:57.000Z,33.4288333,-116.5975,7.16,0.63,ml,28,66,0.06581,0.17,ci,ci40019335,2022-05-15T08:45:43.253Z,"16km SSE of Anza, CA",earthquake,0.31,0.55,0.111,18,automatic,ci,ci
-2022-05-15T08:19:20.380Z,18.8015,-65.7946666666667,15.55,3.43,md,24,239,,0.22,pr,pr71348943,2022-05-15T08:54:17.730Z,"Puerto Rico region",earthquake,0.69,1.23,0.134287055842265,11,reviewed,pr,pr
+2022-05-15T08:19:20.380Z,18.8015,-65.7946666666667,15.55,3.43,md,24,239,,0.22,pr,pr71348943,2022-05-15T11:31:24.840Z,"Puerto Rico region",earthquake,0.69,1.23,0.134287055842265,11,reviewed,pr,pr
 2022-05-15T08:16:56.200Z,17.9303333333333,-67.0168333333333,3.11,2.17,md,3,240,,0.08,pr,pr71348933,2022-05-15T08:27:22.810Z,"5 km SSE of La Parguera, Puerto Rico",earthquake,1.4,2.64,0.0784005467510807,3,reviewed,pr,pr
 2022-05-15T08:02:12.446Z,62.9426,-148.2566,0,1.3,ml,,,,0.76,ak,ak02267ebrwc,2022-05-15T08:11:29.032Z,"61 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-15T07:57:45.519Z,64.81,-147.5133,19.8,0.5,ml,,,,0.29,ak,ak02267e2787,2022-05-15T08:11:28.273Z,"1 km NE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -184,6 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T11:51:52.925Z,63.2219,-151.078,3.6,2.2,ml,,,,0.85,ak,ak02265svbcq,2022-05-14T11:55:52.566Z,"48 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-14T11:47:20.520Z,37.4766655,-118.7931671,7.98,2.48,md,24,71,0.1167,0.05,nc,nc73733616,2022-05-14T14:29:10.944Z,"14km SW of Toms Place, CA",earthquake,0.36,1.58,0.19,30,automatic,nc,nc
 2022-05-14T11:47:15.347Z,-23.6183,-66.8319,216.51,4.7,mb,,108,1.404,0.79,us,us6000hl3s,2022-05-14T12:09:18.040Z,"84 km NW of San Antonio de los Cobres, Argentina",earthquake,5.8,10.6,0.208,8,reviewed,us,us
-2022-05-14T11:37:31.210Z,19.1981658935547,-155.489166259766,32.310001373291,2.37,ml,44,133,,0.129999995,hv,hv73012042,2022-05-14T11:43:03.020Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.52,0.689999998,3.98,10,automatic,hv,hv
-2022-05-14T11:37:07.530Z,19.1685009002686,-155.473159790039,28.5400009155273,2.37,ml,38,84,,0.170000002,hv,hv73012037,2022-05-14T11:42:37.380Z,"3 km S of Pāhala, Hawaii",earthquake,0.61,0.920000017,3.93,13,automatic,hv,hv
-2022-05-14T11:37:04.610Z,40.5628319,-122.168335,9.21,1.73,md,7,188,0.05269,0.12,nc,nc73733611,2022-05-14T14:14:10.681Z,"2km ENE of Millville, CA",earthquake,1.99,3.01,0.15,5,automatic,nc,nc
