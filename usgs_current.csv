@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T10:22:55.470Z,36.4633333,-117.9541667,9.14,1.91,ml,21,69,0.1042,0.21,ci,ci40022303,2022-05-19T10:26:42.867Z,"17km SE of Lone Pine, CA",earthquake,0.41,0.75,0.266,26,automatic,ci,ci
 2022-05-19T10:13:31.721Z,-54.1373,159.0844,10,6.9,mww,,39,0.369,0.94,us,us6000hm9j,2022-05-19T11:08:24.870Z,"Macquarie Island region",earthquake,4.1,1.7,0.078,16,reviewed,us,us
 2022-05-19T10:12:50.100Z,35.9693333,-117.6906667,2.65,0.64,ml,9,100,0.03906,0.1,ci,ci40022295,2022-05-19T10:16:26.298Z,"20km E of Little Lake, CA",earthquake,0.42,0.29,0.046,6,automatic,ci,ci
-2022-05-19T10:12:18.390Z,38.8305016,-122.8011703,1.7,0.85,md,12,75,0.009936,0.01,nc,nc73735631,2022-05-19T10:22:10.775Z,"7km W of Cobb, CA",earthquake,0.31,0.67,,1,automatic,nc,nc
+2022-05-19T10:12:18.390Z,38.8305016,-122.8011703,1.7,0.85,md,12,75,0.009936,0.01,nc,nc73735631,2022-05-19T11:40:11.257Z,"7km W of Cobb, CA",earthquake,0.31,0.67,,1,automatic,nc,nc
 2022-05-19T10:10:55.874Z,-54.0394,159.1444,10,5.5,mb,,130,0.473,0.92,us,us6000hm9e,2022-05-19T10:31:52.715Z,"Macquarie Island region",earthquake,11.2,1.9,0.101,34,reviewed,us,us
 2022-05-19T10:01:04.360Z,19.1678333282471,-155.485992431641,35.1399993896484,2.03999996,md,43,98,,0.159999996,hv,hv73017062,2022-05-19T10:04:16.320Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.920000017,0.449999988,5,automatic,hv,hv
 2022-05-19T09:23:51.580Z,-16.2914,-173.8381,113,5.8,mww,,72,3.09,0.75,us,us6000hm95,2022-05-19T11:27:01.547Z,"37 km S of Hihifo, Tonga",earthquake,9.5,5.9,0.078,16,reviewed,us,us
@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T23:06:07.690Z,33.6843333,-116.7663333,18.69,0.79,ml,27,74,0.05107,0.1,ci,ci40021999,2022-05-18T23:19:17.005Z,"8km SW of Idyllwild, CA",earthquake,0.24,0.32,0.129,17,reviewed,ci,ci
 2022-05-18T23:01:00.650Z,36.01,-117.9113333,2.56,1.13,ml,20,114,0.01712,0.08,ci,ci40021991,2022-05-18T23:14:57.546Z,"5km SE of Coso Junction, CA",earthquake,0.19,0.16,0.174,15,reviewed,ci,ci
 2022-05-18T23:00:21.370Z,38.8273315,-122.8030014,1.54,1.42,md,22,35,0.00678,0.02,nc,nc73735456,2022-05-19T01:47:10.752Z,"7km NW of The Geysers, CA",earthquake,0.17,0.4,0.03,3,automatic,nc,nc
-2022-05-18T22:56:48.210Z,49.112833333333334,-122.11116666666666,-0.73,1.1500000000000001,ml,7,233,0.1159,0.37,uw,uw61841506,2022-05-19T03:55:23.410Z,"11 km ENE of Abbotsford, Canada",explosion,5.59,31.61,0.015639989375222263,2,reviewed,uw,uw
+2022-05-18T22:56:48.210Z,49.112833333333334,-122.11116666666666,-0.73,1.1500000000000001,ml,7,233,0.1159,0.37,uw,uw61841506,2022-05-19T03:55:23.410Z,"British Columbia, Canada",explosion,5.59,31.61,0.015639989375222263,2,reviewed,uw,uw
 2022-05-18T22:45:06.760Z,58.326,-154.824166666667,5.07,-0.31,ml,8,163,,0.17,av,av91059138,2022-05-19T03:10:45.340Z,"87 km NNW of Karluk, Alaska",earthquake,0.63,1.04,0.161815654096072,8,reviewed,av,av
 2022-05-18T22:21:27.770Z,34.1795,-117.7221667,7.21,0.35,ml,14,90,0.03876,0.2,ci,ci40021983,2022-05-18T22:57:23.814Z,"9km N of Claremont, CA",earthquake,0.42,0.9,0.051,1,reviewed,ci,ci
 2022-05-18T21:57:10.193Z,60.3113,-141.2757,16.5,1,ml,,,,0.18,ak,ak0226cl08gb,2022-05-18T21:58:39.944Z,"121 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T20:36:50.450Z,38.8651657,-122.7946701,12,0.91,md,12,221,0.01846,0.1,nc,nc73735421,2022-05-18T20:49:12.023Z,"8km NW of Cobb, CA",earthquake,1.29,1.92,,1,automatic,nc,nc
 2022-05-18T20:35:32.960Z,19.1516666412354,-155.476333618164,36.4000015258789,1.83000004,md,31,166,,0.109999999,hv,hv73016457,2022-05-18T20:38:48.430Z,"5 km S of Pāhala, Hawaii",earthquake,0.83,0.920000017,1.83000004,4,automatic,hv,hv
 2022-05-18T20:34:57.770Z,58.5365,-154.607,9.1,-0.53,ml,5,205,,0.28,av,av91059118,2022-05-19T02:38:35.440Z,"101 km S of Kokhanok, Alaska",earthquake,0.88,1.5,0.199158335409465,5,reviewed,av,av
-2022-05-18T20:28:55.125Z,58.0781,-151.5967,24.1,2,ml,,,,0.44,ak,ak0226ck8ojs,2022-05-18T20:32:08.215Z,"56 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-18T20:28:55.125Z,58.0781,-151.5967,24.1,2,ml,,,,0.44,ak,ak0226ck8ojs,2022-05-18T20:32:08.215Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-18T20:23:49.318Z,-58.7784,-25.3638,29.75,5.5,mb,,73,7.619,0.69,us,us6000hm4d,2022-05-18T22:27:24.571Z,"South Sandwich Islands region",earthquake,9.6,4.2,0.05,137,reviewed,us,us
 2022-05-18T20:20:49.250Z,33.8316667,-117.7243333,12.38,0.81,ml,15,115,0.05424,0.14,ci,ci40021951,2022-05-18T20:37:36.372Z,"8km ENE of Villa Park, CA",earthquake,0.35,0.45,0.044,6,reviewed,ci,ci
 2022-05-18T20:14:09.746Z,61.5972,-146.2724,16.5,1.8,ml,,,,0.79,ak,ak0226ck5l0u,2022-05-18T20:17:14.933Z,"51 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
