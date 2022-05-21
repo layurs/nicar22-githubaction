@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-21T17:40:42.580Z,36.6421661,-121.3970032,8.29,1.43,md,13,57,0.07323,0.2,nc,nc73736371,2022-05-21T17:43:25.206Z,"14km NE of Chualar, CA",earthquake,0.65,2.07,0.48,6,automatic,nc,nc
+2022-05-21T17:40:42.580Z,36.6421661,-121.3970032,8.29,1.43,md,13,57,0.07323,0.2,nc,nc73736371,2022-05-21T17:52:10.606Z,"14km NE of Chualar, CA",earthquake,0.65,2.07,0.48,6,automatic,nc,nc
 2022-05-21T17:34:57.181Z,61.6013,-148.0401,8.6,1.4,ml,,,,0.71,ak,ak0226hh3pnu,2022-05-21T17:37:36.805Z,"30 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-21T17:30:29.270Z,33.4265,-116.6123333,7.73,0.58,ml,21,63,0.06854,0.14,ci,ci40023759,2022-05-21T17:34:12.852Z,"15km SSE of Anza, CA",earthquake,0.29,0.55,0.145,15,automatic,ci,ci
 2022-05-21T17:19:40.850Z,19.404333114624,-155.260498046875,15.9200000762939,2.46,ml,51,42,,0.129999995,hv,hv73019142,2022-05-21T17:25:11.340Z,"5 km SSW of Volcano, Hawaii",earthquake,0.28,0.370000005,3.01,24,automatic,hv,hv
@@ -45,6 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T12:19:01.562Z,38.5655,-119.5144,7.3,0.8,ml,10,158.83,0.021,0.0997,nn,nn00839266,2022-05-21T12:23:29.224Z,"0 km W of Coleville, California",earthquake,,0.7,0.16,4,automatic,nn,nn
 2022-05-21T12:16:06.360Z,38.8363342,-122.8051682,1.95,0.36,md,9,79,0.01176,0.01,nc,nc73736286,2022-05-21T14:24:10.359Z,"7km WNW of Cobb, CA",earthquake,0.4,1.26,,1,automatic,nc,nc
 2022-05-21T11:57:21.845Z,39.2272,-120.089,8.1,0.1,ml,6,86.93,0.035,0.0514,nn,nn00839273,2022-05-21T17:32:46.154Z,"0 km W of Carnelian Bay, California",earthquake,,1.5,0,1,reviewed,nn,nn
+2022-05-21T11:54:18.320Z,37.63,-122.036,2.48,1.23,md,33,58,0.02493,0.07,nc,nc73736281,2022-05-21T17:54:28.703Z,"4km ESE of Hayward, CA",earthquake,0.13,0.25,0.1,24,reviewed,nc,nc
 2022-05-21T11:52:22.448Z,84.2179,-0.4147,10,4.5,mb,,86,5.609,0.72,us,us6000hmwf,2022-05-21T12:14:01.040Z,"north of Svalbard",earthquake,9.4,1.9,0.047,132,reviewed,us,us
 2022-05-21T11:22:53.334Z,64.3431,-149.703,4,1.1,ml,,,,0.78,ak,ak0226hdgj5h,2022-05-21T11:38:40.552Z,"24 km W of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-21T11:21:26.040Z,34.0763333,-116.6723333,0,0.77,ml,9,256,0.2194,0.14,ci,ci40023623,2022-05-21T11:25:08.459Z,"9km WNW of Morongo Valley, CA",earthquake,1.5,2.96,0.219,16,automatic,ci,ci
@@ -64,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T10:07:17.760Z,36.0346667,-117.8185,1.2,1.33,ml,17,95,0.04418,0.16,ci,ci40023583,2022-05-21T10:10:53.444Z,"12km E of Coso Junction, CA",earthquake,0.26,0.37,0.175,17,automatic,ci,ci
 2022-05-21T10:00:43.138Z,63.1789,-150.4136,117.1,1.7,ml,,,,0.18,ak,ak0226hcqd0p,2022-05-21T10:22:59.746Z,"76 km ESE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-05-21T09:57:12.828Z,65.0133,-148.7709,7.8,1,ml,,,,0.38,ak,ak0226hch2vr,2022-05-21T10:11:26.373Z,"31 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-21T09:56:07.208Z,-32.5689,-71.8191,24.59,4.4,mb,,88,0.475,0.63,us,us6000hmw0,2022-05-21T15:00:03.926Z,"54 km NNW of Valparaíso, Chile",earthquake,4.4,6.3,0.118,22,reviewed,us,us
+2022-05-21T09:56:07.208Z,-32.5689,-71.8191,24.59,4.4,mb,,88,0.475,0.63,us,us6000hmw0,2022-05-21T17:52:04.073Z,"54 km NNW of Valparaíso, Chile",earthquake,4.4,6.3,0.118,22,reviewed,us,us
 2022-05-21T09:51:01.794Z,36.29756927,-98.17848206,3.125697613,2.12,ml,30,73.18418884,0.2598652244,0.4870070905,ok,ok2022jwny,2022-05-21T09:54:18.484Z,"5 km N of Ames, Oklahoma",earthquake,2.250867255,1.734783384,,24,automatic,ok,ok
 2022-05-21T09:47:34.899Z,59.7094,-152.8106,78.7,1.8,ml,,,,0.21,ak,ak0226hceya3,2022-05-21T10:01:18.347Z,"55 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-05-21T09:39:43.591Z,63.4208,-151.511,1,1,ml,,,,0.55,ak,ak0226hcdadb,2022-05-21T09:58:36.380Z,"17 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -201,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T18:21:57.080Z,36.0453333,-117.7131667,2.43,0.95,ml,12,117,0.04676,0.06,ci,ci40023295,2022-05-20T20:31:03.053Z,"21km E of Coso Junction, CA",earthquake,0.14,0.2,0.078,7,reviewed,ci,ci
 2022-05-20T18:10:50.730Z,35.394,-117.7188333,8.96,2.49,ml,49,41,0.09046,0.14,ci,ci40023287,2022-05-21T12:32:00.648Z,"8km WNW of Johannesburg, CA",earthquake,0.15,0.42,0.239,25,reviewed,ci,ci
 2022-05-20T18:09:47.816Z,37.158,-116.2882,7.4,0.9,ml,15,187.34,0.139,0.1426,nn,nn00839243,2022-05-21T01:07:44.940Z,"50 km ENE of Beatty, Nevada",earthquake,,3.6,0.58,9,reviewed,nn,nn
-2022-05-20T17:56:09.780Z,33.685,-116.7593333,15.36,0.53,ml,19,136,0.04582,0.11,ci,ci40023263,2022-05-20T20:21:17.268Z,"7km SSW of Idyllwild, CA",earthquake,0.37,0.42,0.131,9,reviewed,ci,ci
