@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T22:14:47.193Z,60.7257,-147.3594,4,1.7,ml,,,,1.06,ak,ak0226hjyklr,2022-05-21T22:24:00.204Z,"40 km WSW of Tatitlek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-05-21T22:03:59.560Z,33.9636667,-116.6121667,15.06,0.97,ml,25,60,0.08036,0.17,ci,ci40023839,2022-05-21T22:07:35.624Z,"9km NW of Garnet, CA",earthquake,0.26,0.65,0.162,29,automatic,ci,ci
 2022-05-21T21:58:42.020Z,39.2663345,-122.7828369,0.5,1.86,md,6,139,0.1422,0.14,nc,nc73736426,2022-05-21T22:37:16.527Z,"16km NE of Upper Lake, CA",earthquake,0.56,13.74,0.04,3,automatic,nc,nc
-2022-05-21T21:50:48.143Z,13.9517,120.6771,129,6.1,mww,,13,8.365,1.12,us,us6000hmz8,2022-05-21T22:45:43.895Z,"1 km ENE of Bungahan, Philippines",earthquake,7.8,1.9,0.033,90,reviewed,us,us
+2022-05-21T21:50:48.143Z,13.9517,120.6771,129,6.1,mww,,13,8.365,1.12,us,us6000hmz8,2022-05-21T22:54:42.987Z,"1 km ENE of Bungahan, Philippines",earthquake,7.8,1.9,0.033,90,reviewed,us,us
 2022-05-21T21:47:50.837Z,36.6438,-116.4149,6.2,0.9,ml,17,99.21,0.061,0.1904,nn,nn00839289,2022-05-21T21:50:56.962Z,"42 km SE of Beatty, Nevada",earthquake,,0.8,1.04,12,automatic,nn,nn
 2022-05-21T21:42:30.510Z,17.9826666666667,-66.9895,4.98,2,md,5,162,,0.08,pr,pr71349788,2022-05-21T22:09:32.230Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.4,1.12,0.136285500697753,5,reviewed,pr,pr
 2022-05-21T21:30:12.272Z,31.6018,-103.996,5,2.7,mb_lg,,54,0.255,0.53,us,us6000hmz3,2022-05-21T21:42:17.040Z,"37 km NNW of Toyah, Texas",earthquake,1.5,2,0.1,41,reviewed,us,us
@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T08:29:15.001Z,-4.728,102.6515,56.21,4.7,mb,,90,0.474,0.88,us,us6000hmvl,2022-05-21T08:44:16.040Z,"102 km SW of Pagar Alam, Indonesia",earthquake,7.6,6.9,0.106,27,reviewed,us,us
 2022-05-21T08:19:42.760Z,35.5095,-118.3843333,8.26,1.85,ml,33,33,0.1695,0.16,ci,ci40023543,2022-05-21T08:30:52.410Z,"13km SE of Bodfish, CA",earthquake,0.21,0.97,0.229,28,automatic,ci,ci
 2022-05-21T08:11:33.050Z,84.2549,-4.0234,10,4.5,mb,,80,5.815,0.67,us,us6000hmvg,2022-05-21T10:21:03.040Z,"north of Svalbard",earthquake,6.4,1.9,0.084,41,reviewed,us,us
-2022-05-21T08:11:13.040Z,40.5040016,-122.9645004,35.4,2.59,md,11,119,0.07229,0.24,nc,nc73736226,2022-05-21T10:44:11.112Z,"19km ESE of Hayfork, CA",earthquake,1.18,3.11,0.07,8,automatic,nc,nc
+2022-05-21T08:11:12.300Z,40.5215,-122.9758333,43.13,2.57,md,25,69,0.09071,0.09,nc,nc73736226,2022-05-21T22:55:55.385Z,"18km ESE of Hayfork, CA",earthquake,0.35,0.57,0.16,32,reviewed,nc,nc
 2022-05-21T08:03:08.884Z,84.1853,-1.6539,10,4.2,mb,,113,5.636,0.91,us,us6000hmvd,2022-05-21T08:20:08.040Z,"north of Svalbard",earthquake,11.9,1.9,0.121,19,reviewed,us,us
 2022-05-21T07:56:26.450Z,36.569,-121.1228333,8.84,1.77,md,31,96,0.04146,0.06,nc,nc73736221,2022-05-21T21:05:17.790Z,"4km NNE of Pinnacles, CA",earthquake,0.22,0.25,0.211,30,reviewed,nc,nc
 2022-05-21T07:50:11.000Z,17.9576666666667,-67.0086666666667,10.45,1.96,md,5,209,,0.03,pr,pr71349708,2022-05-21T08:34:28.810Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.58,0.78,0.0137939616726659,5,reviewed,pr,pr
@@ -196,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T23:07:42.110Z,36.5665,-121.1576667,2.98,2.28,md,52,64,,0.07,nc,nc73736106,2022-05-21T20:13:12.456Z,"4km NNW of Pinnacles, CA",earthquake,0.15,0.2,0.223,50,reviewed,nc,nc
 2022-05-20T23:04:49.180Z,45.309333333333335,-121.76466666666667,5.48,0.7000000000000001,ml,7,166,0.02731,0.07,uw,uw61833537,2022-05-20T23:50:50.790Z,"0 km NW of Government Camp, Oregon",earthquake,0.47,0.86,0.16687202790978262,4,reviewed,uw,uw
 2022-05-20T23:04:47.140Z,17.9491666666667,-66.8411666666667,14.58,1.82,md,10,209,,0.15,pr,pr71349618,2022-05-20T23:20:49.290Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.6,0.71,0.133314891088989,8,reviewed,pr,pr
-2022-05-20T22:55:29.400Z,38.7143333,-122.3535,13.78,1.26,md,14,125,0.09217,0.13,nc,nc73736101,2022-05-21T09:00:10.325Z,"18km NNE of Angwin, CA",earthquake,0.56,0.89,0.195,12,reviewed,nc,nc
-2022-05-20T22:50:36.973Z,38.1846,-117.8613,11.5,0.4,ml,13,174.67,0.09,0.1003,nn,nn00839230,2022-05-20T23:50:25.961Z,"31 km SE of Mina, Nevada",earthquake,,1.7,0.41,3,reviewed,nn,nn
