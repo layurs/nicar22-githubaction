@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-24T08:31:34.780Z,33.3598333,-116.3111667,11.76,0.74,ml,22,106,0.00285,0.16,ci,ci40025239,2022-05-24T08:35:15.341Z,"13km NNE of Borrego Springs, CA",earthquake,0.28,0.54,0.16,17,automatic,ci,ci
-2022-05-24T08:31:23.730Z,38.8251648,-122.7993317,2.67,0.83,md,18,59,0.008575,0.01,nc,nc73737376,2022-05-24T08:40:11.204Z,"6km NW of The Geysers, CA",earthquake,0.28,0.58,0.45,2,automatic,nc,nc
+2022-05-24T08:31:23.730Z,38.8251648,-122.7993317,2.67,0.83,md,18,59,0.008575,0.01,nc,nc73737376,2022-05-24T08:47:23.249Z,"6km NW of The Geysers, CA",earthquake,0.28,0.58,0.45,2,automatic,nc,nc
 2022-05-24T08:20:08.180Z,19.199333190918,-155.399673461914,31.3400001525879,2.06,ml,44,159,,0.119999997,hv,hv73021612,2022-05-24T08:25:38.410Z,"8 km E of Pāhala, Hawaii",earthquake,0.65,0.790000021,4.91,3,automatic,hv,hv
 2022-05-24T07:53:29.460Z,38.8264999,-122.8021698,1.62,1.18,md,21,34,0.006909,0.02,nc,nc73737371,2022-05-24T08:11:22.014Z,"7km NW of The Geysers, CA",earthquake,0.2,0.34,0.09,5,automatic,nc,nc
 2022-05-24T07:51:38.230Z,33.9355,-116.701,15.9,0.8,ml,26,50,0.1118,0.14,ci,ci40025231,2022-05-24T07:55:15.748Z,"8km ENE of Cabazon, CA",earthquake,0.28,0.65,0.19,21,automatic,ci,ci
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T03:09:58.740Z,36.0956667,-117.7926667,8.25,1.26,ml,21,53,0.05491,0.16,ci,ci40025079,2022-05-24T03:13:44.586Z,"15km ENE of Coso Junction, CA",earthquake,0.29,0.54,0.181,16,automatic,ci,ci
 2022-05-24T03:05:49.162Z,66.522,-150.8871,15,1.1,ml,,,,0.7,ak,ak0226m77g9x,2022-05-24T03:21:33.694Z,"52 km SSE of Bettles, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-24T02:58:18.601Z,5.0528,126.7831,80.39,4.4,mb,,144,2.334,0.82,us,us7000hc3e,2022-05-24T03:45:29.040Z,"151 km ESE of Sarangani, Philippines",earthquake,4.4,10.5,0.13,17,reviewed,us,us
-2022-05-24T02:22:36.590Z,38.3441667,-122.3851667,4.46,1.24,md,32,50,0.05422,0.11,nc,nc73737271,2022-05-24T08:18:11.059Z,"7km SSW of Yountville, CA",earthquake,0.25,0.6,0.256,25,reviewed,nc,nc
+2022-05-24T02:22:36.590Z,38.3441667,-122.3851667,4.46,1.24,md,32,50,0.05422,0.11,nc,nc73737271,2022-05-24T08:47:24.249Z,"7km SSW of Yountville, CA",earthquake,0.25,0.6,0.256,25,reviewed,nc,nc
 2022-05-24T02:17:09.510Z,35.8753333,-117.6626667,5.98,1.8,ml,22,52,0.0731,0.14,ci,ci40025063,2022-05-24T02:20:43.696Z,"23km ESE of Little Lake, CA",earthquake,0.23,0.64,0.149,26,automatic,ci,ci
 2022-05-24T02:16:50.933Z,13.7438,120.693,160.74,4.3,mb,,115,8.782,0.48,us,us7000hc33,2022-05-24T02:37:13.040Z,"11 km S of Hukay, Philippines",earthquake,14.2,9.1,0.099,29,reviewed,us,us
 2022-05-24T02:08:28.549Z,61.1864,-149.6892,27.7,1.7,ml,,,,0.8,ak,ak0226m6mm93,2022-05-24T02:11:49.249Z,"8 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T09:09:18.870Z,18.7616666666667,-65.2646666666667,33.64,3.21,md,14,282,,0.43,pr,pr71350248,2022-05-23T10:28:48.660Z,"50 km N of Culebra, Puerto Rico",earthquake,3.1,9.01,0.0614073669561508,9,reviewed,pr,pr
 2022-05-23T09:07:45.720Z,60.0205,-153.101833333333,2.5,-0.76,ml,5,126,,0.08,av,av91570331,2022-05-24T00:42:14.160Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.35,1.4,0.140797129433471,5,reviewed,av,av
 2022-05-23T09:07:42.750Z,37.6378333,-119.0183333,-0.1,-0.02,md,9,85,0.001123,0.01,nc,nc73736991,2022-05-23T17:42:23.857Z,"4km W of Mammoth Lakes, CA",earthquake,0.37,0.51,0.32,9,reviewed,nc,nc
-2022-05-23T08:54:44.410Z,53.8705,-166.7415,4.38,-0.66,ml,6,127,,0.06,av,av91059633,2022-05-24T00:32:29.830Z,"13 km W of Dutch Harbor, Alaska",earthquake,0.26,0.65,0.306333140110999,6,reviewed,av,av
