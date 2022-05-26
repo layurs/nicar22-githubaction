@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-26T11:01:16.850Z,34.5079994,-118.6139984,1.92,2,ml,72,25,0.0116,0.26,ci,ci40027207,2022-05-26T11:09:44.642Z,"2km NNE of Castaic, CA",earthquake,0.23,0.38,0.204,24,automatic,ci,ci
-2022-05-26T10:55:52.362Z,59.8786,-152.5395,85,3.6,ml,,,,0.65,ak,ak0226pmqwk1,2022-05-26T11:04:46.253Z,"41 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-26T11:21:12.150Z,35.6071667,-117.3978333,4.53,0.98,ml,12,176,0.05637,0.19,ci,ci40027231,2022-05-26T11:24:42.337Z,"18km S of Trona, CA",earthquake,0.53,0.58,0.112,9,automatic,ci,ci
+2022-05-26T11:20:20.277Z,63.0863,-151.5352,0,1.5,ml,,,,0.84,ak,ak0226pn4rmr,2022-05-26T11:23:52.829Z,"51 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-26T11:01:16.850Z,34.5079994,-118.6139984,1.92,2,ml,72,25,0.0116,0.26,ci,ci40027207,2022-05-26T11:16:26.131Z,"2km NNE of Castaic, CA",earthquake,0.23,0.38,0.204,24,automatic,ci,ci
+2022-05-26T10:55:53.080Z,59.882,-152.5546,84.9,3.7,ml,,,,0.47,ak,ak0226pmqwk1,2022-05-26T11:24:03.263Z,"42 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-05-26T10:51:06.930Z,36.7364998,-121.4053345,6.65,1.71,md,17,141,0.04344,0.09,nc,nc73738156,2022-05-26T11:08:15.452Z,"9km SSW of Ridgemark, CA",earthquake,0.45,0.7,0.23,5,automatic,nc,nc
 2022-05-26T10:50:11.800Z,19.4093341827393,-155.846160888672,7.40000009536743,1.82000005,md,26,173,,0.140000001,hv,hv73023607,2022-05-26T10:53:11.220Z,"5 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.6,0.579999983,0.00999999978,5,automatic,hv,hv
 2022-05-26T10:37:10.220Z,38.8358345,-122.8058319,1.75,0.36,md,8,110,0.01237,0.02,nc,nc73738151,2022-05-26T10:54:16.234Z,"7km WNW of Cobb, CA",earthquake,0.41,1.03,,1,automatic,nc,nc
@@ -13,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T09:32:06.350Z,35.602,-117.399,5.1,1.51,ml,18,162,0.05378,0.17,ci,ci40027167,2022-05-26T09:59:44.819Z,"18km S of Trona, CA",earthquake,0.41,0.76,0.148,21,automatic,ci,ci
 2022-05-26T09:30:26.933Z,31.66138635,-104.36841,7.082763671999999,2.9,ml,19,62,0.0888390058,0.3,tx,tx2022kfqu,2022-05-26T09:59:57.040Z,"57 km S of Whites City, New Mexico",earthquake,1.209352305,1.478899358,0.1,11,reviewed,tx,tx
 2022-05-26T09:27:48.140Z,35.6046667,-117.401,4.94,1.27,ml,11,175,0.05307,0.18,ci,ci40027159,2022-05-26T09:44:22.833Z,"18km S of Trona, CA",earthquake,0.64,0.65,0.112,3,automatic,ci,ci
-2022-05-26T09:23:32.480Z,35.6041679,-117.4063339,3.06,4.27,mw,83,26,0.04882,0.19,ci,ci40027143,2022-05-26T11:09:28.259Z,"18km S of Trona, CA",earthquake,0.18,0.4,,6,reviewed,ci,ci
+2022-05-26T09:23:32.480Z,35.6041679,-117.4063339,3.06,4.27,mw,83,26,0.04882,0.19,ci,ci40027143,2022-05-26T11:24:26.722Z,"18km S of Trona, CA",earthquake,0.18,0.4,,6,reviewed,ci,ci
 2022-05-26T09:22:47.510Z,38.4541664,-122.5163345,-0.32,1.35,md,8,100,0.08612,0.09,nc,nc73738131,2022-05-26T09:43:30.778Z,"5km NNE of Kenwood, CA",earthquake,0.39,2.72,0.17,3,automatic,nc,nc
 2022-05-26T09:17:34.187Z,61.2962,-151.4562,77.9,1.5,ml,,,,0.61,ak,ak0226plxact,2022-05-26T09:26:09.996Z,"26 km NW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-26T09:00:51.880Z,36.7176666,-121.3581696,3.3,1.88,md,15,152,0.01384,0.08,nc,nc73738126,2022-05-26T09:25:17.662Z,"9km SSW of Tres Pinos, CA",earthquake,0.41,0.52,0.16,7,automatic,nc,nc
@@ -266,10 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T11:44:58.959Z,59.8636,-152.4404,94.1,1.2,ml,,,,0.38,ak,ak0226nzqnb6,2022-05-25T11:57:29.812Z,"35 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-25T11:40:47.126Z,60.7764,-152.317,94.7,1.5,ml,,,,1.24,ak,ak0226nzprjx,2022-05-25T11:53:41.736Z,"56 km W of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-25T11:31:27.240Z,36.0515,-117.8453333,2.09,0.5,ml,12,80,0.05693,0.08,ci,ci40026143,2022-05-25T17:59:46.994Z,"9km E of Coso Junction, CA",earthquake,0.17,0.19,0.032,4,reviewed,ci,ci
-2022-05-25T11:31:00.299Z,61.2835,-151.9083,93.6,1.7,ml,,,,0.57,ak,ak0226nznnby,2022-05-25T11:42:19.902Z,"47 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-25T11:29:05.304Z,61.9025,-150.878,70.1,1.2,ml,,,,0.45,ak,ak0226nznbfm,2022-05-25T11:42:19.117Z,"28 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-25T11:26:03.320Z,32.5945,-115.5273333,3.1,1.41,ml,22,122,0.07894,0.26,ci,ci40026135,2022-05-25T17:53:54.006Z,"6km ENE of Progreso, B.C., MX",earthquake,0.57,0.98,0.192,11,reviewed,ci,ci
-2022-05-25T11:25:25.462Z,65.2232,-149.3978,8.3,1,ml,,,,0.74,ak,ak0226nzmi4i,2022-05-25T11:40:14.379Z,"8 km NNW of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-25T11:21:13.660Z,32.6015,-115.5331667,2.47,1.2,ml,25,138,0.08047,0.25,ci,ci40026127,2022-05-25T17:50:31.579Z,"5km ENE of Progreso, B.C., MX",earthquake,0.5,0.58,0.102,8,reviewed,ci,ci
-2022-05-25T11:17:57.444Z,64.8148,-148.7777,16.6,0.4,ml,,,,0.57,ak,ak0226nzkurm,2022-05-25T17:06:49.323Z,"28 km NE of Four Mile Road, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2022-05-25T11:17:50.889Z,62.7388,-148.649,61.4,0.7,ml,,,,0.42,ak,ak0226nzktb5,2022-05-25T17:06:55.567Z,"74 km SSE of Cantwell, Alaska",earthquake,,0.6,,,reviewed,ak,ak
