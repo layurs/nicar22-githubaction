@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-27T05:24:08.927Z,66.37,-157.4215,6.6,1.1,ml,,,,0.53,ak,ak0226r74chh,2022-05-27T05:27:45.697Z,"59 km SSW of Shungnak, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-27T05:42:35.600Z,33.2741667,-115.9801667,4.35,1.39,ml,45,32,0.1004,0.2,ci,ci40027975,2022-05-27T05:46:15.606Z,"4km SW of Salton City, CA",earthquake,0.25,1.1,0.129,26,automatic,ci,ci
+2022-05-27T05:24:08.927Z,66.37,-157.4215,6.6,1.2,ml,,,,0.53,ak,ak0226r74chh,2022-05-27T05:44:41.257Z,"59 km SSW of Shungnak, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-27T05:04:44.700Z,33.3851667,-116.3576667,13.5,0.46,ml,20,89,0.0462,0.21,ci,ci40027959,2022-05-27T05:08:17.981Z,"14km N of Borrego Springs, CA",earthquake,0.47,0.77,0.17,7,automatic,ci,ci
 2022-05-27T05:02:21.490Z,35.671,-117.4743333,3.85,0.75,ml,9,167,0.08489,0.1,ci,ci40027951,2022-05-27T05:05:57.636Z,"12km SSW of Searles Valley, CA",earthquake,0.59,0.95,0.129,7,automatic,ci,ci
 2022-05-27T04:53:36.185Z,60.0942,-147.1757,6.7,2.1,ml,,,,0.77,ak,ak0226r6p6k0,2022-05-27T05:10:37.944Z,"46 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -70,8 +71,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T22:55:10.420Z,19.1725006103516,-155.501831054688,33.8699989318848,1.89,ml,38,106,,0.159999996,hv,hv73024122,2022-05-26T23:00:39.580Z,"4 km SW of Pāhala, Hawaii",earthquake,0.66,0.980000019,4.77,7,automatic,hv,hv
 2022-05-26T22:48:32.423Z,53.9143,-158.1377,10,3.2,ml,,218,1.251,0.66,us,us7000hcve,2022-05-26T23:03:57.040Z,"219 km SE of Sand Point, Alaska",earthquake,4.4,2,0.069,28,reviewed,us,us
 2022-05-26T22:46:18.040Z,35.2865,-119.3998333,21.57,2.33,ml,43,50,0.05504,0.21,ci,ci40027711,2022-05-26T23:52:41.825Z,"14km SSE of Buttonwillow, CA",earthquake,0.22,0.71,0.163,23,reviewed,ci,ci
+2022-05-26T22:43:28.010Z,51.8636666666667,-177.865333333333,7.81,0.48,ml,4,211,,0.05,av,av91574251,2022-05-27T05:42:05.250Z,"84 km W of Adak, Alaska",earthquake,0.49,0.79,0.127517194376931,4,reviewed,av,av
+2022-05-26T22:40:01.440Z,51.8611666666667,-177.864,6.81,0.39,ml,5,209,,0.1,av,av91574246,2022-05-27T05:40:34.670Z,"84 km W of Adak, Alaska",earthquake,0.57,0.91,0.189111169203551,5,reviewed,av,av
 2022-05-26T22:27:18.376Z,59.2107,-152.8025,73.8,1.4,ml,,,,0.39,ak,ak0226ptpzst,2022-05-26T23:31:36.058Z,"52 km WSW of Nanwalek, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2022-05-26T22:25:41.197Z,53.8377,-164.0694,19.74,3.7,mb,,165,0.76,0.53,us,us7000hcva,2022-05-26T22:44:12.040Z,"116 km ESE of Akutan, Alaska",earthquake,2.9,8.8,0.139,13,reviewed,us,us
+2022-05-26T22:22:40.250Z,54.1438333333333,-165.972833333333,2.52,-0.37,ml,9,54,,0.2,av,av91574226,2022-05-27T05:40:32.670Z,"12 km W of Akutan, Alaska",earthquake,0.23,0.7,0.410249186882366,9,reviewed,av,av
 2022-05-26T22:16:54.690Z,35.6018333,-117.4081667,5.87,1.01,ml,19,79,0.04662,0.13,ci,ci40027695,2022-05-26T22:54:18.970Z,"18km S of Trona, CA",earthquake,0.22,0.39,0.065,7,reviewed,ci,ci
 2022-05-26T22:16:33.340Z,38.8361664,-122.8116684,1.79,0.85,md,9,99,0.01281,0.01,nc,nc73738366,2022-05-26T22:49:16.960Z,"8km WNW of Cobb, CA",earthquake,0.35,1.11,,1,automatic,nc,nc
 2022-05-26T22:14:13.150Z,48.41716666666667,-122.50183333333334,4.85,0.65,md,5,281,0.23,0.28,uw,uw61835957,2022-05-27T04:07:13.000Z,"3 km N of La Conner, Washington",earthquake,2.65,22.93,0.14468243862329677,5,reviewed,uw,uw
@@ -227,7 +231,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T09:27:48.130Z,35.6048333,-117.4051667,6.44,1.16,ml,15,167,0.04995,0.13,ci,ci40027159,2022-05-26T16:18:01.227Z,"18km S of Trona, CA",earthquake,0.27,0.4,0.173,3,reviewed,ci,ci
 2022-05-26T09:24:37.600Z,53.852,-166.641833333333,8.26,-0.26,ml,6,154,,0.1,av,av91060268,2022-05-27T00:36:39.270Z,"7 km WSW of Unalaska, Alaska",earthquake,0.42,0.69,0.348578247614215,6,reviewed,av,av
 2022-05-26T09:23:32.530Z,35.6026667,-117.406,4.79,4.28,mw,48,41,0.04856,0.18,ci,ci40027143,2022-05-27T05:17:32.581Z,"18km S of Trona, CA",earthquake,0.16,0.37,,6,reviewed,ci,ci
-2022-05-26T09:22:47.630Z,38.447,-122.5141667,6.5,1.24,md,21,48,0.0729,0.1,nc,nc73738131,2022-05-27T05:30:16.428Z,"5km NE of Kenwood, CA",earthquake,0.22,0.88,0.089,16,reviewed,nc,nc
+2022-05-26T09:22:47.630Z,38.447,-122.5141667,6.5,1.24,md,21,48,0.0729,0.1,nc,nc73738131,2022-05-27T05:39:10.514Z,"5km NE of Kenwood, CA",earthquake,0.22,0.88,0.089,16,reviewed,nc,nc
 2022-05-26T09:19:58.949Z,36.7282,-115.9795,3.7,-0.3,ml,7,228.78,0.005,0.158,nn,nn00839792,2022-05-27T02:38:38.953Z,"32 km WNW of Indian Springs, Nevada",earthquake,,1.8,0.6,3,reviewed,nn,nn
 2022-05-26T09:17:34.187Z,61.2962,-151.4562,77.9,1.5,ml,,,,0.61,ak,ak0226plxact,2022-05-26T09:26:09.996Z,"26 km NW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-26T09:10:23.942Z,38.2395,-118.333,5,0.2,ml,7,265.19,0.136,0.1639,nn,nn00839789,2022-05-27T02:38:36.381Z,"25 km SW of Mina, Nevada",earthquake,,6.8,0.23,2,reviewed,nn,nn
@@ -285,6 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T06:27:46.323Z,-5.527,151.5229,35,4.7,mb,,116,12.666,0.44,us,us7000hckr,2022-05-26T06:53:03.040Z,"153 km E of Kimbe, Papua New Guinea",earthquake,9.6,1.9,0.106,27,reviewed,us,us
 2022-05-26T06:09:56.900Z,34.055,-116.4351667,8.92,0.81,ml,43,71,0.04018,0.14,ci,ci40026999,2022-05-26T17:13:45.582Z,"7km S of Yucca Valley, CA",earthquake,0.18,0.38,0.133,18,reviewed,ci,ci
 2022-05-26T06:05:41.110Z,39.4301667,-110.2996667,-1.51,1.3,ml,7,183,0.02061,0.09,uu,uu60499642,2022-05-26T15:17:20.200Z,"15 km SSE of Sunnyside, Utah",earthquake,1.65,1.12,0.136,2,reviewed,uu,uu
-2022-05-26T05:41:17.950Z,38.8256683,-122.7516632,0.89,0.86,md,11,149,0.01504,0.03,nc,nc73738061,2022-05-26T06:00:15.378Z,"2km W of Cobb, CA",earthquake,0.35,0.7,0.32,2,automatic,nc,nc
-2022-05-26T05:38:19.510Z,53.8545,-166.641666666667,8.31,-0.42,ml,6,151,,0.11,av,av91060233,2022-05-26T20:07:33.590Z,"7 km WSW of Unalaska, Alaska",earthquake,0.5,0.81,0.24508289390842,6,reviewed,av,av
-2022-05-26T05:37:44.956Z,58.2759,-155.0045,1.2,0.2,ml,,,,0.4,ak,ak0226pjnv33,2022-05-26T20:02:44.970Z,"85 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
