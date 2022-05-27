@@ -4,8 +4,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T19:09:00.770Z,35.6515,-117.4776667,4.02,1.05,ml,11,110,0.06607,0.16,ci,ci40028607,2022-05-27T19:12:50.552Z,"14km SSW of Searles Valley, CA",earthquake,0.51,1.15,0.257,11,automatic,ci,ci
 2022-05-27T19:06:55.030Z,33.781,-117.8478333,15.69,1.77,ml,42,95,0.06795,0.2,ci,ci40028599,2022-05-27T19:18:00.030Z,"3km SSW of Orange, CA",earthquake,0.31,0.39,0.193,30,automatic,ci,ci
 2022-05-27T19:05:41.270Z,32.7073333,-115.4285,1.1,1.45,ml,11,169,0.1543,0.22,ci,ci40028583,2022-05-27T19:09:59.146Z,"7km NNE of Mexicali, B.C., MX",earthquake,0.83,31.61,0.131,16,automatic,ci,ci
-2022-05-27T19:04:07.310Z,38.8216667,-122.7938309,7.27,0.84,md,13,106,0.01281,0.08,nc,nc73738766,2022-05-27T19:32:30.087Z,"6km NNW of The Geysers, CA",earthquake,0.68,1,,1,automatic,nc,nc
-2022-05-27T18:28:05.510Z,38.8323326,-122.8154984,1.53,0.77,md,10,71,0.01681,0.02,nc,nc73738761,2022-05-27T19:32:24.874Z,"8km NW of The Geysers, CA",earthquake,0.34,0.69,0.4,3,automatic,nc,nc
+2022-05-27T19:04:07.310Z,38.8216667,-122.7938309,7.27,0.84,md,13,106,0.01281,0.08,nc,nc73738766,2022-05-27T19:39:10.535Z,"6km NNW of The Geysers, CA",earthquake,0.68,1,,1,automatic,nc,nc
+2022-05-27T18:28:05.510Z,38.8323326,-122.8154984,1.53,0.77,md,10,71,0.01681,0.02,nc,nc73738761,2022-05-27T19:48:13.593Z,"8km NW of The Geysers, CA",earthquake,0.34,0.69,0.4,3,automatic,nc,nc
 2022-05-27T18:22:42.428Z,8.4395,-102.9746,10,4.9,mb,,58,10.032,0.68,us,us7000hd59,2022-05-27T19:13:24.960Z,"northern East Pacific Rise",earthquake,10.6,1.9,0.027,429,reviewed,us,us
 2022-05-27T18:01:03.250Z,33.6595,-116.7621667,12.84,0.7,ml,30,90,0.06525,0.08,ci,ci40028543,2022-05-27T18:23:14.960Z,"10km SSW of Idyllwild, CA",earthquake,0.15,0.27,0.245,8,reviewed,ci,ci
 2022-05-27T17:59:10.684Z,61.7854,-149.7783,34.6,1.1,ml,,,,0.87,ak,ak0226reh1ww,2022-05-27T18:01:55.243Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T12:41:26.834Z,59.8949,-152.0214,53.9,0.7,ml,,,,0.46,ak,ak0226rbe2a3,2022-05-27T12:54:37.745Z,"16 km NW of Anchor Point, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-05-27T12:27:28.160Z,35.9276667,-117.6795,3.4,0.67,ml,16,64,0.03108,0.07,ci,ci40028167,2022-05-27T18:09:56.082Z,"20km E of Little Lake, CA",earthquake,0.13,0.31,0.15,6,reviewed,ci,ci
 2022-05-27T12:12:00.360Z,41.5055,-112.172,2.81,0.39,md,5,109,0.1031,0.05,uu,uu60499792,2022-05-27T15:16:15.400Z,"7 km SW of Corinne, Utah",earthquake,0.41,31.61,0.247,4,reviewed,uu,uu
-2022-05-27T12:11:48.680Z,37.4301667,-118.4846667,7.19,1.23,md,14,146,0.135,0.08,nc,nc73738591,2022-05-27T19:32:11.499Z,"8km NW of Dixon Lane-Meadow Creek, CA",earthquake,0.55,2.01,0.089,10,reviewed,nc,nc
+2022-05-27T12:11:48.680Z,37.4301667,-118.4846667,7.19,1.23,md,14,146,0.135,0.08,nc,nc73738591,2022-05-27T19:45:12.570Z,"8km NW of Dixon Lane-Meadow Creek, CA",earthquake,0.55,2.01,0.089,10,reviewed,nc,nc
 2022-05-27T12:04:44.441Z,40.0716,-119.6442,16.9,0.3,ml,4,185.41,0.119,0.08,nn,nn00839833,2022-05-27T14:28:08.907Z,"13 km NNW of Sutcliffe, Nevada",earthquake,,2.8,0,1,reviewed,nn,nn
 2022-05-27T12:02:10.680Z,33.0453333,-116.4431667,8.46,1.06,ml,29,47,0.1344,0.19,ci,ci40028151,2022-05-27T14:41:47.003Z,"15km ESE of Julian, CA",earthquake,0.25,1.27,0.204,24,reviewed,ci,ci
 2022-05-27T12:01:34.231Z,62.2903,-150.3751,4.1,2.1,ml,,,,0.61,ak,ak0226rb5i7v,2022-05-27T12:11:27.353Z,"8 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -242,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T20:02:16.349Z,-40.1751,-91.6321,10,5.1,mb,,141,12.139,0.95,us,us7000hcu0,2022-05-27T14:54:27.040Z,"West Chile Rise",earthquake,15.3,1.9,0.038,227,reviewed,us,us
 2022-05-26T20:01:49.145Z,-40.1497,-91.6072,10,4.6,mb,,144,12.11,0.98,us,us7000hcui,2022-05-26T22:07:27.040Z,"West Chile Rise",earthquake,10.2,1.8,0.057,97,reviewed,us,us
 2022-05-26T20:00:04.790Z,35.5993333,-117.3898333,5.87,0.59,ml,12,134,0.06035,0.12,ci,ci40027551,2022-05-26T20:24:57.544Z,"18km S of Trona, CA",earthquake,0.3,0.58,0.034,6,reviewed,ci,ci
-2022-05-26T19:42:48.764Z,-22.7699,171.9258,10,4.8,mb,,122,4.139,0.61,us,us7000hcu8,2022-05-27T14:44:19.040Z,"southeast of the Loyalty Islands",earthquake,7.3,1.8,0.111,25,reviewed,us,us
-2022-05-26T19:39:17.530Z,36.1035,-97.83683333,4.18,1.11,ml,25,84,0.1160772217,0.19,ok,ok2022kgkw,2022-05-27T14:08:21.534Z,"5 km E of Hennessey, Oklahoma",earthquake,,0.8,0.23,9,reviewed,ok,ok
