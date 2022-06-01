@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-01T23:22:42.190Z,35.5628319,-117.3441696,5.88,1.69,ml,29,77,0.04128,0.19,ci,ci40032079,2022-06-01T23:25:05.342Z,"23km S of Trona, CA",earthquake,0.37,0.79,0.197,15,automatic,ci,ci
+2022-06-01T23:22:42.190Z,35.5601667,-117.3455,4.99,1.65,ml,21,112,0.03841,0.2,ci,ci40032079,2022-06-01T23:33:11.920Z,"23km S of Trona, CA",earthquake,0.37,0.8,0.124,24,automatic,ci,ci
 2022-06-01T23:01:45.300Z,19.1525001525879,-155.464660644531,29,2.00999999,md,23,169,,0.119999997,hv,hv73030802,2022-06-01T23:15:11.614Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.75,1.00999999,1.62,14,automatic,hv,hv
 2022-06-01T22:57:44.610Z,33.4348333,-116.6291667,5.23,0.29,ml,16,79,0.06382,0.12,ci,ci40032047,2022-06-01T23:01:20.530Z,"14km SSE of Anza, CA",earthquake,0.32,0.62,0.111,10,automatic,ci,ci
 2022-06-01T22:55:44.357Z,-1.1522,127.2105,11.97,5,mb,,67,1.917,0.5,us,us7000he7m,2022-06-01T23:12:56.040Z,"212 km S of Sofifi, Indonesia",earthquake,6.5,4.6,0.064,78,reviewed,us,us
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T15:55:41.180Z,38.793335,-122.8161697,10.32,1.12,md,7,140,0.01139,0.09,nc,nc73739911,2022-06-01T19:36:12.841Z,"6km WNW of The Geysers, CA",earthquake,1.8,1.43,0.75,2,automatic,nc,nc
 2022-06-01T15:54:36.420Z,62.0866,-151.3955,76.4,1.8,ml,,,,0.33,ak,ak0226zmxwlx,2022-06-01T16:06:16.008Z,"10 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-01T15:52:45.200Z,38.809166,-122.815834,3,0.84,md,8,102,0.01043,0.02,nc,nc73739906,2022-06-01T16:06:10.663Z,"6km NW of The Geysers, CA",earthquake,0.62,2.17,,1,automatic,nc,nc
-2022-06-01T15:46:10.839Z,31.71526584,-104.5509138,6.157275391,4.6,ml,45,90,0.0489270088,0.3,tx,tx2022krce,2022-06-01T18:48:39.474Z,"53 km SSW of Whites City, New Mexico",earthquake,1.554475743,0.9872530857,0.1,25,reviewed,tx,tx
+2022-06-01T15:46:10.839Z,31.71526584,-104.5509138,6.157275391,4.6,ml,45,90,0.0489270088,0.3,tx,tx2022krce,2022-06-01T23:41:50.128Z,"53 km SSW of Whites City, New Mexico",earthquake,1.554475743,0.9872530857,0.1,25,reviewed,tx,tx
 2022-06-01T15:45:41.110Z,38.8206673,-122.8031693,2.61,0.89,md,25,35,0.006042,0.02,nc,nc73739901,2022-06-01T15:55:10.590Z,"6km NW of The Geysers, CA",earthquake,0.23,0.47,0.19,4,automatic,nc,nc
 2022-06-01T15:37:56.127Z,61.3155,-152.2408,0,0.3,ml,,,,0.09,ak,ak0226zmu98f,2022-06-01T17:44:30.782Z,"65 km WNW of Beluga, Alaska",earthquake,,0,,,reviewed,ak,ak
 2022-06-01T15:32:48.410Z,36.1728325,-120.1886673,14.22,2.4,md,33,101,0.1668,0.28,nc,nc73739886,2022-06-01T18:19:13.456Z,"8km WSW of Huron, CA",earthquake,0.58,1.46,0.11,26,automatic,nc,nc
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T00:00:06.190Z,48.52133333333333,-123.4945,-0.24,0.68,ml,4,148,0.1316,0.36,uw,uw61837707,2022-06-01T04:59:12.830Z,"7 km NNW of Six Mile, Canada",explosion,1.32,31.61,0.029608011382760202,3,reviewed,uw,uw
 2022-05-31T23:53:29.040Z,35.7944984,-117.6243362,5.7,3.09,ml,50,29,0.03041,0.19,ci,ci40031287,2022-06-01T14:58:18.762Z,"20km NNE of Ridgecrest, CA",earthquake,0.21,0.69,0.213,19,automatic,ci,ci
 2022-05-31T23:44:59.230Z,36.7890015,-121.3948364,8.74,2.07,md,21,112,0.04889,0.11,nc,nc73739676,2022-06-01T03:58:15.465Z,"4km SW of Ridgemark, CA",earthquake,0.41,0.67,0.12,18,automatic,nc,nc
-2022-05-31T23:29:00.840Z,36.1635,-117.9278333,-0.04,0.77,ml,10,128,0.07476,0.26,ci,ci40031271,2022-05-31T23:32:31.024Z,"13km N of Coso Junction, CA",earthquake,0.69,1.28,0.408,5,automatic,ci,ci
