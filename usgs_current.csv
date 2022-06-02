@@ -1,12 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-02T21:49:45.580Z,37.1951675,-118.2519989,11.86,2.37,md,18,172,0.04322,0.05,nc,nc73740146,2022-06-02T21:51:24.630Z,"5km NE of Big Pine, CA",earthquake,0.82,0.49,0.29,13,automatic,nc,nc
-2022-06-02T21:41:52.629Z,55.5321,-157.0985,7.9,5.2,ml,,,,0.91,ak,ak02271dz3na,2022-06-02T21:49:50.878Z,"117 km SE of Chignik, Alaska",earthquake,,16.3,,,automatic,ak,ak
+2022-06-02T21:56:48.336Z,38.1752,-117.9588,1,1.1,ml,9,157.28,0.031,0.1329,nn,nn00840191,2022-06-02T22:02:00.525Z,"27 km SSE of Mina, Nevada",earthquake,,0.5,0.45,5,automatic,nn,nn
+2022-06-02T21:56:12.100Z,19.2205009460449,-155.382827758789,30.7600002288818,1.90999997,md,27,162,,0.129999995,hv,hv73031697,2022-06-02T21:59:17.830Z,"10 km E of Pāhala, Hawaii",earthquake,0.68,1.22000003,0.949999988,3,automatic,hv,hv
+2022-06-02T21:54:21.588Z,63.1002,-150.8278,119.8,3.5,ml,,,,0.53,ak,ak02271e1tit,2022-06-02T22:03:17.914Z,"66 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-02T21:49:45.580Z,37.1951675,-118.2519989,11.86,2.37,md,18,172,0.04322,0.05,nc,nc73740146,2022-06-02T21:56:10.250Z,"5km NE of Big Pine, CA",earthquake,0.82,0.49,0.29,13,automatic,nc,nc
+2022-06-02T21:41:52.905Z,55.533,-157.1008,10.2,5.2,ml,,,,0.92,ak,ak02271dz3na,2022-06-02T21:57:32.040Z,"117 km SE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-06-02T21:32:39.038Z,57.8688,-156.1413,136.3,1.9,ml,,,,0.54,ak,ak02271dx567,2022-06-02T21:36:44.082Z,"82 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-02T21:26:19.399Z,38.3811,-118.7082,4.7,0.9,ml,9,186.71,0.206,0.3458,nn,nn00840183,2022-06-02T21:30:19.840Z,"17 km SSW of Hawthorne, Nevada",earthquake,,1.4,0.37,6,automatic,nn,nn
 2022-06-02T21:25:14.352Z,21.3236,-45.8181,10,4.9,mb,,73,15.988,0.86,us,us7000hehq,2022-06-02T21:42:14.040Z,"northern Mid-Atlantic Ridge",earthquake,8.2,1.8,0.048,137,reviewed,us,us
 2022-06-02T21:24:37.741Z,38.1944,-117.894,0.8,1.2,ml,10,179.76,0.072,0.3482,nn,nn00840181,2022-06-02T21:28:40.772Z,"28 km SE of Mina, Nevada",earthquake,,3.1,0.43,5,automatic,nn,nn
 2022-06-02T21:06:54.770Z,35.4426651,-120.8700027,0.31,1.91,md,7,181,0.008755,0.04,nc,nc73740136,2022-06-02T21:23:19.048Z,"2km E of Cayucos, CA",earthquake,0.54,0.38,0.03,4,automatic,nc,nc
-2022-06-02T21:06:01.722Z,17.2381,-99.6992,49.34,4.7,mb,,152,1.128,0.95,us,us7000hehd,2022-06-02T21:45:41.524Z,"11 km SSW of Coacoyulillo, Mexico",earthquake,7.5,6.4,0.028,392,reviewed,us,us
+2022-06-02T21:06:01.722Z,17.2381,-99.6992,49.34,4.7,mb,,152,1.128,0.95,us,us7000hehd,2022-06-02T21:59:21.043Z,"11 km SSW of Coacoyulillo, Mexico",earthquake,7.5,6.4,0.028,392,reviewed,us,us
 2022-06-02T21:02:42.702Z,62.0314,-150.5985,44.3,1.9,ml,,,,0.64,ak,ak02271dqpze,2022-06-02T21:34:21.330Z,"37 km SSW of Trapper Creek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-06-02T20:57:23.698Z,38.1845,-117.8827,3.8,3.8,ml,24,39.31,0.076,0.1365,nn,nn00840175,2022-06-02T21:48:45.921Z,"30 km SE of Mina, Nevada",earthquake,,1.6,0.21,9,reviewed,nn,nn
 2022-06-02T20:52:27.972Z,60.2961,-153.1289,135.2,1.3,ml,,,,0.73,ak,ak02271dfz1c,2022-06-02T21:00:54.465Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -70,8 +73,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-02T12:29:49.856Z,38.5435,-119.5489,6.8,1.1,ml,22,76.24,0.048,0.1719,nn,nn00840152,2022-06-02T18:01:34.846Z,"4 km SW of Coleville, California",earthquake,,0.9,0.24,9,reviewed,nn,nn
 2022-06-02T12:18:10.465Z,52.19,-169.8399,40.85,4,mb,,184,1.693,1.09,us,us7000hebn,2022-06-02T17:26:25.059Z,"106 km SW of Nikolski, Alaska",earthquake,10.8,12.8,0.096,29,reviewed,us,us
 2022-06-02T12:16:31.670Z,-55.9953,-144.0576,10,5.4,mww,,28,27.593,0.94,us,us7000hebv,2022-06-02T14:19:45.867Z,"Pacific-Antarctic Ridge",earthquake,10.5,1.7,0.093,11,reviewed,us,us
-2022-06-02T12:14:21.330Z,38.0713333,-121.9946667,15.88,1.71,md,38,121,0.04744,0.11,nc,nc73740056,2022-06-02T21:24:10.053Z,"6km NNW of Bay Point, CA",earthquake,0.21,0.32,0.222,37,reviewed,nc,nc
-2022-06-02T12:07:22.230Z,38.0765,-122.0076667,18.43,4.14,mw,202,24,0.04994,0.25,nc,nc73740051,2022-06-02T21:46:47.364Z,"7km NW of Bay Point, CA",earthquake,0.17,0.24,,4,reviewed,nc,nc
+2022-06-02T12:14:21.330Z,38.0713333,-121.9946667,15.88,1.71,md,38,121,0.04744,0.11,nc,nc73740056,2022-06-02T21:57:16.256Z,"6km NNW of Bay Point, CA",earthquake,0.21,0.32,0.222,37,reviewed,nc,nc
+2022-06-02T12:07:22.230Z,38.0765,-122.0076667,18.43,4.14,mw,202,24,0.04994,0.25,nc,nc73740051,2022-06-02T21:58:21.219Z,"7km NW of Bay Point, CA",earthquake,0.17,0.24,,4,reviewed,nc,nc
 2022-06-02T11:55:43.911Z,9.024,126.1449,77.6,4.6,mb,,97,2.021,1.32,us,us7000hebj,2022-06-02T12:31:22.040Z,"3 km NW of Gamut, Philippines",earthquake,10.5,6.7,0.053,112,reviewed,us,us
 2022-06-02T11:28:44.340Z,34.0433333,-117.1726667,7.29,0.69,ml,31,110,0.05065,0.17,ci,ci40032359,2022-06-02T14:35:54.596Z,"2km SSE of Redlands, CA",earthquake,0.24,0.6,0.145,7,reviewed,ci,ci
 2022-06-02T11:21:43.690Z,32.8583333,-116.1738333,6.26,0.91,ml,37,74,0.09253,0.19,ci,ci40032351,2022-06-02T18:45:19.874Z,"22km NW of Ocotillo, CA",earthquake,0.23,0.94,0.135,12,reviewed,ci,ci
@@ -177,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T22:41:54.210Z,35.6805,-117.4661667,11.83,0.94,ml,12,171,0.1721,0.19,ci,ci40032031,2022-06-01T22:45:24.768Z,"11km SSW of Searles Valley, CA",earthquake,0.6,1.48,0.086,10,automatic,ci,ci
 2022-06-01T22:41:23.220Z,33.3441667,-116.1825,4.96,0.74,ml,14,210,0.1079,0.25,ci,ci40032023,2022-06-01T22:44:54.711Z,"16km SSW of Oasis, CA",earthquake,0.9,1.82,0.094,12,automatic,ci,ci
 2022-06-01T22:12:44.910Z,43.993833333333335,-121.40183333333333,-1.64,0.84,ml,8,198,0.1749,0.32,uw,uw61838002,2022-06-02T20:28:02.800Z,"3 km W of Deschutes River Woods, Oregon",explosion,3.36,31.61,0.04587527884704756,5,reviewed,uw,uw
-2022-06-01T22:00:28.840Z,35.8656667,-117.6673333,7.6,0.62,ml,11,94,0.0755,0.11,ci,ci40032015,2022-06-02T15:39:25.748Z,"23km ESE of Little Lake, CA",earthquake,0.27,0.86,0.223,3,reviewed,ci,ci
