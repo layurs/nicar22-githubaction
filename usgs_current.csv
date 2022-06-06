@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-06T04:38:59.090Z,33.4696655,-116.8519974,9.43,1.14,ml,15,130,0.1353,0.2,ci,ci40034607,2022-06-06T04:41:03.923Z,"3km NNE of Aguanga, CA",earthquake,0.96,1.85,0.273,2,automatic,ci,ci
+2022-06-06T04:38:59.550Z,33.4868333,-116.7961667,10.07,0.57,ml,9,125,0.09251,0.27,ci,ci40034607,2022-06-06T04:42:35.666Z,"8km NE of Aguanga, CA",earthquake,1.07,1.7,0.339,9,automatic,ci,ci
 2022-06-06T04:13:25.230Z,33.2385,-116.6561667,11.6,1.61,ml,61,32,0.03995,0.21,ci,ci40034591,2022-06-06T04:24:40.850Z,"5km SSW of Warner Springs, CA",earthquake,0.23,0.55,0.141,26,automatic,ci,ci
 2022-06-06T03:47:54.858Z,-17.6999,-172.9991,10,5,mb,,135,3.947,0.98,us,us7000hf9f,2022-06-06T04:12:08.040Z,"148 km NE of Neiafu, Tonga",earthquake,14,1.8,0.103,30,reviewed,us,us
 2022-06-06T03:44:37.768Z,-8.5242,118.274,134.13,4.8,mb,,47,3.783,1.19,us,us7000hf9e,2022-06-06T04:12:51.586Z,"20 km W of Dompu, Indonesia",earthquake,7.6,2.6,0.111,25,reviewed,us,us
@@ -14,11 +14,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T01:55:23.720Z,19.1673336029053,-155.493499755859,34.1699981689453,2.28,ml,46,143,,0.170000002,hv,hv73035247,2022-06-06T03:42:38.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.53,0.870000005,3.47,17,automatic,hv,hv
 2022-06-06T01:50:47.910Z,17.956,-66.8603333333333,13.27,2.13,md,6,205,,0.12,pr,pr71352638,2022-06-06T03:17:10.390Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,1.08,0.49,0.108115127976212,6,reviewed,pr,pr
 2022-06-06T01:48:51.343Z,63.1235,-149.8108,77.9,1.9,ml,,,,0.58,ak,ak02277o9bgo,2022-06-06T02:15:59.701Z,"52 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-06-06T01:41:22.031Z,60.2657,-142.3222,0,2.3,ml,,,,1.1,ak,ak02277o7r6x,2022-06-06T01:52:50.362Z,"134 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-06T01:41:22.031Z,60.2657,-142.3222,0,2.3,ml,,,,1.1,ak,ak02277o7r6x,2022-06-06T01:52:50.362Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-06T01:40:48.600Z,17.9853333333333,-66.885,16.04,1.93,md,5,156,,0.09,pr,pr71352628,2022-06-06T03:10:08.970Z,"Puerto Rico region",earthquake,2.73,0.78,0.0143881823413258,4,reviewed,pr,pr
 2022-06-06T01:36:32.830Z,19.2320003509521,-155.393005371094,32.4799995422363,2.46,ml,45,144,,0.129999995,hv,hv73035237,2022-06-06T03:30:53.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.769999981,3.7,24,automatic,hv,hv
 2022-06-06T01:26:48.580Z,35.6065,-117.4193333,3.14,1.22,ml,14,105,0.04023,0.24,ci,ci40034551,2022-06-06T01:30:25.274Z,"18km SSW of Trona, CA",earthquake,0.58,0.55,0.111,14,automatic,ci,ci
-2022-06-06T01:22:32.080Z,19.1991672515869,-155.398666381836,32.9599990844727,1.99000001,md,41,161,,0.119999997,hv,hv73035222,2022-06-06T01:25:45.240Z,"8 km E of Pāhala, Hawaii",earthquake,0.62,0.850000024,0.550000012,15,automatic,hv,hv
+2022-06-06T01:22:32.080Z,19.1991672515869,-155.398666381836,32.9599990844727,1.99000001,md,41,161,,0.119999997,hv,hv73035222,2022-06-06T01:25:45.240Z,"Hawaii region, Hawaii",earthquake,0.62,0.850000024,0.550000012,15,automatic,hv,hv
 2022-06-06T01:21:16.700Z,35.8418333,-117.5018333,2.89,1.04,ml,6,208,0.1605,0.22,ci,ci40034543,2022-06-06T01:24:52.478Z,"12km NW of Searles Valley, CA",earthquake,1.5,5.86,0.274,3,automatic,ci,ci
 2022-06-06T00:42:53.934Z,62.4743,-151.7004,90.2,1.4,ml,,,,0.42,ak,ak02277nmlrl,2022-06-06T00:51:44.479Z,"48 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-06T00:37:01.582Z,31.6051,-104.5082,7.03,2.8,ml,,88,0.063,0.3,us,us7000hf8v,2022-06-06T00:57:39.040Z,"64 km S of Whites City, New Mexico",earthquake,1.6,1.3,0.044,68,reviewed,us,us
@@ -160,4 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T05:09:53.606Z,-21.0712,-178.5835,532.43,4.3,mb,,104,4.585,0.76,us,us7000hf3k,2022-06-05T05:31:43.040Z,"Fiji region",earthquake,12.9,6.4,0.058,84,reviewed,us,us
 2022-06-05T05:08:22.771Z,58.2015,-136.7817,9.15,2.9,ml,,153,0.378,0.68,us,us7000hf3j,2022-06-05T06:14:30.040Z,"25 km W of Elfin Cove, Alaska",earthquake,3.7,8.4,0.069,28,reviewed,us,us
 2022-06-05T05:06:06.450Z,18.0851666666667,-66.11,23.54,2.95,md,10,119,,0.19,pr,pr71352463,2022-06-05T15:32:35.466Z,"4 km S of G. L. Garcia, Puerto Rico",earthquake,0.64,0.65,0.233000465394029,9,reviewed,pr,pr
-2022-06-05T04:49:41.724Z,60.2761,-152.6008,104.6,2.4,ml,,,,0.45,ak,ak022762igqs,2022-06-05T05:27:54.515Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
