@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-09T09:41:17.530Z,33.6828333,-116.766,12.44,0.24,ml,7,84,0.05483,0.22,ci,ci40036967,2022-06-09T09:44:56.427Z,"8km SW of Idyllwild, CA",earthquake,0.91,1.67,0.102,5,automatic,ci,ci
-2022-06-09T09:23:12.320Z,38.7811661,-122.7655029,1.79,0.46,md,12,103,0.01043,0.03,nc,nc73743251,2022-06-09T09:31:11.735Z,"1km WNW of The Geysers, CA",earthquake,0.29,0.64,0.1,2,automatic,nc,nc
+2022-06-09T09:23:12.320Z,38.7811661,-122.7655029,1.79,0.46,md,12,103,0.01043,0.03,nc,nc73743251,2022-06-09T09:50:14.849Z,"1km WNW of The Geysers, CA",earthquake,0.29,0.64,0.1,2,automatic,nc,nc
 2022-06-09T09:23:01.600Z,38.7804985,-122.7656631,1.72,0.55,md,17,86,0.02063,0.03,nc,nc73743246,2022-06-09T09:39:16.781Z,"1km WNW of The Geysers, CA",earthquake,0.28,0.5,0.4,4,automatic,nc,nc
 2022-06-09T09:07:05.840Z,33.9861667,-116.7805,16.27,1.95,ml,69,26,0.05386,0.21,ci,ci40036959,2022-06-09T09:18:09.250Z,"8km N of Cabazon, CA",earthquake,0.21,0.57,0.164,25,automatic,ci,ci
 2022-06-09T08:57:58.870Z,32.4031667,-115.2173333,9.65,2.23,ml,19,109,0.07592,0.31,ci,ci40036951,2022-06-09T09:09:04.360Z,"6km NNW of Delta, B.C., MX",earthquake,0.73,1.38,0.171,25,automatic,ci,ci
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T15:44:20.652Z,61.6635,-149.5963,27.6,1.9,ml,,,,0.56,ak,ak0227b7n5ox,2022-06-08T15:46:11.161Z,"4 km N of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T15:43:49.630Z,34.3191667,-116.8425,6.73,1.23,ml,40,59,0.03136,0.13,ci,ci40036407,2022-06-08T23:26:38.160Z,"6km N of Big Bear City, CA",earthquake,0.16,0.42,0.164,22,reviewed,ci,ci
 2022-06-08T15:19:53.042Z,40.0712,-119.6926,14,0.1,ml,3,163.71,0.104,0.0119,nn,nn00840619,2022-06-09T04:08:11.744Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,8,0.36,2,reviewed,nn,nn
-2022-06-08T15:16:34.500Z,38.2523,-118.3547,9.6,0.6,ml,13,146.5,0.118,0.0975,nn,nn00840571,2022-06-09T04:07:30.427Z,"26 km SW of Mina, Nevada",earthquake,,2.3,0.26,3,reviewed,nn,nn
+2022-06-08T15:16:34.500Z,38.2523,-118.3547,9.6,0.6,ml,13,146.5,0.118,0.0975,nn,nn00840571,2022-06-09T04:07:30.427Z,"California-Nevada border region",earthquake,,2.3,0.26,3,reviewed,nn,nn
 2022-06-08T15:10:30.822Z,37.4215,-113.77,4.3,0.1,ml,3,166.13,0.08,0.0718,nn,nn00840618,2022-06-09T04:08:11.007Z,"11 km NW of Veyo, Utah",earthquake,,13.9,0.05,3,reviewed,nn,nn
 2022-06-08T15:08:53.260Z,19.2221660614014,-155.386840820312,31.3099994659424,1.86000001,md,38,158,,0.129999995,hv,hv73038167,2022-06-08T15:12:00.720Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,1,0.449999988,5,automatic,hv,hv
 2022-06-08T15:07:03.060Z,33.9793333,-116.9755,13.83,0.85,ml,27,71,0.07543,0.15,ci,ci40036383,2022-06-08T22:58:21.816Z,"6km N of Beaumont, CA",earthquake,0.23,0.7,0.095,17,reviewed,ci,ci
@@ -240,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T10:01:28.260Z,35.9216667,-117.7073333,2.7,0.18,ml,10,74,0.08687,0.11,ci,ci37502285,2022-06-08T16:18:54.317Z,"18km E of Little Lake, CA",earthquake,0.25,0.36,0.404,3,reviewed,ci,ci
 2022-06-08T10:00:30.790Z,35.9203333,-117.7105,2.78,1.27,ml,16,65,0.08963,0.14,ci,ci40036159,2022-06-08T13:05:01.648Z,"18km E of Little Lake, CA",earthquake,0.22,0.37,0.154,16,reviewed,ci,ci
 2022-06-08T10:00:15.940Z,35.921,-117.7076667,4.68,1.2,ml,21,66,0.08725,0.09,ci,ci40036151,2022-06-08T18:12:18.270Z,"18km E of Little Lake, CA",earthquake,0.14,0.29,0.128,15,reviewed,ci,ci
-2022-06-08T09:55:07.700Z,34.3188333,-116.8426667,5.26,1.45,ml,37,47,0.03172,0.16,ci,ci40036143,2022-06-08T13:33:44.110Z,"6km N of Big Bear City, CA",earthquake,0.25,0.65,0.164,29,reviewed,ci,ci
-2022-06-08T09:49:24.791Z,31.61542391,-103.9838925,7.494091797,2.5,ml,8,82,0.07175355883,0.1,tx,tx2022ldky,2022-06-08T17:30:13.223Z,"37 km WSW of Mentone, Texas",earthquake,1.460551572,1.735650747,0.2,6,reviewed,tx,tx
