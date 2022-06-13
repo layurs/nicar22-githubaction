@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-13T21:40:44.360Z,38.8050003,-122.7513351,0.55,0.67,md,11,107,0.007869,0.03,nc,nc73745081,2022-06-13T21:42:21.552Z,"3km SW of Cobb, CA",earthquake,0.29,0.68,0.15,2,automatic,nc,nc
+2022-06-13T21:38:42.574Z,61.5448,-141.0225,0,1.4,ml,,,,0.37,ak,ak0227jkv96p,2022-06-13T21:40:53.411Z,"101 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-06-13T21:37:51.660Z,38.7871666,-122.7651672,1.48,0.7,md,13,72,0.0141,0.02,nc,nc73745076,2022-06-13T21:39:26.718Z,"1km NW of The Geysers, CA",earthquake,0.28,0.46,0.35,4,automatic,nc,nc
+2022-06-13T21:35:21.450Z,38.8045006,-122.7506638,0.89,0.94,md,11,106,0.02386,0.03,nc,nc73745071,2022-06-13T21:43:11.616Z,"3km N of The Geysers, CA",earthquake,0.26,0.71,0.2,3,automatic,nc,nc
 2022-06-13T21:02:12.723Z,38.1829,-117.8902,9.9,0.8,ml,9,166.25,0.076,0.0807,nn,nn00840851,2022-06-13T21:06:06.935Z,"29 km SE of Mina, Nevada",earthquake,,1.1,0.39,5,automatic,nn,nn
 2022-06-13T20:57:21.373Z,-7.7066,-13.7264,22.86,5.2,mb,,66,0.666,0.82,us,us7000hh61,2022-06-13T21:17:24.040Z,"79 km ENE of Georgetown, Saint Helena",earthquake,6.4,3.8,0.056,106,reviewed,us,us
 2022-06-13T20:52:40.150Z,38.7985001,-122.8181686,3.07,0.77,md,14,87,0.01346,0.03,nc,nc73745046,2022-06-13T21:17:27.460Z,"6km WNW of The Geysers, CA",earthquake,0.39,0.72,0.4,3,automatic,nc,nc
@@ -148,8 +152,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T06:22:41.110Z,18.0878333333333,-66.8583333333333,5.47,2.07,md,5,129,,0.07,pr,pr71353878,2022-06-13T06:48:37.200Z,"Puerto Rico region",earthquake,0.47,0.94,0.449266581319457,2,reviewed,pr,pr
 2022-06-13T06:19:34.940Z,39.2712,-118.0811,0,0.9,ml,8,184.13,0.049,0.1466,nn,nn00840845,2022-06-13T20:12:49.517Z,"46 km NNW of Gabbs, Nevada",earthquake,,0,0.07,2,reviewed,nn,nn
 2022-06-13T06:19:03.873Z,34.4738,85.2722,10,4.2,mb,,96,6.652,0.25,us,us7000hh1n,2022-06-13T07:35:32.040Z,"western Xizang",earthquake,6.9,1.9,0.167,10,reviewed,us,us
-2022-06-13T06:16:38.080Z,35.5106667,-118.388,4.29,2.16,ml,36,31,0.1672,0.18,ci,ci40039215,2022-06-13T06:53:19.994Z,"13km SE of Bodfish, CA",earthquake,0.22,1.1,0.252,26,automatic,ci,ci
-2022-06-13T06:09:28.400Z,34.6958333,-116.2966667,6.59,1.76,ml,17,93,0.1204,0.14,ci,ci40039207,2022-06-13T06:20:34.450Z,"13km WSW of Ludlow, CA",earthquake,0.24,1.01,0.218,26,automatic,ci,ci
+2022-06-13T06:16:38.050Z,35.51,-118.3921667,6,2.16,ml,47,25,0.1664,0.14,ci,ci40039215,2022-06-13T21:40:35.190Z,"12km SE of Bodfish, CA",earthquake,0.13,0.65,0.249,26,reviewed,ci,ci
+2022-06-13T06:09:28.350Z,34.699,-116.2956667,7.53,1.76,ml,28,61,0.12,0.11,ci,ci40039207,2022-06-13T21:43:27.780Z,"13km W of Ludlow, CA",earthquake,0.15,0.67,0.21,24,reviewed,ci,ci
 2022-06-13T06:05:44.540Z,38.8300018,-122.7521667,-0.04,0.47,md,7,162,0.01387,0.01,nc,nc73744756,2022-06-13T06:44:16.528Z,"3km WNW of Cobb, CA",earthquake,0.57,0.86,0.08,2,automatic,nc,nc
 2022-06-13T06:04:55.530Z,38.8136673,-122.8208313,2.47,0.96,md,20,54,0.008093,0.03,nc,nc73744751,2022-06-13T08:06:15.806Z,"7km NW of The Geysers, CA",earthquake,0.23,0.6,0.05,3,automatic,nc,nc
 2022-06-13T06:01:47.406Z,63.0817,-151.4546,0,1.1,ml,,,,0.63,ak,ak0227jbptzo,2022-06-13T06:03:37.148Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -243,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T21:53:27.380Z,17.9863333333333,-66.8875,11.37,1.79,md,5,120,,0.08,pr,pr71353808,2022-06-12T22:11:30.300Z,"0 km NNE of Maria Antonia, Puerto Rico",earthquake,0.73,1.26,0.00802361390302453,3,reviewed,pr,pr
 2022-06-12T21:47:51.630Z,17.9871666666667,-66.82,15.87,1.71,md,6,184,,0.05,pr,pr71353803,2022-06-12T21:58:52.730Z,"0 km S of Indios, Puerto Rico",earthquake,0.44,0.63,0.129057802242998,5,reviewed,pr,pr
 2022-06-12T21:46:24.050Z,44.7816667,-110.815,3.93,0.84,md,5,220,0.02614,0.13,uu,uu60501537,2022-06-13T18:21:49.840Z,"23 km SSW of Mammoth, Wyoming",earthquake,2.8,2.38,0.269,5,reviewed,uu,uu
-2022-06-12T21:41:16.030Z,38.8376656,-122.80867,1.9,0.85,md,7,113,0.01429,0.01,nc,nc73744521,2022-06-12T23:08:10.566Z,"8km WNW of Cobb, CA",earthquake,0.44,1.25,,1,automatic,nc,nc
