@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-18T07:33:17.100Z,33.0431667,-116.4423333,7.86,0.86,ml,23,78,0.1357,0.22,ci,ci40286632,2022-06-18T07:36:54.885Z,"15km ESE of Julian, CA",earthquake,0.37,1.52,0.164,13,automatic,ci,ci
-2022-06-18T07:28:51.280Z,36.0048333,-117.8011667,0.33,1.96,ml,26,72,0.02315,0.14,ci,ci40286624,2022-06-18T07:32:35.867Z,"12km NE of Little Lake, CA",earthquake,0.2,0.3,0.166,26,automatic,ci,ci
+2022-06-18T07:28:51.280Z,36.0048333,-117.8011667,0.33,1.96,ml,26,72,0.02315,0.14,ci,ci40286624,2022-06-18T07:39:31.310Z,"12km NE of Little Lake, CA",earthquake,0.2,0.3,0.166,26,automatic,ci,ci
 2022-06-18T07:18:57.530Z,38.8343315,-122.7910004,1.84,1.17,md,12,56,0.004104,0.01,nc,nc73746956,2022-06-18T07:35:24.435Z,"6km WNW of Cobb, CA",earthquake,0.32,0.94,,1,automatic,nc,nc
 2022-06-18T07:02:10.523Z,61.5154,-149.9433,31.4,1,ml,,,,0.44,ak,ak0227rm04xo,2022-06-18T07:03:55.144Z,"0 km SE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-18T06:37:09.055Z,-17.7599,-178.5353,622.42,4.4,mb,,102,3.251,0.67,us,us7000hiaz,2022-06-18T07:00:39.040Z,"230 km E of Levuka, Fiji",earthquake,13.2,7,0.033,258,reviewed,us,us
@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T18:43:08.890Z,38.8116684,-122.8063354,2.59,0.99,md,20,44,0.009378,0.02,nc,nc73746801,2022-06-17T19:23:16.859Z,"6km NW of The Geysers, CA",earthquake,0.22,0.56,0.23,2,automatic,nc,nc
 2022-06-17T18:41:26.000Z,46.22233333333333,-122.191,6.78,0.34,ml,13,111,0.008208,0.21,uw,uw61852771,2022-06-18T03:27:55.630Z,"37 km S of Morton, Washington",earthquake,0.7,0.75,0.182176395672619,6,reviewed,uw,uw
 2022-06-17T18:25:02.653Z,38.248,-118.3521,8.9,0.6,ml,10,163.13,0.12,0.112,nn,nn00841109,2022-06-18T02:40:11.924Z,"26 km SW of Mina, Nevada",earthquake,,2.4,0.07,2,reviewed,nn,nn
-2022-06-17T18:24:44.860Z,36.4215,-120.9616667,0.24,1.16,md,5,147,0.04644,0.06,nc,nc73746796,2022-06-18T07:34:11.540Z,"20km SE of Pinnacles, CA",earthquake,1.31,2.58,0.283,10,reviewed,nc,nc
+2022-06-17T18:24:44.860Z,36.4215,-120.9616667,0.24,1.16,md,5,147,0.04644,0.06,nc,nc73746796,2022-06-18T07:45:16.493Z,"20km SE of Pinnacles, CA",earthquake,1.31,2.58,0.283,10,reviewed,nc,nc
 2022-06-17T18:21:16.249Z,38.1697,-117.8301,7.8,1.6,ml,17,112.12,0.106,0.1114,nn,nn00841091,2022-06-18T02:39:54.661Z,"34 km SE of Mina, Nevada",earthquake,,1.8,0.42,6,reviewed,nn,nn
 2022-06-17T18:09:20.416Z,-23.5236,-68.7374,103.78,4.3,mb,,83,0.766,1.01,us,us7000hi72,2022-06-17T18:35:03.040Z,"87 km SW of San Pedro de Atacama, Chile",earthquake,4.7,6.8,0.154,13,reviewed,us,us
 2022-06-17T18:08:06.540Z,37.3368333,-122.2048333,8.69,1.63,md,16,71,0.02642,0.09,nc,nc73746786,2022-06-18T06:43:10.149Z,"6km SSE of Portola Valley, CA",earthquake,0.35,0.55,0.132,16,reviewed,nc,nc
@@ -233,9 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T08:01:59.670Z,36.093,-117.6888333,0.99,1.86,ml,29,54,0.1006,0.13,ci,ci40285904,2022-06-17T17:25:28.810Z,"24km ENE of Coso Junction, CA",earthquake,0.17,0.26,0.131,26,reviewed,ci,ci
 2022-06-17T07:57:08.980Z,51.9263333333333,-177.085166666667,8.54,0.44,ml,5,270,,0.09,av,av91601201,2022-06-18T00:29:14.090Z,"31 km W of Adak, Alaska",earthquake,0.66,0.59,0.411067147926092,5,reviewed,av,av
 2022-06-17T07:52:23.030Z,16.7872,-61.0823,51,4.4,mb,,197,0.498,0.8,us,us7000hi2a,2022-06-17T20:14:55.826Z,"53 km N of Beauséjour, Guadeloupe",earthquake,7.2,8.1,0.08,45,reviewed,us,us
-2022-06-17T07:48:48.440Z,38.8263333,-122.8111667,1.16,0.52,md,10,86,0.003056,0.02,nc,nc73746626,2022-06-17T20:08:13.140Z,"7km NW of The Geysers, CA",earthquake,0.39,0.49,,1,reviewed,nc,nc
-2022-06-17T07:48:29.433Z,31.67720399,-104.4772932,2.866650391,2.6,ml,23,80,0.02179095736,0.3,tx,tx2022ltsl,2022-06-17T13:14:04.040Z,"56 km S of Whites City, New Mexico",earthquake,3.101118598,1.491498197,0.2,18,reviewed,tx,tx
-2022-06-17T07:46:34.440Z,36.4555,-117.5453333,-1.84,1.8,ml,23,100,0.1875,0.19,ci,ci40285888,2022-06-17T17:19:42.847Z,"39km WSW of Stovepipe Wells, CA",earthquake,0.41,0.67,0.117,19,reviewed,ci,ci
-2022-06-17T07:45:53.130Z,38.8263333,-122.7628333,0.76,0.49,md,15,118,0.006903,0.03,nc,nc73746621,2022-06-17T19:46:12.989Z,"4km W of Cobb, CA",earthquake,0.29,0.27,0.071,2,reviewed,nc,nc
-2022-06-17T07:45:28.820Z,33.731,-116.7666667,16.53,0.81,ml,30,171,0.04802,0.16,ci,ci40285880,2022-06-17T14:44:07.964Z,"4km WSW of Idyllwild, CA",earthquake,0.3,0.37,0.198,24,reviewed,ci,ci
-2022-06-17T07:44:15.781Z,38.1763,-117.8141,9,2,ml,16,109.34,0.12,0.1342,nn,nn00841069,2022-06-18T02:39:39.493Z,"35 km SE of Mina, Nevada",earthquake,,1.6,0.77,6,reviewed,nn,nn
