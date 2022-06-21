@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-21T23:41:07.353Z,65.015,-147.4951,0,0.9,ml,,,,0.94,ak,ak0227wudgrz,2022-06-21T23:43:34.128Z,"8 km NE of Fox, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-06-21T23:38:23.840Z,17.9751666666667,-66.8196666666667,10.23,2.57,md,17,161,,0.16,pr,pr71355408,2022-06-21T23:51:11.480Z,"2 km S of Indios, Puerto Rico",earthquake,0.35,0.58,0.134503503856925,8,reviewed,pr,pr
+2022-06-21T23:26:49.340Z,17.9696666666667,-66.8191666666667,11.63,2.95,md,21,164,,0.11,pr,pr71355398,2022-06-21T23:55:36.730Z,"2 km S of Indios, Puerto Rico",earthquake,0.28,0.39,0.281029329834133,17,reviewed,pr,pr
 2022-06-21T23:18:52.700Z,38.828167,-122.8088303,1.66,1,md,20,40,0.004863,0.02,nc,nc73749261,2022-06-21T23:27:11.372Z,"7km NW of The Geysers, CA",earthquake,0.21,0.46,0.15,3,automatic,nc,nc
 2022-06-21T23:06:22.160Z,19.1958332061768,-155.406005859375,31.2099990844727,2.2,ml,26,161,,0.140000001,hv,hv73051247,2022-06-21T23:11:51.330Z,"7 km E of Pāhala, Hawaii",earthquake,0.64,1.19000006,0.24,3,automatic,hv,hv
 2022-06-21T23:02:46.060Z,33.289,-115.9641667,2.94,1.01,ml,27,99,0.1158,0.28,ci,ci40288760,2022-06-21T23:06:19.953Z,"1km SW of Salton City, CA",earthquake,0.57,1.15,0.197,22,automatic,ci,ci
@@ -183,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T05:45:00.960Z,17.9511666666667,-66.8643333333333,16.46,2.45,md,15,183,,0.13,pr,pr71355248,2022-06-21T06:22:18.070Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,0.45,0.39,0.0850281335327978,6,reviewed,pr,pr
 2022-06-21T05:37:57.826Z,-22.1413,-179.5006,590.64,4.4,mb,,67,4.942,0.83,us,us7000hix5,2022-06-21T06:03:08.040Z,"south of the Fiji Islands",earthquake,12.7,7.6,0.061,77,reviewed,us,us
 2022-06-21T05:35:40.240Z,58.439,-154.486666666667,4.88,-0.19,ml,5,276,,0.23,av,av91063588,2022-06-21T23:41:22.740Z,"Alaska Peninsula",earthquake,1.39,1.88,0.247953368544326,5,reviewed,av,av
+2022-06-21T05:35:15.400Z,53.8566666666667,-166.4695,10.93,1.01,ml,13,187,,0.14,av,av91604781,2022-06-21T23:53:24.900Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.65,0.55,0.23262734930239,15,reviewed,av,av
 2022-06-21T05:26:19.070Z,36.7717,-116.1373,8.2,-0.5,ml,10,86.56,0.028,0.101,nn,nn00841422,2022-06-21T22:40:01.074Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.32,6,reviewed,nn,nn
 2022-06-21T05:21:14.380Z,58.4461666666667,-154.485833333333,4.02,-0.28,ml,4,284,,0.15,av,av91063583,2022-06-21T23:34:14.240Z,"Alaska Peninsula",earthquake,0.95,1.05,0.289426226543937,4,reviewed,av,av
 2022-06-21T05:04:11.790Z,58.4346666666667,-154.491166666667,4.86,0.78,ml,10,248,,0.33,av,av91063578,2022-06-21T23:32:03.610Z,"96 km N of Karluk, Alaska",earthquake,1.37,2.52,0.283288711661559,10,reviewed,av,av
@@ -274,7 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T00:01:39.270Z,39.4338333,-110.3016667,-1.85,1.72,ml,12,182,0.02059,0.16,uu,uu60502952,2022-06-21T15:17:19.950Z,"15 km SSE of Sunnyside, Utah",earthquake,0.83,0.78,0.096,5,reviewed,uu,uu
 2022-06-21T00:01:12.270Z,37.6395,-118.8828333,-0.33,0.24,md,9,119,0.01214,0.02,nc,nc73748641,2022-06-21T05:04:15.538Z,"8km E of Mammoth Lakes, CA",earthquake,0.34,0.49,0.265,8,reviewed,nc,nc
 2022-06-20T23:57:58.040Z,38.8263321,-122.7985001,2.98,0.8,md,12,136,0.009504,0.02,nc,nc73748636,2022-06-21T00:06:10.769Z,"6km W of Cobb, CA",earthquake,0.58,0.97,0.49,2,automatic,nc,nc
-2022-06-20T23:54:35.210Z,37.628334,-118.8730011,-2,2.07,md,9,115,0.01227,0.09,nc,nc73748631,2022-06-21T03:30:11.988Z,"9km E of Mammoth Lakes, CA",earthquake,0.31,2.79,0.09,10,automatic,nc,nc
-2022-06-20T23:53:02.320Z,38.8253326,-122.8564987,2.23,0.37,md,13,97,0.002228,0.02,nc,nc73748626,2022-06-21T00:52:14.038Z,"10km WNW of The Geysers, CA",earthquake,0.39,0.53,0.01,2,automatic,nc,nc
-2022-06-20T23:47:40.880Z,53.8518333333333,-166.647166666667,8.62,-0.19,ml,6,154,,0.15,av,av91063533,2022-06-21T06:52:20.040Z,"7 km WSW of Unalaska, Alaska",earthquake,0.5,1.05,0.406757393421829,6,reviewed,av,av
-2022-06-20T23:47:16.727Z,63.7577,-148.9799,14.4,1,ml,,,,0.45,ak,ak0227v6vfau,2022-06-20T23:56:47.082Z,"4 km NW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
