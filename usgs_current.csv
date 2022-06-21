@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T10:35:00.860Z,35.7023333,-117.5128333,5.98,0.89,ml,11,100,0.1227,0.12,ci,ci40288520,2022-06-21T10:38:37.314Z,"12km SW of Searles Valley, CA",earthquake,0.44,1.78,0.07,8,automatic,ci,ci
 2022-06-21T10:31:25.304Z,61.4983,-150.067,23.2,1,ml,,,,0.75,ak,ak0227wmkq4y,2022-06-21T10:33:14.866Z,"6 km WSW of Big Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-21T10:30:42.860Z,32.978,-116.4358333,12.03,0.56,ml,12,87,0.1138,0.18,ci,ci40288512,2022-06-21T10:34:19.798Z,"19km SE of Julian, CA",earthquake,0.62,1.26,0.058,5,automatic,ci,ci
-2022-06-21T10:20:24.800Z,38.7841682,-122.7676697,3.08,0.98,md,20,84,0.01351,0.03,nc,nc73748966,2022-06-21T10:29:11.557Z,"1km NW of The Geysers, CA",earthquake,0.27,0.54,0.16,4,automatic,nc,nc
+2022-06-21T10:20:24.800Z,38.7841682,-122.7676697,3.08,0.98,md,20,84,0.01351,0.03,nc,nc73748966,2022-06-21T10:48:15.687Z,"1km NW of The Geysers, CA",earthquake,0.27,0.54,0.16,4,automatic,nc,nc
 2022-06-21T10:15:25.900Z,38.8370018,-122.8000031,1.93,0.85,md,10,87,0.007673,0.01,nc,nc73748961,2022-06-21T10:38:14.616Z,"7km WNW of Cobb, CA",earthquake,0.34,1.01,,1,automatic,nc,nc
 2022-06-21T10:14:42.663Z,38.1734,-117.8842,3.9,1,ml,13,172.45,0.068,0.2093,nn,nn00841368,2022-06-21T10:18:20.378Z,"31 km SE of Mina, Nevada",earthquake,,0.8,0.18,8,automatic,nn,nn
 2022-06-21T10:13:16.754Z,61.5916,-142.6783,22,0.9,ml,,,,0.4,ak,ak0227wmgul7,2022-06-21T10:14:59.368Z,"21 km NE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -70,6 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T04:15:57.300Z,38.828167,-122.8040009,2.09,0.85,md,9,112,0.006724,0.01,nc,nc73748786,2022-06-21T04:29:11.342Z,"7km NW of The Geysers, CA",earthquake,0.49,1.27,,1,automatic,nc,nc
 2022-06-21T04:11:04.461Z,38.5067,-119.545,1.4,1.5,ml,12,94.26,0.082,0.2434,nn,nn00841355,2022-06-21T04:14:09.100Z,"6 km W of Walker, California",earthquake,,3.3,0.19,9,automatic,nn,nn
 2022-06-21T04:10:42.445Z,-58.7537,-25.2408,10,5,mb,,45,15.84,0.75,us,us7000hiwq,2022-06-21T05:20:39.040Z,"South Sandwich Islands region",earthquake,12.4,1.8,0.072,61,reviewed,us,us
+2022-06-21T04:02:10.550Z,36.4248352,-89.5021667,2.5,1.84,md,11,69,0.1045,0.36,nm,nm60400486,2022-06-21T10:46:41.160Z,"5 km NNW of Tiptonville, Tennessee",earthquake,0.84,3.59,0.11,4,reviewed,nm,nm
 2022-06-21T04:02:07.001Z,60.7789,-151.7211,73.4,2,ml,,,,0.73,ak,ak0227witvbw,2022-06-21T05:10:03.040Z,"25 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-21T03:57:21.990Z,38.7960014,-122.7991638,1.25,0.81,md,20,67,0.00825,0.03,nc,nc73748771,2022-06-21T04:31:15.352Z,"4km WNW of The Geysers, CA",earthquake,0.21,0.44,0.28,3,automatic,nc,nc
 2022-06-21T03:57:09.010Z,33.3381667,-116.3675,7.64,1.3,ml,52,33,0.05414,0.21,ci,ci40288416,2022-06-21T04:07:40.180Z,"9km N of Borrego Springs, CA",earthquake,0.24,0.72,0.156,26,automatic,ci,ci
@@ -301,8 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T10:57:51.300Z,36.10939789,-97.83082581,4.291498661,1.92,ml,40,34.95635986,0.1109670028,0.2727010779,ok,ok2022lzlf,2022-06-20T10:59:26.858Z,"6 km E of Hennessey, Oklahoma",earthquake,1.851793077,1.786504663,,25,automatic,ok,ok
 2022-06-20T10:57:38.740Z,33.2786667,-115.9618333,6.59,1.01,ml,26,79,0.1057,0.29,ci,ci40287752,2022-06-20T11:01:09.487Z,"2km SSW of Salton City, CA",earthquake,0.53,2.48,0.172,14,automatic,ci,ci
 2022-06-20T10:56:45.024Z,63.5834,-147.4513,5.6,1.1,ml,,,,0.29,ak,ak0227uz6s2e,2022-06-20T10:59:02.442Z,"74 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-20T10:54:04.090Z,33.2835,-115.9911667,1.57,0.88,ml,20,105,0.1103,0.21,ci,ci40287744,2022-06-20T10:57:37.037Z,"4km WSW of Salton City, CA",earthquake,0.36,0.98,0.108,15,automatic,ci,ci
-2022-06-20T10:53:48.737Z,-22.5651,-66.258,264.06,4.4,mb,,102,1.814,0.67,us,us7000hipr,2022-06-20T12:18:27.040Z,"60 km WNW of Abra Pampa, Argentina",earthquake,10.2,14.3,0.269,4,reviewed,us,us
-2022-06-20T10:50:49.750Z,37.5231667,-118.7838333,6.19,0.77,md,18,113,0.07582,0.03,nc,nc73748126,2022-06-20T21:06:16.670Z,"10km WSW of Toms Place, CA",earthquake,0.38,31.61,0.107,15,reviewed,nc,nc
-2022-06-20T10:47:19.280Z,35.8598333,-117.6526667,9.22,0.59,ml,7,107,0.06281,0.05,ci,ci40287736,2022-06-20T10:50:47.712Z,"24km ESE of Little Lake, CA",earthquake,0.24,0.59,0.239,5,automatic,ci,ci
-2022-06-20T10:44:26.230Z,34.6796667,-118.3411667,4.76,1.33,ml,36,55,0.03516,0.19,ci,ci40287728,2022-06-20T10:55:23.510Z,"5km ENE of Elizabeth Lake, CA",earthquake,0.25,0.4,0.226,26,automatic,ci,ci
