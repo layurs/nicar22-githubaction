@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-23T14:38:27.990Z,36.0023346,-120.5693359,4.94,1.11,md,15,92,0.02746,0.06,nc,nc73749966,2022-06-23T14:40:02.458Z,"17km NW of Parkfield, CA",earthquake,0.44,0.65,0.1,6,automatic,nc,nc
+2022-06-23T14:38:27.990Z,36.0023346,-120.5693359,4.94,1.11,md,15,92,0.02746,0.06,nc,nc73749966,2022-06-23T14:51:10.459Z,"17km NW of Parkfield, CA",earthquake,0.44,0.65,0.1,6,automatic,nc,nc
 2022-06-23T14:20:03.230Z,61.496,-151.5221,78.7,1.8,ml,,,,0.23,ak,ak0227zzyqyr,2022-06-23T14:21:45.835Z,"46 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-23T14:11:20.969Z,38.2578,-118.4396,4.2,0.7,ml,8,143.41,0.052,0.0421,nn,nn00841542,2022-06-23T14:15:31.343Z,"32 km WSW of Mina, Nevada",earthquake,,4,0.46,5,automatic,nn,nn
-2022-06-23T14:01:45.645Z,53.095,-167.4321,47.71,4.3,mb,,167,0.427,0.78,us,us7000hjlr,2022-06-23T14:15:46.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,5.9,11.1,0.066,66,reviewed,us,us
+2022-06-23T14:01:45.645Z,53.095,-167.4321,47.71,4.3,mb,,167,0.427,0.78,us,us7000hjlr,2022-06-23T14:49:21.564Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,5.9,11.1,0.066,66,reviewed,us,us
 2022-06-23T13:38:29.450Z,36.6561661,-121.3186646,3.66,2.26,md,27,84,0.04532,0.17,nc,nc73749956,2022-06-23T14:38:10.381Z,"15km S of Tres Pinos, CA",earthquake,0.36,1.43,0.21,25,automatic,nc,nc
 2022-06-23T13:36:34.291Z,61.5214,-149.8267,32.5,1.7,ml,,,,0.61,ak,ak0227zzgt7p,2022-06-23T13:39:24.923Z,"6 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-23T13:23:16.620Z,33.3515,-116.9391667,4.79,0.54,ml,18,54,0.06408,0.15,ci,ci40289672,2022-06-23T13:26:56.668Z,"7km W of Palomar Observatory, CA",earthquake,0.31,0.55,0.08,12,automatic,ci,ci
@@ -48,7 +48,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T08:22:17.085Z,64.7963,-155.8081,6.7,1.6,ml,,,,0.52,ak,ak0227zwelu4,2022-06-23T08:27:52.285Z,"16 km WNW of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-23T08:18:41.460Z,38.8320007,-122.8118362,1.92,0.57,md,15,68,0.008703,0.01,nc,nc73749906,2022-06-23T08:28:10.202Z,"8km NW of The Geysers, CA",earthquake,0.27,0.49,,1,automatic,nc,nc
 2022-06-23T08:16:52.140Z,34.0305,-117.2296667,16.36,0.57,ml,30,99,0.08678,0.21,ci,ci40289568,2022-06-23T13:58:43.284Z,"4km SE of Loma Linda, CA",earthquake,0.35,0.7,0.11,7,reviewed,ci,ci
-2022-06-23T08:15:30.627Z,59.5115,-149.6913,100.5,2.2,ml,,,,0.92,ak,ak0227zwd4va,2022-06-23T08:19:24.273Z,"64 km SSW of Lowell Point, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-06-23T08:14:58.010Z,51.7856,179.629,81.76,4.4,mb,,130,0.121,0.45,us,us7000hjiv,2022-06-23T09:40:43.040Z,"257 km W of Adak, Alaska",earthquake,7.1,5.1,0.041,175,reviewed,us,us
 2022-06-23T08:14:49.063Z,65.4016,-153.4372,0,1.4,ml,,,,0.43,ak,ak0227zwcykz,2022-06-23T08:16:40.110Z,"68 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-23T08:14:06.336Z,54.9363,-157.0728,10,3.3,ml,,223,1.213,0.58,us,us7000hjiu,2022-06-23T10:30:49.040Z,"170 km SE of Perryville, Alaska",earthquake,4.1,2,0.066,30,reviewed,us,us
@@ -110,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T03:01:56.572Z,58.5951,-152.3751,35.7,1.7,ml,,,,0.72,ak,ak0227ztb0tl,2022-06-23T03:07:43.037Z,"67 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-23T02:59:04.880Z,39.4281667,-110.2976667,-1.67,1.45,ml,8,199,0.02163,0.15,uu,uu60503157,2022-06-23T12:47:07.380Z,"15 km SSE of Sunnyside, Utah",earthquake,1.72,1.4,0.158,3,reviewed,uu,uu
 2022-06-23T02:29:26.980Z,33.395,-116.4348333,10.79,1.26,ml,47,58,0.1097,0.21,ci,ci40289480,2022-06-23T02:40:41.350Z,"16km NNW of Borrego Springs, CA",earthquake,0.25,0.43,0.144,28,automatic,ci,ci
-2022-06-23T02:27:57.025Z,61.443,-151.1601,13.1,1.1,ml,,,,0.28,ak,ak0227zsv5va,2022-06-23T02:29:09.317Z,"33 km N of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-23T02:27:57.025Z,61.443,-151.1601,13.1,1.1,ml,,,,0.28,ak,ak0227zsv5va,2022-06-23T02:29:09.317Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-23T02:21:23.740Z,39.4328333,-110.2983333,-2.06,1.78,ml,10,198,0.02249,0.15,uu,uu60503152,2022-06-23T12:18:12.930Z,"15 km SSE of Sunnyside, Utah",earthquake,1.03,1.19,0.14,5,reviewed,uu,uu
 2022-06-23T02:19:44.200Z,19.2014999389648,-155.525497436523,-0.610000014305115,2.27,ml,33,65,,0.270000011,hv,hv73052497,2022-06-23T02:25:14.600Z,"4 km W of Pāhala, Hawaii",earthquake,0.45,0.230000004,4.32,5,automatic,hv,hv
 2022-06-23T02:16:58.160Z,33.1861667,-115.6213333,2.1,0.94,ml,6,158,0.003201,0.12,ci,ci40289472,2022-06-23T02:20:31.137Z,"11km WSW of Niland, CA",earthquake,1.93,0.56,0.163,5,automatic,ci,ci
@@ -246,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T15:17:49.930Z,43.191,-110.9181667,4.13,2.2,ml,10,199,0.294,0.18,mb,mb80549589,2022-06-22T22:28:44.550Z,"7 km E of Alpine Northeast, Wyoming",earthquake,1.33,2.64,0.238,21,reviewed,mb,mb
 2022-06-22T15:17:27.860Z,44.81,-110.7995,7.32,0.91,md,10,232,0.04228,0.12,uu,uu60503072,2022-06-22T15:29:05.990Z,"20 km SSW of Mammoth, Wyoming",earthquake,1.36,0.7,0.609,6,reviewed,uu,uu
 2022-06-22T15:09:00.191Z,63.1661,-150.5138,97.8,1.3,ml,,,,0.33,ak,ak0227ycygyr,2022-06-22T15:10:49.740Z,"73 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-06-22T14:49:32.713Z,37.1944,-116.3922,10.2,-0.3,ml,5,210.19,0.1,0.1499,nn,nn00841506,2022-06-23T02:40:02.644Z,"45 km NE of Beatty, Nevada",earthquake,,5.2,0.94,4,reviewed,nn,nn
