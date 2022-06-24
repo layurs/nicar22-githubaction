@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-24T19:27:08.670Z,37.6428337,-118.8929977,-0.65,1.19,md,8,136,0.003421,0.03,nc,nc73750526,2022-06-24T19:28:47.445Z,"8km E of Mammoth Lakes, CA",earthquake,0.3,0.36,0.12,8,automatic,nc,nc
+2022-06-24T19:20:43.827Z,60.7727,-150.6469,43.7,1.3,ml,,,,0.38,ak,ak02281qhcm6,2022-06-24T19:23:17.549Z,"16 km S of Point Possession, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-06-24T19:15:01.725Z,62.4565,-149.3145,12.8,1,ml,,,,0.4,ak,ak02281qg6sc,2022-06-24T19:17:24.059Z,"40 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-24T19:14:11.386Z,68.0828,-160.4123,3.6,3.3,ml,,,,0.75,ak,ak02281qfzsg,2022-06-24T19:17:41.986Z,"103 km E of Red Dog Mine, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-24T19:07:42.289Z,62.9185,-151.3171,106.7,2.3,ml,,,,0.39,ak,ak02281qek64,2022-06-24T19:10:09.673Z,"54 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-24T19:04:08.270Z,58.2901,-155.8638,0,2,ml,,,,1.56,ak,ak02281qduez,2022-06-24T19:06:36.657Z,"64 km SE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-24T19:02:40.430Z,46.007,-112.4603333,-2,1.67,ml,13,112,0.066,0.12,mb,mb80549744,2022-06-24T19:27:26.840Z,"5 km E of Butte, Montana",quarry blast,0.43,31.61,0.227,11,reviewed,mb,mb
 2022-06-24T18:51:58.820Z,35.0545,-118.354,0.33,1.35,ml,30,36,0.06456,0.26,ci,ci40290736,2022-06-24T18:55:33.155Z,"12km SE of Tehachapi, CA",earthquake,0.42,31.61,0.122,27,automatic,ci,ci
 2022-06-24T18:48:14.020Z,34.8445,-118.7893333,1.01,1.59,ml,15,54,0.06866,0.19,ci,ci40290728,2022-06-24T18:51:56.464Z,"7km E of Lebec, CA",earthquake,0.38,0.71,0.192,34,automatic,ci,ci
 2022-06-24T18:42:35.520Z,34.5861667,-117.7826667,9.25,0.84,ml,11,104,0.1076,0.18,ci,ci40290720,2022-06-24T18:46:17.711Z,"5km SE of Lake Los Angeles, CA",earthquake,0.43,1.33,0.081,10,automatic,ci,ci
@@ -76,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-24T12:59:46.689Z,58.2767,-134.0284,7.3,2.1,ml,,,,0.95,ak,ak02281mjoj0,2022-06-24T13:02:35.275Z,"23 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-24T12:52:12.740Z,38.8353348,-122.8119965,1.97,1.53,md,8,79,0.01202,0.01,nc,nc73750401,2022-06-24T15:16:15.345Z,"8km W of Cobb, CA",earthquake,0.39,1.35,1.56,2,automatic,nc,nc
 2022-06-24T12:34:28.090Z,33.9943333,-116.9893333,17.03,0.91,ml,17,88,0.06809,0.13,ci,ci40290496,2022-06-24T12:37:58.647Z,"6km E of Calimesa, CA",earthquake,0.36,0.77,0.13,24,automatic,ci,ci
-2022-06-24T12:23:23.240Z,32.627,-115.7125,9.08,1.64,ml,16,130,0.02516,0.29,ci,ci40290488,2022-06-24T12:26:54.573Z,"13km WNW of Progreso, B.C., MX",earthquake,0.77,0.73,0.15,19,automatic,ci,ci
+2022-06-24T12:23:23.290Z,32.6496667,-115.714,9.4,1.65,ml,28,132,0.01045,0.21,ci,ci40290488,2022-06-24T19:27:30.724Z,"14km WNW of Progreso, B.C., MX",earthquake,0.27,0.33,0.128,21,reviewed,ci,ci
 2022-06-24T12:23:10.200Z,37.2948341,-121.574501,6.81,1.36,md,16,79,0.06226,0.09,nc,nc73750396,2022-06-24T14:51:15.223Z,"20km NNE of Morgan Hill, CA",earthquake,0.31,0.69,0.11,13,automatic,nc,nc
 2022-06-24T12:18:59.740Z,42.5353333,-111.386,-2.46,1.45,md,19,175,0.5113,0.14,uu,uu60503357,2022-06-24T15:08:18.040Z,"southern Idaho",earthquake,0.83,4.99,0.2,9,reviewed,uu,uu
 2022-06-24T12:15:54.230Z,38.8224983,-122.8281631,1.02,0.85,md,13,65,0.005399,0.01,nc,nc73750391,2022-06-24T14:22:16.049Z,"8km NW of The Geysers, CA",earthquake,0.26,0.56,,1,automatic,nc,nc
@@ -280,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T19:36:04.680Z,33.9558333,-116.9403333,15.49,1.29,ml,54,39,0.04796,0.13,ci,ci40289944,2022-06-23T20:27:50.471Z,"4km NE of Beaumont, CA",earthquake,0.14,0.36,0.17,35,reviewed,ci,ci
 2022-06-23T19:33:10.960Z,33.9536667,-116.9381667,15.35,1.19,ml,37,51,0.04775,0.12,ci,ci40289936,2022-06-23T20:11:42.387Z,"4km NE of Beaumont, CA",earthquake,0.18,0.52,0.108,26,reviewed,ci,ci
 2022-06-23T19:33:05.390Z,33.616,-117.0825,-0.65,1.22,ml,12,99,0.03517,0.23,ci,ci40289928,2022-06-23T20:03:16.703Z,"9km NE of Murrieta Hot Springs, CA",quarry blast,0.69,31.61,0.15,10,reviewed,ci,ci
-2022-06-23T19:25:06.400Z,19.1693325042725,-155.50016784668,33.5299987792969,1.86000001,md,32,110,,0.140000001,hv,hv73053307,2022-06-24T03:13:10.467Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.62,1,0.140000001,5,automatic,hv,hv
-2022-06-23T19:19:58.170Z,19.1693333333333,-155.499833333333,36.7,3.64,ml,56,100,,0.11,hv,hv73053302,2022-06-24T04:02:18.126Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.38,0.45,0.184821257056075,38,reviewed,hv,hv
