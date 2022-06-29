@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-29T08:37:22.640Z,36.8111649,-121.5575027,4.42,2.11,md,22,77,0.04397,0.15,nc,nc73752486,2022-06-29T08:44:10.245Z,"4km SSW of San Juan Bautista, CA",earthquake,0.4,0.91,0.24,21,automatic,nc,nc
+2022-06-29T08:54:29.200Z,33.4353333,-116.6201667,5.96,1.12,ml,45,39,0.06108,0.15,ci,ci40293512,2022-06-29T08:58:00.818Z,"14km SSE of Anza, CA",earthquake,0.17,0.42,0.167,26,automatic,ci,ci
+2022-06-29T08:37:22.640Z,36.8111649,-121.5575027,4.42,2.11,md,22,77,0.04397,0.15,nc,nc73752486,2022-06-29T08:49:20.269Z,"4km SSW of San Juan Bautista, CA",earthquake,0.4,0.91,0.24,21,automatic,nc,nc
 2022-06-29T08:28:55.620Z,19.158332824707,-155.460830688477,32.6699981689453,1.82000005,md,32,142,,0.119999997,hv,hv73059882,2022-06-29T08:32:07.790Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.59,0.829999983,0.839999974,7,automatic,hv,hv
 2022-06-29T08:15:43.644Z,44.5657,-28.1852,10,4.8,mb,,68,20.502,0.64,us,us7000hl1t,2022-06-29T08:40:56.040Z,"northern Mid-Atlantic Ridge",earthquake,11.7,1.9,0.036,242,reviewed,us,us
 2022-06-29T08:13:08.090Z,18.0248333333333,-66.7455,16.69,1.76,md,9,167,,0.12,pr,pr71356613,2022-06-29T08:30:25.380Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.39,0.69,0.178109930220711,5,reviewed,pr,pr
@@ -175,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T13:33:14.030Z,61.8322,-148.9623,42.4,0.9,ml,,,,0.48,ak,ak0228894uyz,2022-06-28T13:36:00.659Z,"12 km WNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-28T13:33:13.370Z,44.3433333,-110.8883333,2.06,1.21,md,8,114,0.09409,0.33,uu,uu60503722,2022-06-28T14:08:29.800Z,"39 km SSE of West Yellowstone, Montana",earthquake,1.62,9.39,0.184,5,reviewed,uu,uu
 2022-06-28T13:30:53.310Z,44.8073333,-110.8341667,4.44,-0.06,md,5,241,0.02228,0.08,uu,uu60503717,2022-06-28T16:20:59.050Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.44,0.52,0.006,1,reviewed,uu,uu
+2022-06-28T13:26:00.530Z,54.021,-166.148166666667,18.56,0.02,ml,5,347,,0.03,av,av91064303,2022-06-29T08:48:48.670Z,"27 km WSW of Akutan, Alaska",earthquake,2.55,1.17,0.13935932215585,5,reviewed,av,av
 2022-06-28T13:23:45.910Z,38.8376667,-122.7943333,2.57,0.51,md,18,77,0.003202,0.03,nc,nc73752206,2022-06-28T21:28:10.069Z,"6km WNW of Cobb, CA",earthquake,0.26,0.55,0.074,3,reviewed,nc,nc
 2022-06-28T13:22:59.638Z,38.1734,-117.8284,8.2,1.2,ml,16,149.29,0.109,0.1379,nn,nn00841869,2022-06-29T02:40:12.301Z,"34 km SE of Mina, Nevada",earthquake,,2,0.93,6,reviewed,nn,nn
 2022-06-28T13:19:20.440Z,38.1769,-117.8262,6.4,1.4,ml,17,148.54,0.112,0.1301,nn,nn00841866,2022-06-29T02:40:09.950Z,"34 km SE of Mina, Nevada",earthquake,,2.2,0.81,6,reviewed,nn,nn
@@ -252,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T09:05:45.090Z,17.9535,-66.965,16.05,2.12,md,9,207,,0.18,pr,pr71356413,2022-06-28T09:29:41.550Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.75,0.00947509592140294,4,reviewed,pr,pr
 2022-06-28T09:03:57.810Z,36.295,-98.176,7.82,1.45,ml,97,49,0.04229170093,0.21,ok,ok2022mnxm,2022-06-28T12:23:27.839Z,"5 km N of Ames, Oklahoma",earthquake,,0.4,0.24,41,reviewed,ok,ok
 2022-06-28T09:03:56.310Z,17.9468333333333,-66.9795,11.57,1.89,md,3,218,,0.03,pr,pr71356408,2022-06-28T09:14:19.540Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.97,0.87,0.222948984328281,3,reviewed,pr,pr
-2022-06-28T08:55:13.990Z,38.7935,-122.9413333,4.12,1,md,33,129,0.03134,0.06,nc,nc73751971,2022-06-28T21:43:10.153Z,"7km ESE of Cloverdale, CA",earthquake,0.22,0.44,0.183,8,reviewed,nc,nc
-2022-06-28T08:50:48.034Z,62.1442,-149.0443,35.1,1.7,ml,,,,0.39,ak,ak0228869eqr,2022-06-28T08:53:09.987Z,"42 km E of Susitna North, Alaska",earthquake,,4.3,,,automatic,ak,ak
