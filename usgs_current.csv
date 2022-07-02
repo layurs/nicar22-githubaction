@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-02T11:25:27.230Z,33.6718333,-116.7161667,14.28,1.04,ml,38,54,0.03927,0.17,ci,ci40295384,2022-07-02T11:28:57.006Z,"8km S of Idyllwild, CA",earthquake,0.25,0.37,0.195,28,automatic,ci,ci
+2022-07-02T11:25:25.709Z,62.5857,-152.1912,0,1.4,ml,,,,1.28,ak,ak0228eu1owq,2022-07-02T11:27:24.226Z,"74 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-02T11:13:05.974Z,63.796,-147.8566,7.7,0.9,ml,,,,0.67,ak,ak0228etz2sl,2022-07-02T11:15:38.212Z,"52 km E of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-02T11:07:53.750Z,33.6008333,-116.748,12.95,0.17,ml,12,78,0.01521,0.19,ci,ci40295376,2022-07-02T11:11:33.658Z,"9km NW of Anza, CA",earthquake,0.74,1.12,0.12,4,automatic,ci,ci
 2022-07-02T10:56:19.890Z,33.608,-116.738,14.62,0.11,ml,16,69,0.04249,0.24,ci,ci40295368,2022-07-02T10:59:52.590Z,"8km NW of Anza, CA",earthquake,0.82,1.09,0.086,5,automatic,ci,ci
 2022-07-02T10:44:27.930Z,33.6041667,-116.7378333,12.54,0.84,ml,29,71,0.02429,0.16,ci,ci40295360,2022-07-02T10:48:08.609Z,"8km NW of Anza, CA",earthquake,0.26,0.47,0.148,27,automatic,ci,ci
+2022-07-02T10:42:57.149Z,-24.1561,-67.3264,228.26,4.4,mb,28,93,1.431,0.85,us,us6000hzdg,2022-07-02T11:20:26.040Z,"102 km W of San Antonio de los Cobres, Argentina",earthquake,6.1,8.7,0.19,8,reviewed,us,us
 2022-07-02T10:32:42.720Z,38.8344994,-122.8040009,1.92,0.36,md,10,106,0.01136,0,nc,nc73753466,2022-07-02T10:40:10.677Z,"7km W of Cobb, CA",earthquake,0.34,0.92,,1,automatic,nc,nc
 2022-07-02T10:31:55.393Z,61.4767,-149.9025,34,1,ml,,,,0.21,ak,ak0228ethlw3,2022-07-02T10:33:36.188Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-02T10:29:29.760Z,38.8336678,-122.8030014,1.81,1.8,md,30,33,0.01096,0.03,nc,nc73753461,2022-07-02T11:03:15.820Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.05,9,automatic,nc,nc
@@ -32,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T08:04:22.310Z,36.086,-117.8725,2.43,1.92,ml,25,83,0.0346,0.13,ci,ci40295296,2022-07-02T08:08:08.577Z,"8km NE of Coso Junction, CA",earthquake,0.24,0.34,0.211,26,automatic,ci,ci
 2022-07-02T08:02:02.370Z,33.6775,-116.8151667,11.74,1.12,ml,44,65,0.05464,0.17,ci,ci40295288,2022-07-02T08:12:37.850Z,"11km SE of Valle Vista, CA",earthquake,0.21,0.41,0.174,26,automatic,ci,ci
 2022-07-02T07:52:05.320Z,19.1703338623047,-155.507171630859,34.5099983215332,1.96000004,md,29,110,,0.189999998,hv,hv73062537,2022-07-02T07:55:14.980Z,"4 km SW of Pāhala, Hawaii",earthquake,0.76,1.41999996,1.33000004,8,automatic,hv,hv
-2022-07-02T07:51:22.870Z,40.0841667,-123.6978333,22.61,2.06,md,28,66,0.07404,0.16,nc,nc73753416,2022-07-02T09:56:20.434Z,"11km ESE of Redway, CA",earthquake,0.35,0.41,0.208,31,reviewed,nc,nc
+2022-07-02T07:51:22.870Z,40.0841667,-123.6978333,22.61,2.06,md,28,66,0.07404,0.16,nc,nc73753416,2022-07-02T11:31:10.991Z,"11km ESE of Redway, CA",earthquake,0.35,0.41,0.208,31,reviewed,nc,nc
 2022-07-02T07:45:33.100Z,33.6093333,-116.7366667,12.48,0.5,ml,18,73,0.02771,0.14,ci,ci40295280,2022-07-02T07:49:08.477Z,"8km NW of Anza, CA",earthquake,0.35,0.54,0.196,11,automatic,ci,ci
 2022-07-02T07:35:42.750Z,33.6056667,-116.7376667,11.85,0.94,ml,38,50,0.02509,0.18,ci,ci40295272,2022-07-02T07:39:22.004Z,"8km NW of Anza, CA",earthquake,0.23,0.43,0.182,25,automatic,ci,ci
 2022-07-02T07:26:48.840Z,34.0036667,-116.7616667,13.48,0.69,ml,18,97,0.04953,0.23,ci,ci40295264,2022-07-02T07:30:26.449Z,"10km NNE of Cabazon, CA",earthquake,0.41,0.81,0.083,17,automatic,ci,ci
@@ -102,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T23:46:25.770Z,54.5125,-164.745666666667,26.32,0.51,ml,5,165,,0.18,av,av91064693,2022-07-02T05:42:39.200Z,"79 km ENE of Akutan, Alaska",earthquake,1.39,0.8,0.301195535963707,5,reviewed,av,av
 2022-07-01T23:35:44.630Z,19.1555004119873,-155.456161499023,32.6699981689453,2.04999995,md,24,169,,0.129999995,hv,hv73062147,2022-07-01T23:39:04.520Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.59,1.05999994,1.04999995,11,automatic,hv,hv
 2022-07-01T23:33:58.330Z,19.1595001220703,-155.470993041992,35.9599990844727,1.90999997,md,16,164,,0.150000006,hv,hv73062142,2022-07-01T23:37:17.640Z,"4 km S of Pāhala, Hawaii",earthquake,0.92,1.36000001,1.90999997,4,automatic,hv,hv
-2022-07-01T23:25:14.133Z,26.8992,55.3207,10,6,mwb,364,21,2.102,0.68,us,us6000hz9v,2022-07-02T11:07:50.392Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.1,1.7,0.028,126,reviewed,us,us
+2022-07-01T23:25:14.133Z,26.8992,55.3207,10,6,mwb,364,21,2.102,0.68,us,us6000hz9v,2022-07-02T11:30:04.142Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.1,1.7,0.028,126,reviewed,us,us
 2022-07-01T23:24:14.319Z,26.9249,55.2468,10,5.7,mwb,122,24,2.151,0.91,us,us6000hz9p,2022-07-02T06:56:56.439Z,"54 km NE of Bandar-e Lengeh, Iran",earthquake,7.2,1.8,0.036,74,reviewed,us,us
 2022-07-01T23:21:45.588Z,-16.6414,-169.7488,10,5,mb,31,57,10.476,0.63,us,us6000hz9r,2022-07-02T05:32:00.428Z,"267 km S of Ta`ū, American Samoa",earthquake,5.6,1.8,0.108,27,reviewed,us,us
 2022-07-01T23:13:44.113Z,26.8954,55.3149,10,4.2,mb,63,94,2.1,0.62,us,us6000hz9l,2022-07-02T02:03:50.040Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.4,1.8,0.076,48,reviewed,us,us
@@ -212,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T12:14:35.300Z,38.8310013,-122.8021698,1.73,1.12,md,24,43,0.009788,0.02,nc,nc73753191,2022-07-01T13:40:11.248Z,"7km W of Cobb, CA",earthquake,0.19,0.4,0.22,4,automatic,nc,nc
 2022-07-01T11:57:37.070Z,38.7869987,-122.7686691,1.98,1.22,md,23,81,0.0153,0.04,nc,nc73753186,2022-07-01T13:11:11.089Z,"2km NW of The Geysers, CA",earthquake,0.26,0.42,0.04,4,automatic,nc,nc
 2022-07-01T11:57:05.110Z,48.17583333333334,-120.13816666666666,1.45,0.76,md,8,125,0.1667,0.11,uw,uw61848102,2022-07-01T21:10:46.820Z,"11 km WNW of Methow, Washington",earthquake,0.32,5.26,0.2832081226000005,5,reviewed,uw,uw
-2022-07-01T11:28:27.070Z,63.2577,-148.5884,76.4,2.9,ml,,,,0.41,ak,ak0228d6izno,2022-07-01T11:38:40.040Z,"23 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-01T11:23:24.110Z,33.3778333,-116.8841667,6.44,0.99,ml,41,28,0.03013,0.24,ci,ci40294784,2022-07-01T11:27:02.006Z,"3km NW of Palomar Observatory, CA",earthquake,0.26,0.6,0.116,26,automatic,ci,ci
