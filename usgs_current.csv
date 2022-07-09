@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-09T23:05:42.480Z,33.9911667,-116.7485,11.88,1,ml,29,64,0.06595,0.21,ci,ci40300920,2022-07-09T23:09:24.120Z,"9km NNE of Cabazon, CA",earthquake,0.36,1.02,0.156,29,automatic,ci,ci
+2022-07-09T23:04:34.650Z,19.4601669311523,-155.900329589844,6.73000001907349,2.57,ml,40,204,,0.239999995,hv,hv73071032,2022-07-09T23:10:03.510Z,"3 km W of Honaunau-Napoopoo, Hawaii",earthquake,0.9,0.699999988,3.66,11,automatic,hv,hv
 2022-07-09T22:36:56.520Z,38.8349991,-122.8058319,1.89,0.36,md,8,105,0.01205,0.01,nc,nc73756896,2022-07-09T22:53:19.062Z,"7km WNW of Cobb, CA",earthquake,0.52,1.08,,1,automatic,nc,nc
 2022-07-09T22:29:45.115Z,64.3758,-150.1112,17.7,1,ml,,,,0.38,ak,ak0228qldsdr,2022-07-09T22:31:56.785Z,"44 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-09T22:13:51.980Z,38.8256683,-122.8059998,1.71,0.38,md,15,42,0.003909,0.01,nc,nc73756891,2022-07-09T22:30:13.936Z,"7km NW of The Geysers, CA",earthquake,0.27,0.6,0.31,2,automatic,nc,nc
@@ -40,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T18:25:43.610Z,34.2811667,-120.0261667,0.65,2.58,ml,22,131,0.2491,0.26,ci,ci40300752,2022-07-09T21:46:40.040Z,"21km SW of Isla Vista, CA",earthquake,0.57,31.61,0.159,26,automatic,ci,ci
 2022-07-09T18:22:33.544Z,64.4308,-147.3482,0.5,1.1,ml,,,,1.08,ak,ak0228qiyj22,2022-07-09T18:24:59.506Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-09T18:05:07.210Z,33.6965,-116.7446667,15.72,0.87,ml,31,85,0.02933,0.23,ci,ci40300736,2022-07-09T18:08:37.353Z,"5km SSW of Idyllwild, CA",earthquake,0.46,0.59,0.156,25,automatic,ci,ci
-2022-07-09T17:49:18.000Z,41.3675,-122.1005,6.64,0.92,md,10,131,0.02011,0.03,nc,nc73756786,2022-07-09T22:46:11.196Z,"13km NNE of McCloud, CA",earthquake,0.49,1.11,0.139,7,reviewed,nc,nc
+2022-07-09T17:49:18.000Z,41.3675,-122.1005,6.64,0.92,md,10,131,0.02011,0.03,nc,nc73756786,2022-07-09T23:03:15.132Z,"13km NNE of McCloud, CA",earthquake,0.49,1.11,0.139,7,reviewed,nc,nc
 2022-07-09T17:39:03.728Z,-23.3984,-179.7257,538.01,4.4,mb,62,129,5.997,0.69,us,us6000i194,2022-07-09T18:01:17.040Z,"south of the Fiji Islands",earthquake,13.6,7.2,0.071,64,reviewed,us,us
 2022-07-09T17:38:56.608Z,65.2285,-144.5552,8.3,1.1,ml,,,,0.52,ak,ak0228qigkof,2022-07-09T17:51:12.969Z,"40 km SSE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-09T17:36:50.410Z,19.4723333333333,-155.654666666667,4.46,0.99,md,14,121,,0.1,hv,hv73070722,2022-07-09T17:56:40.740Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.85,0.150219644237396,5,reviewed,hv,hv
@@ -226,8 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T23:36:07.530Z,18.9311,146.9502,10,5.8,mww,139,38,5.675,1.14,us,us6000i126,2022-07-09T17:46:13.862Z,"Pagan region, Northern Mariana Islands",earthquake,9.5,1.9,0.071,19,reviewed,us,us
 2022-07-08T23:36:05.889Z,-6.8733,104.753,10,4.5,mb,13,147,2.933,1.3,us,us6000i127,2022-07-09T00:04:18.040Z,"131 km WSW of Labuan, Indonesia",earthquake,8,1.9,0.221,7,reviewed,us,us
 2022-07-08T23:26:40.450Z,35.4693333,-118.2751667,8.23,1.86,ml,30,67,0.1289,0.21,ci,ci40300264,2022-07-08T23:37:30.240Z,"24km SE of Bodfish, CA",earthquake,0.27,1.24,0.23,29,automatic,ci,ci
-2022-07-08T23:10:52.480Z,37.3636667,-121.7278333,6.4,0.81,md,16,65,0.03396,0.06,nc,nc73756501,2022-07-09T04:26:15.026Z,"9km E of Alum Rock, CA",earthquake,0.26,0.36,0.209,18,reviewed,nc,nc
-2022-07-08T23:08:08.960Z,32.9256667,-115.5375,8.49,1.93,ml,21,87,0.03104,0.23,ci,ci40300248,2022-07-08T23:19:03.710Z,"6km S of Brawley, CA",earthquake,0.47,1,0.256,27,automatic,ci,ci
-2022-07-08T23:07:04.992Z,62.6288,-151.2456,78.3,1.6,ml,,,,0.65,ak,ak0228oyb2l1,2022-07-08T23:09:19.873Z,"28 km WNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-07-08T23:02:56.109Z,37.3933,-117.0371,0,0.1,ml,3,227.76,0.201,0.1231,nn,nn00842494,2022-07-09T02:39:26.114Z,"39 km SSE of Goldfield, Nevada",earthquake,,0,0.1,2,reviewed,nn,nn
-2022-07-08T23:01:21.830Z,51.932,-177.686833333333,9.07,0.14,ml,4,314,,0.32,av,av91623866,2022-07-09T08:03:43.640Z,"72 km W of Adak, Alaska",earthquake,2.1,0.94,0.100178511045004,4,reviewed,av,av
