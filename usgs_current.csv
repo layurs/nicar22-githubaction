@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-11T07:26:33.670Z,33.4953346,-116.4840012,14.28,1.08,ml,19,63,0.07339,0.11,ci,ci40301656,2022-07-11T07:28:40.720Z,"19km ESE of Anza, CA",earthquake,0.39,0.83,0.444,7,automatic,ci,ci
+2022-07-11T07:26:33.970Z,33.4975,-116.4801667,11.98,0.33,ml,18,64,0.07338,0.23,ci,ci40301656,2022-07-11T07:30:07.463Z,"19km ESE of Anza, CA",earthquake,0.49,0.95,0.231,2,automatic,ci,ci
 2022-07-11T07:10:41.500Z,33.996,-116.2786667,10.69,0.57,ml,10,74,0.1123,0.13,ci,ci40301640,2022-07-11T07:14:18.132Z,"16km SSE of Joshua Tree, CA",earthquake,0.35,0.58,0.157,7,automatic,ci,ci
 2022-07-11T07:05:13.220Z,19.1825008392334,-155.509002685547,36.25,2.54,ml,46,82,,0.140000001,hv,hv73072287,2022-07-11T07:10:43.960Z,"3 km SW of Pāhala, Hawaii",earthquake,0.58,0.810000002,4.18,17,automatic,hv,hv
-2022-07-11T07:01:35.381Z,-27.4293,-175.4165,10,5,mb,45,138,2.864,0.83,us,us6000i1it,2022-07-11T07:22:30.040Z,"Kermadec Islands region",earthquake,12.2,1.9,0.092,41,reviewed,us,us
+2022-07-11T07:01:35.381Z,-27.4293,-175.4165,10,5,mb,45,138,2.864,0.83,us,us6000i1it,2022-07-11T07:32:50.634Z,"Kermadec Islands region",earthquake,12.2,1.9,0.092,41,reviewed,us,us
 2022-07-11T06:35:56.870Z,17.9921666666667,-66.8951666666667,15.07,1.96,md,8,123,,0.09,pr,pr71358838,2022-07-11T07:07:37.480Z,"1 km NNW of Maria Antonia, Puerto Rico",earthquake,0.59,0.37,0.0555918012991121,6,reviewed,pr,pr
 2022-07-11T06:33:28.757Z,61.0164,-150.9223,35.8,2.4,ml,,,,0.69,ak,ak0228tmydap,2022-07-11T06:34:57.671Z,"12 km ESE of Tyonek, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2022-07-11T06:27:03.340Z,33.5131667,-116.4526667,7,0.37,ml,13,137,0.07897,0.16,ci,ci40301632,2022-07-11T06:30:30.510Z,"21km ESE of Anza, CA",earthquake,0.46,1.26,0.109,5,automatic,ci,ci
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T06:05:05.370Z,38.8336678,-122.8184967,1.74,0.36,md,9,60,0.01219,0.01,nc,nc73757316,2022-07-11T06:37:11.034Z,"8km NW of The Geysers, CA",earthquake,0.36,1.3,,1,automatic,nc,nc
 2022-07-11T05:55:45.373Z,38.4422,-118.4182,0,0.4,ml,8,136.73,0.064,0.298,nn,nn00842559,2022-07-11T06:00:04.604Z,"20 km ESE of Hawthorne, Nevada",earthquake,,0.3,0.3,5,automatic,nn,nn
 2022-07-11T05:54:05.130Z,35.7496667,-118.0428333,3.06,0.98,ml,18,51,0.131,0.12,ci,ci40301616,2022-07-11T05:57:35.481Z,"24km WNW of Inyokern, CA",earthquake,0.22,0.92,0.123,15,automatic,ci,ci
-2022-07-11T05:51:34.490Z,37.791,-121.9133333,10.57,1.03,md,21,102,0.09236,0.12,nc,nc73757311,2022-07-11T06:44:12.073Z,"3km S of Blackhawk, CA",earthquake,0.48,0.64,0.285,17,reviewed,nc,nc
+2022-07-11T05:51:34.490Z,37.791,-121.9133333,10.57,1.03,md,21,102,0.09236,0.12,nc,nc73757311,2022-07-11T07:30:10.325Z,"3km S of Blackhawk, CA",earthquake,0.48,0.64,0.285,17,reviewed,nc,nc
 2022-07-11T05:51:17.554Z,61.3419,-141.1214,12.9,1.3,ml,,,,0.18,ak,ak0228tmgrpn,2022-07-11T05:53:14.776Z,"96 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-11T05:22:04.166Z,44.2382,-129.815,10,3.8,mb,42,191,1.582,0.34,us,us6000i1ie,2022-07-11T06:22:59.040Z,"off the coast of Oregon",earthquake,4.7,2,0.208,6,reviewed,us,us
 2022-07-11T04:51:25.743Z,65.2747,-144.5821,0,1.2,ml,,,,0.76,ak,ak0228tlvcrc,2022-07-11T04:54:56.176Z,"34 km SSE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T08:04:12.693Z,61.9923,-150.5284,16.9,1.2,ml,,,,0.2,ak,ak0228s0fmzz,2022-07-10T08:09:24.947Z,"37 km NW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-10T07:58:53.080Z,37.5516667,-118.9296667,6.09,0.64,md,13,165,0.07727,0.08,nc,nc73757016,2022-07-10T20:14:14.416Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.5,2.19,0.158,12,reviewed,nc,nc
 2022-07-10T07:49:48.832Z,-6.1481,122.9475,44.32,4.8,mb,36,106,2.569,0.4,us,us6000i1cp,2022-07-10T08:15:33.040Z,"142 km SSE of Katabu, Indonesia",earthquake,7.8,3,0.113,31,reviewed,us,us
-2022-07-10T07:34:36.740Z,17.9685,-66.9808333333333,6.61,1.93,md,5,186,,0.12,pr,pr71358623,2022-07-10T08:47:28.980Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.57,1.14,0.0887700027744325,5,reviewed,pr,pr
