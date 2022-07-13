@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-13T23:41:47.357Z,38.6824,-116.2099,0,2.6,ml,11,97.33,1.322,0.3711,nn,nn00842847,2022-07-13T23:45:58.243Z,"94 km SSW of Eureka, Nevada",earthquake,,5.7,0.9,7,automatic,nn,nn
+2022-07-13T23:38:52.490Z,33.6908333,-116.735,14.71,1.19,ml,43,49,0.0267,0.16,ci,ci40303296,2022-07-13T23:49:51.590Z,"6km SSW of Idyllwild, CA",earthquake,0.23,0.35,0.139,26,automatic,ci,ci
 2022-07-13T23:24:55.720Z,38.7791672,-122.7018356,1.44,0.88,md,8,91,0.01115,0.04,nc,nc73758396,2022-07-13T23:34:11.442Z,"1km WNW of Anderson Springs, CA",earthquake,1.14,1.53,0.02,3,automatic,nc,nc
-2022-07-13T23:09:51.390Z,38.8238335,-122.8123322,1.25,0.85,md,9,123,0.001817,0.01,nc,nc73758386,2022-07-13T23:18:11.347Z,"7km NW of The Geysers, CA",earthquake,0.36,0.78,,1,automatic,nc,nc
+2022-07-13T23:09:51.390Z,38.8238335,-122.8123322,1.25,0.85,md,9,123,0.001817,0.01,nc,nc73758386,2022-07-13T23:40:14.482Z,"7km NW of The Geysers, CA",earthquake,0.36,0.78,,1,automatic,nc,nc
 2022-07-13T23:09:42.020Z,38.8233337,-122.8113327,1.39,0.85,md,9,84,0.0009851,0.01,nc,nc73758381,2022-07-13T23:29:23.420Z,"7km NW of The Geysers, CA",earthquake,0.35,0.99,,1,automatic,nc,nc
 2022-07-13T23:06:20.170Z,19.2271671295166,-155.33283996582,32.9099998474121,1.88999999,md,32,178,,0.119999997,hv,hv73074567,2022-07-13T23:11:21.480Z,"15 km E of Pāhala, Hawaii",earthquake,0.74,0.850000024,1.63,6,automatic,hv,hv
 2022-07-13T22:45:44.205Z,39.8722,-118.3885,11.8,1.4,ml,11,143.34,0.245,0.305,nn,nn00842845,2022-07-13T22:49:07.725Z,"Nevada",earthquake,,0.8,0.09,6,automatic,nn,nn
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T20:43:33.730Z,17.9765,-66.6705,15.15,2.13,md,14,146,,0.07,pr,pr71359283,2022-07-13T22:55:46.958Z,"5 km ESE of Tallaboa, Puerto Rico",earthquake,0.36,0.38,0.26650651983098,9,reviewed,pr,pr
 2022-07-13T20:30:10.823Z,38.7235,-116.1194,0,1.8,ml,8,146.94,1.419,0.1678,nn,nn00842829,2022-07-13T22:17:53.309Z,"88 km S of Eureka, Nevada",earthquake,,0,0.02,2,reviewed,nn,nn
 2022-07-13T20:24:01.810Z,19.7681,-65.6286,46,3.72,md,7,281,1.6725,0.26,pr,pr2022194001,2022-07-13T21:24:20.493Z,"149 km N of Suárez, Puerto Rico",earthquake,2.64,18.56,0.17,7,reviewed,pr,pr
-2022-07-13T20:22:46.663Z,62.7076,-151.7718,0,2.3,ml,,,,0.7,ak,ak0228x6at96,2022-07-13T20:25:00.896Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-13T20:22:46.663Z,62.7076,-151.7718,0,2.3,ml,,,,0.7,ak,ak0228x6at96,2022-07-13T20:25:00.896Z,"56 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-13T20:21:47.020Z,45.0855,-111.7221667,-2,1.47,ml,17,92,0.269,0.23,mb,mb80551249,2022-07-13T21:41:24.430Z,"29 km SE of Virginia City, Montana",quarry blast,0.76,31.61,0.12,7,reviewed,mb,mb
 2022-07-13T20:19:56.750Z,38.5958328,-122.7068329,3.47,1.9,md,24,89,0.0944,0.09,nc,nc73758341,2022-07-13T22:24:15.053Z,"10km NNE of Larkfield-Wikiup, CA",earthquake,0.33,1.98,0.09,15,automatic,nc,nc
 2022-07-13T20:14:12.920Z,36.1106667,-117.8626667,2.79,0.95,ml,13,132,0.009357,0.11,ci,ci40303240,2022-07-13T20:42:30.138Z,"11km NE of Coso Junction, CA",earthquake,0.29,0.26,0.126,4,reviewed,ci,ci
@@ -169,7 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T05:51:08.120Z,35.7425,-117.5641667,8.72,0.91,ml,19,70,0.07795,0.19,ci,ci40302824,2022-07-13T15:42:55.528Z,"15km W of Searles Valley, CA",earthquake,0.29,0.82,0.28,4,reviewed,ci,ci
 2022-07-13T05:46:58.570Z,38.8156662,-122.7946701,3.18,1.19,md,26,43,0.007703,0.02,nc,nc73758141,2022-07-13T08:18:16.078Z,"5km NW of The Geysers, CA",earthquake,0.22,0.44,0.06,5,automatic,nc,nc
 2022-07-13T05:41:50.100Z,19.1738338470459,-155.46533203125,31.9200000762939,2.13000011,md,38,106,,0.100000001,hv,hv73073927,2022-07-13T05:45:13.910Z,"Island of Hawaii, Hawaii",earthquake,0.5,0.769999981,0.680000007,15,automatic,hv,hv
-2022-07-13T05:35:18.900Z,37.5033333,-121.6228333,7.62,0.69,md,13,77,0.03518,0.06,nc,nc73758136,2022-07-13T23:08:14.293Z,"24km SSE of Livermore, CA",earthquake,0.36,0.83,0.199,13,reviewed,nc,nc
+2022-07-13T05:35:18.900Z,37.5033333,-121.6228333,7.62,0.69,md,13,77,0.03518,0.06,nc,nc73758136,2022-07-13T23:41:11.485Z,"24km SSE of Livermore, CA",earthquake,0.36,0.83,0.199,13,reviewed,nc,nc
 2022-07-13T05:32:17.110Z,33.304,-116.2405,6.85,1.25,ml,37,42,0.08207,0.18,ci,ci40302816,2022-07-13T15:21:30.853Z,"14km ENE of Borrego Springs, CA",earthquake,0.18,0.52,0.102,10,reviewed,ci,ci
 2022-07-13T05:29:20.060Z,39.4266667,-110.2916667,-2.51,1.83,ml,13,200,0.02602,0.15,uu,uu60505522,2022-07-13T16:00:16.040Z,"16 km SSE of Sunnyside, Utah",earthquake,0.83,2,0.145,6,reviewed,uu,uu
 2022-07-13T05:28:15.398Z,55.7979,-150.5607,10,2.5,ml,,,,0.95,ak,ak0228wxel4f,2022-07-13T07:59:54.365Z,"227 km SSE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
@@ -233,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T00:09:09.580Z,36.1013333,-117.847,2.54,1.84,ml,29,46,0.01742,0.12,ci,ci40302736,2022-07-13T14:29:31.919Z,"11km NE of Coso Junction, CA",earthquake,0.13,0.18,0.156,11,reviewed,ci,ci
 2022-07-13T00:04:07.650Z,39.4285,-110.2926667,-2.7,1.55,md,5,200,0.0255,0.08,uu,uu60505452,2022-07-13T16:02:23.050Z,"15 km SSE of Sunnyside, Utah",earthquake,1.79,3.09,0.148,4,reviewed,uu,uu
 2022-07-12T23:50:30.240Z,34.1726667,-117.317,6.2,1.15,ml,41,40,0.03776,0.16,ci,ci40302712,2022-07-13T14:37:55.758Z,"3km NE of Muscoy, CA",earthquake,0.18,0.38,0.103,21,reviewed,ci,ci
-2022-07-12T23:49:08.880Z,34.1715,-117.3155,6.55,1.24,ml,45,40,0.03613,0.19,ci,ci40302704,2022-07-13T14:06:58.546Z,"3km NE of Muscoy, CA",earthquake,0.18,0.42,0.098,28,reviewed,ci,ci
-2022-07-12T23:42:06.620Z,38.8063333,-122.7841667,1.14,0.29,md,19,82,0.007431,0.06,nc,nc73758051,2022-07-13T20:38:10.571Z,"4km NW of The Geysers, CA",earthquake,0.17,0.34,0.173,3,reviewed,nc,nc
-2022-07-12T23:39:19.391Z,56.946,-149.7902,10,2.8,ml,17,239,1.73,0.5,us,us6000i1za,2022-07-13T00:38:17.040Z,"167 km ESE of Chiniak, Alaska",earthquake,4.7,2,0.053,46,reviewed,us,us
