@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T12:55:20.850Z,19.2205009460449,-155.402328491211,31.8600006103516,2.44,ml,35,147,,0.189999998,hv,hv73076877,2022-07-16T13:00:51.010Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.6,0.889999986,0.1,4,automatic,hv,hv
 2022-07-16T12:54:35.140Z,33.6421667,-116.7615,14.28,1.6,ml,59,22,0.0484,0.19,ci,ci40064455,2022-07-16T13:05:00.620Z,"12km SSW of Idyllwild, CA",earthquake,0.18,0.32,0.271,26,automatic,ci,ci
 2022-07-16T12:50:27.300Z,34.0751648,-116.6210022,3.97,1.38,ml,52,36,0.04286,0.18,ci,ci40064447,2022-07-16T13:01:42.630Z,"5km NW of Morongo Valley, CA",earthquake,0.23,0.58,0.174,11,automatic,ci,ci
-2022-07-16T12:46:34.553Z,64.461,-147.9612,2.4,0.6,ml,,,,0.44,ak,ak022920ai57,2022-07-16T12:48:55.841Z,"39 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-16T12:46:34.553Z,64.461,-147.9612,2.4,0.6,ml,,,,0.44,ak,ak022920ai57,2022-07-16T12:48:55.841Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-16T12:46:09.960Z,33.486,-116.521,13.04,0.36,ml,19,54,0.06841,0.15,ci,ci40064439,2022-07-16T12:50:10.864Z,"16km ESE of Anza, CA",earthquake,0.35,0.65,0.187,5,automatic,ci,ci
 2022-07-16T12:43:00.325Z,62.1601,-147.3913,25.5,1.8,ml,,,,0.73,ak,ak0229209scw,2022-07-16T12:44:44.460Z,"27 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-16T12:38:01.170Z,18.0063333333333,-66.8498333333333,17.27,1.57,md,6,147,,0.14,pr,pr71359863,2022-07-16T13:06:03.910Z,"2 km ESE of Palomas, Puerto Rico",earthquake,1.11,0.84,0.0719820320060671,5,reviewed,pr,pr
@@ -61,8 +61,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T08:46:21.618Z,60.8047,-150.9874,53,1.3,ml,,,,0.44,ak,ak02291xwqq9,2022-07-16T08:48:24.764Z,"20 km NE of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-16T08:35:45.689Z,38.1646,-117.8043,13.6,0.5,ml,8,185,0.116,0.1259,nn,nn00843038,2022-07-16T08:40:04.275Z,"36 km SE of Mina, Nevada",earthquake,,6.5,0.44,5,automatic,nn,nn
 2022-07-16T08:32:28.057Z,38.5042,-119.5191,3,1.2,ml,13,169.25,0.063,0.1658,nn,nn00843034,2022-07-16T08:35:46.925Z,"3 km WSW of Walker, California",earthquake,,0.7,0.11,8,automatic,nn,nn
+2022-07-16T08:29:00.120Z,46.10366666666667,-122.10833333333333,4.8,0.33,ml,9,142,0.1069,0.11,uw,uw61862636,2022-07-16T15:54:21.470Z,"33 km NE of Amboy, Washington",earthquake,0.46,4.2,0.19690553748143694,7,reviewed,uw,uw
 2022-07-16T08:18:50.406Z,-10.3446,-78.4174,64.39,4.6,mb,52,153,2.248,0.59,us,us6000i2zk,2022-07-16T08:36:17.040Z,"42 km SW of Huarmey, Peru",earthquake,10.3,8.7,0.077,50,reviewed,us,us
-2022-07-16T08:16:19.722Z,38.5509,-119.4884,8.3,1.4,ml,12,153.64,0.043,0.169,nn,nn00843031,2022-07-16T08:20:16.632Z,"2 km SE of Coleville, California",earthquake,,0.6,0.25,10,automatic,nn,nn
+2022-07-16T08:16:19.722Z,38.5509,-119.4884,8.3,1.4,ml,12,153.64,0.043,0.169,nn,nn00843031,2022-07-16T08:20:16.632Z,"Central California",earthquake,,0.6,0.25,10,automatic,nn,nn
 2022-07-16T08:08:43.930Z,38.8003349,-122.7513351,2.15,0.86,md,8,100,0.006552,0.01,nc,nc73759231,2022-07-16T09:54:11.311Z,"3km N of The Geysers, CA",earthquake,0.35,0.98,,1,automatic,nc,nc
 2022-07-16T08:05:54.530Z,36.0136681,-120.5796661,0.45,0.88,md,11,109,0.03517,0.06,nc,nc73759226,2022-07-16T09:27:20.175Z,"18km NW of Parkfield, CA",earthquake,0.36,0.88,0.23,3,automatic,nc,nc
 2022-07-16T07:56:48.469Z,54.0504,-162.898,23.92,3,ml,16,193,0.862,0.59,us,us6000i2zh,2022-07-16T08:16:23.040Z,"95 km SSE of False Pass, Alaska",earthquake,3.6,14.8,0.085,18,reviewed,us,us
@@ -191,7 +192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T21:39:54.200Z,33.2305,-116.1031667,6.8,2.34,ml,66,37,0.09226,0.24,ci,ci40064103,2022-07-15T21:50:33.840Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,1.14,0.129,25,automatic,ci,ci
 2022-07-15T21:30:41.646Z,65.2512,-150.0869,0,1.1,ml,,,,0.63,ak,ak02290i0n6s,2022-07-15T21:33:15.441Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-15T21:29:26.797Z,-41.7533,174.3435,14.5,4.3,mwr,20,102,0.52,0.49,us,us6000i2vv,2022-07-16T04:29:26.040Z,"Cook Strait, New Zealand",earthquake,4.5,8.9,0.063,24,reviewed,us,us
-2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"275 km SW of Vaini, Tonga",earthquake,5.4,5.8,0.03,370,reviewed,us,us
+2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"south of the Fiji Islands",earthquake,5.4,5.8,0.03,370,reviewed,us,us
 2022-07-15T21:16:31.555Z,51.9322,-176.2013,118,1.7,ml,,,,0.23,ak,ak02290hxkx9,2022-07-15T21:43:06.306Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-07-15T21:06:27.810Z,37.6265,-118.9728333,2.16,0.26,md,11,143,0.03291,0.05,nc,nc73759011,2022-07-16T01:54:23.536Z,"1km SSE of Mammoth Lakes, CA",earthquake,0.47,1.42,0.218,10,reviewed,nc,nc
 2022-07-15T21:06:04.110Z,60.01,-153.066166666667,1.44,-0.46,ml,4,126,,0.04,av,av91633906,2022-07-16T02:04:39.030Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.3,0.28,0.307173001047088,4,reviewed,av,av
@@ -241,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T16:26:02.100Z,17.9943333333333,-66.9711666666667,4.55,1.64,md,5,149,,0.04,pr,pr71359668,2022-07-15T16:45:47.010Z,"5 km W of Fuig, Puerto Rico",earthquake,0.38,1.36,0.120663764895546,4,reviewed,pr,pr
 2022-07-15T16:25:50.484Z,31.69492547,-104.2933186,7.699755859,2.8,ml,18,83,0.1787903085,0.3,tx,tx2022ntnq,2022-07-15T19:57:45.057Z,"53 km S of Whites City, New Mexico",earthquake,1.338077542,2.036626955,0.2,11,reviewed,tx,tx
 2022-07-15T16:15:59.150Z,33.3205,-116.3146667,11.25,0.64,ml,17,80,0.04197,0.16,ci,ci40063927,2022-07-15T16:19:26.754Z,"9km NE of Borrego Springs, CA",earthquake,0.44,0.52,0.208,10,automatic,ci,ci
-2022-07-15T15:50:26.900Z,41.8936667,-112.3775,4.27,1.59,md,19,130,0.05315,0.18,uu,uu60505897,2022-07-15T16:14:09.319Z,"12 km NNE of Howell, Utah",earthquake,0.62,0.93,0.113,16,reviewed,uu,uu
-2022-07-15T15:49:05.550Z,43.5518333,-111.0031667,1.64,0.74,ml,7,198,0.071,0.22,mb,mb80551489,2022-07-15T20:00:54.940Z,"10 km ESE of Victor, Idaho",earthquake,2.3,2.77,0.274,6,reviewed,mb,mb
