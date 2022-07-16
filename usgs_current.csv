@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-16T07:27:58.850Z,38.8134995,-122.8268356,1.91,0.96,md,23,57,0.004974,0.02,nc,nc73759221,2022-07-16T07:29:34.623Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.41,0.08,4,automatic,nc,nc
+2022-07-16T07:27:58.850Z,38.8134995,-122.8268356,1.91,0.96,md,23,57,0.004974,0.02,nc,nc73759221,2022-07-16T07:37:10.516Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.41,0.08,4,automatic,nc,nc
 2022-07-16T07:16:55.010Z,35.7116667,-117.5893333,8.75,0.9,ml,9,138,0.1041,0.09,ci,ci40064335,2022-07-16T07:20:27.884Z,"13km NE of Ridgecrest, CA",earthquake,0.38,1.03,0.228,8,automatic,ci,ci
 2022-07-16T07:16:08.800Z,19.1965007781982,-155.506332397461,34.8199996948242,2.17000008,md,38,80,,0.119999997,hv,hv73076672,2022-07-16T07:19:17.890Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.59,0.899999976,1.29999995,19,automatic,hv,hv
 2022-07-16T07:11:36.060Z,33.4846667,-116.7541667,6.28,0.27,ml,14,85,0.07316,0.15,ci,ci40064327,2022-07-16T07:15:06.391Z,"11km SW of Anza, CA",earthquake,0.44,1.1,0.147,7,automatic,ci,ci
@@ -81,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T00:12:08.310Z,35.8706667,-117.7263333,7.86,0.75,ml,11,70,0.06944,0.12,ci,ci40064135,2022-07-16T00:15:40.676Z,"18km ESE of Little Lake, CA",earthquake,0.33,1.1,0.225,8,automatic,ci,ci
 2022-07-16T00:07:07.845Z,61.9172,-149.5955,37.7,1,ml,,,,0.77,ak,ak02291swvvc,2022-07-16T00:10:09.416Z,"27 km NW of Fishhook, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-07-15T23:59:38.840Z,38.7903328,-122.7648315,3.24,0.73,md,11,85,0.01103,0.03,nc,nc73759061,2022-07-16T01:28:16.372Z,"2km NNW of The Geysers, CA",earthquake,0.43,1.27,0.14,2,automatic,nc,nc
+2022-07-15T23:51:10.280Z,51.8566666666667,-177.9215,-1.8,0.04,ml,4,215,,0.26,av,av91066178,2022-07-16T07:39:20.920Z,"88 km W of Adak, Alaska",earthquake,0.84,1.86,0.364004474607444,4,reviewed,av,av
 2022-07-15T23:36:32.230Z,54.5218333333333,-163.518333333333,10.73,2.07,ml,13,210,,0.27,av,av91634066,2022-07-16T02:02:09.140Z,"Unimak Island region, Alaska",earthquake,0.9,1.76,0.285695805421978,13,reviewed,av,av
 2022-07-15T23:33:37.070Z,19.232666015625,-155.382171630859,31.5499992370605,1.86000001,md,30,148,,0.129999995,hv,hv73076347,2022-07-15T23:36:50.430Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.63,0.930000007,0.319999993,9,automatic,hv,hv
 2022-07-15T23:30:20.130Z,60.967,-150.9452,52.3,1.6,ml,,,,0.89,ak,ak02290j7gql,2022-07-15T23:32:43.402Z,"14 km WNW of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -282,7 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T07:55:40.826Z,-6.8329,71.8115,10,4.9,mb,50,105,0.857,1.09,us,us6000i2lu,2022-07-15T08:13:05.293Z,"Chagos Archipelago region",earthquake,7.4,1.8,0.091,38,reviewed,us,us
 2022-07-15T07:48:28.810Z,33.1171667,-116.6456667,6.97,0.56,ml,14,115,0.05416,0.29,ci,ci40063687,2022-07-15T07:52:14.958Z,"6km NW of Julian, CA",earthquake,0.6,1.37,0.225,6,automatic,ci,ci
 2022-07-15T07:43:20.770Z,44.5366667,-114.6921667,5.83,1.96,ml,12,85,0.493,0.17,mb,mb80551439,2022-07-15T16:35:21.600Z,"36 km W of Challis, Idaho",earthquake,0.57,1.24,0.308,9,reviewed,mb,mb
-2022-07-15T07:39:30.593Z,38.5795,-119.4391,7.9,1.4,ml,16,65.63,0.064,0.1138,nn,nn00842946,2022-07-15T23:24:47.298Z,"6 km ENE of Coleville, California",earthquake,,2.2,0.28,5,reviewed,nn,nn
-2022-07-15T07:37:54.080Z,33.784,-116.1258333,2.7,1.13,ml,31,90,0.0807,0.21,ci,ci40063679,2022-07-15T07:41:37.220Z,"11km NE of Indio, CA",earthquake,0.3,0.6,0.125,25,automatic,ci,ci
-2022-07-15T07:36:33.670Z,38.7791672,-122.7243347,1.77,0.21,md,8,77,0.0105,0.01,nc,nc73758801,2022-07-15T08:38:13.497Z,"3km E of The Geysers, CA",earthquake,0.34,0.76,0.17,2,automatic,nc,nc
-2022-07-15T07:36:11.153Z,43.4697,-78.184,6.99,1.3,ml,9,110,0.336,0.37,us,us6000i2yt,2022-07-16T05:51:09.040Z,"22 km NE of Lyndonville, New York",earthquake,1.1,5,0.105,12,reviewed,us,us
