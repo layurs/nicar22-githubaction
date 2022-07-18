@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-18T08:07:57.190Z,34.6148333,-116.6283333,1.21,1.97,ml,24,48,0.175,0.1,ci,ci40065703,2022-07-18T08:11:43.723Z,"36km ENE of Lucerne Valley, CA",earthquake,0.19,0.51,0.136,27,automatic,ci,ci
 2022-07-18T08:01:28.200Z,18.8446674346924,-155.211837768555,9.5600004196167,2.51999998,md,24,267,,0.25999999,hv,hv73078767,2022-07-18T08:04:38.740Z,"45 km ESE of Naalehu, Hawaii",earthquake,1.24,0.879999995,0.449999988,9,automatic,hv,hv
-2022-07-18T07:54:26.940Z,38.7453346,-122.716835,1.19,0.86,md,10,132,0.01741,0.04,nc,nc73760166,2022-07-18T08:09:10.302Z,"4km SSW of Anderson Springs, CA",earthquake,0.41,0.48,0.03,4,automatic,nc,nc
+2022-07-18T07:54:26.940Z,38.7453346,-122.716835,1.19,0.86,md,10,132,0.01741,0.04,nc,nc73760166,2022-07-18T08:34:12.426Z,"4km SSW of Anderson Springs, CA",earthquake,0.41,0.48,0.03,4,automatic,nc,nc
 2022-07-18T07:50:05.510Z,38.7428322,-122.713501,1.22,2.04,md,33,67,0.02073,0.04,nc,nc73760156,2022-07-18T08:09:17.302Z,"4km SSW of Anderson Springs, CA",earthquake,0.2,0.27,0.06,11,automatic,nc,nc
 2022-07-18T07:47:53.700Z,38.8206673,-122.8026657,1.75,0.84,md,13,80,0.006396,0.07,nc,nc73760151,2022-07-18T08:09:16.302Z,"6km NW of The Geysers, CA",earthquake,0.33,0.77,,1,automatic,nc,nc
 2022-07-18T07:43:28.540Z,64.7768,-149.2409,15.2,1,ml,,,,0.42,ak,ak022958ddhy,2022-07-18T07:45:50.543Z,"20 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T06:30:38.971Z,38.1876,-117.7569,9.3,0.8,ml,9,195.01,0.117,0.0664,nn,nn00843144,2022-07-18T06:35:08.333Z,"38 km SE of Mina, Nevada",earthquake,,1.1,0.05,5,automatic,nn,nn
 2022-07-18T06:30:23.420Z,38.8224983,-122.8228302,0.83,2.14,md,38,45,0.00955,0.05,nc,nc73760111,2022-07-18T07:04:15.897Z,"8km NW of The Geysers, CA",earthquake,0.15,0.23,0.09,14,automatic,nc,nc
 2022-07-18T06:27:14.130Z,38.8180008,-122.824501,2.7,0.76,md,18,55,0.009682,0.02,nc,nc73760106,2022-07-18T07:04:14.897Z,"7km NW of The Geysers, CA",earthquake,0.28,0.63,0.49,2,automatic,nc,nc
-2022-07-18T06:20:46.630Z,36.260334,-120.8291702,9.38,1.24,md,12,140,0.04975,0.07,nc,nc73760101,2022-07-18T06:52:13.836Z,"22km SW of New Idria, CA",earthquake,0.36,0.59,0.25,5,automatic,nc,nc
+2022-07-18T06:20:46.630Z,36.260334,-120.8291702,9.38,1.24,md,12,140,0.04975,0.07,nc,nc73760101,2022-07-18T08:34:13.427Z,"22km SW of New Idria, CA",earthquake,0.36,0.59,0.25,5,automatic,nc,nc
 2022-07-18T06:19:05.410Z,33.1765,-116.0073333,2.73,1.19,ml,32,53,0.025,0.26,ci,ci40065671,2022-07-18T06:22:52.925Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.38,0.64,0.146,22,automatic,ci,ci
 2022-07-18T06:18:07.480Z,33.4218333,-116.9166667,10.43,0.76,ml,28,38,0.1017,0.19,ci,ci40065663,2022-07-18T06:21:36.108Z,"5km WSW of Aguanga, CA",earthquake,0.28,0.83,0.13,19,automatic,ci,ci
 2022-07-18T06:10:07.563Z,38.5075,-119.5358,5.2,1.2,ml,10,93.38,0.076,0.1147,nn,nn00843141,2022-07-18T06:13:09.578Z,"5 km W of Walker, California",earthquake,,0.9,0.02,7,automatic,nn,nn
@@ -253,19 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T08:52:52.400Z,35.5743333,-117.3941667,5.43,1.17,ml,14,180,0.05488,0.16,ci,ci40065103,2022-07-17T08:56:32.502Z,"21km S of Trona, CA",earthquake,0.52,1.04,0.205,14,automatic,ci,ci
 2022-07-17T08:50:04.980Z,38.8134995,-122.8223343,2.66,0.99,md,25,50,0.007069,0.02,nc,nc73759651,2022-07-17T09:35:17.036Z,"7km NW of The Geysers, CA",earthquake,0.21,0.52,0.18,2,automatic,nc,nc
 2022-07-17T08:49:58.820Z,38.8173332,-122.8236694,2.58,1.57,md,25,51,0.009485,0.03,nc,nc73759646,2022-07-17T10:45:11.341Z,"7km NW of The Geysers, CA",earthquake,0.19,0.41,0.17,3,automatic,nc,nc
-2022-07-17T08:40:19.790Z,38.8255005,-122.7776642,0.9,0.73,md,15,52,0.007829,0.04,nc,nc73759641,2022-07-17T09:02:10.731Z,"5km W of Cobb, CA",earthquake,0.25,0.45,0.4,3,automatic,nc,nc
-2022-07-17T08:39:28.270Z,38.8161659,-122.8235016,3.05,0.25,md,13,52,0.008531,0.02,nc,nc73759636,2022-07-17T08:41:05.940Z,"7km NW of The Geysers, CA",earthquake,0.32,0.94,0.11,2,automatic,nc,nc
-2022-07-17T08:38:24.190Z,38.8153343,-122.8243332,3.44,0.57,md,16,53,0.007484,0.02,nc,nc73759631,2022-07-17T08:57:10.693Z,"7km NW of The Geysers, CA",earthquake,0.29,0.74,0.34,2,automatic,nc,nc
-2022-07-17T08:34:21.010Z,32.9235,-116.2841667,13.27,1.07,ml,25,82,0.03497,0.22,ci,ci40065095,2022-07-17T08:37:54.282Z,"26km ENE of Pine Valley, CA",earthquake,0.4,0.74,0.163,19,automatic,ci,ci
-2022-07-17T08:31:27.790Z,33.4888333,-116.7585,6.05,0.41,ml,17,84,0.07651,0.1,ci,ci40065087,2022-07-17T13:29:32.612Z,"11km SW of Anza, CA",earthquake,0.24,0.66,0.121,12,reviewed,ci,ci
-2022-07-17T08:30:26.110Z,38.8218346,-122.810997,2.9,0.84,md,15,59,0.001717,0.02,nc,nc73759621,2022-07-17T08:52:09.655Z,"7km NW of The Geysers, CA",earthquake,0.31,0.67,,1,automatic,nc,nc
-2022-07-17T08:27:12.880Z,38.8190002,-122.8281631,2.97,0.36,md,8,108,0.006758,0.01,nc,nc73759611,2022-07-17T08:28:50.175Z,"8km NW of The Geysers, CA",earthquake,0.7,1.98,,1,automatic,nc,nc
-2022-07-17T08:26:57.430Z,38.8166656,-122.824501,3.06,0.5,md,8,114,0.008601,0.02,nc,nc73759606,2022-07-17T08:48:10.632Z,"7km NW of The Geysers, CA",earthquake,0.8,1.68,0.36,2,automatic,nc,nc
-2022-07-17T08:25:44.340Z,38.8168333,-122.8246667,2.42,0.38,md,29,47,0.0087,0.02,nc,nc73759601,2022-07-18T04:36:10.992Z,"7km NW of The Geysers, CA",earthquake,0.19,0.33,0.227,6,reviewed,nc,nc
-2022-07-17T08:23:10.900Z,38.8170013,-122.8241653,2.54,0.64,md,13,71,0.009016,0.02,nc,nc73759591,2022-07-17T08:24:45.440Z,"7km NW of The Geysers, CA",earthquake,0.29,0.68,0.06,3,automatic,nc,nc
-2022-07-17T08:22:18.620Z,38.8153343,-122.8213348,2.27,1.05,md,28,50,0.008902,0.05,nc,nc73759586,2022-07-17T08:34:51.979Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.15,4,automatic,nc,nc
-2022-07-17T08:22:09.270Z,38.8178329,-122.8239975,3.05,0.77,md,10,120,0.009824,0.02,nc,nc73759581,2022-07-17T08:23:45.420Z,"7km NW of The Geysers, CA",earthquake,0.43,0.93,0.1,2,automatic,nc,nc
-2022-07-17T08:21:34.680Z,38.8318329,-122.7991638,0.51,0.8,md,11,68,0.009517,0.01,nc,nc73759576,2022-07-17T09:01:12.723Z,"7km W of Cobb, CA",earthquake,0.26,0.76,0.49,2,automatic,nc,nc
-2022-07-17T08:21:14.760Z,38.8183327,-122.8248367,2.8,0.72,md,12,125,0.009285,0.02,nc,nc73759566,2022-07-17T10:00:10.259Z,"8km NW of The Geysers, CA",earthquake,0.55,1.12,0.3,2,automatic,nc,nc
-2022-07-17T08:21:07.840Z,38.7513351,-122.7024994,-0.84,0.85,md,10,133,0.017,0.06,nc,nc73759561,2022-07-17T09:55:13.046Z,"3km SSW of Anderson Springs, CA",earthquake,0.34,1.31,0.2,2,automatic,nc,nc
-2022-07-17T08:19:59.640Z,38.8165,-122.8221667,2.64,3.26,ml,97,19,0.009385,0.05,nc,nc73759571,2022-07-18T07:17:53.389Z,"7km NW of The Geysers, CA",earthquake,0.09,0.15,0.16,86,reviewed,nc,nc
