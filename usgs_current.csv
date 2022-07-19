@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-19T07:05:40.070Z,33.5031667,-116.5335,7.41,0.41,ml,19,80,0.05802,0.18,ci,ci40066159,2022-07-19T07:09:10.414Z,"14km ESE of Anza, CA",earthquake,0.36,0.64,0.171,9,automatic,ci,ci
 2022-07-19T06:59:07.640Z,33.978,-116.6893333,16,2.51,ml,80,26,0.06947,0.18,ci,ci40066151,2022-07-19T07:10:14.110Z,"11km NE of Cabazon, CA",earthquake,0.16,0.45,0.194,26,automatic,ci,ci
-2022-07-19T06:56:28.730Z,-12.9037,-76.1683,70.78,4.7,mb,71,144,1.123,0.65,us,us6000i3ln,2022-07-19T07:17:29.435Z,"23 km ENE of Quilmaná, Peru",earthquake,6.1,7.8,0.036,233,reviewed,us,us
+2022-07-19T06:56:28.730Z,-12.9037,-76.1683,70.78,4.7,mb,71,144,1.123,0.65,us,us6000i3ln,2022-07-19T07:34:05.277Z,"23 km ENE of Quilmaná, Peru",earthquake,6.1,7.8,0.036,233,reviewed,us,us
 2022-07-19T06:54:54.870Z,38.840332,-122.8239975,1.84,0.86,md,13,91,0.00914,0.01,nc,nc73760501,2022-07-19T07:07:10.463Z,"9km WNW of Cobb, CA",earthquake,0.3,0.71,,1,automatic,nc,nc
 2022-07-19T06:53:36.020Z,60.487,-150.9751,42.5,1.8,ml,,,,0.91,ak,ak02296vdg4i,2022-07-19T06:56:05.740Z,"4 km E of Soldotna, Alaska",earthquake,,3,,,automatic,ak,ak
 2022-07-19T06:44:51.290Z,38.8161659,-122.8241653,3.19,0.75,md,23,53,0.008273,0.02,nc,nc73760491,2022-07-19T07:19:14.524Z,"7km NW of The Geysers, CA",earthquake,0.23,0.56,0.22,3,automatic,nc,nc
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T04:55:42.384Z,64.9817,-149.1686,17.2,0.8,ml,,,,0.64,ak,ak02296u70u6,2022-07-19T04:57:33.550Z,"20 km SSE of Minto, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-07-19T04:45:37.365Z,61.611,-146.317,35.2,1.7,ml,,,,0.57,ak,ak02296u4vag,2022-07-19T04:47:07.921Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-19T04:39:49.360Z,19.1746673583984,-155.509002685547,36.7400016784668,2.3599999,md,39,92,,0.119999997,hv,hv73079757,2022-07-19T04:45:18.420Z,"4 km SW of Pāhala, Hawaii",earthquake,0.57,0.889999986,1.76999998,14,automatic,hv,hv
-2022-07-19T04:33:12.650Z,40.7546667,-121.5283333,12.76,1.56,md,18,75,0.0798,0.2,nc,nc73760471,2022-07-19T05:43:14.919Z,"18km SE of Burney, CA",earthquake,0.53,0.93,0.236,16,reviewed,nc,nc
+2022-07-19T04:33:12.650Z,40.7546667,-121.5283333,12.76,1.56,md,18,75,0.0798,0.2,nc,nc73760471,2022-07-19T07:35:19.610Z,"18km SE of Burney, CA",earthquake,0.53,0.93,0.236,16,reviewed,nc,nc
 2022-07-19T04:23:10.120Z,33.4318333,-116.632,6.18,0.87,ml,36,44,0.06631,0.16,ci,ci40066127,2022-07-19T04:26:49.460Z,"14km SSE of Anza, CA",earthquake,0.18,0.47,0.157,27,automatic,ci,ci
 2022-07-19T04:06:36.070Z,33.0028333,-116.4398333,10.47,1.23,ml,42,71,0.1244,0.2,ci,ci40066119,2022-07-19T04:17:37.090Z,"17km ESE of Julian, CA",earthquake,0.28,0.62,0.214,27,automatic,ci,ci
 2022-07-19T04:02:26.969Z,38.7215,-116.0881,0,1.4,ml,11,155.58,1.396,0.2046,nn,nn00843186,2022-07-19T04:08:03.640Z,"88 km S of Eureka, Nevada",earthquake,,18.3,0.19,7,automatic,nn,nn
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T07:47:31.460Z,17.9296666666667,-66.9133333333333,12.86,2.17,md,11,210,,0.13,pr,pr71360108,2022-07-18T09:32:03.960Z,"4 km S of Guánica, Puerto Rico",earthquake,0.59,0.36,0.179806413023732,8,reviewed,pr,pr
 2022-07-18T07:43:28.540Z,64.7768,-149.2409,15.2,1,ml,,,,0.42,ak,ak022958ddhy,2022-07-18T07:45:50.543Z,"20 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-18T07:41:12.923Z,38.1693,-117.8321,8.8,0.6,ml,12,183.05,0.105,0.0839,nn,nn00843147,2022-07-18T07:45:49.517Z,"34 km SE of Mina, Nevada",earthquake,,0.5,0.26,7,automatic,nn,nn
-2022-07-18T07:23:02.268Z,61.5495,-146.0667,36,1.9,ml,,,,0.67,ak,ak022958915e,2022-07-18T07:25:34.874Z,"48 km WSW of Tonsina, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-18T07:22:15.340Z,17.9471666666667,-66.9371666666667,12.26,1.75,md,5,220,,0.03,pr,pr71360103,2022-07-18T09:16:57.780Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.7,0.94,0.128945093378718,5,reviewed,pr,pr
