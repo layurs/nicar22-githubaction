@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-20T14:32:27.700Z,35.9568329,-120.5090027,9.86,1.6,md,21,61,0.01055,0.09,nc,nc73760976,2022-07-20T14:50:10.859Z,"10km NW of Parkfield, CA",earthquake,0.39,0.5,0.16,13,automatic,nc,nc
+2022-07-20T14:56:15.311Z,59.7916,-153.5227,149.2,1.5,ml,,,,0.14,ak,ak02298nov0b,2022-07-20T14:58:01.580Z,"32 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-20T14:49:59.541Z,60.6996,-147.4125,12,2.5,ml,,,,0.59,ak,ak02298nngeq,2022-07-20T14:51:56.870Z,"44 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-20T14:32:27.700Z,35.9568329,-120.5090027,9.86,1.6,md,21,61,0.01055,0.09,nc,nc73760976,2022-07-20T15:06:12.981Z,"10km NW of Parkfield, CA",earthquake,0.39,0.5,0.16,13,automatic,nc,nc
+2022-07-20T14:17:12.910Z,39.4316667,-110.3158333,-1.12,1.43,ml,8,192,0.01042,0.1,uu,uu60506447,2022-07-20T14:51:09.610Z,"Utah",earthquake,1.27,0.41,0.09,5,reviewed,uu,uu
+2022-07-20T14:09:28.320Z,39.4265,-110.2941667,-2.07,1.34,ml,8,200,0.02408,0.15,uu,uu60506442,2022-07-20T14:57:23.000Z,"16 km SSE of Sunnyside, Utah",earthquake,1.76,1.83,0.087,5,reviewed,uu,uu
 2022-07-20T14:05:48.510Z,33.3183333,-116.2996667,10.22,0.87,ml,16,134,0.0447,0.19,ci,ci40066719,2022-07-20T14:09:27.622Z,"10km NE of Borrego Springs, CA",earthquake,0.39,0.7,0.193,17,automatic,ci,ci
 2022-07-20T14:04:20.520Z,19.2243328094482,-155.391326904297,33.4799995422363,1.75,md,27,155,,0.140000001,hv,hv73081842,2022-07-20T14:07:40.310Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.970000029,0.75,3,automatic,hv,hv
 2022-07-20T13:52:19.429Z,36.69783333,-97.68216667,7.33,2.02,ml,86,53,0,0.22,ok,ok2022ocmb,2022-07-20T14:04:39.112Z,"10 km ESE of Jefferson, Oklahoma",earthquake,,0.5,0.21,32,reviewed,ok,ok
@@ -195,7 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T16:16:11.438Z,69.546,-146.2796,0.9,2.3,ml,,,,1.08,ak,ak0229713ss7,2022-07-19T16:18:43.305Z,"111 km SE of Prudhoe Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-19T16:12:27.840Z,34.154,-80.7218333,3.2,2.11,md,14,64,0.02804,0.28,se,se60156943,2022-07-19T21:38:27.888Z,"6 km ESE of Elgin, South Carolina",earthquake,1.72,0.91,0.08,8,reviewed,se,se
 2022-07-19T16:06:54.400Z,33.3235,-116.3318333,11.45,0.82,ml,14,178,0.043,0.22,ci,ci40066271,2022-07-19T16:10:35.948Z,"8km NNE of Borrego Springs, CA",earthquake,0.76,1.29,0.043,10,automatic,ci,ci
-2022-07-19T16:06:44.610Z,34.166,-80.7226667,1.78,2.21,md,16,62,0.03684,0.43,se,se60400362,2022-07-20T14:42:36.171Z,"6 km E of Elgin, South Carolina",earthquake,0.73,1.48,0.167,13,reviewed,se,se
+2022-07-19T16:06:44.610Z,34.166,-80.7226667,1.78,2.21,md,16,62,0.03684,0.43,se,se60400362,2022-07-20T14:56:53.245Z,"6 km E of Elgin, South Carolina",earthquake,0.73,1.48,0.167,13,reviewed,se,se
 2022-07-19T16:02:20.020Z,38.7966652,-122.8166656,3.53,0.85,md,10,93,0.0135,0.02,nc,nc73760636,2022-07-19T16:13:09.743Z,"6km WNW of The Geysers, CA",earthquake,0.47,1.63,,1,automatic,nc,nc
 2022-07-19T15:44:24.890Z,18.0406666666667,-66.801,15.33,2.21,md,11,140,,0.15,pr,pr71360313,2022-07-19T16:17:18.210Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.47,0.99,0.156102826852552,7,reviewed,pr,pr
 2022-07-19T15:35:38.721Z,57.7612,-154.0262,36.4,3.5,ml,,,,0.51,ak,ak022970mhvc,2022-07-19T17:31:06.040Z,"24 km N of Larsen Bay, Alaska",earthquake,,1,,,reviewed,ak,ak
@@ -207,15 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T15:14:23.430Z,48.27,-121.86216666666667,12.51,0.85,md,4,160,0.08652,0.07,uw,uw61502183,2022-07-19T18:17:19.100Z,"5 km E of Oso, Washington",earthquake,0.85,1.49,0.33373929514521605,4,reviewed,uw,uw
 2022-07-19T15:13:57.070Z,48.296166666666664,-121.88033333333334,7.91,1.29,ml,10,107,0.1057,0.11,uw,uw61863521,2022-07-19T18:15:02.460Z,"4 km NE of Oso, Washington",earthquake,0.47,0.63,0.12079451874361302,7,reviewed,uw,uw
 2022-07-19T15:10:19.110Z,37.6645,-118.8691667,3.34,0.38,md,12,143,0.02975,0.03,nc,nc73760611,2022-07-19T19:50:15.003Z,"10km ENE of Mammoth Lakes, CA",earthquake,0.44,0.47,0.049,10,reviewed,nc,nc
-2022-07-19T15:07:39.010Z,53.8845,-166.916833333333,5.6,0.41,ml,7,180,,0.17,av,av91638306,2022-07-20T09:21:08.560Z,"24 km W of Dutch Harbor, Alaska",earthquake,0.46,1.18,0.199376577123235,7,reviewed,av,av
-2022-07-19T15:07:03.310Z,37.6565,-118.8788333,3.95,0.99,md,15,92,0.01871,0.08,nc,nc73760601,2022-07-19T15:38:11.665Z,"9km ENE of Mammoth Lakes, CA",earthquake,0.36,0.49,0.187,12,reviewed,nc,nc
-2022-07-19T15:06:20.010Z,36.23433333,-95.82983333,0,1.32,ml,55,119,0.324836256,0.66,ok,ok2022oata,2022-07-20T12:51:50.739Z,"4 km SSE of Owasso, Oklahoma",quarry blast,,0.7,0.21,26,reviewed,ok,ok
-2022-07-19T14:58:07.392Z,60.7599,-152.6367,46.4,0.9,ml,,,,0.94,ak,ak0229705xc3,2022-07-19T15:00:13.481Z,"73 km WNW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-07-19T14:57:34.110Z,38.7946663,-122.8141632,2.6,1.27,md,29,73,0.01073,0.04,nc,nc73760596,2022-07-19T18:08:14.382Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.39,0.33,5,automatic,nc,nc
-2022-07-19T14:57:25.450Z,38.7949982,-122.8151703,2.62,1.86,md,28,73,0.01157,0.03,nc,nc73760591,2022-07-19T18:24:10.468Z,"6km WNW of The Geysers, CA",earthquake,0.25,0.42,0.06,5,automatic,nc,nc
-2022-07-19T14:57:02.130Z,38.7956657,-122.8150024,2.69,1.2,md,29,71,0.01186,0.03,nc,nc73760586,2022-07-19T17:17:24.102Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.39,0.03,7,automatic,nc,nc
-2022-07-19T14:56:40.530Z,38.7956657,-122.8151703,2.65,1.58,md,32,72,0.01196,0.03,nc,nc73760581,2022-07-19T17:30:10.167Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.36,0.11,10,automatic,nc,nc
-2022-07-19T14:56:05.450Z,38.7955017,-122.81633,3.07,0.99,md,13,98,0.0126,0.02,nc,nc73760576,2022-07-19T16:27:19.820Z,"6km WNW of The Geysers, CA",earthquake,0.37,1.04,0.24,2,automatic,nc,nc
-2022-07-19T14:55:39.180Z,38.795166,-122.8154984,2.73,0.81,md,14,99,0.01187,0.03,nc,nc73760571,2022-07-19T16:33:10.859Z,"6km WNW of The Geysers, CA",earthquake,0.31,0.79,0.28,3,automatic,nc,nc
-2022-07-19T14:55:20.260Z,39.429,-110.2863333,-3.12,2.09,ml,17,169,0.03042,0.17,uu,uu60506282,2022-07-19T16:18:04.670Z,"Utah",earthquake,0.75,2.01,0.126,10,reviewed,uu,uu
-2022-07-19T14:54:42.730Z,38.7953339,-122.8168335,2.83,0.89,md,8,100,0.01283,0.02,nc,nc73760566,2022-07-19T15:38:11.982Z,"6km WNW of The Geysers, CA",earthquake,0.48,1.52,0.87,3,automatic,nc,nc
