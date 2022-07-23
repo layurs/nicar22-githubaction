@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T04:15:20.060Z,38.7628326,-122.7245026,1.9,0.54,md,10,120,0.001269,0.02,nc,nc73761836,2022-07-23T05:00:13.221Z,"3km WSW of Anderson Springs, CA",earthquake,0.56,0.71,0.21,3,automatic,nc,nc
 2022-07-23T04:02:14.580Z,38.8398323,-122.8233337,2.12,0.82,md,18,86,0.009572,0.02,nc,nc73761831,2022-07-23T04:39:14.092Z,"9km WNW of Cobb, CA",earthquake,0.23,0.54,0.07,3,automatic,nc,nc
 2022-07-23T03:56:36.486Z,24.9873,-45.6587,10,5.1,mww,108,71,16.793,0.94,us,us7000hsw2,2022-07-23T04:24:23.040Z,"northern Mid-Atlantic Ridge",earthquake,10.6,1.9,0.061,26,reviewed,us,us
-2022-07-23T03:53:07.010Z,38.1565018,-122.2948303,7.88,1.9,md,23,53,0.08532,0.17,nc,nc73761826,2022-07-23T04:29:17.039Z,"4km SW of American Canyon, CA",earthquake,0.36,1.1,0.1,16,automatic,nc,nc
+2022-07-23T03:53:07.010Z,38.1565018,-122.2948303,7.88,1.9,md,23,53,0.08532,0.17,nc,nc73761826,2022-07-23T05:51:14.487Z,"4km SW of American Canyon, CA",earthquake,0.36,1.1,0.1,16,automatic,nc,nc
 2022-07-23T03:52:32.010Z,36.855835,-121.3014984,7.98,1.62,md,16,69,0.1486,0.18,nc,nc73761821,2022-07-23T05:22:13.344Z,"8km NE of Ridgemark, CA",earthquake,0.5,3.09,0.2,12,automatic,nc,nc
 2022-07-23T03:49:42.270Z,36.079834,-120.1466675,6.27,1.98,md,14,204,0.1354,0.05,nc,nc73761816,2022-07-23T04:55:12.191Z,"9km N of Avenal, CA",earthquake,0.56,0.7,0.17,9,automatic,nc,nc
 2022-07-23T03:23:20.407Z,57.3228,-155.9394,71.7,2.1,ml,,,,0.29,ak,ak0229dfk2lk,2022-07-23T03:30:00.040Z,"90 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T02:26:41.848Z,37.8792,-117.4787,2.1,1.5,ml,16,165.92,0.268,0.1686,nn,nn00843480,2022-07-23T02:38:03.976Z,"19 km NE of Silver Peak, Nevada",earthquake,,2.2,0.82,10,automatic,nn,nn
 2022-07-23T02:20:47.080Z,19.1875,-155.386001586914,31.4300003051758,1.82000005,md,31,180,,0.129999995,hv,hv73084837,2022-07-23T02:23:57.530Z,"9 km E of Pāhala, Hawaii",earthquake,0.92,1.12,0.230000004,5,automatic,hv,hv
 2022-07-23T01:41:12.240Z,38.8395004,-122.8363342,1.39,0.37,md,8,121,0.001125,0.01,nc,nc73761791,2022-07-23T01:58:13.244Z,"10km NW of The Geysers, CA",earthquake,0.41,0.83,,1,automatic,nc,nc
-2022-07-23T01:41:04.680Z,39.4656667,-121.4761667,0.59,4.24,mw,18,62,0.0151,0.11,nc,nc73761796,2022-07-23T05:42:27.886Z,"5km S of Oroville East, CA",earthquake,0.37,1.2,,4,reviewed,nc,nc
+2022-07-23T01:41:04.680Z,39.4656667,-121.4761667,0.59,4.24,mw,18,62,0.0151,0.11,nc,nc73761796,2022-07-23T05:50:26.737Z,"5km S of Oroville East, CA",earthquake,0.37,1.2,,4,reviewed,nc,nc
 2022-07-23T01:19:05.119Z,58.0922,-153.4429,58.1,3.3,ml,,,,0.48,ak,ak0229decbdg,2022-07-23T01:36:25.040Z,"31 km W of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-23T01:17:36.310Z,19.2409992218018,-155.162338256836,39.6500015258789,2.2,ml,45,200,,0.119999997,hv,hv73084807,2022-07-23T01:25:18.040Z,"23 km SSE of Volcano, Hawaii",earthquake,0.53,0.569999993,4.31,10,automatic,hv,hv
 2022-07-23T01:15:31.110Z,18.0788333333333,-66.1503333333333,16.66,2.14,md,5,148,,0.11,pr,pr71360718,2022-07-23T02:07:36.620Z,"4 km SSE of Cayey, Puerto Rico",earthquake,0.43,0.85,0.185327771158269,2,reviewed,pr,pr
@@ -173,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T06:03:26.010Z,35.6793333,-117.5175,10.35,0.99,ml,16,91,0.1509,0.17,ci,ci40067703,2022-07-22T18:41:51.282Z,"14km SW of Searles Valley, CA",earthquake,0.32,0.82,0.105,5,reviewed,ci,ci
 2022-07-22T06:01:28.260Z,39.428,-110.3005,-1.84,1.69,ml,14,183,0.01945,0.14,uu,uu60506687,2022-07-22T16:02:08.450Z,"15 km SSE of Sunnyside, Utah",earthquake,0.8,0.77,0.077,5,reviewed,uu,uu
 2022-07-22T05:58:29.670Z,39.42,-110.271,-3.41,1.34,ml,6,208,0.0421,0.2,uu,uu60506682,2022-07-22T15:57:28.330Z,"17 km SE of Sunnyside, Utah",earthquake,2.76,5.08,0.166,3,reviewed,uu,uu
-2022-07-22T05:53:36.122Z,-23.8018,-179.5514,527.94,4.4,mb,24,127,5.63,0.76,us,us7000hsla,2022-07-22T06:11:45.040Z,"south of the Fiji Islands",earthquake,13.8,11.2,0.123,19,reviewed,us,us
-2022-07-22T05:45:39.128Z,61.7259,-150.7768,61,1.4,ml,,,,0.46,ak,ak0229btccig,2022-07-22T05:47:34.585Z,"24 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
