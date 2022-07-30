@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-30T07:44:55.280Z,44.7828331,-110.8073349,9.77,2.52,ml,34,35,0.03123,0.34,uu,uu60507652,2022-07-30T07:48:55.050Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.51,0.86,0.72,5,automatic,uu,uu
 2022-07-30T07:34:46.567Z,66.4471,-148.2573,0,1.6,ml,,,,1.15,ak,ak0229p2rndc,2022-07-30T07:38:05.305Z,"39 km WNW of Beaver, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-30T07:31:28.190Z,62.8683,-150.131,83.5,1,ml,,,,0.53,ak,ak0229p2qysz,2022-07-30T07:33:11.942Z,"46 km N of Chase, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-07-30T07:20:00.670Z,37.470665,-118.5053329,22.48,2.47,md,26,197,0.2027,0.12,nc,nc73764306,2022-07-30T07:35:43.063Z,"10km NE of Round Valley, CA",earthquake,1.06,2.14,0.16,22,automatic,nc,nc
@@ -171,7 +172,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T13:39:00.755Z,17.8427,120.5794,58.43,4.6,mb,58,121,4.971,0.58,us,us6000i6ht,2022-07-30T05:34:41.040Z,"12 km SE of Mabusag, Philippines",earthquake,8.4,7.3,0.059,87,reviewed,us,us
 2022-07-29T13:31:57.870Z,46.939,-119.27433333333333,7.79,0.67,ml,7,104,0.0932,0.26,uw,uw61866821,2022-07-29T20:19:16.260Z,"14 km NNW of Othello, Washington",earthquake,0.56,0.94,0.07823905618571764,7,reviewed,uw,uw
 2022-07-29T13:25:24.205Z,59.7552,-153.3792,14.2,0.2,ml,,,,0.47,ak,ak0229niqwcv,2022-07-29T17:01:00.865Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2022-07-29T13:19:58.346Z,31.59048722,-104.5802461,4.974707031,2.17722991,mlv,10,84,0.1721856,0.1,tx,tx2022oswn,2022-07-29T20:54:23.301Z,"65 km NNE of Van Horn, Texas",earthquake,2.793970232,3.498936594,0.1903111881,7,reviewed,tx,tx
 2022-07-29T13:09:38.017Z,-21.9502,-67.3692,189.58,4.5,mb,34,47,1.247,0.7,us,us6000i6gb,2022-07-29T13:33:01.040Z,"136 km NE of San Pedro de Atacama, Chile",earthquake,7.5,8.7,0.128,18,reviewed,us,us
 2022-07-29T13:08:12.333Z,60.5073,-142.8633,3.4,0.8,ml,,,,0.64,ak,ak0229nin8ea,2022-07-29T16:56:17.595Z,"103 km S of McCarthy, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-07-29T13:06:53.440Z,19.1803340911865,-155.464828491211,33.5,2.15,ml,44,108,,0.159999996,hv,hv73091622,2022-07-29T13:12:24.720Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.52,0.709999979,0.31,3,automatic,hv,hv
@@ -186,7 +186,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T12:05:17.915Z,55.5032,-156.0257,10,3.2,ml,36,211,2.152,0.55,us,us6000i6g2,2022-07-29T12:23:38.040Z,"172 km ESE of Chignik, Alaska",earthquake,9.2,2,0.053,46,reviewed,us,us
 2022-07-29T11:57:44.949Z,-8.2049,115.5161,10,4.5,mb,30,88,1.375,0.56,us,us6000i6g0,2022-07-30T06:39:38.364Z,"28 km NNW of Bedugul, Indonesia",earthquake,2.6,1.9,0.121,20,reviewed,us,us
 2022-07-29T11:53:56.960Z,38.8256683,-122.8059998,0.18,0.84,md,9,74,0.003909,0.04,nc,nc73764016,2022-07-29T13:45:10.273Z,"7km NW of The Geysers, CA",earthquake,0.29,0.74,,1,automatic,nc,nc
-2022-07-29T11:53:50.857Z,31.56314924,-104.1815211,5.540283203000001,2.4,ml,10,65,0.1647279291,0.1,tx,tx2022ostr,2022-07-29T16:18:40.777Z,"46 km NW of Toyah, Texas",earthquake,2.519143055,3.526523769,0.2,6,reviewed,tx,tx
+2022-07-29T11:53:50.801Z,31.55947261,-104.1814966,6.157275391,2.3,ml,13,71,0.1671637777,0.3,tx,tx2022ostr,2022-07-30T07:43:39.519Z,"45 km NW of Toyah, Texas",earthquake,1.6409249610000003,2.77384495,0.2,8,reviewed,tx,tx
 2022-07-29T11:44:04.730Z,38.774334,-122.7176666,2.22,0.86,md,10,91,0.01391,0.04,nc,nc73764011,2022-07-29T13:19:11.139Z,"2km W of Anderson Springs, CA",earthquake,0.36,0.47,0.24,4,automatic,nc,nc
 2022-07-29T11:41:50.420Z,17.922,-66.99,7.61,1.96,md,4,244,,0.01,pr,pr71361518,2022-07-29T12:19:51.970Z,"8 km SE of La Parguera, Puerto Rico",earthquake,1.15,0.64,0.0763852184176426,4,reviewed,pr,pr
 2022-07-29T11:26:04.150Z,17.9516666666667,-66.9533333333333,8.64,1.59,md,5,211,,0.1,pr,pr71361513,2022-07-29T12:14:25.670Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.71,1.37,,1,reviewed,pr,pr
@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T08:08:15.021Z,60.9218,-148.1325,59.3,1.7,ml,,,,1.25,ak,ak0229nfo3h8,2022-07-29T08:10:49.785Z,"34 km ENE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-29T08:01:29.225Z,62.1915,-148.2644,24.9,1.6,ml,,,,0.61,ak,ak0229nfmmii,2022-07-29T08:03:31.216Z,"45 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-29T07:59:22.499Z,17.8714,120.6291,53.98,4.5,mb,49,113,4.939,0.34,us,us6000i6fa,2022-07-30T04:19:13.040Z,"12 km SSW of Espiritu, Philippines",earthquake,11.4,8.8,0.094,33,reviewed,us,us
-2022-07-29T07:51:43.930Z,38.7808333,-122.713,2.16,0.33,md,29,61,0.01168,0.03,nc,nc73763986,2022-07-29T12:25:10.801Z,"2km WNW of Anderson Springs, CA",earthquake,0.16,0.28,0.179,7,reviewed,nc,nc
-2022-07-29T07:41:55.030Z,39.4198333,-110.2711667,-3.36,1.33,ml,6,208,0.04199,0.18,uu,uu60507512,2022-07-29T16:13:20.340Z,"17 km SE of Sunnyside, Utah",earthquake,2.58,4.76,0.117,4,reviewed,uu,uu
