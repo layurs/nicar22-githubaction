@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-30T06:43:14.871Z,62.2172,-149.9906,24.2,1.2,ml,,,,0.34,ak,ak0229p282rj,2022-07-30T06:45:20.672Z,"9 km NW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-30T06:35:40.760Z,39.0223351,-123.071167,1.97,2.92,md,42,49,0.125,0.1,nc,nc73764286,2022-07-30T06:51:08.442Z,"14km W of Lakeport, CA",earthquake,0.22,0.99,0.12,34,automatic,nc,nc
+2022-07-30T06:35:40.760Z,39.0223351,-123.071167,1.97,2.92,md,42,49,0.125,0.1,nc,nc73764286,2022-07-30T07:13:56.523Z,"14km W of Lakeport, CA",earthquake,0.22,0.99,0.12,34,automatic,nc,nc
 2022-07-30T06:34:19.720Z,33.7953333,-116.119,0.33,0.67,ml,15,93,0.08539,0.28,ci,ci40072231,2022-07-30T06:37:51.843Z,"12km NE of Indio, CA",earthquake,0.59,31.61,0.065,6,automatic,ci,ci
 2022-07-30T06:29:10.040Z,38.8043327,-122.7808304,0.91,0.45,md,12,86,0.008914,0.02,nc,nc73764281,2022-07-30T06:45:15.561Z,"4km NW of The Geysers, CA",earthquake,0.31,0.61,0.39,2,automatic,nc,nc
 2022-07-30T06:22:45.800Z,17.9508333333333,-66.844,16.32,2.55,md,13,196,,0.12,pr,pr71361578,2022-07-30T06:41:58.890Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.42,0.46,0.0242326364578855,5,reviewed,pr,pr
@@ -26,9 +26,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T04:25:19.980Z,35.5805,-120.7536667,6.66,1.14,md,36,50,0.1097,0.07,nc,nc73764251,2022-07-30T06:50:10.592Z,"6km NW of Templeton, CA",earthquake,0.19,0.81,0.225,18,reviewed,nc,nc
 2022-07-30T04:23:58.100Z,38.8400002,-122.8353348,0.8,1.05,md,19,85,0.001414,0.09,nc,nc73764246,2022-07-30T06:22:11.450Z,"10km NW of The Geysers, CA",earthquake,0.23,0.45,0.14,5,automatic,nc,nc
 2022-07-30T04:23:38.690Z,38.8371658,-122.8373337,1.21,1.41,md,21,80,0.002025,0.04,nc,nc73764241,2022-07-30T05:43:15.222Z,"10km NW of The Geysers, CA",earthquake,0.21,0.36,0.02,5,automatic,nc,nc
-2022-07-30T04:23:23.200Z,38.8378333,-122.837,1.37,0.09,md,20,111,0.001402,0.01,nc,nc73764236,2022-07-30T05:55:11.300Z,"10km NW of The Geysers, CA",earthquake,0.23,0.33,,1,reviewed,nc,nc
+2022-07-30T04:23:23.200Z,38.8378333,-122.837,1.37,0.09,md,20,111,0.001402,0.01,nc,nc73764236,2022-07-30T07:03:16.681Z,"10km NW of The Geysers, CA",earthquake,0.23,0.33,,1,reviewed,nc,nc
 2022-07-30T04:23:09.900Z,38.8371658,-122.8371658,1.5,1.16,md,17,109,0.001934,0.02,nc,nc73764231,2022-07-30T05:00:10.988Z,"10km NW of The Geysers, CA",earthquake,0.23,0.41,0.02,4,automatic,nc,nc
-2022-07-30T04:20:16.997Z,-11.7941,-77.0781,64.52,3.8,mb,11,207,0.3,0.65,us,us6000i6qa,2022-07-30T06:23:49.592Z,"near the coast of central Peru",earthquake,8,6.9,0.51,1,reviewed,us,us
+2022-07-30T04:20:16.997Z,-11.7941,-77.0781,64.52,3.8,mb,11,207,0.3,0.65,us,us6000i6qa,2022-07-30T07:10:36.755Z,"near the coast of central Peru",earthquake,8,6.9,0.51,1,reviewed,us,us
 2022-07-30T04:12:56.400Z,33.7995,-116.124,0.33,0.7,ml,12,93,0.08125,0.27,ci,ci40072183,2022-07-30T04:16:31.794Z,"12km NE of Indio, CA",earthquake,0.58,31.61,0.103,13,automatic,ci,ci
 2022-07-30T04:04:38.680Z,33.2615,-115.9683333,4.44,1.64,ml,44,68,0.08813,0.21,ci,ci40072175,2022-07-30T04:15:08.800Z,"4km SSW of Salton City, CA",earthquake,0.27,1.08,0.152,26,automatic,ci,ci
 2022-07-30T03:17:36.244Z,60.6772,-152.6384,9.4,0.4,ml,,,,0.47,ak,ak0229p0a8zc,2022-07-30T03:19:40.855Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -222,6 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T07:22:07.150Z,39.4208333,-110.2735,-3.4,1.44,ml,6,208,0.0401,0.16,uu,uu60507507,2022-07-29T16:11:44.920Z,"17 km SE of Sunnyside, Utah",earthquake,2.36,4.35,0.136,4,reviewed,uu,uu
 2022-07-29T07:21:47.060Z,38.8283348,-122.8048325,1.76,0.85,md,9,76,0.00641,0.01,nc,nc73763981,2022-07-29T07:43:16.940Z,"7km NW of The Geysers, CA",earthquake,0.38,1.06,,1,automatic,nc,nc
 2022-07-29T07:16:24.560Z,60.705,-150.7127,50.6,1.4,ml,,,,0.81,ak,ak0229nf4eag,2022-07-29T07:18:52.507Z,"18 km N of Sterling, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-07-29T07:10:58.560Z,40.692,-122.2223333,16.91,1.54,md,22,44,0.05684,0.13,nc,nc73763976,2022-07-29T20:57:11.094Z,"6km N of Bella Vista, CA",earthquake,0.29,0.6,0.078,20,reviewed,nc,nc
-2022-07-29T07:08:19.740Z,39.4283333,-110.3031667,-1.69,1.22,ml,9,197,0.01751,0.13,uu,uu60507502,2022-07-29T16:10:09.610Z,"15 km SSE of Sunnyside, Utah",earthquake,1.02,0.69,0.088,5,reviewed,uu,uu
-2022-07-29T06:56:24.700Z,39.4286667,-110.3036667,-1.38,1.4,md,5,197,0.01722,0.06,uu,uu60507497,2022-07-29T16:07:32.750Z,"15 km SSE of Sunnyside, Utah",earthquake,1.9,1.07,0.183,4,reviewed,uu,uu
