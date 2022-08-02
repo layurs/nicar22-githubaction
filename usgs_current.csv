@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-02T08:42:43.470Z,38.8416672,-122.8241653,2.07,0.93,md,22,89,0.009361,0.02,nc,nc73763000,2022-08-02T08:44:19.192Z,"9km WNW of Cobb, CA",earthquake,0.21,0.4,0.05,5,automatic,nc,nc
+2022-08-02T08:39:42.160Z,34.6873333,-120.1728333,1.38,1.16,ml,13,117,0.1005,0.22,ci,ci40073711,2022-08-02T08:43:21.707Z,"6km WNW of Los Olivos, CA",earthquake,0.42,0.94,0.15,14,automatic,ci,ci
+2022-08-02T08:26:54.506Z,62.6362,-145.6823,222.9,2.2,ml,,,,1.37,ak,ak0229u1xfdh,2022-08-02T08:29:43.559Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-08-02T08:26:50.543Z,63.1652,-147.6237,5.8,2.1,ml,,,,0.71,ak,ak0229u1xf13,2022-08-02T08:28:53.958Z,"71 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-02T08:13:34.678Z,38.1621,-117.887,9.9,1.6,ml,11,167.95,0.061,0.1476,nn,nn00843976,2022-08-02T08:16:51.964Z,"31 km SE of Mina, Nevada",earthquake,,0.5,0.32,6,automatic,nn,nn
 2022-08-02T08:03:51.440Z,17.9531666666667,-66.9681666666667,15.51,2.16,md,5,208,,0.03,pr,pr71362113,2022-08-02T08:13:03.420Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.62,0.75,0.0618766597519271,3,reviewed,pr,pr
 2022-08-02T07:54:36.519Z,61.3805,-146.6687,27.8,1.2,ml,,,,0.95,ak,ak0229u1hxsq,2022-08-02T07:57:05.538Z,"32 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -36,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T02:59:49.885Z,59.1801,-153.6508,100.1,1.4,ml,,,,0.22,ak,ak0229tyjvzg,2022-08-02T03:01:47.356Z,"63 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-02T02:53:48.380Z,-17.9544,-177.9507,641.12,4.1,mb,32,137,3.629,0.82,us,us6000i7ck,2022-08-02T03:14:11.040Z,"289 km E of Levuka, Fiji",earthquake,7.4,8,0.061,72,reviewed,us,us
 2022-08-02T02:39:39.480Z,19.2361660003662,-155.419326782227,35.2900009155273,2.3,ml,36,128,,0.129999995,hv,hv73095062,2022-08-02T02:45:11.010Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.56,0.699999988,0.48,5,automatic,hv,hv
-2022-08-02T02:27:06.250Z,64.0853,-21.9971,10,5.1,mww,81,52,0.725,0.6,us,us6000i7cg,2022-08-02T07:48:54.147Z,"1 km SSE of Álftanes, Iceland",earthquake,6.2,1.9,0.093,11,reviewed,us,us
+2022-08-02T02:27:06.250Z,64.0853,-21.9971,10,5.1,mww,81,52,0.725,0.6,us,us6000i7cg,2022-08-02T08:43:00.197Z,"1 km SSE of Álftanes, Iceland",earthquake,6.2,1.9,0.093,11,reviewed,us,us
 2022-08-02T02:26:39.990Z,33.7321667,-116.9421667,8.29,0.49,ml,10,95,0.05498,0.35,ci,ci40073647,2022-08-02T02:30:22.042Z,"3km ESE of Hemet, CA",earthquake,1.32,2.96,0.181,10,automatic,ci,ci
 2022-08-02T02:26:32.360Z,33.9491667,-116.9896667,17.21,0.91,ml,23,55,0.1077,0.17,ci,ci40073639,2022-08-02T02:30:17.014Z,"2km NNW of Beaumont, CA",earthquake,0.32,0.84,0.098,11,automatic,ci,ci
 2022-08-02T01:42:17.228Z,-11.9247,166.7757,197.85,5.3,mww,88,41,3.526,0.46,us,us6000i7cb,2022-08-02T05:02:08.040Z,"170 km SE of Lata, Solomon Islands",earthquake,10.3,4.9,0.098,10,reviewed,us,us
@@ -204,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-01T08:51:56.350Z,36.0036659,-120.5693359,3.29,0.95,md,15,95,0.02715,0.04,nc,nc73765011,2022-08-01T10:10:10.730Z,"17km NW of Parkfield, CA",earthquake,0.33,0.52,0.11,5,automatic,nc,nc
 2022-08-01T08:50:54.826Z,62.3591,-148.6468,26.1,2.1,ml,,,,0.64,ak,ak0229sej827,2022-08-01T08:52:49.274Z,"63 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-01T08:49:30.479Z,43.4373,-103.5555,5,2.2,mb_lg,18,72,0.767,0.27,us,us6000i74g,2022-08-01T17:23:52.380Z,"6 km W of Hot Springs, South Dakota",earthquake,3,2,0.17,9,reviewed,us,us
-2022-08-01T08:37:01.963Z,61.0939,-148.3237,10.9,1.6,ml,,,,0.82,ak,ak0229segbo4,2022-08-01T08:38:51.461Z,"40 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-01T08:24:47.960Z,19.405,-155.287333333333,0.8,0.6,md,15,48,,0.1,hv,hv73094347,2022-08-01T23:43:05.490Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.2,0.0169320473491218,4,reviewed,hv,hv
