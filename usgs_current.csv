@@ -1,9 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-08T15:45:28.230Z,38.7613335,-122.8566666,3.8,0.88,md,15,198,0.01087,0.05,nc,nc73765460,2022-08-08T15:47:03.061Z,"9km WSW of The Geysers, CA",earthquake,0.53,0.61,0.04,5,automatic,nc,nc
+2022-08-08T15:44:44.800Z,19.150333404541,-155.476333618164,33.060001373291,2.6500001,md,45,158,,0.159999996,hv,hv73102952,2022-08-08T15:48:09.970Z,"5 km S of Pāhala, Hawaii",earthquake,0.56,1.08000004,1.29999995,32,automatic,hv,hv
+2022-08-08T15:42:20.239Z,61.583,-149.778,46.9,2.5,ml,,,,0.3,ak,ak022a43ewcn,2022-08-08T15:44:30.565Z,"5 km SSE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-08-08T15:37:55.625Z,59.7672,-153.388,119.5,2.7,ml,,,,1.08,ak,ak022a43dwgm,2022-08-08T15:42:03.439Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-08-08T15:13:20.160Z,17.9026666666667,-66.9551666666667,12.58,2.17,md,5,261,,0.06,pr,pr71364048,2022-08-08T15:35:43.290Z,"Puerto Rico region",earthquake,0.62,0.95,0.0488192867905948,3,reviewed,pr,pr
 2022-08-08T15:06:50.960Z,33.8945,-116.213,9.12,0.92,ml,22,58,0.04514,0.14,ci,ci40077487,2022-08-08T15:10:19.901Z,"18km ENE of Thousand Palms, CA",earthquake,0.24,0.53,0.116,18,automatic,ci,ci
 2022-08-08T14:45:22.744Z,38.1476,22.0537,66.315,4.5,mb,33,48,0.9,0.35,us,us6000i932,2022-08-08T15:04:42.040Z,"11 km SSW of Aígio, Greece",earthquake,4.42,7.925,0.172,11,reviewed,us,us
 2022-08-08T14:44:28.730Z,38.8153343,-122.8183365,2.42,0.35,md,7,106,0.01032,0.01,nc,nc73765455,2022-08-08T15:17:25.130Z,"7km NW of The Geysers, CA",earthquake,0.46,1.22,,1,automatic,nc,nc
 2022-08-08T14:18:58.610Z,38.8359985,-122.80867,2.16,0.85,md,13,57,0.01263,0.01,nc,nc73765435,2022-08-08T14:35:21.835Z,"8km WNW of Cobb, CA",earthquake,0.37,0.85,,1,automatic,nc,nc
 2022-08-08T14:15:16.880Z,46.191001892089844,-122.17549896240234,2.57999992370605,1.08000004,md,18,124,0.01153,0.0799999982,uw,uw61861067,2022-08-08T15:11:56.790Z,"37 km NE of Amboy, Washington",earthquake,0.57,0.879999995,,1,reviewed,uw,uw
+2022-08-08T13:47:23.560Z,18.0038333333333,-66.8418333333333,15.04,2,md,6,158,,0.24,pr,pr71364018,2022-08-08T15:41:04.410Z,"2 km WNW of Indios, Puerto Rico",earthquake,0.86,1.14,0.0751649452067823,6,reviewed,pr,pr
 2022-08-08T13:42:52.293Z,-19.6767,170.0421,10,5.1,mww,29,91,3.795,0.47,us,us6000i92k,2022-08-08T14:10:27.040Z,"81 km E of Isangel, Vanuatu",earthquake,6.21,1.895,0.098,10,reviewed,us,us
 2022-08-08T13:41:33.080Z,17.9716666666667,-66.8365,15.73,2.79,md,32,164,,0.21,pr,pr71364013,2022-08-08T14:39:17.360Z,"3 km SW of Indios, Puerto Rico",earthquake,0.42,0.31,0.192909708826098,18,reviewed,pr,pr
 2022-08-08T13:40:04.830Z,17.9865,-66.8393333333333,15.93,2.26,md,10,146,,0.11,pr,pr71363998,2022-08-08T15:09:43.600Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.4,0.51,0.0869249779986752,8,reviewed,pr,pr
@@ -209,11 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T16:05:41.928Z,56.5532,-149.3999,10,3.2,ml,27,256,2.128,0.38,us,us6000i8x0,2022-08-07T20:11:33.040Z,"210 km SE of Chiniak, Alaska",earthquake,4.51,2.017,0.052,48,reviewed,us,us
 2022-08-07T16:04:51.630Z,38.8381653,-122.8271637,1.38,1.17,md,22,95,0.006514,0.02,nc,nc73765165,2022-08-07T18:42:10.390Z,"9km NW of The Geysers, CA",earthquake,0.2,0.39,0.09,4,automatic,nc,nc
 2022-08-07T15:56:12.210Z,36.0168333,-117.3691667,2.12,1.26,ml,14,132,0.1436,0.21,ci,ci40076983,2022-08-07T15:59:45.372Z,"28km N of Searles Valley, CA",earthquake,0.54,1.6,0.242,10,automatic,ci,ci
-2022-08-07T15:45:15.144Z,-21.0167,-11.6437,10,4.8,mb,45,66,7.524,0.68,us,us6000i8wy,2022-08-07T16:24:01.040Z,"southern Mid-Atlantic Ridge",earthquake,11.55,1.859,0.094,37,reviewed,us,us
-2022-08-07T15:44:30.524Z,10.2714,93.8331,10.138,4.6,mb,34,93,1.743,0.49,us,us6000i8wu,2022-08-07T16:45:25.040Z,"194 km SE of Port Blair, India",earthquake,7.92,3.593,0.122,23,reviewed,us,us
-2022-08-07T15:41:03.901Z,61.1177,-150.4061,17.5,1.5,ml,,,,0.42,ak,ak022a2fvavo,2022-08-07T15:43:18.428Z,"26 km NE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-07T15:37:55.156Z,58.893,-154.0935,99.9,1.9,ml,,,,0.57,ak,ak022a2fujw7,2022-08-07T16:44:21.040Z,"72 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-08-07T15:36:52.215Z,54.5129,-159.8073,15.7,1.9,ml,,,,0.58,ak,ak022a2fuaed,2022-08-07T18:54:13.164Z,"101 km SSE of Sand Point, Alaska",earthquake,,1.6,,,reviewed,ak,ak
-2022-08-07T15:36:44.245Z,61.8665,-151.9023,108.2,1.6,ml,,,,0.93,ak,ak022a2fubao,2022-08-07T15:40:10.864Z,"29 km WSW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-08-07T15:30:44.000Z,42.57116666666667,-122.57266666666666,11.49,1.08,ml,5,158,0.07862,0.1,uw,uw61860872,2022-08-07T15:58:06.540Z,"3 km N of Butte Falls, Oregon",earthquake,0.64,0.99,0.19695770796579692,6,reviewed,uw,uw
-2022-08-07T15:29:33.406Z,42.3514,144.0607,54.642,4.4,mb,46,134,0.751,0.49,us,us6000i8wl,2022-08-07T16:37:10.040Z,"73 km SSW of Kushiro, Japan",earthquake,7.93,7.32,0.073,57,reviewed,us,us
