@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-14T12:41:45.565Z,60.3063,-141.1171,15.5,1.8,ml,,,,0.28,ak,ak022adyuiqk,2022-08-14T12:43:04.339Z,"114 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-14T12:39:15.262Z,-53.2156,140.533,10,4.9,mb,41,96,10.957,0.35,us,us6000ias9,2022-08-14T12:56:15.040Z,"west of Macquarie Island",earthquake,10.55,1.875,0.091,38,reviewed,us,us
 2022-08-14T12:14:31.286Z,38.6019,-119.456,1.2,1.4,ml,15,75.13,0.052,0.2333,nn,nn00844952,2022-08-14T12:17:19.467Z,"5 km ESE of Topaz, California",earthquake,,0.9,0.14,11,automatic,nn,nn
 2022-08-14T12:13:08.265Z,37.2922,-117.2652,11.7,0.9,ml,8,130.69,0.009,0.2214,nn,nn00844951,2022-08-14T12:16:35.942Z,"46 km S of Goldfield, Nevada",earthquake,,0.5,0.78,3,automatic,nn,nn
+2022-08-14T12:11:20.790Z,17.9458333333333,-66.8988333333333,14.3,2.67,md,21,188,,0.14,pr,pr71365848,2022-08-14T12:39:54.090Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.51,0.43,0.271044117015937,13,reviewed,pr,pr
 2022-08-14T12:02:35.840Z,58.0658,-154.6724,40.4,0.4,ml,,,,0.35,ak,ak022adym528,2022-08-14T12:04:39.561Z,"56 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-14T11:55:05.780Z,33.1508333,-115.6051667,12.28,1.49,ml,8,149,0.03536,0.2,ci,ci40325312,2022-08-14T11:58:43.829Z,"9km WNW of Calipatria, CA",earthquake,0.76,1.15,0.44,10,automatic,ci,ci
 2022-08-14T11:53:46.982Z,38.5872,-119.4562,7.4,1,ml,12,64.05,0.05,0.0951,nn,nn00844948,2022-08-14T11:58:06.419Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.35,6,automatic,nn,nn
@@ -76,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T03:33:52.080Z,17.9953333333333,-65.6048333333333,15.75,2.88,md,12,201,,0.17,pr,pr71365743,2022-08-14T03:59:01.780Z,"18 km SW of Esperanza, Puerto Rico",earthquake,0.78,0.49,0.107956676486656,7,reviewed,pr,pr
 2022-08-14T03:27:46.602Z,-15.7991,166.9639,10,4.9,mb,16,129,0.419,0.46,us,us6000iap6,2022-08-14T03:47:12.040Z,"37 km SW of Luganville, Vanuatu",earthquake,7.67,1.932,0.116,25,reviewed,us,us
 2022-08-14T03:27:13.970Z,60.2666,-152.9125,102.4,1.9,ml,,,,0.28,ak,ak022adtejtx,2022-08-14T03:51:52.040Z,"73 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-14T03:24:22.996Z,37.9837,27.1478,12.179,5,mb,65,34,1.22,1.11,us,us6000ianw,2022-08-14T11:43:33.869Z,"3 km SSE of Özdere, Turkey",earthquake,5.13,4.546,0.05,132,reviewed,us,us
+2022-08-14T03:24:22.996Z,37.9837,27.1478,12.179,5,mb,65,34,1.22,1.11,us,us6000ianw,2022-08-14T12:42:41.333Z,"3 km SSE of Özdere, Turkey",earthquake,5.13,4.546,0.05,132,reviewed,us,us
 2022-08-14T03:11:50.874Z,-15.7976,167.0591,10,5.9,mww,76,49,0.375,0.92,us,us6000ianq,2022-08-14T08:38:27.686Z,"32 km SSW of Luganville, Vanuatu",earthquake,8.91,1.857,0.098,10,reviewed,us,us
 2022-08-14T03:08:49.520Z,33.4913333,-116.443,13.88,0.68,ml,24,74,0.0351,0.14,ci,ci40325128,2022-08-14T03:12:22.748Z,"22km ESE of Anza, CA",earthquake,0.25,0.58,0.111,15,automatic,ci,ci
 2022-08-14T02:58:29.187Z,-14.1455,-75.5612,58.346,4.4,mb,23,158,2.482,0.75,us,us6000iamx,2022-08-14T04:27:27.549Z,"14 km E of Pampa de Tate, Peru",earthquake,7.92,10.395,0.155,13,reviewed,us,us
@@ -195,10 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T13:16:03.230Z,36.5681648,-121.1039963,0.48,1.92,md,8,144,0.05288,0.03,nc,nc73767675,2022-08-13T15:43:14.619Z,"5km NE of Pinnacles, CA",earthquake,0.39,2.36,0.36,6,automatic,nc,nc
 2022-08-13T13:07:10.580Z,40.7558333,-123.932,22.21,2.28,md,39,32,0.09631,0.17,nc,nc73767670,2022-08-14T02:08:16.466Z,"15km SE of Bayside, CA",earthquake,0.36,0.43,0.2,31,reviewed,nc,nc
 2022-08-13T13:04:35.890Z,38.7989998,-122.7506638,1.72,0.46,md,7,98,0.007254,0.02,nc,nc73767665,2022-08-13T15:00:14.396Z,"2km NNE of The Geysers, CA",earthquake,0.33,2.22,0.41,2,automatic,nc,nc
-2022-08-13T13:02:55.580Z,33.5975,-116.8063333,7.35,0.34,ml,17,65,0.03546,0.19,ci,ci40324832,2022-08-13T13:06:24.491Z,"13km WNW of Anza, CA",earthquake,0.39,0.69,0.192,7,automatic,ci,ci
-2022-08-13T13:02:33.569Z,-15.8328,167.1229,10,5.7,mww,104,27,0.391,1.16,us,us6000iaik,2022-08-14T03:31:21.876Z,"34 km S of Luganville, Vanuatu",earthquake,5.45,1.722,0.051,37,reviewed,us,us
-2022-08-13T13:02:01.762Z,6.937,-73.0504,148.264,4.6,mb,47,89,1.038,1.09,us,us6000iaij,2022-08-13T14:34:30.040Z,"5 km S of Piedecuesta, Colombia",earthquake,8.32,8.399,0.029,363,reviewed,us,us
-2022-08-13T12:55:03.480Z,38.8199997,-122.7798309,0.57,0.67,md,11,58,0.006764,0.03,nc,nc73767660,2022-08-13T14:56:11.493Z,"5km W of Cobb, CA",earthquake,0.31,0.63,0.14,2,automatic,nc,nc
-2022-08-13T12:45:23.160Z,33.444,-116.638,4.42,0.77,ml,33,42,0.05322,0.14,ci,ci40324768,2022-08-13T12:48:51.382Z,"13km SSE of Anza, CA",earthquake,0.19,0.33,0.205,22,automatic,ci,ci
-2022-08-13T12:45:09.380Z,32.8098333,-117.2138333,20.29,0.96,ml,11,300,0.4111,0.14,ci,ci40324760,2022-08-13T12:48:44.445Z,"7km SE of La Jolla, CA",earthquake,3.11,31.61,0.028,3,automatic,ci,ci
-2022-08-13T12:33:35.760Z,40.7575,-123.9355,22.58,3.57,mw,48,31,0.0932,0.17,nc,nc73767655,2022-08-14T09:26:43.722Z,"14km SE of Bayside, CA",earthquake,0.27,0.46,,3,reviewed,nc,nc
