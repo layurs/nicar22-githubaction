@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-18T07:35:06.179Z,62.3748,-151.0921,72.7,1.7,ml,,,,0.49,ak,ak022akhzdcp,2022-08-18T07:37:22.396Z,"21 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-18T07:21:54.330Z,18.4226,-64.7886,97,3.78,md,16,350,0.182,0.03,pr,pr2022230002,2022-08-18T07:38:32.863Z,"10 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.57,1.01,0.11,9,reviewed,pr,pr
-2022-08-18T07:11:36.926Z,26.4858,127.7992,41.089,4.8,mb,64,113,0.549,0.92,us,us6000ibtg,2022-08-18T07:34:39.237Z,"7 km NNW of Ishikawa, Japan",earthquake,7.48,7.982,0.054,104,reviewed,us,us
+2022-08-18T07:11:36.926Z,26.4858,127.7992,41.089,4.8,mb,64,113,0.549,0.92,us,us6000ibtg,2022-08-18T07:44:54.497Z,"7 km NNW of Ishikawa, Japan",earthquake,7.48,7.982,0.054,104,reviewed,us,us
 2022-08-18T06:55:32.919Z,57.3983,-152.922,4.8,1.7,ml,,,,0.54,ak,ak022akhia4r,2022-08-18T06:57:58.152Z,"31 km NE of Old Harbor, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-08-18T06:53:37.980Z,33.8653333,-116.8113333,15.43,1.63,ml,59,22,0.03373,0.19,ci,ci40327536,2022-08-18T07:03:57.390Z,"6km SSW of Cabazon, CA",earthquake,0.2,0.5,0.187,25,automatic,ci,ci
 2022-08-18T06:42:11.895Z,40.1912,-119.7717,1,1.8,ml,9,221.27,0.037,0.4251,nn,nn00845324,2022-08-18T06:45:41.371Z,"30 km NNW of Sutcliffe, Nevada",earthquake,,0.8,0.19,6,automatic,nn,nn
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-18T02:19:36.090Z,33.4816667,-116.4471667,3.64,0.43,ml,15,76,0.1298,0.23,ci,ci40327456,2022-08-18T02:23:09.761Z,"22km ESE of Anza, CA",earthquake,0.58,1.84,0.221,7,automatic,ci,ci
 2022-08-18T02:18:52.750Z,33.4848333,-116.4481667,14.6,0.95,ml,32,59,0.0428,0.21,ci,ci40327448,2022-08-18T02:22:25.833Z,"22km ESE of Anza, CA",earthquake,0.32,0.51,0.143,25,automatic,ci,ci
 2022-08-18T02:11:38.589Z,64.8737,-149.4601,0,1.6,ml,,,,0.67,ak,ak022akev4n6,2022-08-18T02:13:55.639Z,"31 km S of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-08-18T02:10:23.182Z,-34.3475,-70.5794,104.221,5.3,mwr,87,34,0.359,0.91,us,us6000ibrs,2022-08-18T05:38:24.882Z,"19 km SSE of Machalí, Chile",earthquake,3.85,3.763,0.045,48,reviewed,us,us
+2022-08-18T02:10:23.182Z,-34.3475,-70.5794,104.221,5.3,mwr,87,34,0.359,0.91,us,us6000ibrs,2022-08-18T07:45:57.167Z,"19 km SSE of Machalí, Chile",earthquake,3.85,3.763,0.045,48,reviewed,us,us
 2022-08-18T02:05:26.230Z,33.6613333,-116.5131667,6.8,0.38,ml,10,194,0.07085,0.18,ci,ci40327440,2022-08-18T02:09:01.629Z,"13km SW of Rancho Mirage, CA",earthquake,1.16,1.17,0.434,8,automatic,ci,ci
 2022-08-18T01:43:26.730Z,19.528,-67.3596,50,3.77,md,24,218,1.0892,0.78,pr,pr2022230000,2022-08-18T02:59:57.193Z,"117 km NNW of San Antonio, Puerto Rico",earthquake,3.42,17.41,0.07,15,reviewed,pr,pr
 2022-08-18T01:32:04.960Z,17.869,-66.9025,13.81,2.49,md,9,251,,0.09,pr,pr71366663,2022-08-18T01:54:04.970Z,"11 km S of Guánica, Puerto Rico",earthquake,0.63,0.38,0.348620899415085,4,reviewed,pr,pr
@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T18:50:51.750Z,34.5773333,-118.0286667,9.36,0.89,ml,18,67,0.05016,0.1,ci,ci40327240,2022-08-17T19:01:50.373Z,"7km E of Palmdale, CA",earthquake,0.17,0.46,0.16,15,reviewed,ci,ci
 2022-08-17T18:49:50.500Z,33.7518333,-117.1031667,-0.52,0.71,ml,20,77,0.04714,0.19,ci,ci40327248,2022-08-17T19:10:00.189Z,"3km WNW of Green Acres, CA",quarry blast,0.49,31.61,0.105,12,reviewed,ci,ci
 2022-08-17T18:34:59.350Z,38.7606667,-122.9623333,3.91,1.09,md,36,162,0.04196,0.08,nc,nc73769145,2022-08-17T21:25:11.786Z,"7km SE of Cloverdale, CA",earthquake,0.22,0.55,0.112,11,reviewed,nc,nc
-2022-08-17T18:23:28.360Z,44.20066666666666,-122.699,-0.79,1.48,ml,9,118,0.09258,0.1,uw,uw61873116,2022-08-18T05:14:25.660Z,"Oregon",explosion,0.37,31.61,0.3127734582180146,4,reviewed,uw,uw
+2022-08-17T18:23:28.360Z,44.20066666666666,-122.699,-0.79,1.48,ml,9,118,0.09258,0.1,uw,uw61873116,2022-08-18T05:14:25.660Z,"18 km SSE of Holley, Oregon",explosion,0.37,31.61,0.3127734582180146,4,reviewed,uw,uw
 2022-08-17T18:22:39.550Z,38.8226667,-122.7843333,2.12,0.25,md,10,107,0.009817,0.02,nc,nc73769140,2022-08-18T07:10:15.189Z,"5km W of Cobb, CA",earthquake,0.45,0.63,0.273,2,reviewed,nc,nc
 2022-08-17T18:21:22.931Z,59.8483,-152.8833,103.8,1.2,ml,,,,0.23,ak,ak022aj0wtta,2022-08-17T18:24:02.093Z,"59 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-17T18:21:06.710Z,38.8224983,-122.828331,1.92,0.87,md,19,49,0.005269,0.02,nc,nc73769135,2022-08-17T18:35:10.742Z,"8km NW of The Geysers, CA",earthquake,0.23,0.37,0.28,4,automatic,nc,nc
