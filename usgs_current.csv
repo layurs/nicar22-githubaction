@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-31T21:46:40.210Z,35.4790001,-120.6048355,2.68,1.53,md,5,142,0.102,0.04,nc,nc73774015,2022-08-31T21:48:14.467Z,"6km E of Atascadero, CA",earthquake,2.13,7.72,0.12,4,automatic,nc,nc
+2022-08-31T21:46:40.210Z,35.4790001,-120.6048355,2.68,1.53,md,5,142,0.102,0.04,nc,nc73774015,2022-08-31T21:57:10.291Z,"6km E of Atascadero, CA",earthquake,2.13,7.72,0.12,4,automatic,nc,nc
 2022-08-31T21:42:34.944Z,38.1769,-117.9946,1.1,0.9,ml,9,159.84,0.023,0.2498,nn,nn00846212,2022-08-31T21:46:08.665Z,"25 km SSE of Mina, Nevada",earthquake,,0.5,0.64,5,automatic,nn,nn
+2022-08-31T21:26:10.080Z,46.823,-121.78683333333333,-1.12,0.56,ml,9,124,0.03818,0.2,uw,uw61876691,2022-08-31T22:01:49.260Z,"Washington",earthquake,0.42,15.03,0.20127567307967115,7,reviewed,uw,uw
 2022-08-31T21:25:31.850Z,17.96,-66.8398333333333,13.83,2.1,md,8,208,,0.08,pr,pr71369008,2022-08-31T21:43:48.910Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.53,0.26,0.134913834769813,6,reviewed,pr,pr
+2022-08-31T21:24:23.730Z,18.8255,-65.0155,23.84,2.9,md,4,298,,0.24,pr,pr71369013,2022-08-31T21:54:16.130Z,"54 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.58,16.94,0.146982778761603,4,reviewed,pr,pr
 2022-08-31T20:26:04.940Z,33.8318333,-116.199,8.31,1.95,ml,66,60,0.03967,0.15,ci,ci40093759,2022-08-31T20:58:14.000Z,"12km N of Indio, CA",earthquake,0.13,0.36,0.178,63,reviewed,ci,ci
 2022-08-31T20:25:49.853Z,60.3193,-139.7361,1,1.5,ml,,,,0.53,ak,ak022b67nguh,2022-08-31T20:28:05.306Z,"86 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-31T20:13:28.490Z,60.2574,-139.7653,16,1.3,ml,,,,0.6,ak,ak022b67kult,2022-08-31T20:15:30.527Z,"79 km N of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -105,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-31T08:52:07.550Z,18.0073333333333,-66.8315,19.41,1.65,md,9,155,,0.09,pr,pr71368883,2022-08-31T09:04:59.320Z,"1 km NW of Indios, Puerto Rico",earthquake,0.79,0.55,0.0509859706711908,7,reviewed,pr,pr
 2022-08-31T08:48:33.862Z,62.5785,-148.8901,58.9,0.8,ml,,,,0.47,ak,ak022b60n4zu,2022-08-31T16:14:10.842Z,"64 km ENE of Chase, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-08-31T08:43:21.920Z,38.1803,-117.8757,9.4,1.2,ml,16,136.95,0.078,0.1176,nn,nn00846192,2022-08-31T18:35:34.305Z,"Nevada",earthquake,,1.3,0.37,5,reviewed,nn,nn
-2022-08-31T08:34:16.780Z,38.7876663,-122.7440033,1.68,1.84,md,32,46,0.007205,0.04,nc,nc73773815,2022-08-31T11:50:11.533Z,"2km NE of The Geysers, CA",earthquake,0.23,0.36,0.09,9,automatic,nc,nc
+2022-08-31T08:34:16.770Z,38.7871667,-122.7438333,1.85,1.78,md,62,40,0.006802,0.05,nc,nc73773815,2022-08-31T22:02:07.290Z,"2km NE of The Geysers, CA",earthquake,0.13,0.18,0.234,36,reviewed,nc,nc
 2022-08-31T08:31:17.700Z,39.4268333,-110.292,-2.84,1.34,ml,7,200,0.02578,0.14,uu,uu60512867,2022-08-31T15:27:48.400Z,"16 km SSE of Sunnyside, Utah",earthquake,1.69,3.31,0.106,4,reviewed,uu,uu
 2022-08-31T08:23:52.600Z,35.6918333,-117.6045,8.58,1.32,ml,30,63,0.06327,0.15,ci,ci40334936,2022-08-31T15:54:18.033Z,"10km NE of Ridgecrest, CA",earthquake,0.19,0.46,0.16,14,reviewed,ci,ci
 2022-08-31T08:19:44.816Z,38.195,-117.8945,6.1,0.8,ml,15,168.2,0.071,0.1394,nn,nn00846189,2022-08-31T18:01:28.295Z,"28 km SE of Mina, Nevada",earthquake,,1.7,0.39,5,reviewed,nn,nn
@@ -189,6 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-31T01:32:15.710Z,39.7203333,-123.656,-0.72,1.72,md,25,101,0.06616,0.25,nc,nc73773700,2022-08-31T10:23:10.967Z,"14km E of Rockport, CA",earthquake,0.36,0.8,0.13,15,reviewed,nc,nc
 2022-08-31T01:32:13.230Z,38.7924995,-122.7685013,2.37,0.79,md,20,75,0.01063,0.03,nc,nc73773690,2022-08-31T01:54:13.870Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.48,0.24,4,automatic,nc,nc
 2022-08-31T01:12:39.860Z,17.9253333333333,-67.047,9.02,2.46,md,13,250,,0.15,pr,pr71368843,2022-08-31T01:41:00.680Z,"Puerto Rico region",earthquake,0.65,0.75,0.136108547539694,9,reviewed,pr,pr
+2022-08-31T01:05:36.604Z,40.3038,-119.7347,6.7,0.4,ml,3,311.4,0.134,0.0761,nn,nn00846214,2022-08-31T21:53:25.448Z,"38 km ENE of Herlong, California",earthquake,,10.6,0.01,3,reviewed,nn,nn
 2022-08-31T00:59:25.710Z,38.7975006,-122.7894974,-0.3,0.5,md,9,82,0.004488,0.03,nc,nc73773680,2022-08-31T01:43:12.813Z,"4km NW of The Geysers, CA",earthquake,0.28,0.71,0.35,2,automatic,nc,nc
 2022-08-31T00:57:54.920Z,33.8385,-117.8355,3.68,1.4,ml,40,98,0.02378,0.26,ci,ci40334816,2022-08-31T13:47:40.636Z,"3km NW of Villa Park, CA",earthquake,0.32,0.24,0.163,28,reviewed,ci,ci
 2022-08-31T00:56:28.050Z,18.038,-66.789,12.7,1.92,md,10,146,,0.2,pr,pr71368833,2022-08-31T01:13:39.540Z,"2 km N of Guayanilla, Puerto Rico",earthquake,0.58,0.93,0.104104524110178,6,reviewed,pr,pr
@@ -241,6 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T22:13:59.370Z,18.2328,-68.5038,99,3.78,md,24,157,0.3066,0.64,pr,pr2022242000,2022-08-31T00:06:48.040Z,"19 km SE of Boca de Yuma, Dominican Republic",earthquake,2.44,1.93,0.2,21,reviewed,pr,pr
 2022-08-30T22:13:45.249Z,60.7058,-151.8182,78.5,2.1,ml,,,,0.48,ak,ak022b4l8em4,2022-08-31T02:18:21.741Z,"28 km W of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-30T22:07:14.260Z,39.4295,-110.3081667,-1.33,1.44,ml,10,195,0.01418,0.13,uu,uu60512762,2022-08-30T22:45:10.320Z,"15 km SSE of Sunnyside, Utah",earthquake,1.17,0.52,0.079,4,reviewed,uu,uu
-2022-08-30T22:02:11.420Z,46.1755,-122.26666666666667,-1.14,0.23,ml,4,328,0.09873,0.13,uw,uw61876426,2022-08-31T17:59:26.650Z,"Mount St. Helens area, Washington",earthquake,1.64,1.32,0.04252404914251623,3,reviewed,uw,uw
-2022-08-30T21:53:24.590Z,34.1956667,-116.426,4.7,1.17,ml,28,60,0.01681,0.09,ci,ci40334704,2022-08-30T22:15:15.710Z,"9km N of Yucca Valley, CA",earthquake,0.16,0.27,0.15,20,reviewed,ci,ci
-2022-08-30T21:53:23.020Z,38.787,-122.75,0.17,1.51,md,39,51,0.01103,0.05,nc,nc73773555,2022-08-31T07:03:13.745Z,"1km NNE of The Geysers, CA",earthquake,0.13,0.27,0.056,10,reviewed,nc,nc
