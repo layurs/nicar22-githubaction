@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T19:09:30.795Z,37.507,-117.5304,1.9,0.9,ml,9,175.2,0.298,0.4255,nn,nn00846568,2022-09-07T19:13:37.346Z,"29 km SSE of Silver Peak, Nevada",earthquake,,36.9,1.06,5,automatic,nn,nn
+2022-09-07T19:02:12.710Z,19.3325004577637,-155.130493164062,2.88000011444092,1.70000005,md,28,125,,0.140000001,hv,hv73133782,2022-09-07T19:05:21.600Z,"Island of Hawaii, Hawaii",earthquake,0.44,0.980000019,0.680000007,12,automatic,hv,hv
+2022-09-07T18:59:52.960Z,17.9608333333333,-66.9486666666667,10.64,2.16,md,6,232,,0.04,pr,pr71370378,2022-09-07T19:11:27.030Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.92,0.0198663189449066,4,reviewed,pr,pr
+2022-09-07T18:59:18.451Z,38.1667,-117.854,3.5,0.9,ml,8,176.57,0.087,0.0576,nn,nn00846567,2022-09-07T19:02:57.715Z,"Nevada",earthquake,,1.3,0.49,5,automatic,nn,nn
+2022-09-07T18:58:51.288Z,59.8684,-153.0203,99.5,1.2,ml,,,,0.2,ak,ak022bhrf3u0,2022-09-07T19:01:37.012Z,"61 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-07T18:34:13.210Z,33.2956667,-116.2135,7.88,0.81,ml,17,116,0.1044,0.19,ci,ci40097655,2022-09-07T18:37:41.880Z,"16km ENE of Borrego Springs, CA",earthquake,0.48,1.35,0.148,12,automatic,ci,ci
 2022-09-07T18:33:03.430Z,33.4263333,-116.5233333,-0.18,0.68,ml,12,104,0.08109,0.3,ci,ci40097647,2022-09-07T18:36:53.350Z,"19km NNE of Warner Springs, CA",earthquake,0.78,31.61,0.124,13,automatic,ci,ci
 2022-09-07T18:32:58.430Z,33.6706667,-116.7636667,10.49,1.03,ml,38,44,0.05775,0.17,ci,ci40097639,2022-09-07T18:36:27.870Z,"9km SSW of Idyllwild, CA",earthquake,0.22,0.33,0.233,17,automatic,ci,ci
@@ -6,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T18:29:34.030Z,33.672,-116.7643333,10.55,0.63,ml,18,70,0.05723,0.12,ci,ci40097623,2022-09-07T18:33:20.866Z,"9km SSW of Idyllwild, CA",earthquake,0.25,0.4,0.111,15,automatic,ci,ci
 2022-09-07T18:27:51.020Z,35.647,-117.4521667,6.28,0.84,ml,11,171,0.06092,0.13,ci,ci40097615,2022-09-07T18:31:23.587Z,"14km SSW of Searles Valley, CA",earthquake,0.62,0.91,0.162,6,automatic,ci,ci
 2022-09-07T18:19:09.272Z,59.1613,-153.2844,45.3,1.4,ml,,,,0.39,ak,ak022bhr6nnz,2022-09-07T18:20:54.407Z,"80 km WSW of Nanwalek, Alaska",earthquake,,5.4,,,automatic,ak,ak
-2022-09-07T18:11:39.919Z,0.0146,123.7983,141.066,5.1,mb,114,20,1.468,0.79,us,us6000ihx9,2022-09-07T18:51:59.969Z,"100 km SE of Gorontalo, Indonesia",earthquake,5.93,5.04,0.045,170,reviewed,us,us
+2022-09-07T18:11:39.919Z,0.0146,123.7983,141.066,5.1,mb,114,20,1.468,0.79,us,us6000ihx9,2022-09-07T18:58:48.379Z,"100 km SE of Gorontalo, Indonesia",earthquake,5.93,5.04,0.045,170,reviewed,us,us
 2022-09-07T18:10:48.185Z,60.9951,-148.7783,33.8,0.8,ml,,,,0.88,ak,ak022bhr4t82,2022-09-07T18:17:02.936Z,"21 km ENE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T18:09:37.733Z,-3.2097,101.4723,50.673,5.7,mb,109,40,1.87,1.08,us,us6000ihx6,2022-09-07T18:48:58.408Z,"109 km NW of Bengkulu, Indonesia",earthquake,6.87,6.102,0.041,207,reviewed,us,us
 2022-09-07T18:04:31.900Z,38.7975006,-122.7353363,2.71,0.21,md,7,117,0.01428,0.01,nc,nc73776470,2022-09-07T18:28:10.688Z,"3km NE of The Geysers, CA",earthquake,0.36,1.53,0.17,2,automatic,nc,nc
@@ -253,9 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T19:45:08.710Z,33.8771667,-117.4943333,-0.56,1.03,ml,22,79,0.07235,0.21,ci,ci40097151,2022-09-06T23:50:04.310Z,"2km E of Home Gardens, CA",quarry blast,0.49,31.61,0.122,21,reviewed,ci,ci
 2022-09-06T19:27:30.160Z,33.4718333,-116.4388333,10.43,0.71,ml,18,76,0.05259,0.19,ci,ci40097143,2022-09-06T19:30:58.634Z,"24km ESE of Anza, CA",earthquake,0.35,0.84,0.072,16,automatic,ci,ci
 2022-09-06T19:20:10.040Z,48.239,-122.21316666666667,-0.48,0.99,md,4,212,0.1888,0.14,uw,uw61869287,2022-09-06T19:43:49.160Z,"4 km W of Bryant, Washington",explosion,0.96,31.61,0.2832347654548939,5,reviewed,uw,uw
-2022-09-06T19:13:44.939Z,34.38666667,-96.8725,0,1.54,ml,71,86,0.3455321948,0.36,ok,ok2022rmov,2022-09-07T13:03:18.547Z,"4 km WSW of Mill Creek, Oklahoma",quarry blast,,0.4,0.21,24,reviewed,ok,ok
-2022-09-06T19:11:39.252Z,0.3684,121.9277,185.713,4.5,mb,45,64,1.363,0.79,us,us7000i5st,2022-09-06T21:27:12.040Z,"127 km W of Gorontalo, Indonesia",earthquake,8.36,7.613,0.098,31,reviewed,us,us
-2022-09-06T19:08:09.487Z,65.0012,-147.4775,0,1.6,ml,,,,0.91,ak,ak022bg46dx0,2022-09-06T19:10:37.761Z,"8 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-06T19:02:59.652Z,61.4011,-150.0804,33,1.1,ml,,,,0.65,ak,ak022bg457hp,2022-09-06T19:05:32.669Z,"7 km NW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-09-06T19:00:01.741Z,32.4068,142.3569,14.867,4.6,mb,85,96,2.256,0.75,us,us7000i5sr,2022-09-07T18:45:55.040Z,"Izu Islands, Japan region",earthquake,7.9,4.242,0.072,68,reviewed,us,us
-2022-09-06T18:55:53.090Z,39.4325,-110.327,-1.08,1.68,ml,10,153,0.008517,0.13,uu,uu60513967,2022-09-07T16:48:24.120Z,"14 km SSE of Sunnyside, Utah",earthquake,1.08,0.43,0.059,5,reviewed,uu,uu
