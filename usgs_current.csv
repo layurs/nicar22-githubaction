@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-17T19:42:26.780Z,33.7681667,-115.9415,4.36,1.66,ml,36,113,0.1075,0.23,ci,ci40101775,2022-09-17T19:45:56.034Z,"23km NE of Thermal, CA",earthquake,0.31,0.96,0.167,27,automatic,ci,ci
+2022-09-17T19:42:26.780Z,33.7681667,-115.9415,4.36,1.66,ml,36,113,0.1075,0.23,ci,ci40101775,2022-09-17T19:53:25.330Z,"23km NE of Thermal, CA",earthquake,0.31,0.96,0.167,27,automatic,ci,ci
 2022-09-17T19:33:46.027Z,38.7175,-118.7569,4,1.5,ml,14,141.86,0.204,0.1428,nn,nn00847360,2022-09-17T19:37:21.029Z,"7 km N of Walker Lake, Nevada",earthquake,,2,0.19,9,automatic,nn,nn
 2022-09-17T19:32:14.870Z,33.7678333,-115.95,1.75,1,ml,15,153,0.1112,0.19,ci,ci40101767,2022-09-17T19:35:51.169Z,"22km NE of Thermal, CA",earthquake,0.41,0.91,0.167,24,automatic,ci,ci
 2022-09-17T19:17:11.480Z,33.7551667,-115.9266667,8.81,1.01,ml,21,112,0.09,0.27,ci,ci40101759,2022-09-17T19:20:43.882Z,"24km ENE of Thermal, CA",earthquake,0.6,1.77,0.146,19,automatic,ci,ci
@@ -128,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-17T06:56:05.300Z,19.2346668243408,-155.39533996582,32.1500015258789,1.83000004,md,37,141,,0.150000006,hv,hv73142122,2022-09-17T06:59:11.890Z,"Island of Hawaii, Hawaii",earthquake,0.66,0.860000014,1.83000004,4,automatic,hv,hv
 2022-09-17T06:51:57.320Z,18.0515,-66.8523333333333,20.52,2.3,md,7,155,,0.16,pr,pr71372138,2022-09-17T07:10:55.670Z,"1 km N of Yauco, Puerto Rico",earthquake,1.14,0.8,0.091427261640139,4,reviewed,pr,pr
 2022-09-17T06:31:43.189Z,60.6731,-148.2719,29.3,1.5,ml,,,,1.08,ak,ak022by3hkih,2022-09-17T06:34:53.965Z,"25 km ESE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-17T06:28:09.750Z,35.852,-119.8585,4.73,1.75,md,33,123,0.2014,0.25,nc,nc73782676,2022-09-17T18:49:13.135Z,"20km SSE of Kettleman City, CA",earthquake,0.44,2.03,0.182,29,reviewed,nc,nc
+2022-09-17T06:28:09.750Z,35.852,-119.8585,4.73,1.75,md,33,123,0.2014,0.25,nc,nc73782676,2022-09-17T19:56:13.459Z,"20km SSE of Kettleman City, CA",earthquake,0.44,2.03,0.182,29,reviewed,nc,nc
 2022-09-17T06:25:00.640Z,-7.265,105.0794,38.621,5.1,mb,39,130,2.557,0.98,us,us7000i8rv,2022-09-17T06:42:01.040Z,"128 km SW of Labuan, Indonesia",earthquake,7.85,7.697,0.138,17,reviewed,us,us
 2022-09-17T06:12:44.894Z,7.4269,-73.7163,105.84,4.3,mb,34,93,1.649,0.45,us,us7000i8rt,2022-09-17T06:29:29.479Z,"21 km ENE of Puerto Wilches, Colombia",earthquake,6.8,13.47,0.154,12,reviewed,us,us
 2022-09-17T06:12:42.592Z,38.5127,-119.5063,8.9,1.2,ml,14,163.86,0.054,0.1623,nn,nn00847341,2022-09-17T06:15:44.724Z,"2 km W of Walker, California",earthquake,,0.4,0.22,10,automatic,nn,nn
@@ -226,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T20:05:52.290Z,33.4956667,-116.5233333,14.01,0.52,ml,18,77,0.062,0.13,ci,ci40101255,2022-09-16T22:58:12.718Z,"15km ESE of Anza, CA",earthquake,0.32,0.59,0.152,8,reviewed,ci,ci
 2022-09-16T20:04:21.880Z,43.53366666666667,-123.78416666666666,-0.35,1.35,ml,7,174,0.08659,0.26,uw,uw61880901,2022-09-16T23:50:35.680Z,"20 km WSW of Elkton, Oregon",explosion,1.85,31.61,0.07897485362227097,4,reviewed,uw,uw
 2022-09-16T20:00:09.782Z,28.98,142.0547,27.291,4.6,mb,92,118,4.548,0.69,us,us7000i8nk,2022-09-16T21:38:42.040Z,"Bonin Islands, Japan region",earthquake,10.56,5.266,0.065,80,reviewed,us,us
-2022-09-16T19:53:52.080Z,39.4298333,-110.314,-0.91,1.56,md,7,194,0.01033,0.07,uu,uu60515277,2022-09-16T20:02:54.930Z,"14 km SSE of Sunnyside, Utah",earthquake,0.92,0.22,0.041,7,reviewed,uu,uu
-2022-09-16T19:48:18.800Z,18.0078333333333,-66.7381666666667,15.06,2.31,md,11,183,,0.16,pr,pr71372063,2022-09-16T20:30:44.360Z,"2 km WNW of Tallaboa, Puerto Rico",earthquake,0.54,0.62,0.154165005474277,6,reviewed,pr,pr
-2022-09-16T19:47:15.280Z,17.9841666666667,-66.7121666666667,9.89,2.23,md,9,208,,0.22,pr,pr71372058,2022-09-16T20:10:05.590Z,"1 km SSE of Tallaboa, Puerto Rico",earthquake,0.96,1.51,0.156692180679102,6,reviewed,pr,pr
