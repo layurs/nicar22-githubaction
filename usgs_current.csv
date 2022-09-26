@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-26T21:52:39.080Z,19.2283325195312,-155.390502929688,32.5099983215332,2.1099999,md,36,147,,0.129999995,hv,hv73154617,2022-09-26T21:55:47.830Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.639999986,0.310000002,13,automatic,hv,hv
+2022-09-26T21:43:01.510Z,19.3535003662109,-155.322998046875,-1.07000005245209,2.34,ml,14,219,,0.300000012,hv,hv73154607,2022-09-26T21:48:31.150Z,"13 km SW of Volcano, Hawaii",earthquake,0.86,0.800000012,2.81,11,automatic,hv,hv
+2022-09-26T21:42:54.420Z,19.208833694458,-155.472503662109,11.0299997329712,2.65,ml,39,93,,0.189999998,hv,hv73154602,2022-09-26T21:53:57.506Z,"0 km NE of Pāhala, Hawaii",earthquake,0.46,0.639999986,3.5,28,automatic,hv,hv
 2022-09-26T21:27:31.216Z,62.6655,-149.4887,6,2.1,ml,,,,0.88,ak,ak022cd88ba9,2022-09-26T21:29:54.701Z,"39 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-26T21:24:30.579Z,60.6748,-149.356,14.3,1.7,ml,,,,0.61,ak,ak022cd87o35,2022-09-26T21:26:12.348Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-26T21:23:39.130Z,37.3249,-117.1502,2.4,1.2,ml,24,124.22,0.091,0.2759,nn,nn00847959,2022-09-26T21:27:02.040Z,"Nevada",earthquake,,1.1,0.96,15,automatic,nn,nn
@@ -30,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-26T18:21:57.172Z,53.9621,-35.2513,10,4.8,mb,29,105,18.332,0.38,us,us6000infh,2022-09-26T19:05:39.040Z,"Reykjanes Ridge",earthquake,14.01,1.921,0.095,34,reviewed,us,us
 2022-09-26T18:18:33.154Z,38.1435,-117.9685,6.5,1.3,ml,14,131.43,0.009,0.1334,nn,nn00847951,2022-09-26T19:05:33.627Z,"30 km SSE of Mina, Nevada",earthquake,,0.9,0.29,6,reviewed,nn,nn
 2022-09-26T18:14:39.249Z,53.8809,-35.4842,10,4.9,mb,47,87,18.221,0.87,us,us6000infd,2022-09-26T18:57:05.040Z,"Reykjanes Ridge",earthquake,10.37,1.527,0.044,158,reviewed,us,us
-2022-09-26T18:06:46.281Z,47.8585,-114.3641,12.229,2.9,ml,16,89,0.125,1.06,us,us6000infa,2022-09-26T21:13:16.019Z,"3 km NNW of Elmo, Montana",earthquake,2.03,4.817,0.048,56,reviewed,us,us
+2022-09-26T18:06:46.281Z,47.8585,-114.3641,12.229,2.9,ml,16,89,0.125,1.06,us,us6000infa,2022-09-26T21:53:17.605Z,"3 km NNW of Elmo, Montana",earthquake,2.03,4.817,0.048,56,reviewed,us,us
 2022-09-26T18:02:20.986Z,55.6439,159.9884,184.442,4.8,mb,93,90,2.741,0.67,us,us6000inf9,2022-09-26T18:41:12.040Z,"22 km E of Atlasovo, Russia",earthquake,5.61,6.542,0.028,398,reviewed,us,us
 2022-09-26T17:55:59.693Z,62.0493,-152.1419,134.8,1.5,ml,,,,0.33,ak,ak022cd60n41,2022-09-26T17:58:11.062Z,"39 km W of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-26T17:47:54.020Z,19.183500289917,-155.475326538086,29.8899993896484,1.82000005,md,38,83,,0.200000003,hv,hv73154292,2022-09-26T17:51:17.500Z,"2 km S of Pāhala, Hawaii",earthquake,0.67,1.15999997,1.60000002,6,automatic,hv,hv
@@ -240,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-25T22:12:26.400Z,33.8095,-116.8933333,13.56,0.73,ml,30,69,0.0621,0.12,ci,ci40106439,2022-09-26T13:42:30.763Z,"7km ENE of San Jacinto, CA",earthquake,0.2,0.44,0.114,10,reviewed,ci,ci
 2022-09-25T22:06:06.260Z,19.4701666666667,-155.595,-1.02,0.81,md,9,90,,0.12,hv,hv73153227,2022-09-25T23:07:31.880Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.26,0.19373804455505,6,reviewed,hv,hv
 2022-09-25T22:03:05.740Z,19.4723333333333,-155.598,-0.75,1.15,md,10,90,,0.11,hv,hv73153222,2022-09-25T23:10:26.750Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.22,0.0735907668166933,5,reviewed,hv,hv
-2022-09-25T21:55:12.348Z,62.8607,-143.6621,0,1.4,ml,,,,0.9,ak,ak022cbkuxdu,2022-09-25T21:57:09.674Z,"8 km SE of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-25T21:52:02.110Z,44.7796667,-111.1101667,9.9,0.19,md,9,79,0.01671,0.12,uu,uu60518042,2022-09-26T16:28:50.300Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.53,1.28,0.047,5,reviewed,uu,uu
