@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-01T10:39:56.830Z,33.4928333,-116.4995,9.67,0.49,ml,18,59,0.06879,0.18,ci,ci40354080,2022-10-01T10:43:28.215Z,"18km ESE of Anza, CA",earthquake,0.35,0.95,0.102,9,automatic,ci,ci
+2022-10-01T10:39:12.280Z,19.2423324584961,-155.369995117188,33.1699981689453,1.88,ml,21,170,,0.150000006,hv,hv73162442,2022-10-01T10:44:43.590Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.68,0.889999986,0.47,3,automatic,hv,hv
+2022-10-01T10:36:35.228Z,58.871,-156.2239,250,1.3,ml,,,,0.97,ak,ak022clbf7uq,2022-10-01T10:38:56.539Z,"Alaska Peninsula",earthquake,,7.3,,,automatic,ak,ak
+2022-10-01T10:36:26.900Z,19.1844997406006,-155.458999633789,31.3899993896484,2.82,ml,48,114,,0.109999999,hv,hv73162437,2022-10-01T10:41:59.100Z,"2 km SE of Pāhala, Hawaii",earthquake,0.52,0.689999998,3.44,29,automatic,hv,hv
 2022-10-01T10:27:55.780Z,33.805,-117.6285,4.99,0.81,ml,14,81,0.01886,0.17,ci,ci40354072,2022-10-01T10:31:21.339Z,"9km SW of Corona, CA",earthquake,0.42,0.49,0.222,16,automatic,ci,ci
+2022-10-01T10:25:16.581Z,-4.3241,143.9537,102.444,4.9,mb,62,68,5.967,0.9,us,us6000ipyg,2022-10-01T10:48:22.040Z,"New Guinea, Papua New Guinea",earthquake,10.77,7.427,0.049,131,reviewed,us,us
 2022-10-01T10:25:02.034Z,63.1489,-150.4557,63.4,1.6,ml,,,,1.09,ak,ak022clbcsez,2022-10-01T10:27:38.980Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-10-01T10:04:57.886Z,61.7208,-150.738,54.3,1.4,ml,,,,0.55,ak,ak022clb8eos,2022-10-01T10:06:34.950Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-10-01T09:54:40.053Z,61.1353,-148.288,2.8,1.1,ml,,,,0.45,ak,ak022claxnid,2022-10-01T09:56:35.090Z,"45 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -21,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-01T08:31:12.026Z,59.9548,-151.797,74.6,1.3,ml,,,,0.13,ak,ak022cla789u,2022-10-01T08:32:17.737Z,"3 km WNW of Happy Valley, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-10-01T08:30:41.710Z,19.4650001525879,-155.643829345703,0.560000002384186,1.85000002,md,18,72,,0.389999986,hv,hv73162247,2022-10-01T09:14:00.238Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.6,2.66000009,0.75999999,9,automatic,hv,hv
 2022-10-01T08:28:08.370Z,38.8241653,-122.7853317,0.3,0.97,md,11,65,0.01148,0.03,nc,nc73787881,2022-10-01T08:29:46.475Z,"5km W of Cobb, CA",earthquake,0.27,0.55,0.27,2,automatic,nc,nc
-2022-10-01T08:05:39.441Z,13.0137,-91.3424,10,4.3,mb,26,222,1.718,1.12,us,us6000ipxw,2022-10-01T08:16:35.040Z,"115 km SSW of Puerto San José, Guatemala",earthquake,8.52,1.993,0.133,16,reviewed,us,us
+2022-10-01T08:05:39.441Z,13.0137,-91.3424,10,4.3,mb,26,222,1.718,1.12,us,us6000ipxw,2022-10-01T08:16:35.040Z,"near the coast of Guatemala",earthquake,8.52,1.993,0.133,16,reviewed,us,us
 2022-10-01T07:50:58.297Z,58.9611,-153.2752,76,1.1,ml,,,,0.32,ak,ak022cl9pyve,2022-10-01T07:53:04.257Z,"Kodiak Island region, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-10-01T07:47:20.659Z,60.7004,-150.6146,40.4,1.2,ml,,,,0.4,ak,ak022cl9p8sh,2022-10-01T07:48:43.963Z,"19 km NNE of Sterling, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-10-01T07:44:38.050Z,17.9776,-66.99,6,3.01,md,21,194,0.1108,0.1,pr,pr2022274000,2022-10-01T08:13:19.784Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.38,0.19,0.28,10,reviewed,pr,pr
@@ -212,7 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-30T16:56:16.620Z,33.4685,-116.4326667,6.52,0.85,ml,25,77,0.05506,0.16,ci,ci40353728,2022-09-30T22:57:06.594Z,"24km NNW of Borrego Springs, CA",earthquake,0.28,0.73,0.093,14,reviewed,ci,ci
 2022-09-30T16:53:43.720Z,44.7966667,-110.7951667,6.3,0.49,md,9,212,0.04027,0.13,uu,uu60518622,2022-09-30T18:28:52.100Z,"Wyoming",earthquake,0.57,0.8,0.255,6,reviewed,uu,uu
 2022-09-30T16:42:23.430Z,19.4553333333333,-155.603833333333,-0.54,0.65,md,7,137,,0.09,hv,hv73161137,2022-09-30T18:41:47.390Z,"Island of Hawaii, Hawaii",earthquake,0.45,0.28,0.186843683988838,5,reviewed,hv,hv
-2022-09-30T16:38:27.360Z,19.4281666666667,-155.603666666667,-1.2,1.28,md,10,88,,0.14,hv,hv73161132,2022-09-30T20:26:09.200Z,"Hawaii region, Hawaii",earthquake,0.3,0.4,0.0358379108311611,4,reviewed,hv,hv
+2022-09-30T16:38:27.360Z,19.4281666666667,-155.603666666667,-1.2,1.28,md,10,88,,0.14,hv,hv73161132,2022-09-30T20:26:09.200Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.4,0.0358379108311611,4,reviewed,hv,hv
 2022-09-30T16:34:30.960Z,19.4408333333333,-155.596166666667,-1.42,0.89,md,8,98,,0.11,hv,hv73161127,2022-09-30T20:33:14.610Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.31,0.0991765907405622,6,reviewed,hv,hv
 2022-09-30T16:33:22.970Z,44.7883333,-110.8115,5.03,0.56,md,8,216,0.02777,0.12,uu,uu60518617,2022-09-30T18:26:46.230Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.55,0.91,0.417,6,reviewed,uu,uu
 2022-09-30T16:29:43.560Z,19.4808333333333,-155.5935,-1.4,1.11,md,8,99,,0.16,hv,hv73161117,2022-09-30T20:46:09.770Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.26,0.0361187174086023,4,reviewed,hv,hv
@@ -336,16 +341,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-30T10:59:55.590Z,35.8851667,-117.821,8.56,0.94,ml,15,89,0.06414,0.06,ci,ci40353384,2022-09-30T18:33:38.630Z,"10km SE of Little Lake, CA",earthquake,0.14,0.34,0.156,8,reviewed,ci,ci
 2022-09-30T10:58:37.930Z,19.4675,-155.6565,3.22,0.82,md,12,127,,0.11,hv,hv73160647,2022-09-30T11:11:05.400Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.99,0.223784741525344,5,reviewed,hv,hv
 2022-09-30T10:55:18.730Z,17.708,-63.9211666666667,75.65,3.38,md,4,337,,0.13,pr,pr71373903,2022-09-30T12:12:40.360Z,"71 km W of The Bottom, Bonaire, Saint Eustatius and Saba ",earthquake,7.35,8.9,0.0625118586618116,4,reviewed,pr,pr
-2022-09-30T10:49:26.310Z,19.472,-155.6495,4.12,2.38,ml,15,94,,0.14,hv,hv73160627,2022-09-30T11:32:33.630Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.86,0.219384830679615,13,reviewed,hv,hv
-2022-09-30T10:43:43.780Z,44.7793333,-110.8098333,3.14,-0.06,md,7,196,0.03033,0.09,uu,uu60031739,2022-09-30T15:46:10.330Z,"23 km SSW of Mammoth, Wyoming",earthquake,1.19,2.05,0.08,5,reviewed,uu,uu
-2022-09-30T10:43:11.390Z,44.7845,-110.8018333,5.19,0.43,md,9,211,0.03487,0.11,uu,uu60518582,2022-09-30T15:43:33.720Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.88,1.26,0.22,6,reviewed,uu,uu
-2022-09-30T10:42:10.530Z,44.7853333,-110.8101667,6.89,1.47,ml,19,100,0.02888,0.2,uu,uu60518577,2022-09-30T15:50:50.020Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.46,0.93,0.434,2,reviewed,uu,uu
-2022-09-30T10:41:20.310Z,38.8230019,-122.7536697,3.62,0.36,md,8,203,0.01472,0.04,nc,nc73787536,2022-09-30T10:42:55.128Z,"3km W of Cobb, CA",earthquake,0.95,2.08,,1,automatic,nc,nc
-2022-09-30T10:39:31.460Z,38.8226662,-122.7649994,2.37,0.67,md,11,120,0.008687,0.02,nc,nc73787526,2022-09-30T10:41:17.993Z,"4km W of Cobb, CA",earthquake,0.51,0.94,0.14,2,automatic,nc,nc
-2022-09-30T10:39:19.360Z,38.8196678,-122.7661667,2.12,0.86,md,17,109,0.01118,0.03,nc,nc73787521,2022-09-30T10:40:55.462Z,"4km W of Cobb, CA",earthquake,0.3,0.5,0.31,4,automatic,nc,nc
-2022-09-30T10:39:10.260Z,38.8183327,-122.7653351,1.9,0.7,md,11,108,0.01264,0.02,nc,nc73787516,2022-09-30T10:40:45.223Z,"4km W of Cobb, CA",earthquake,0.41,0.85,0.15,2,automatic,nc,nc
-2022-09-30T10:39:08.810Z,19.4748333333333,-155.649166666667,4.2,0.83,md,12,114,,0.11,hv,hv73160612,2022-09-30T10:57:05.270Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.84,0.124310122587754,6,reviewed,hv,hv
-2022-09-30T10:38:41.830Z,38.8176667,-122.7655,1.57,2.17,md,64,45,0.01265,0.07,nc,nc73787531,2022-09-30T18:58:11.287Z,"4km W of Cobb, CA",earthquake,0.13,0.18,0.303,39,reviewed,nc,nc
-2022-09-30T10:36:30.560Z,44.7851667,-110.811,7.62,2,ml,24,99,0.02831,0.19,uu,uu60518572,2022-09-30T16:16:01.200Z,"Wyoming",earthquake,0.44,0.66,0.276,6,reviewed,uu,uu
-2022-09-30T10:35:49.000Z,46.73916666666667,-122.16616666666667,0.56,0.53,ml,7,296,0.1812,0.27,uw,uw61875912,2022-09-30T18:03:31.870Z,"2 km NNE of Mineral, Washington",earthquake,9.8,23.98,0.08838272950810655,6,reviewed,uw,uw
-2022-09-30T10:33:39.780Z,44.7856667,-110.8051667,5.45,0.2,md,7,212,0.03239,0.07,uu,uu60518567,2022-09-30T16:22:13.270Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.94,1.33,0.214,5,reviewed,uu,uu
