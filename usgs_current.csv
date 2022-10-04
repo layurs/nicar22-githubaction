@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-04T11:20:50.760Z,35.3055,-118.6235,3.45,1.4,ml,24,54,0.09148,0.17,ci,ci40355416,2022-10-04T11:24:28.765Z,"22km ENE of Arvin, CA",earthquake,0.25,1.18,0.121,22,automatic,ci,ci
+2022-10-04T11:06:09.410Z,18.0068333333333,-66.77,12.49,2.77,md,16,137,,0.14,pr,pr71374718,2022-10-04T11:20:00.220Z,"Puerto Rico region",earthquake,0.33,0.41,0.22211426525866,15,reviewed,pr,pr
 2022-10-04T10:53:22.043Z,60.1656,-148.1623,6.2,1.8,ml,,,,0.55,ak,ak022cqa4vho,2022-10-04T10:54:58.606Z,"13 km NW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-04T10:52:42.673Z,61.495,-147.9864,17,1,ml,,,,0.7,ak,ak022cqa4pd7,2022-10-04T10:54:42.817Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-04T10:49:45.041Z,35.94896317,-97.88692474,5.104806423,1.52,ml,12,86.16004944,0.08233290166,0.3620479531,ok,ok2022tlch,2022-10-04T10:52:00.113Z,"4 km SSE of Dover, Oklahoma",earthquake,4.061009133,5.748509417,,10,automatic,ok,ok
@@ -181,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T17:52:56.720Z,19.4465,-155.594833333333,-1.45,1.37,md,9,89,,0.08,hv,hv73165802,2022-10-03T21:24:48.340Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.34,0.129596052919155,6,reviewed,hv,hv
 2022-10-03T17:50:23.410Z,40.4263333,-121.272,4.42,1.16,md,11,75,0.1915,0.09,nc,nc73788971,2022-10-03T19:59:12.865Z,"14km NNW of Chester, CA",earthquake,0.5,2.97,0.16,8,reviewed,nc,nc
 2022-10-03T17:45:55.846Z,61.7076,-150.9119,64.2,1.6,ml,,,,0.44,ak,ak022coqpx40,2022-10-03T17:47:45.261Z,"27 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-10-03T17:42:50.560Z,60.4258333333333,-152.767333333333,11.66,-0.3,ml,7,180,,0.11,av,av91073563,2022-10-04T00:15:10.990Z,"73 km NW of Ninilchik, Alaska",earthquake,0.75,0.57,0.236514513816258,7,reviewed,av,av
+2022-10-03T17:42:50.560Z,60.4258333333333,-152.767333333333,11.66,-0.3,ml,7,180,,0.11,av,av91073563,2022-10-04T00:15:10.990Z,"Southern Alaska",earthquake,0.75,0.57,0.236514513816258,7,reviewed,av,av
 2022-10-03T17:32:27.770Z,17.9616666666667,-66.8205,16.53,2.07,md,9,205,,0.09,pr,pr71374523,2022-10-03T17:52:32.860Z,"3 km S of Indios, Puerto Rico",earthquake,0.91,0.72,0.0893897422417618,9,reviewed,pr,pr
 2022-10-03T17:29:48.600Z,19.1621666666667,-155.4785,34.4,1.82,md,34,112,,0.13,hv,hv73165777,2022-10-03T22:05:00.590Z,"4 km S of Pāhala, Hawaii",earthquake,0.57,0.77,0.186449646240372,21,reviewed,hv,hv
 2022-10-03T17:23:41.535Z,61.0669,-148.4714,0,1.6,ml,,,,0.83,ak,ak022coql695,2022-10-03T17:25:57.202Z,"34 km NNE of Whittier, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -269,8 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T11:40:07.190Z,59.3598333333333,-153.428833333333,-0.84,-0.21,ml,5,181,,0.05,av,av91688756,2022-10-03T23:18:25.960Z,"Southern Alaska",earthquake,0.14,0.24,0.239090192058568,5,reviewed,av,av
 2022-10-03T11:32:59.416Z,60.3591,-143.6841,0,2,ml,,,,1.01,ak,ak022con2jgd,2022-10-03T11:35:11.918Z,"116 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-03T11:30:28.610Z,35.6396667,-118.3216667,7.55,1.57,ml,27,51,0.06055,0.14,ci,ci40354992,2022-10-03T12:44:01.920Z,"14km E of Lake Isabella, CA",earthquake,0.26,0.6,0.286,26,reviewed,ci,ci
-2022-10-03T11:25:18.580Z,44.7758333,-111.1226667,4.23,0,md,8,115,0.05806,0.1,uu,uu60519027,2022-10-03T13:48:12.340Z,"5 km E of Hebgen Lake Estates, Montana",earthquake,0.47,1.37,0.213,4,reviewed,uu,uu
-2022-10-03T11:23:07.570Z,36.7435,-121.3811667,10.05,0.63,md,12,120,0.04549,0.05,nc,nc73788851,2022-10-03T19:15:29.093Z,"8km SW of Tres Pinos, CA",earthquake,0.51,0.53,0.545,11,reviewed,nc,nc
-2022-10-03T11:22:35.626Z,60.6717,-150.8677,39,1.8,ml,,,,0.23,ak,ak022con0cga,2022-10-03T11:23:53.953Z,"16 km NNW of Sterling, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-10-03T11:18:55.030Z,32.9606667,-115.8915,7.15,1.58,ml,51,43,0.0568,0.3,ci,ci40354984,2022-10-03T22:21:03.820Z,"27km WSW of Westmorland, CA",earthquake,0.24,0.97,0.195,25,reviewed,ci,ci
-2022-10-03T11:07:25.960Z,38.754,-122.702,0.92,0.3,md,18,66,0.01431,0.08,nc,nc73788846,2022-10-03T15:54:10.776Z,"2km SSW of Anderson Springs, CA",earthquake,0.27,0.37,0.116,6,reviewed,nc,nc
