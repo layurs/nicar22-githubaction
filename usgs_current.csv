@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-08T20:25:55.800Z,34.0983333,-116.8801667,8.74,0.87,ml,19,121,0.04648,0.16,ci,ci40357904,2022-10-08T20:29:27.004Z,"16km S of Big Bear Lake, CA",earthquake,0.36,0.61,0.124,18,automatic,ci,ci
+2022-10-08T20:18:02.700Z,33.8893333,-116.8943333,13.54,0.78,ml,23,46,0.07853,0.22,ci,ci40357896,2022-10-08T20:21:37.335Z,"4km SSW of Banning, CA",earthquake,0.41,1.13,0.126,20,automatic,ci,ci
 2022-10-08T20:00:36.330Z,38.8406677,-122.824501,1.1,0.37,md,8,98,0.008827,0.01,nc,nc73791021,2022-10-08T20:02:13.500Z,"9km WNW of Cobb, CA",earthquake,0.57,0.68,,1,automatic,nc,nc
 2022-10-08T19:46:57.490Z,38.7953339,-122.7941666,1.41,0.84,md,6,154,0.005336,0.01,nc,nc73791011,2022-10-08T19:48:33.500Z,"4km WNW of The Geysers, CA",earthquake,0.97,1.43,,1,automatic,nc,nc
 2022-10-08T19:06:36.130Z,18.0903333333333,-68.2621666666667,78.6,3.34,md,8,209,,0.51,pr,pr71375648,2022-10-08T19:36:28.980Z,"48 km SE of Boca de Yuma, Dominican Republic",earthquake,5.28,2.81,0.189106494193495,3,reviewed,pr,pr
@@ -89,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-08T07:50:29.205Z,44.727,-73.9073,8.923,1.6,ml,10,78,0.494,0.34,us,us6000is23,2022-10-08T09:01:44.040Z,"0 km NE of Lyon Mountain, New York",earthquake,1.72,1.613,0.115,10,reviewed,us,us
 2022-10-08T07:39:52.666Z,38.1447,-117.9122,5.7,0.9,ml,10,122.15,0.038,0.1319,nn,nn00848852,2022-10-08T07:42:59.788Z,"Nevada",earthquake,,0.6,0.23,5,automatic,nn,nn
 2022-10-08T07:39:52.596Z,58.4245,-154.8288,0.8,0.8,ml,,,,0.49,ak,ak022cwuf0zv,2022-10-08T07:42:16.445Z,"97 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-08T07:26:40.920Z,34.0386667,-117.2343333,16.92,2.22,ml,88,24,0.08339,0.19,ci,ci40357704,2022-10-08T07:37:18.640Z,"3km ESE of Loma Linda, CA",earthquake,0.19,0.45,0.217,25,automatic,ci,ci
+2022-10-08T07:26:40.920Z,34.0386667,-117.2343333,16.92,2.22,ml,88,24,0.08339,0.19,ci,ci40357704,2022-10-08T20:21:36.192Z,"3km ESE of Loma Linda, CA",earthquake,0.19,0.45,0.217,25,automatic,ci,ci
 2022-10-08T07:25:17.524Z,38.1403,-117.9826,9.5,1.5,ml,12,121.77,0.018,0.1724,nn,nn00848849,2022-10-08T07:28:20.682Z,"Nevada",earthquake,,0.3,0.3,8,automatic,nn,nn
 2022-10-08T07:20:44.664Z,35.94153595,-97.89342499,5.698108673,2.03,ml,37,57.56932068,0.07794113457,0.3497316627,ok,ok2022tsdk,2022-10-08T07:24:55.328Z,"4 km SSE of Dover, Oklahoma",earthquake,2.029327736,2.98988992,,29,automatic,ok,ok
 2022-10-08T07:20:36.990Z,33.1526667,-115.9801667,7.05,1.47,ml,45,47,0.02087,0.22,ci,ci40357696,2022-10-08T07:31:13.540Z,"14km E of Ocotillo Wells, CA",earthquake,0.27,0.61,0.168,26,automatic,ci,ci
@@ -223,9 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-07T21:00:34.030Z,44.7971667,-110.8021667,4.9,0.08,md,4,236,0.03553,0.05,uu,uu60519702,2022-10-07T21:41:22.920Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.7,0.41,0.261,4,reviewed,uu,uu
 2022-10-07T20:55:44.130Z,35.7555,-118.4155,8.16,0.92,ml,18,79,0.0245,0.13,ci,ci40357344,2022-10-07T21:52:46.653Z,"1km E of Kernville, CA",earthquake,0.24,0.5,0.083,7,reviewed,ci,ci
 2022-10-07T20:46:52.156Z,58.7231,-136.7176,4.6,2.7,ml,,,,0.44,ak,ak022cventbm,2022-10-08T16:44:01.040Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-10-07T20:40:31.299Z,44.2679,-115.1483,16.506,2.3,ml,18,55,0.883,0.67,us,us6000irya,2022-10-08T16:23:08.040Z,"17 km WNW of Stanley, Idaho",earthquake,2.2,7.611,0.043,70,reviewed,us,us
-2022-10-07T20:39:40.170Z,18.0395,-66.8926666666667,17.35,2.1,md,6,140,,0.07,pr,pr71375428,2022-10-07T20:49:06.550Z,"1 km E of Lluveras, Puerto Rico",earthquake,0.75,0.56,0.0474404905240933,6,reviewed,pr,pr
-2022-10-07T20:38:12.640Z,39.4171677,-123.4134979,5.46,1.47,md,8,74,0.07836,0.06,nc,nc73790591,2022-10-07T21:12:10.573Z,"4km SW of Brooktrails, CA",earthquake,0.37,1.38,0.08,5,automatic,nc,nc
-2022-10-07T20:32:29.967Z,35.93608475,-97.87623596,2.099454165,1.75,ml,11,84.03662395,0.092645742,0.6778284654,ok,ok2022tria,2022-10-07T20:34:49.722Z,"5 km SSE of Dover, Oklahoma",earthquake,3.800021275,3.326118308,,9,automatic,ok,ok
-2022-10-07T20:29:14.620Z,45.50716666666667,-121.556,8.05,1.58,ml,12,157,0.04687,0.13,uw,uw61877682,2022-10-07T21:54:06.780Z,"3 km ESE of Parkdale, Oregon",earthquake,0.72,0.72,0.10345935619098423,11,reviewed,uw,uw
-2022-10-07T20:24:48.322Z,61.8639,-147.5908,36,1.5,ml,,,,0.86,ak,ak022cvej3a8,2022-10-07T20:39:19.666Z,"7 km NNE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
