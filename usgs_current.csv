@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-17T19:47:15.472Z,36.0829,-115.0793,8,1.7,ml,10,274.26,0.426,0.2615,nn,nn00849471,2022-10-17T19:50:32.040Z,"4 km WSW of Whitney, Nevada",earthquake,,0.7,0.99,9,automatic,nn,nn
 2022-10-17T19:45:01.718Z,58.6267,-154.9285,121.4,1.1,ml,,,,0.56,ak,ak022dbxfj23,2022-10-17T19:47:54.611Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2022-10-17T19:37:10.320Z,38.9498333,-123.2073333,6.12,1.12,md,7,176,0.01495,0.13,nc,nc73794991,2022-10-17T20:01:08.178Z,"15km ESE of Boonville, CA",earthquake,1,0.78,0.155,8,reviewed,nc,nc
 2022-10-17T19:25:43.570Z,35.0551667,-118.3466667,0.33,1.45,ml,24,55,0.06455,0.26,ci,ci40362632,2022-10-17T19:29:23.505Z,"13km SE of Tehachapi, CA",earthquake,0.46,31.61,0.157,30,automatic,ci,ci
+2022-10-17T19:25:42.030Z,38.945,-123.2125,4.59,1.04,md,7,120,0.0163,0.03,nc,nc73794986,2022-10-17T19:52:07.429Z,"15km ESE of Boonville, CA",earthquake,0.62,0.47,0.089,7,reviewed,nc,nc
 2022-10-17T19:21:44.008Z,58.1825,-155.3421,2.3,1,ml,,,,0.35,ak,ak022dbxah57,2022-10-17T19:23:48.005Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-17T19:20:21.536Z,62.037,-149.1915,34.3,1.9,ml,,,,0.52,ak,ak022dbxa7op,2022-10-17T19:22:02.990Z,"32 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-17T19:13:44.135Z,60.8546,-148.2332,0,1.1,ml,,,,0.91,ak,ak022dbx8rsp,2022-10-17T19:15:56.704Z,"26 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-17T19:02:33.900Z,39.2548333,-123.1338333,11.83,1.26,md,6,286,0.1389,0.04,nc,nc73794971,2022-10-17T19:49:14.398Z,"6km E of Redwood Valley, CA",earthquake,2.49,1.65,0.04,5,reviewed,nc,nc
 2022-10-17T18:51:40.318Z,59.4205,-153.1253,87.7,1.5,ml,,,,0.21,ak,ak022dbwvgi0,2022-10-17T19:39:58.445Z,"68 km W of Nanwalek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-10-17T18:49:30.055Z,61.6557,-149.6585,32,1.3,ml,,,,0.54,ak,ak022dbwv0i5,2022-10-17T18:51:40.378Z,"4 km NW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-10-17T18:47:42.270Z,61.4408,-150.2547,32.7,1.9,ml,,,,0.37,ak,ak022dbwum0j,2022-10-17T18:49:16.184Z,"17 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-10-17T18:47:42.270Z,61.4408,-150.2547,32.7,1.9,ml,,,,0.37,ak,ak022dbwum0j,2022-10-17T19:52:08.768Z,"17 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-17T18:41:46.080Z,38.8400002,-122.8799973,2.36,0.66,md,10,113,0.00323,0.01,nc,nc73794966,2022-10-17T19:09:14.135Z,"12km ENE of Cloverdale, CA",earthquake,0.44,0.51,0.26,2,automatic,nc,nc
 2022-10-17T18:34:56.893Z,62.6832,-153.272,0,2.2,ml,,,,0.97,ak,ak022dbwruu1,2022-10-17T18:42:23.287Z,"67 km ESE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-17T18:19:11.400Z,35.0488333,-118.9955,9.94,1.48,ml,16,111,0.1346,0.21,ci,ci40362584,2022-10-17T18:22:40.632Z,"13km NNW of Grapevine, CA",earthquake,0.56,1.06,0.144,27,automatic,ci,ci
@@ -240,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-16T20:11:15.550Z,17.9706666666667,-66.7906666666667,14.06,2.32,md,14,180,0.04627,0.13,pr,pr71377453,2022-10-17T00:50:51.630Z,"3 km SE of Indios, Puerto Rico",earthquake,0.49,0.4,0.173128999466317,9,reviewed,pr,pr
 2022-10-16T20:10:26.310Z,37.5195,-118.8795,5.76,2.83,md,34,57,0.081,0.05,nc,nc73794591,2022-10-17T09:15:47.719Z,"16km SE of Mammoth Lakes, CA",earthquake,0.23,0.76,0.148,42,reviewed,nc,nc
 2022-10-16T20:09:09.610Z,37.5275,-118.8803333,6.43,0.47,md,14,271,0.07452,0.03,nc,nc73794616,2022-10-16T23:13:16.101Z,"15km SE of Mammoth Lakes, CA",earthquake,1.29,31.61,0.224,13,reviewed,nc,nc
-2022-10-16T19:53:16.990Z,17.9956666666667,-66.6925,10.16,2,md,10,140,0.06711,0.17,pr,pr71377438,2022-10-16T20:58:46.630Z,"2 km E of Tallaboa, Puerto Rico",earthquake,0.46,0.86,0.0640094832498855,4,reviewed,pr,pr
-2022-10-16T19:52:22.760Z,18.017,-66.8353333333333,15.58,,,7,150,0.05906,0.11,pr,pr71377473,2022-10-16T21:19:23.560Z,"2 km SE of Yauco, Puerto Rico",earthquake,0.58,1.05,,,reviewed,pr,pr
