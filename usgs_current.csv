@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-22T07:31:32.230Z,40.5968323,-124.2851639,21.66,2.16,md,13,190,0.2189,0.09,nc,nc73797821,2022-10-22T07:33:10.434Z,"3km NW of Ferndale, CA",earthquake,0.71,0.76,0.18,8,automatic,nc,nc
+2022-10-22T07:31:32.230Z,40.5968323,-124.2851639,21.66,2.16,md,13,190,0.2189,0.09,nc,nc73797821,2022-10-22T07:44:13.317Z,"3km NW of Ferndale, CA",earthquake,0.71,0.76,0.18,8,automatic,nc,nc
 2022-10-22T07:28:19.430Z,33.986,-116.3715,8.74,0.73,ml,14,111,0.05479,0.17,ci,ci40364488,2022-10-22T07:31:55.952Z,"12km ENE of Desert Hot Springs, CA",earthquake,0.42,0.68,0.09,11,automatic,ci,ci
 2022-10-22T07:22:51.366Z,39.3842,-117.0576,8.3,2.6,ml,10,246.69,0.876,0.3016,nn,nn00849776,2022-10-22T07:26:41.560Z,"Nevada",earthquake,,1.7,0.13,7,automatic,nn,nn
-2022-10-22T07:21:26.030Z,38.8351669,-122.7996674,2.07,1.17,md,11,71,0.007969,0.01,nc,nc73797811,2022-10-22T07:31:10.240Z,"7km WNW of Cobb, CA",earthquake,0.35,0.89,,1,automatic,nc,nc
+2022-10-22T07:21:26.030Z,38.8351669,-122.7996674,2.07,1.17,md,11,71,0.007969,0.01,nc,nc73797811,2022-10-22T07:44:12.317Z,"7km WNW of Cobb, CA",earthquake,0.35,0.89,,1,automatic,nc,nc
 2022-10-22T07:19:27.991Z,61.1713,-147.8686,6.6,0.8,ml,,,,0.51,ak,ak022djztjof,2022-10-22T07:21:31.319Z,"62 km NE of Whittier, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2022-10-22T07:09:01.915Z,62.0218,-152.0297,104.4,1.7,ml,,,,0.41,ak,ak022djzrci7,2022-10-22T07:11:33.428Z,"33 km W of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-22T06:50:34.127Z,59.6058,-152.5821,179.8,1.4,ml,,,,1.22,ak,ak022djzerqs,2022-10-22T06:52:54.952Z,"46 km WSW of Anchor Point, Alaska",earthquake,,2.9,,,automatic,ak,ak
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-22T05:25:11.750Z,33.2165,-116.7395,11.38,1.19,ml,39,36,0.02526,0.17,ci,ci40364440,2022-10-22T05:28:45.116Z,"4km SE of Lake Henshaw, CA",earthquake,0.22,0.7,0.134,26,automatic,ci,ci
 2022-10-22T05:17:06.726Z,29.6307,102.0769,38.954,5.3,mww,146,16,8.434,0.78,us,us6000ivq1,2022-10-22T05:35:40.040Z,"western Sichuan, China",earthquake,8.79,5.814,0.071,19,reviewed,us,us
 2022-10-22T05:12:30.190Z,18.8026,-64.5278,4,3.98,md,25,290,0.6217,0.4,pr,pr2022295000,2022-10-22T05:45:00.868Z,"59 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.89,2.78,0.08,17,reviewed,pr,pr
-2022-10-22T05:02:35.218Z,61.8166,-151.082,63.3,4.4,ml,,,,0.61,ak,ak022djyj1sr,2022-10-22T07:17:07.854Z,"25 km SE of Skwentna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-10-22T05:02:35.218Z,61.8166,-151.082,63.3,4.4,ml,,,,0.61,ak,ak022djyj1sr,2022-10-22T07:41:57.970Z,"25 km SE of Skwentna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-10-22T05:01:30.680Z,34.9338333,-119.492,12.43,1.12,ml,9,139,0.0651,0.21,ci,ci40364432,2022-10-22T05:08:23.354Z,"16km SSW of Maricopa, CA",earthquake,0.66,1.12,0.208,8,automatic,ci,ci
 2022-10-22T04:37:58.560Z,59.7054,-152.6201,93.8,1.5,ml,,,,0.24,ak,ak022djy5640,2022-10-22T05:14:19.254Z,"45 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-22T04:30:41.210Z,18.8116666666667,-64.4335,5.34,3.35,md,8,301,0.5754,0.17,pr,pr71378938,2022-10-22T05:49:17.010Z,"65 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.45,1.49,0.125238647858074,9,reviewed,pr,pr
@@ -255,6 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-21T08:28:01.950Z,35.8181667,-121.4676667,2.1,2.34,md,67,195,0.1292,0.09,nc,nc73797231,2022-10-22T06:39:14.894Z,"24km SSE of Lopez Point, CA",earthquake,0.2,0.4,0.152,55,reviewed,nc,nc
 2022-10-21T08:26:31.420Z,38.822834,-122.8089981,1.29,0.84,md,11,91,0.00101,0.01,nc,nc73797226,2022-10-21T10:19:16.417Z,"7km NW of The Geysers, CA",earthquake,0.31,0.65,,1,automatic,nc,nc
 2022-10-21T08:19:24.571Z,7.6926,-82.3682,10,4.6,mb,28,152,1.139,0.73,us,us6000ivgg,2022-10-21T17:43:43.150Z,"60 km SSW of Boca Chica, Panama",earthquake,7.2,1.944,0.207,7,reviewed,us,us
-2022-10-21T07:39:54.029Z,-21.5495,-176.0501,207.251,4.6,mb,20,137,0.875,0.46,us,us6000ivgd,2022-10-21T08:00:40.040Z,"97 km WSW of Haveluloto, Tonga",earthquake,14.17,8.985,0.151,13,reviewed,us,us
-2022-10-21T07:37:54.670Z,35.5648346,-120.7976685,6.13,1.83,md,26,63,0.09218,0.08,nc,nc73797221,2022-10-21T09:52:15.221Z,"8km WNW of Templeton, CA",earthquake,0.23,0.99,0.13,17,automatic,nc,nc
-2022-10-21T07:33:34.820Z,36.13766667,-97.54683333,6.24,1.14,ml,85,36,0.1007802235,0.24,ok,ok2022upxj,2022-10-21T12:25:54.990Z,"7 km ESE of Marshall, Oklahoma",earthquake,,0.5,0.24,36,reviewed,ok,ok
