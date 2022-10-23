@@ -1,8 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-23T09:02:46.430Z,35.8639984,-120.395668,5.33,1.37,md,20,136,0.01824,0.03,nc,nc73798196,2022-10-23T09:04:23.012Z,"5km SE of Parkfield, CA",earthquake,0.39,0.51,0.09,9,automatic,nc,nc
+2022-10-23T09:35:29.010Z,19.1626663208008,-155.494659423828,36.6100006103516,2.8900001,md,47,119,,0.119999997,hv,hv73191512,2022-10-23T09:39:02.530Z,"Hawaii region, Hawaii",earthquake,0.56,0.730000019,1.52999997,31,automatic,hv,hv
+2022-10-23T09:28:31.900Z,38.8328323,-122.7968369,1.91,0.85,md,9,81,0.007532,0.01,nc,nc73798211,2022-10-23T09:30:08.242Z,"6km W of Cobb, CA",earthquake,0.38,1.33,,1,automatic,nc,nc
+2022-10-23T09:24:58.150Z,33.4816666,-116.4280014,4.68,3.4,ml,113,26,0.04167,0.2,ci,ci40364760,2022-10-23T09:36:49.012Z,"23km SSW of La Quinta, CA",earthquake,0.19,1.04,0.198,16,automatic,ci,ci
+2022-10-23T09:19:32.020Z,38.8040009,-122.7639999,1.12,0.85,md,7,143,0.004753,0.13,nc,nc73798201,2022-10-23T09:37:15.853Z,"3km NNW of The Geysers, CA",earthquake,0.69,1.58,,1,automatic,nc,nc
+2022-10-23T09:11:25.440Z,19.4908332824707,-155.65950012207,-0.579999983310699,1.74000001,md,21,67,,0.189999998,hv,hv73191492,2022-10-23T09:16:56.070Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.819999993,0.850000024,12,automatic,hv,hv
+2022-10-23T09:02:46.430Z,35.8639984,-120.395668,5.33,1.37,md,20,136,0.01824,0.03,nc,nc73798196,2022-10-23T09:37:16.732Z,"5km SE of Parkfield, CA",earthquake,0.39,0.51,0.09,9,automatic,nc,nc
 2022-10-23T08:41:13.605Z,62.0497,-151.8415,88.5,2.3,ml,,,,0.72,ak,ak022dlo30f4,2022-10-23T09:05:08.040Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-10-23T08:38:29.598Z,62.349,-149.1267,0,1.5,ml,,,,0.45,ak,ak022dlo2ei7,2022-10-23T08:40:17.970Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-23T08:04:25.760Z,38.7688332,-122.7314987,1.83,0.52,md,9,159,0.008899,0.02,nc,nc73798191,2022-10-23T09:13:12.581Z,"2km ESE of The Geysers, CA",earthquake,0.72,0.91,0.35,2,automatic,nc,nc
+2022-10-23T08:04:25.760Z,38.7688332,-122.7314987,1.83,0.52,md,9,159,0.008899,0.02,nc,nc73798191,2022-10-23T09:15:10.591Z,"2km ESE of The Geysers, CA",earthquake,0.72,0.91,0.35,2,automatic,nc,nc
 2022-10-23T08:00:03.430Z,38.8426666,-122.7828369,0.77,0.86,md,8,132,0.005029,0.02,nc,nc73798186,2022-10-23T08:50:11.262Z,"6km WNW of Cobb, CA",earthquake,0.44,0.92,,1,automatic,nc,nc
 2022-10-23T07:49:48.850Z,36.5373344,-121.079834,8.17,1.88,md,13,78,0.05232,0.3,nc,nc73798181,2022-10-23T08:24:10.106Z,"6km E of Pinnacles, CA",earthquake,0.87,1.85,0.19,10,automatic,nc,nc
 2022-10-23T07:49:36.010Z,33.974,-117.16,20.03,1.06,ml,20,79,0.1581,0.32,ci,ci40364752,2022-10-23T07:53:17.733Z,"8km NE of Moreno Valley, CA",earthquake,0.82,2.1,0.182,25,automatic,ci,ci
@@ -154,8 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-22T10:13:13.113Z,61.0434,-150.3394,47.1,2.2,ml,,,,0.31,ak,ak022dk1kj1r,2022-10-22T11:03:38.943Z,"23 km NE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-22T09:45:41.274Z,58.2036,-156.5504,64.9,1.3,ml,,,,0.79,ak,ak022dk160j3,2022-10-22T09:47:01.946Z,"48 km E of Egegik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-10-22T09:44:40.120Z,17.992,-67.0033333333333,10.03,1.36,md,4,201,0.04493,0.05,pr,pr71379028,2022-10-22T09:56:59.060Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.62,0.82,0.0628338179945666,4,reviewed,pr,pr
-2022-10-22T09:40:37.892Z,53.427,161.6761,10,4.9,mb,90,105,1.864,0.61,us,us6000ivqu,2022-10-22T10:09:48.040Z,"207 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.99,1.861,0.038,213,reviewed,us,us
-2022-10-22T09:39:34.650Z,38.7859993,-122.7803345,2.46,0.26,md,10,109,0.009302,0.02,nc,nc73797861,2022-10-22T11:44:11.777Z,"2km WNW of The Geysers, CA",earthquake,0.59,0.92,0.11,2,automatic,nc,nc
-2022-10-22T09:30:14.356Z,39.6096,-116.9273,12.8,3.4,ml,15,93.62,0.8,0.1924,nn,nn00849777,2022-10-23T03:02:35.633Z,"17 km NE of Austin, Nevada",earthquake,,2.4,0.26,7,reviewed,nn,nn
-2022-10-22T09:23:52.820Z,17.9581666666667,-66.8656666666667,11.08,2.23,md,5,306,0.0212,0.07,pr,pr71379023,2022-10-22T09:43:27.390Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,0.7,0.66,0.050461366612877,4,reviewed,pr,pr
-2022-10-22T09:21:59.660Z,19.133,-66.4423333333333,21.7,3.17,md,25,243,0.6576,0.29,pr,pr71379008,2022-10-22T09:51:44.320Z,"74 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.91,21.17,0.0639051836894695,16,reviewed,pr,pr
