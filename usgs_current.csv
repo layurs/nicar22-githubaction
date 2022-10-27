@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-27T06:15:33.450Z,38.8195,-122.8048325,2.55,0.83,md,22,64,0.005647,0.03,nc,nc73799686,2022-10-27T06:17:08.997Z,"6km NW of The Geysers, CA",earthquake,0.23,0.56,0.45,2,automatic,nc,nc
+2022-10-27T06:15:33.450Z,38.8195,-122.8048325,2.55,0.83,md,22,64,0.005647,0.03,nc,nc73799686,2022-10-27T06:34:12.760Z,"6km NW of The Geysers, CA",earthquake,0.23,0.56,0.45,2,automatic,nc,nc
 2022-10-27T06:04:51.751Z,61.2711,-150.629,60.2,1.6,ml,,,,0.47,ak,ak022ds8ton4,2022-10-27T06:08:59.952Z,"Southern Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-10-27T05:59:55.270Z,62.7447,-150.668,85.1,2.2,ml,,,,0.47,ak,ak022ds8k1on,2022-10-27T06:02:00.892Z,"28 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-27T05:57:40.790Z,19.2493324279785,-155.390838623047,29.9799995422363,2.05,ml,12,207,,0.0799999982,hv,hv73196977,2022-10-27T06:03:10.680Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.78,1.13999999,0.22,4,automatic,hv,hv
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T16:25:29.629Z,56.6747,-169.0578,11.863,4.7,mb,112,37,0.281,0.63,us,us7000ikhs,2022-10-27T03:22:25.159Z,"31 km ENE of Saint George, Alaska",earthquake,5.05,4.031,0.052,114,reviewed,us,us
 2022-10-26T16:07:24.750Z,35.5115,-118.3983333,5.69,1.35,ml,25,40,0.1631,0.13,ci,ci40366312,2022-10-26T19:32:42.532Z,"12km SE of Bodfish, CA",earthquake,0.2,1.07,0.2,18,reviewed,ci,ci
 2022-10-26T16:06:05.930Z,41.0328333,-122.0268333,8.7,1.77,md,27,51,0.09205,0.11,nc,nc73799476,2022-10-26T19:14:10.305Z,"10km W of Big Bend, CA",earthquake,0.28,1.22,0.148,24,reviewed,nc,nc
-2022-10-26T16:02:22.590Z,37.2786667,-121.6433333,8.55,1.29,md,37,42,0.06286,0.09,nc,nc73799471,2022-10-27T04:54:13.102Z,"16km N of Morgan Hill, CA",earthquake,0.18,0.41,0.264,30,reviewed,nc,nc
+2022-10-26T16:02:22.590Z,37.2786667,-121.6433333,8.55,1.29,md,37,42,0.06286,0.09,nc,nc73799471,2022-10-27T06:41:10.804Z,"16km N of Morgan Hill, CA",earthquake,0.18,0.41,0.264,30,reviewed,nc,nc
 2022-10-26T15:54:58.390Z,58.2234,-154.0583,66.1,2.3,ml,,,,0.25,ak,ak022dqqxywf,2022-10-26T15:57:48.695Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2022-10-26T15:50:20.620Z,33.5865,-116.8101667,8.67,1.48,ml,52,25,0.03912,0.17,ci,ci40366296,2022-10-26T19:29:38.630Z,"13km WNW of Anza, CA",earthquake,0.15,0.39,0.171,26,reviewed,ci,ci
 2022-10-26T15:47:06.350Z,33.6498333,-116.6616667,14.27,0.77,ml,26,118,0.02154,0.11,ci,ci40366280,2022-10-26T19:22:14.924Z,"11km N of Anza, CA",earthquake,0.2,0.3,0.184,21,reviewed,ci,ci
@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T07:04:57.420Z,37.9553333,-118.6161667,9.99,2.34,md,38,71,0.2356,0.05,nc,nc73799346,2022-10-26T16:51:21.962Z,"40km SSW of Qualeys Camp, NV",earthquake,0.19,1.43,0.141,41,reviewed,nc,nc
 2022-10-26T06:58:53.602Z,37.3647,-117.1234,0,0.1,ml,6,210.9,0.127,0.0867,nn,nn00850116,2022-10-27T02:43:41.652Z,"39 km SSE of Goldfield, Nevada",earthquake,,0,1.07,3,reviewed,nn,nn
 2022-10-26T06:58:47.814Z,37.1245,-115.7586,0,0.1,ml,5,328.87,0.155,0.1033,nn,nn00850117,2022-10-27T02:43:50.681Z,"57 km S of Rachel, Nevada",earthquake,,0,0.2,4,reviewed,nn,nn
-2022-10-26T06:46:00.330Z,38.8353348,-122.8168335,1.53,0.85,md,11,62,0.01304,0.01,nc,nc73799341,2022-10-26T07:03:12.056Z,"8km W of Cobb, CA",earthquake,0.36,0.77,,1,automatic,nc,nc
-2022-10-26T06:40:37.545Z,37.3532,-117.1322,6.3,0.4,ml,5,202.16,0.115,0.1136,nn,nn00850115,2022-10-27T02:43:37.635Z,"40 km SSE of Goldfield, Nevada",earthquake,,5.2,0.25,3,reviewed,nn,nn
-2022-10-26T06:28:29.390Z,-19.3888,-175.5083,235.932,4.8,mb,32,64,1.175,1.12,us,us7000ikff,2022-10-26T06:51:15.040Z,"129 km WNW of Pangai, Tonga",earthquake,8.07,7.902,0.095,34,reviewed,us,us
