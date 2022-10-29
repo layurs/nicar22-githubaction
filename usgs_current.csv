@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-29T10:58:09.710Z,33.0509987,-116.0220032,10.61,1.26,ml,19,196,0.1696,0.18,ci,ci40126791,2022-10-29T11:00:28.392Z,"14km SE of Ocotillo Wells, CA",earthquake,0.59,1.44,0.437,13,automatic,ci,ci
+2022-10-29T10:58:09.610Z,33.056,-116.0038333,11.58,0.88,ml,12,102,0.1192,0.2,ci,ci40126791,2022-10-29T11:01:54.280Z,"15km SE of Ocotillo Wells, CA",earthquake,0.45,1.5,0.205,8,automatic,ci,ci
 2022-10-29T10:29:42.170Z,33.7646667,-116.8025,14.14,0.62,ml,25,74,0.06888,0.13,ci,ci40126783,2022-10-29T10:33:11.038Z,"8km WNW of Idyllwild, CA",earthquake,0.23,0.39,0.178,18,automatic,ci,ci
 2022-10-29T10:24:50.520Z,33.5991667,-116.6481667,14.09,0.69,ml,25,68,0.03559,0.15,ci,ci40126767,2022-10-29T10:28:17.482Z,"5km NNE of Anza, CA",earthquake,0.27,0.42,0.203,19,automatic,ci,ci
-2022-10-29T10:15:26.765Z,62.7791,-152.2756,12.4,2.8,ml,,,,1.03,ak,ak022dvmcezo,2022-10-29T10:31:37.040Z,"83 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-10-29T10:15:26.765Z,62.7791,-152.2756,12.4,2.8,ml,,,,1.03,ak,ak022dvmcezo,2022-10-29T11:02:32.924Z,"83 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-10-29T10:09:12.675Z,63.3007,-150.6285,30.4,2.2,ml,,,,0.73,ak,ak022dvmb3lv,2022-10-29T10:12:12.206Z,"Central Alaska",earthquake,,3.1,,,automatic,ak,ak
 2022-10-29T10:09:01.420Z,33.9603333,-116.9476667,14.64,0.74,ml,20,74,0.04751,0.19,ci,ci40126759,2022-10-29T10:12:35.222Z,"4km NE of Beaumont, CA",earthquake,0.41,0.71,0.218,24,automatic,ci,ci
 2022-10-29T10:08:02.510Z,19.1744995117188,-155.511840820312,37.5299987792969,1.89999998,md,39,150,,0.170000002,hv,hv73199627,2022-10-29T10:11:13.660Z,"4 km SW of Pāhala, Hawaii",earthquake,0.73,1.17999995,1.39999998,8,automatic,hv,hv
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T00:13:37.904Z,-14.451,-76.4369,10,4.9,mb,37,159,2.48,1.39,us,us7000il39,2022-10-29T00:44:35.040Z,"67 km SSW of Paracas, Peru",earthquake,10.37,1.936,0.112,25,reviewed,us,us
 2022-10-29T00:09:46.992Z,-14.5344,-76.1944,7.689,5.8,mww,98,131,2.609,0.84,us,us7000il35,2022-10-29T03:45:47.879Z,"64 km SW of Santiago, Peru",earthquake,9.84,4.343,0.047,44,reviewed,us,us
 2022-10-29T00:09:27.521Z,-14.6945,-76.4688,10,4.4,mb,31,171,2.715,1.3,us,us7000il34,2022-10-29T00:33:53.040Z,"near the coast of central Peru",earthquake,5.56,1.968,0.17,10,reviewed,us,us
-2022-10-29T00:06:33.710Z,19.0604991912842,-155.458160400391,30.5400009155273,2.06999993,md,24,194,,0.219999999,hv,hv73198957,2022-10-29T00:10:00.600Z,"Island of Hawaii, Hawaii",earthquake,0.86,1.46000004,1.11000001,7,automatic,hv,hv
+2022-10-29T00:06:33.710Z,19.0604991912842,-155.458160400391,30.5400009155273,2.06999993,md,24,194,,0.219999999,hv,hv73198957,2022-10-29T00:10:00.600Z,"12 km E of Naalehu, Hawaii",earthquake,0.86,1.46000004,1.11000001,7,automatic,hv,hv
 2022-10-28T23:53:10.340Z,60.4245,-152.776,11.63,0.61,ml,9,137,,0.12,av,av91705006,2022-10-29T06:13:18.210Z,"74 km WNW of Ninilchik, Alaska",earthquake,0.72,0.49,0.269729207326442,9,reviewed,av,av
 2022-10-28T23:39:34.820Z,36.1616667,-118.059,4.14,1.14,ml,17,76,0.171,0.11,ci,ci40126559,2022-10-29T00:07:21.618Z,"14km SSW of Olancha, CA",earthquake,0.21,1.64,0.182,10,reviewed,ci,ci
 2022-10-28T23:36:17.320Z,33.6445,-116.6921667,15.06,0.56,ml,21,61,0.02876,0.09,ci,ci40126551,2022-10-28T23:58:11.146Z,"10km N of Anza, CA",earthquake,0.24,0.31,0.096,11,reviewed,ci,ci
@@ -152,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T16:35:19.388Z,38.1601,-117.9427,10.6,1.3,ml,10,157.87,0.025,0.1436,nn,nn00850206,2022-10-28T16:38:41.738Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0.11,7,automatic,nn,nn
 2022-10-28T16:26:01.070Z,54.1238333333333,-165.979833333333,4.67,0.3,ml,7,102,,0.21,av,av91075918,2022-10-29T01:03:24.040Z,"13 km W of Akutan, Alaska",earthquake,0.44,0.81,0.282823962722205,7,reviewed,av,av
 2022-10-28T16:14:28.640Z,58.2555,-155.029166666667,2.24,-0.06,ml,4,161,,0.02,av,av91075923,2022-10-29T01:06:11.170Z,"83 km NNW of Karluk, Alaska",earthquake,1.25,1.29,0.18752711199186,4,reviewed,av,av
-2022-10-28T16:12:07.872Z,64.9526,-149.209,15.8,1.3,ml,,,,0.7,ak,ak022du2czir,2022-10-28T16:14:56.754Z,"23 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-10-28T16:12:07.872Z,64.9526,-149.209,15.8,1.3,ml,,,,0.7,ak,ak022du2czir,2022-10-28T16:14:56.754Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-28T16:04:27.899Z,36.22233333,-95.862,0,1.66,ml,35,117,0.3167378452,0.44,ok,ok2022vdit,2022-10-28T16:23:52.969Z,"5 km S of Owasso, Oklahoma",quarry blast,,0.4,0.24,4,reviewed,ok,ok
 2022-10-28T15:59:38.438Z,63.3497,-150.2147,29.1,1.9,ml,,,,0.64,ak,ak022du21oxf,2022-10-28T16:02:02.734Z,"63 km W of Cantwell, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-10-28T15:57:51.220Z,19.1989994049072,-155.380996704102,31.9599990844727,2.06999993,md,40,171,,0.119999997,hv,hv73198487,2022-10-28T16:00:59.540Z,"10 km E of Pāhala, Hawaii",earthquake,0.65,0.800000012,0.460000008,11,automatic,hv,hv
@@ -217,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T11:33:12.330Z,36.9481659,-121.3223343,8.03,1.11,md,9,98,0.06609,0.06,nc,nc73800256,2022-10-28T13:24:13.172Z,"13km NNE of Hollister, CA",earthquake,0.51,1.4,0.11,6,automatic,nc,nc
 2022-10-28T11:27:45.170Z,34.0606667,-117.2753333,15.86,1.24,ml,58,60,0.04505,0.15,ci,ci40126095,2022-10-28T18:53:54.560Z,"2km NW of Loma Linda, CA",earthquake,0.16,0.34,0.11,37,reviewed,ci,ci
 2022-10-28T11:26:42.228Z,55.5005,158.3825,322.293,4.3,mb,55,71,2.487,0.4,us,us7000ikwt,2022-10-28T11:46:40.040Z,"51 km SSW of Esso, Russia",earthquake,11.02,9.457,0.047,127,reviewed,us,us
-2022-10-28T11:15:14.515Z,64.886,-148.7059,1.1,1.7,ml,,,,0.73,ak,ak022dtzeh5n,2022-10-28T11:17:53.891Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-28T11:13:31.150Z,36.9376678,-121.3399963,1.11,1.44,md,15,84,0.08203,0.07,nc,nc73800251,2022-10-28T12:59:14.044Z,"11km NNE of Hollister, CA",earthquake,0.23,3.02,0.2,9,automatic,nc,nc
