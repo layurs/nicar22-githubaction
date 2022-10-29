@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-28T23:39:34.830Z,36.1656667,-118.0593333,4.25,1.13,ml,12,77,0.1723,0.14,ci,ci40126559,2022-10-28T23:43:13.715Z,"14km SSW of Olancha, CA",earthquake,0.33,2.95,0.247,12,automatic,ci,ci
-2022-10-28T23:36:17.330Z,33.6393333,-116.6926667,15.25,0.6,ml,17,98,0.07386,0.14,ci,ci40126551,2022-10-28T23:39:52.607Z,"10km N of Anza, CA",earthquake,0.46,0.52,0.082,11,automatic,ci,ci
-2022-10-28T23:29:44.230Z,37.2970009,-121.668663,6.16,1.17,md,10,65,0.03811,0.02,nc,nc73800486,2022-10-28T23:41:11.245Z,"15km E of Seven Trees, CA",earthquake,0.3,0.93,0.15,9,automatic,nc,nc
+2022-10-28T23:36:17.320Z,33.6445,-116.6921667,15.06,0.56,ml,21,61,0.02876,0.09,ci,ci40126551,2022-10-28T23:58:11.146Z,"10km N of Anza, CA",earthquake,0.24,0.31,0.096,11,reviewed,ci,ci
+2022-10-28T23:35:13.310Z,-14.5323,-76.2307,4.184,5.2,mww,67,152,2.599,0.9,us,us7000il2t,2022-10-28T23:51:26.040Z,"67 km SW of Santiago, Peru",earthquake,9.17,1.652,0.071,19,reviewed,us,us
+2022-10-28T23:29:44.230Z,37.2970009,-121.668663,6.16,1.17,md,10,65,0.03811,0.02,nc,nc73800486,2022-10-28T23:57:14.357Z,"15km E of Seven Trees, CA",earthquake,0.3,0.93,0.15,9,automatic,nc,nc
 2022-10-28T22:52:17.448Z,-14.516,-76.14,15.11,5.3,mww,90,144,2.605,0.74,us,us7000il2e,2022-10-28T23:31:50.040Z,"59 km SW of Santiago, Peru",earthquake,9.55,4.969,0.071,19,reviewed,us,us
 2022-10-28T22:41:00.682Z,61.3727,-150.0651,34.8,1.7,ml,,,,0.42,ak,ak022du63sd0,2022-10-28T22:42:45.193Z,"4 km WNW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-28T22:24:07.987Z,51.5874,-174.3817,52.534,4.2,mb,47,189,0.626,0.65,us,us7000il2a,2022-10-28T22:48:13.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,7.47,8.398,0.081,42,reviewed,us,us
 2022-10-28T22:21:05.980Z,33.0078333,-116.4736667,11.15,0.99,ml,32,69,0.06404,0.18,ci,ci40126535,2022-10-28T22:49:02.717Z,"14km ESE of Julian, CA",earthquake,0.23,0.58,0.18,17,reviewed,ci,ci
 2022-10-28T22:16:05.550Z,19.3994998931885,-155.245498657227,0.740000009536743,2.93,ml,23,47,,0.340000004,hv,hv73198837,2022-10-28T23:27:43.465Z,"4 km SSW of Volcano, Hawaii",earthquake,0.42,0.280000001,3.27,30,automatic,hv,hv
-2022-10-28T22:16:04.630Z,19.4033333333333,-155.2395,2.38,2.65,ml,48,44,,0.12,hv,hv73198832,2022-10-28T22:36:51.884Z,"4 km S of Volcano, Hawaii",earthquake,0.17,0.19,0.134578279136562,22,reviewed,hv,hv
+2022-10-28T22:16:04.630Z,19.4033333333333,-155.2395,2.38,2.65,ml,48,44,,0.12,hv,hv73198832,2022-10-28T23:55:19.040Z,"4 km S of Volcano, Hawaii",earthquake,0.17,0.19,0.134578279136562,22,reviewed,hv,hv
 2022-10-28T22:13:28.592Z,58.7395,-153.6637,1.9,1.7,ml,,,,0.22,ak,ak022du5xugr,2022-10-28T22:15:32.071Z,"87 km NNW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-28T22:06:31.370Z,38.7898331,-122.7354965,1.49,0.76,md,7,104,0.006656,0,nc,nc73800456,2022-10-28T22:32:14.808Z,"2km NE of The Geysers, CA",earthquake,0.35,1.31,0.15,2,automatic,nc,nc
 2022-10-28T21:56:16.965Z,61.8383,-149.6155,7.6,1.6,ml,,,,0.58,ak,ak022du5llr4,2022-10-28T21:59:17.614Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -113,6 +114,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T12:08:07.760Z,33.4841667,-116.4735,15.15,0.9,ml,27,66,0.05591,0.15,ci,ci40126135,2022-10-28T19:02:23.478Z,"20km ESE of Anza, CA",earthquake,0.26,0.51,0.113,14,reviewed,ci,ci
 2022-10-28T12:07:52.140Z,33.4863333,-116.4721667,14.97,0.89,ml,22,66,0.05361,0.18,ci,ci40126127,2022-10-28T13:44:04.116Z,"20km ESE of Anza, CA",earthquake,0.33,0.63,0.136,22,reviewed,ci,ci
 2022-10-28T12:07:23.250Z,33.4833333,-116.4756667,14.3,0.59,ml,18,77,0.05779,0.15,ci,ci40126119,2022-10-28T18:58:10.920Z,"20km ESE of Anza, CA",earthquake,0.37,0.57,0.081,12,reviewed,ci,ci
+2022-10-28T11:42:11.050Z,60.047,-153.071,2.89,0.21,ml,5,120,,0.13,av,av91704496,2022-10-28T23:56:05.980Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.6,1.07,0.210601138056726,5,reviewed,av,av
+2022-10-28T11:41:11.330Z,58.2435,-155.111666666667,2.52,0.09,ml,5,120,,0.1,av,av91075908,2022-10-28T23:59:18.650Z,"84 km NNW of Karluk, Alaska",earthquake,0.34,1.03,0.216109287947172,5,reviewed,av,av
 2022-10-28T11:33:12.330Z,36.9481659,-121.3223343,8.03,1.11,md,9,98,0.06609,0.06,nc,nc73800256,2022-10-28T13:24:13.172Z,"13km NNE of Hollister, CA",earthquake,0.51,1.4,0.11,6,automatic,nc,nc
 2022-10-28T11:27:45.170Z,34.0606667,-117.2753333,15.86,1.24,ml,58,60,0.04505,0.15,ci,ci40126095,2022-10-28T18:53:54.560Z,"2km NW of Loma Linda, CA",earthquake,0.16,0.34,0.11,37,reviewed,ci,ci
 2022-10-28T11:26:42.228Z,55.5005,158.3825,322.293,4.3,mb,55,71,2.487,0.4,us,us7000ikwt,2022-10-28T11:46:40.040Z,"51 km SSW of Esso, Russia",earthquake,11.02,9.457,0.047,127,reviewed,us,us
@@ -213,6 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T00:13:05.410Z,47.158,-121.80216666666666,-0.77,1.31,ml,13,152,0.04609,0.25,uw,uw61890366,2022-10-28T05:15:08.310Z,"11 km W of Greenwater, Washington",explosion,1.04,31.61,0.08823692891888957,6,reviewed,uw,uw
 2022-10-28T00:11:25.700Z,61.422,-152.324333333333,2.16,0.19,ml,8,178,,0.17,av,av91075903,2022-10-28T21:46:28.780Z,"73 km WNW of Beluga, Alaska",earthquake,0.44,0.81,0.112991505266916,7,reviewed,av,av
 2022-10-28T00:04:45.380Z,34.0056667,-117.1806667,16.16,1.38,ml,43,45,0.06401,0.13,ci,ci40125847,2022-10-28T17:34:59.870Z,"6km S of Redlands, CA",earthquake,0.16,0.4,0.207,24,reviewed,ci,ci
-2022-10-27T23:57:59.400Z,38.7900009,-122.767334,1.83,0.46,md,11,91,0.01217,0.05,nc,nc73799981,2022-10-28T00:09:11.263Z,"2km NW of The Geysers, CA",earthquake,0.32,0.76,0.4,2,automatic,nc,nc
-2022-10-27T23:55:37.850Z,19.2151660919189,-155.451507568359,37.0400009155273,2.17000008,md,38,114,,0.109999999,hv,hv73197627,2022-10-27T23:58:55.810Z,"3 km ENE of Pāhala, Hawaii",earthquake,0.54,0.560000002,1.05999994,16,automatic,hv,hv
-2022-10-27T23:52:29.030Z,38.8338318,-122.8160019,1.85,0.36,md,7,92,0.0114,0.01,nc,nc73799976,2022-10-28T00:03:11.224Z,"8km NW of The Geysers, CA",earthquake,0.4,1.33,,1,automatic,nc,nc
