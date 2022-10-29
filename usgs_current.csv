@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-29T19:44:49.291Z,61.2114,-154.7365,71.9,3.5,ml,,,,1,ak,ak022dvrvkxt,2022-10-29T19:48:28.526Z,"40 km ESE of Lime Village, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2022-10-29T19:44:49.291Z,61.2114,-154.7365,71.9,3.5,ml,,,,1,ak,ak022dvrvkxt,2022-10-29T19:59:36.858Z,"40 km ESE of Lime Village, Alaska",earthquake,,4.8,,,automatic,ak,ak
 2022-10-29T19:30:31.320Z,19.4190006256104,-155.261169433594,1.16999995708466,1.75,md,9,98,,0.119999997,hv,hv73200112,2022-10-29T19:33:25.780Z,"3 km SW of Volcano, Hawaii",earthquake,0.25,0.270000011,0.879999995,9,automatic,hv,hv
 2022-10-29T19:25:23.500Z,17.9995,-66.8303333333333,15.77,2.11,md,11,165,0.05253,0.17,pr,pr71380203,2022-10-29T19:37:15.340Z,"1 km WNW of Indios, Puerto Rico",earthquake,0.5,0.56,0.130746567160427,8,reviewed,pr,pr
 2022-10-29T19:17:56.120Z,65.0026,-147.4958,15.4,1,ml,,,,1.36,ak,ak022dvrpt5k,2022-10-29T19:20:15.726Z,"7 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T12:19:46.864Z,51.3216,-174.3338,19.2,3.4,ml,,,,0.45,ak,ak022dvnk6t9,2022-10-29T18:06:34.384Z,"97 km S of Atka, Alaska",earthquake,,3.3,,,reviewed,ak,ak
 2022-10-29T12:16:35.270Z,38.8356667,-122.7911682,1.94,0.85,md,10,69,0.002813,0.01,nc,nc73800686,2022-10-29T12:49:12.590Z,"6km WNW of Cobb, CA",earthquake,0.5,1.31,,1,automatic,nc,nc
 2022-10-29T12:15:51.350Z,17.9446666666667,-66.9083333333333,14.24,1.91,md,5,239,0.02739,0.03,pr,pr71380173,2022-10-29T12:40:10.190Z,"2 km S of Guánica, Puerto Rico",earthquake,0.62,0.89,0.05415574108162,4,reviewed,pr,pr
-2022-10-29T12:13:07.321Z,38.1635,-117.9112,7.7,1.1,ml,13,127.95,0.045,0.1273,nn,nn00850225,2022-10-29T12:16:15.941Z,"Nevada",earthquake,,0.6,0.3,8,automatic,nn,nn
+2022-10-29T12:13:07.321Z,38.1635,-117.9112,7.7,1.1,ml,13,127.95,0.045,0.1273,nn,nn00850225,2022-10-29T12:16:15.941Z,"30 km SE of Mina, Nevada",earthquake,,0.6,0.3,8,automatic,nn,nn
 2022-10-29T12:01:21.080Z,17.9851666666667,-66.8465,15.6,2.38,md,6,240,0.03276,0.1,pr,pr71380178,2022-10-29T13:19:49.400Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.59,0.64,0.146120941231,6,reviewed,pr,pr
 2022-10-29T11:40:18.560Z,-19.1005,-66.9198,265.688,5.1,mww,82,33,2.22,1.24,us,us7000il5q,2022-10-29T17:48:32.746Z,"27 km SW of Challapata, Bolivia",earthquake,7.09,6.163,0.066,22,reviewed,us,us
 2022-10-29T11:22:56.940Z,33.3368333,-116.931,18.65,0.84,ml,29,31,0.09915,0.17,ci,ci40126823,2022-10-29T11:26:30.085Z,"7km WSW of Palomar Observatory, CA",earthquake,0.27,0.73,0.167,19,automatic,ci,ci
@@ -178,7 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T20:22:06.141Z,-14.5268,-76.1519,16.274,5.9,mww,305,50,2.612,0.7,us,us7000il1g,2022-10-29T15:56:06.875Z,"60 km SW of Santiago, Peru",earthquake,7.73,3.014,0.042,54,reviewed,us,us
 2022-10-28T20:21:02.625Z,61.0544,-151.042,59.6,1.5,ml,,,,0.3,ak,ak022du4smza,2022-10-28T20:22:33.826Z,"5 km ESE of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-28T20:15:01.330Z,38.7886658,-122.7245026,1.48,0.94,md,15,130,0.01098,0.03,nc,nc73800426,2022-10-28T20:25:10.094Z,"3km ENE of The Geysers, CA",earthquake,0.28,0.79,0.22,3,automatic,nc,nc
-2022-10-28T20:06:58.730Z,19.485,-155.647666666667,3.48,2.03,md,16,84,,0.12,hv,hv73198682,2022-10-29T14:11:40.040Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.79,0.174669888814212,8,reviewed,hv,hv
-2022-10-28T20:00:36.340Z,32.828,-117.058,-0.17,1.01,ml,15,98,0.07163,0.25,ci,ci40126471,2022-10-28T21:51:23.840Z,"7km NNW of La Mesa, CA",quarry blast,0.54,31.61,0.155,6,reviewed,ci,ci
-2022-10-28T19:59:19.340Z,33.874,-117.4961667,-0.53,1.29,ml,30,51,0.07068,0.22,ci,ci40126463,2022-10-28T21:47:57.102Z,"2km ESE of Home Gardens, CA",quarry blast,0.34,31.61,0.155,24,reviewed,ci,ci
-2022-10-28T19:57:05.631Z,62.6096,-150.4489,65.1,2,ml,,,,0.72,ak,ak022du4exdv,2022-10-28T19:59:24.456Z,"20 km NE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
