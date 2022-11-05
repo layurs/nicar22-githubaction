@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-05T09:33:26.525Z,63.3754,-149.5865,80.2,1.6,ml,,,,0.3,ak,ak022e76m9po,2022-11-05T09:35:26.403Z,"31 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-11-05T09:23:09.790Z,17.9621666666667,-67.0088333333333,10.12,2.22,md,5,200,0.03445,0.09,pr,pr71380908,2022-11-05T09:35:05.540Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.59,0.88,0.00453141916505784,3,reviewed,pr,pr
 2022-11-05T09:16:37.276Z,36.4458,-115.495,2.6,1.2,ml,25,121.41,0.278,0.2115,nn,nn00850643,2022-11-05T09:19:26.523Z,"20 km SE of Indian Springs, Nevada",earthquake,,7.1,0.67,15,automatic,nn,nn
 2022-11-05T09:16:10.923Z,61.0194,-150.0403,34.4,1.7,ml,,,,0.92,ak,ak022e76ilb4,2022-11-05T09:18:47.798Z,"23 km SSW of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-05T09:15:26.230Z,35.9066667,-117.7538333,8.4,0.81,ml,11,146,0.06711,0.12,ci,ci40129223,2022-11-05T09:18:52.247Z,"14km ESE of Little Lake, CA",earthquake,0.58,1,0.189,6,automatic,ci,ci
@@ -210,7 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T11:53:52.260Z,19.4945,-155.654166666667,-2.49,2.87,ml,44,47,,0.21,hv,hv73207422,2022-11-05T02:21:01.541Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.28,0.139168122206419,26,reviewed,hv,hv
 2022-11-04T11:47:27.100Z,38.8216667,-122.787,1.51,0.37,md,26,78,0.009738,0.02,nc,nc71129314,2022-11-05T08:11:13.264Z,"6km W of Cobb, CA",earthquake,0.17,0.34,0.43,3,reviewed,nc,nc
 2022-11-04T11:47:08.190Z,39.8195,-123.5581667,9.67,1.51,md,17,84,0.06022,0.11,nc,nc71129309,2022-11-05T08:01:12.208Z,"16km NNW of Laytonville, CA",earthquake,0.28,0.51,0.129,15,reviewed,nc,nc
-2022-11-04T11:46:03.760Z,37.4886667,-119.4043333,21.94,2.55,md,46,38,0.2113,0.07,nc,nc73803131,2022-11-05T07:34:12.029Z,"28km NE of Oakhurst, CA",earthquake,0.23,0.56,0.214,63,reviewed,nc,nc
+2022-11-04T11:46:03.760Z,37.4886667,-119.4043333,21.94,2.55,md,46,38,0.2113,0.07,nc,nc73803131,2022-11-05T09:34:10.757Z,"28km NE of Oakhurst, CA",earthquake,0.23,0.56,0.214,63,reviewed,nc,nc
 2022-11-04T11:37:13.675Z,63.3119,-145.2337,9.5,1.6,ml,,,,0.57,ak,ak022e5kamav,2022-11-04T11:39:26.454Z,"31 km NE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-04T11:35:41.680Z,37.8465004,-122.2334976,8.8,0.93,md,10,105,0.02972,0.02,nc,nc73803126,2022-11-04T12:17:14.880Z,"2km N of Piedmont, CA",earthquake,0.36,0.7,0.24,7,automatic,nc,nc
 2022-11-04T11:35:39.630Z,35.4813333,-117.327,8.25,1.26,ml,23,108,0.05321,0.1,ci,ci40128935,2022-11-04T18:34:23.949Z,"30km ENE of Johannesburg, CA",earthquake,0.2,0.33,0.189,15,reviewed,ci,ci
@@ -239,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T09:54:33.090Z,18.2586666666667,-65.9925,16.7,2.68,md,13,84,0.1001,0.35,pr,pr71380823,2022-11-04T11:04:41.300Z,"Puerto Rico region",earthquake,0.73,0.93,0.186838684886112,8,reviewed,pr,pr
 2022-11-04T09:52:28.953Z,60.0842,-151.7984,45.9,1.9,ml,,,,0.77,ak,ak022e5j700f,2022-11-04T09:54:48.791Z,"8 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-04T09:45:55.670Z,58.1753333333333,-155.338,-0.34,0.05,ml,5,115,,0.09,av,av91709151,2022-11-05T03:05:29.900Z,"85 km NW of Karluk, Alaska",earthquake,0.29,4.3,0.166465592741589,5,reviewed,av,av
-2022-11-04T09:45:39.520Z,39.1705,-123.3991667,2.19,0.99,md,11,79,0.06515,0.09,nc,nc73803061,2022-11-04T18:20:15.160Z,"17km W of Ukiah, CA",earthquake,0.25,0.89,0.136,9,reviewed,nc,nc
-2022-11-04T09:44:36.740Z,58.1763333333333,-155.337166666667,1.18,-0.09,ml,4,172,,0.03,av,av91709146,2022-11-05T03:02:03.910Z,"85 km NW of Karluk, Alaska",earthquake,0.37,1.29,0.132177996069784,4,reviewed,av,av
