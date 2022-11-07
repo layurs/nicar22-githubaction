@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-07T20:28:29.870Z,62.2544,-147.3266,33.9,1.6,ml,,,,0.71,ak,ak022eao7o17,2022-11-07T20:31:10.587Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-07T20:28:22.040Z,33.8455,-117.4931667,0.9,1.62,ml,29,65,0.0489,0.26,ci,ci40130055,2022-11-07T20:32:02.859Z,"4km SE of Home Gardens, CA",quarry blast,0.35,0.62,0.259,34,automatic,ci,ci
-2022-11-07T19:52:47.960Z,38.8241653,-122.7981644,2.67,1.62,md,30,54,,0.03,nc,nc73802540,2022-11-07T20:10:10.308Z,"6km NW of The Geysers, CA",earthquake,0.19,0.39,0.18,5,automatic,nc,nc
+2022-11-07T20:13:05.460Z,18.0316666666667,-66.7395,8,2.28,md,11,164,0.0277,0.11,pr,pr71381203,2022-11-07T20:40:33.190Z,"3 km SW of Peñuelas, Puerto Rico",earthquake,0.48,0.87,0.116369317845802,4,reviewed,pr,pr
+2022-11-07T19:52:47.960Z,38.8241653,-122.7981644,2.67,1.62,md,30,54,,0.03,nc,nc73802540,2022-11-07T20:40:12.478Z,"6km NW of The Geysers, CA",earthquake,0.19,0.39,0.18,5,automatic,nc,nc
 2022-11-07T19:51:35.040Z,19.4766674041748,-155.594329833984,-1.51999998092651,1.8,ml,16,65,,0.270000011,hv,hv73212047,2022-11-07T19:57:05.840Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.55,0.330000013,1.15,4,automatic,hv,hv
 2022-11-07T19:43:55.480Z,19.4166660308838,-155.616333007812,-1.62999999523163,1.70000005,md,12,87,,0.209999993,hv,hv73212042,2022-11-07T19:46:52.050Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.5,0.709999979,0.119999997,5,automatic,hv,hv
-2022-11-07T19:41:35.380Z,38.519001,-119.5325012,1.73,3.26,ml,12,93,,0.05,nc,nc73802520,2022-11-07T20:22:32.593Z,"5km W of Walker, CA",earthquake,0.32,1.07,0.283,23,automatic,nc,nc
+2022-11-07T19:41:35.350Z,38.5181667,-119.5206667,4.61,3.23,ml,22,96,0.03226,0.05,nc,nc73802520,2022-11-07T20:47:10.515Z,"4km W of Walker, CA",earthquake,0.2,0.33,0.24,30,reviewed,nc,nc
 2022-11-07T19:38:53.150Z,39.7976685,-123.1921692,1.26,2.6,md,34,40,,0.15,nc,nc73802510,2022-11-07T19:45:13.163Z,"5km E of Covelo, CA",earthquake,0.24,1.36,0.13,22,automatic,nc,nc
 2022-11-07T19:34:23.870Z,19.417667388916,-155.647506713867,2.42000007629395,1.77,ml,11,134,,0.119999997,hv,hv73212017,2022-11-07T19:39:52.130Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,1.41999996,1.99,3,automatic,hv,hv
-2022-11-07T19:32:58.580Z,38.5139999,-119.5296631,1.17,2.99,ml,12,91,0.07223,0.31,nc,nc73802505,2022-11-07T20:19:08.983Z,"4km W of Walker, CA",earthquake,1.76,7.98,0.548,20,automatic,nc,nc
+2022-11-07T19:32:58.580Z,38.5139999,-119.5296631,1.17,2.99,ml,12,91,0.07223,0.31,nc,nc73802505,2022-11-07T20:48:46.040Z,"4km W of Walker, CA",earthquake,1.76,7.98,0.548,20,automatic,nc,nc
 2022-11-07T19:18:58.530Z,40.7738333,-112.0766667,8.05,0.65,md,9,125,0.03712,0.13,uu,uu60523992,2022-11-07T19:35:25.050Z,"Utah",earthquake,0.41,1.06,0.496,4,reviewed,uu,uu
 2022-11-07T19:17:45.602Z,62.5762,-149.7212,46.4,1.5,ml,,,,1.04,ak,ak022eanjwno,2022-11-07T20:19:50.329Z,"24 km NE of Chase, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-11-07T19:15:34.380Z,18.9901666666667,-66.0021666666667,41.97,3.44,md,10,250,0.7503,0.58,pr,pr71381188,2022-11-07T20:12:00.180Z,"59 km N of San Juan, Puerto Rico",earthquake,5.19,15.25,0.0366722607674705,7,reviewed,pr,pr
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T18:43:26.790Z,38.7989998,-122.748497,2.24,0.85,md,11,175,0.008912,0.04,nc,nc73802495,2022-11-07T19:08:11.943Z,"2km NNE of The Geysers, CA",earthquake,0.51,0.84,0.01,2,automatic,nc,nc
 2022-11-07T18:40:04.450Z,38.7735,-122.7206667,1.66,0.14,md,19,110,0.01233,0.04,nc,nc73802490,2022-11-07T19:20:14.005Z,"2km W of Anderson Springs, CA",earthquake,0.19,0.22,0.065,3,reviewed,nc,nc
 2022-11-07T18:33:30.842Z,62.5741,-148.9816,3.2,1.8,ml,,,,0.88,ak,ak022ean1vh8,2022-11-07T18:35:28.645Z,"59 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-11-07T18:33:22.548Z,61.3518,-150.0483,33.7,2.6,ml,,,,0.57,ak,ak022ean1utl,2022-11-07T19:00:30.836Z,"3 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-07T18:33:22.548Z,61.3518,-150.0483,33.7,2.6,ml,,,,0.57,ak,ak022ean1utl,2022-11-07T20:43:04.040Z,"3 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-07T18:31:51.386Z,61.5871,-146.5043,28.2,1.5,ml,,,,0.39,ak,ak022ean1hln,2022-11-07T18:34:00.486Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-07T18:14:01.528Z,-25.7642,-179.9146,510.049,4.5,mb,24,109,3.908,0.57,us,us7000in4t,2022-11-07T18:29:26.040Z,"south of the Fiji Islands",earthquake,13,12.557,0.121,20,reviewed,us,us
 2022-11-07T17:58:34.160Z,48.575,-123.545,-0.2,1.16,ml,8,128,0.09698,0.26,uw,uw61893246,2022-11-07T19:51:50.040Z,"Washington-British Columbia border region",explosion,1.08,31.61,0.09490631415386064,3,reviewed,uw,uw
@@ -127,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T05:10:26.660Z,31.509,-115.782,21.56,3.81,ml,9,164,0.1173,0.14,ci,ci40129871,2022-11-07T15:39:09.999Z,"78km ESE of Maneadero, B.C., MX",earthquake,0.62,0.85,0.152,76,reviewed,ci,ci
 2022-11-07T05:07:12.600Z,61.2296,-142.0611,1.1,2.2,ml,,,,0.43,ak,ak022eaf5ml8,2022-11-07T05:09:18.725Z,"51 km ESE of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-07T05:04:53.015Z,58.2267,-155.213,0,0.5,ml,,,,0.31,ak,ak022eaf52k5,2022-11-07T05:08:36.919Z,"85 km NNW of Karluk, Alaska",earthquake,,54.7,,,automatic,ak,ak
-2022-11-07T04:59:02.620Z,31.5571667,-115.6993333,7.04,4.08,mw,14,87,0.1804,0.1,ci,ci40129847,2022-11-07T19:40:48.429Z,"84km ESE of Maneadero, B.C., MX",earthquake,0.22,0.92,,4,reviewed,ci,ci
+2022-11-07T04:59:02.620Z,31.5571667,-115.6993333,7.04,4.08,mw,14,87,0.1804,0.1,ci,ci40129847,2022-11-07T20:43:44.651Z,"84km ESE of Maneadero, B.C., MX",earthquake,0.22,0.92,,4,reviewed,ci,ci
 2022-11-07T04:55:45.866Z,61.0399,-148.2933,0,1.9,ml,,,,1.25,ak,ak022eaeujx6,2022-11-07T04:58:23.366Z,"36 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-07T04:52:55.210Z,31.5536667,-115.7113333,8.36,3.69,ml,14,91,0.1733,0.2,ci,ci40129839,2022-11-07T15:08:14.026Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.36,1.39,0.139,86,reviewed,ci,ci
 2022-11-07T04:50:33.060Z,31.5138333,-115.7966667,19.58,3.1,ml,9,172,0.1225,0.2,ci,ci40129831,2022-11-07T15:11:45.503Z,"76km ESE of Maneadero, B.C., MX",earthquake,0.89,1.41,0.114,55,reviewed,ci,ci
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T21:18:46.750Z,32.7555,-115.8275,7.36,1.25,ml,23,76,0.1341,0.17,ci,ci40129703,2022-11-06T21:49:05.893Z,"16km E of Ocotillo, CA",earthquake,0.22,0.95,0.083,15,reviewed,ci,ci
 2022-11-06T21:14:32.450Z,35.8781667,-117.6871667,6.73,0.96,ml,16,49,0.09006,0.18,ci,ci40129695,2022-11-06T21:44:43.451Z,"21km ESE of Little Lake, CA",earthquake,0.33,0.68,0.16,8,reviewed,ci,ci
 2022-11-06T21:06:50.140Z,38.8221664,-122.8441696,2.04,0.47,md,11,74,0.007202,0.02,nc,nc73804476,2022-11-06T21:59:17.289Z,"9km WNW of The Geysers, CA",earthquake,0.34,0.48,0.33,3,automatic,nc,nc
-2022-11-06T20:36:42.020Z,38.8333321,-122.810997,1.95,1.18,md,11,57,0.009949,0.01,nc,nc73804471,2022-11-06T23:32:13.820Z,"8km W of Cobb, CA",earthquake,0.38,0.84,,1,automatic,nc,nc
