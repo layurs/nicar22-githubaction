@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-10T10:38:55.784Z,60.3368,-143.1159,9.9,2.4,ml,,,,0.51,ak,ak022efgxkmi,2022-11-10T10:40:40.133Z,"122 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-10T10:25:33.510Z,-14.8135,166.7802,10,5.2,mb,50,38,0.751,0.93,us,us7000insd,2022-11-10T10:44:48.040Z,"40 km NW of Port-Olry, Vanuatu",earthquake,7.4,1.866,0.061,88,reviewed,us,us
 2022-11-10T10:16:56.604Z,60.5863,-152.5816,11.8,0.1,ml,,,,0.91,ak,ak022efgsuxo,2022-11-10T10:18:27.439Z,"69 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-10T10:02:46.030Z,63.0736,-150.4841,107.4,2.4,ml,,,,0.37,ak,ak022efgpu3b,2022-11-10T10:05:02.732Z,"65 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-10T10:02:31.530Z,35.037,-119.0126667,9.78,1.75,ml,23,74,0.1295,0.25,ci,ci40130679,2022-11-10T10:13:15.830Z,"13km NW of Grapevine, CA",earthquake,0.46,1.38,0.182,27,automatic,ci,ci
@@ -50,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T04:21:20.560Z,19.4893333333333,-155.658333333333,2.05,3.58,ml,28,54,,0.12,hv,hv73214847,2022-11-10T07:37:45.791Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.85,0.191327676992976,15,reviewed,hv,hv
 2022-11-10T04:19:32.700Z,19.4918333333333,-155.658333333333,2.59,1.02,md,16,104,,0.12,hv,hv73214842,2022-11-10T04:42:36.610Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.87,0.131976481672905,6,reviewed,hv,hv
 2022-11-10T04:15:09.414Z,63.4352,-146.1587,0,2.1,ml,,,,0.83,ak,ak022efd7xy5,2022-11-10T04:17:18.784Z,"47 km NW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-11-10T04:14:49.908Z,31.61324181,-104.2711576,8.419580078,2.1,ml,51,60,0.05870041794,0.3,tx,tx2022waew,2022-11-10T10:37:35.146Z,"western Texas",earthquake,0.6840870633000001,0.9880830979,0.2,29,reviewed,tx,tx
 2022-11-10T04:14:06.480Z,35.517,-118.187,9.12,1.09,ml,20,61,0.0428,0.13,ci,ci40130623,2022-11-10T04:25:04.290Z,"28km ESE of Lake Isabella, CA",earthquake,0.23,0.55,0.143,15,automatic,ci,ci
 2022-11-10T04:06:09.310Z,19.4916666666667,-155.659333333333,2.47,1.29,md,17,81,,0.11,hv,hv73214812,2022-11-10T04:46:36.400Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.89,0.22360399983259,9,reviewed,hv,hv
 2022-11-10T03:57:54.930Z,35.6405,-117.4696667,2.55,1.2,ml,16,112,0.1437,0.14,ci,ci40130615,2022-11-10T04:01:25.673Z,"15km SSW of Searles Valley, CA",earthquake,0.37,1.44,0.158,14,automatic,ci,ci
@@ -196,8 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-09T10:52:02.549Z,60.0677,-152.4867,82.8,2.7,ml,,,,0.44,ak,ak022edth41q,2022-11-09T10:55:02.667Z,"44 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-11-09T10:51:08.978Z,60.6087,-152.0278,67.7,1.4,ml,,,,0.53,ak,ak022edtgwtt,2022-11-09T10:53:17.255Z,"38 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-09T10:46:21.380Z,17.922,-67.2033333333333,9,2.54,md,14,252,0.1225,0.38,pr,pr71381498,2022-11-09T11:27:46.620Z,"6 km SSW of Pole Ojea, Puerto Rico",earthquake,1.38,1.69,0.102506761673826,8,reviewed,pr,pr
-2022-11-09T10:41:22.390Z,37.654335,-122.5096664,8.64,1.36,md,12,204,0.03252,0.02,nc,nc73803000,2022-11-09T11:48:12.897Z,"5km NNW of Pacifica, CA",earthquake,0.69,0.44,0.13,9,automatic,nc,nc
-2022-11-09T10:31:50.110Z,19.4061666666667,-155.291166666667,1.93,0.65,md,15,101,,0.08,hv,hv73214037,2022-11-09T21:37:00.360Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.22,0.0900423079485706,3,reviewed,hv,hv
-2022-11-09T10:30:54.080Z,33.8748333,-116.8466667,15.64,1.52,ml,72,21,0.0581,0.14,ci,ci40130391,2022-11-09T16:30:27.540Z,"6km SSE of Banning, CA",earthquake,0.12,0.3,0.166,52,reviewed,ci,ci
-2022-11-09T10:27:33.000Z,33.0401667,-116.4191667,9.83,1.09,ml,23,62,0.04033,0.17,ci,ci37517085,2022-11-09T16:16:04.846Z,"18km ESE of Julian, CA",earthquake,0.24,0.5,0.209,4,reviewed,ci,ci
-2022-11-09T10:27:29.710Z,33.8783333,-116.829,1.46,1.12,ml,26,87,0.1621,0.27,ci,ci40130375,2022-11-09T16:09:02.155Z,"6km SW of Cabazon, CA",earthquake,0.41,1.45,0.141,14,reviewed,ci,ci
