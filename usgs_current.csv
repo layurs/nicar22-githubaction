@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-13T09:06:43.165Z,35.29195023,-97.97845459,5.18159771,1.67,ml,14,63.81988525,0.1085046902,0.648434795,ok,ok2022wgba,2022-11-13T09:09:06.001Z,"3 km SW of Minco, Oklahoma",earthquake,3.671916974,4.082471146,,12,automatic,ok,ok
-2022-11-13T09:05:33.768Z,60.7477,-149.9671,39,1.8,ml,,,,0.53,ak,ak022eker268,2022-11-13T09:07:32.660Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-11-13T09:05:33.768Z,60.7477,-149.9671,39,1.8,ml,,,,0.53,ak,ak022eker268,2022-11-13T09:16:09.938Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-11-13T09:04:32.740Z,19.4173336029053,-155.266998291016,0.270000010728836,2.04999995,md,12,56,,0.109999999,hv,hv73219627,2022-11-13T09:07:40.410Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.310000002,1.22000003,11,automatic,hv,hv
 2022-11-13T08:59:06.340Z,19.1296672821045,-155.387664794922,30.6399993896484,1.82000005,md,41,184,,0.109999999,hv,hv73219612,2022-11-13T09:02:17.400Z,"Island of Hawaii, Hawaii",earthquake,0.71,0.980000019,1.50999999,10,automatic,hv,hv
 2022-11-13T08:57:17.660Z,36.463501,-121.0713348,4.87,1.81,md,18,79,0.01354,0.22,nc,nc73804600,2022-11-13T09:12:14.386Z,"10km SE of Pinnacles, CA",earthquake,0.51,0.98,0.15,14,automatic,nc,nc
@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-13T08:38:14.720Z,38.8661652,-122.8181686,0.89,0.91,md,18,122,0.01218,0.03,nc,nc73804595,2022-11-13T09:12:14.250Z,"10km WNW of Cobb, CA",earthquake,0.3,0.38,0.24,4,automatic,nc,nc
 2022-11-13T08:37:11.447Z,61.9138,-147.5457,34.2,1.8,ml,,,,0.58,ak,ak022ekecfrc,2022-11-13T08:39:04.318Z,"13 km NNE of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-11-13T08:34:59.364Z,61.5872,-147.9786,2.2,1.5,ml,,,,0.33,ak,ak022ekebwb4,2022-11-13T08:36:43.927Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-13T08:29:12.343Z,17.9083,-65.4424,21.031,2.7,ml,20,169,0.215,0.34,us,us7000ipfr,2022-11-13T08:44:46.040Z,"21 km S of Esperanza, Puerto Rico",earthquake,4.88,6.01,0.057,40,reviewed,us,us
+2022-11-13T08:29:13.510Z,17.9293,-65.4505,14,3.51,md,22,182,0.1965,0.13,pr,pr2022317000,2022-11-13T09:28:13.886Z,"Puerto Rico region",earthquake,0.57,1.16,0.13,20,reviewed,pr,pr
 2022-11-13T08:24:49.720Z,33.7903333,-116.0785,1.76,1.2,ml,34,106,0.1393,0.19,ci,ci40131863,2022-11-13T08:28:26.388Z,"15km ENE of Indio, CA",earthquake,0.27,0.59,0.142,26,automatic,ci,ci
 2022-11-13T08:16:48.328Z,44.0411,148.2666,37.834,5.1,mb,94,123,4.089,1.03,us,us7000ipfq,2022-11-13T08:38:28.040Z,"126 km ENE of Shikotan, Russia",earthquake,8.63,5.644,0.024,565,reviewed,us,us
 2022-11-13T07:15:26.019Z,37.1513,-117.3218,0.2,0.9,ml,11,94.78,0.157,0.3341,nn,nn00851205,2022-11-13T07:18:01.890Z,"56 km WNW of Beatty, Nevada",earthquake,,7.9,1.06,6,automatic,nn,nn
@@ -201,6 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-12T09:44:20.250Z,36.2285,-118.0333333,-0.65,1.31,ml,14,98,0.182,0.27,ci,ci40131407,2022-11-12T09:48:03.491Z,"6km SSW of Olancha, CA",earthquake,0.61,31.61,0.18,11,automatic,ci,ci
 2022-11-12T09:41:32.170Z,38.8336678,-122.817337,1.82,0.85,md,12,64,0.01172,0.01,nc,nc73804210,2022-11-12T12:10:13.549Z,"8km NW of The Geysers, CA",earthquake,0.28,0.83,,1,automatic,nc,nc
 2022-11-12T09:40:57.310Z,17.9383333333333,-66.9601666666667,13.57,2.12,md,5,228,0.08524,0.04,pr,pr71381998,2022-11-12T11:32:02.800Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.68,0.86,0.110166123263778,5,reviewed,pr,pr
-2022-11-12T09:32:29.530Z,17.978,-68.5411,132,3.78,md,13,285,0.5592,0.32,pr,pr2022316000,2022-11-12T11:07:24.871Z,"44 km S of Boca de Yuma, Dominican Republic",earthquake,3.86,1.94,0.07,8,reviewed,pr,pr
-2022-11-12T09:23:36.476Z,61.7763,-149.8483,35.5,1.8,ml,,,,0.33,ak,ak022eirbkrz,2022-11-12T09:25:33.652Z,"Southern Alaska",earthquake,,3.3,,,automatic,ak,ak
-2022-11-12T09:21:57.170Z,18.824,-67.3291666666667,15.57,3.34,md,14,219,0.4104,0.49,pr,pr71381983,2022-11-12T09:57:45.040Z,"44 km NNW of San Antonio, Puerto Rico",earthquake,2.24,3.07,0.123461832989831,5,reviewed,pr,pr
