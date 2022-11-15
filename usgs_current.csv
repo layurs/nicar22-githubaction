@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-15T21:11:09.176Z,38.5932,-118.1437,0,0.9,ml,8,142.25,0.161,0.6197,nn,nn00851344,2022-11-15T21:14:02.396Z,"22 km N of Mina, Nevada",earthquake,,8.8,0.22,5,automatic,nn,nn
+2022-11-15T21:08:34.480Z,34.1736667,-117.941,10.88,1.75,ml,6,130,0.1954,0.16,ci,ci40132887,2022-11-15T21:12:15.331Z,"4km NE of Bradbury, CA",earthquake,0.72,2.21,0.156,9,automatic,ci,ci
+2022-11-15T20:58:25.066Z,63.2406,-150.2326,106.1,1.5,ml,,,,0.5,ak,ak022enwov3e,2022-11-15T21:00:25.001Z,"66 km WSW of Cantwell, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-11-15T20:51:05.727Z,63.4886,-147.3486,30.3,1.2,ml,,,,1,ak,ak022enwnbld,2022-11-15T20:53:44.325Z,"80 km E of Cantwell, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2022-11-15T20:46:31.937Z,-53.6998,140.5488,10,4.9,mb,45,100,11.693,0.78,us,us7000ipy1,2022-11-15T21:03:34.040Z,"west of Macquarie Island",earthquake,7.51,1.831,0.087,42,reviewed,us,us
 2022-11-15T20:43:52.981Z,62.5855,-151.3333,83.1,1.8,ml,,,,0.6,ak,ak022enwlpia,2022-11-15T20:46:08.809Z,"30 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-15T20:36:15.580Z,33.5681667,-116.4945,12.47,0.54,ml,14,89,0.03228,0.26,ci,ci40132871,2022-11-15T20:39:46.136Z,"17km E of Anza, CA",earthquake,0.75,0.91,0.12,12,automatic,ci,ci
 2022-11-15T20:35:55.470Z,38.1189995,-122.1474991,3.23,2.28,md,8,189,0.004042,0.08,nc,nc73807881,2022-11-15T20:42:11.537Z,"8km E of Vallejo, CA",earthquake,1.07,0.92,0.05,4,automatic,nc,nc
@@ -32,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T16:58:08.330Z,38.8364983,-122.793663,1.76,0.85,md,8,63,0.003219,0.02,nc,nc73807811,2022-11-15T18:03:14.508Z,"6km WNW of Cobb, CA",earthquake,0.4,1.02,,1,automatic,nc,nc
 2022-11-15T16:51:32.370Z,19.2481670379639,-155.390167236328,31.5699996948242,1.82000005,md,33,139,,0.109999999,hv,hv73222782,2022-11-15T16:57:18.920Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.71,0.829999983,0.600000024,7,automatic,hv,hv
 2022-11-15T16:26:01.690Z,35.41716667,-97.88816667,3.41,1.79,ml,84,33,0.03509311353,0.32,ok,ok2022wkgn,2022-11-15T16:48:36.704Z,"5 km ENE of Union City, Oklahoma",earthquake,,0.8,0.19,46,reviewed,ok,ok
-2022-11-15T16:20:35.190Z,34.0238333,-117.226,16.05,2.49,ml,73,28,0.09505,0.21,ci,ci40132743,2022-11-15T20:23:36.564Z,"4km SE of Loma Linda, CA",earthquake,0.23,0.52,0.215,25,automatic,ci,ci
+2022-11-15T16:20:35.170Z,34.0233333,-117.2253333,15.64,2.49,ml,98,23,0.09456,0.19,ci,ci40132743,2022-11-15T21:06:13.940Z,"4km SE of Loma Linda, CA",earthquake,0.14,0.31,0.145,111,reviewed,ci,ci
 2022-11-15T16:19:46.400Z,19.4603328704834,-155.594833374023,-2.44000005722046,1.9,ml,16,72,,0.319999993,hv,hv73222737,2022-11-15T16:25:17.250Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.55,0.300000012,3.67,6,automatic,hv,hv
 2022-11-15T16:13:01.829Z,12.9753,-88.8837,59.531,4.5,mb,44,181,0.734,0.53,us,us7000ipwz,2022-11-15T19:49:58.040Z,"49 km SW of Puerto El Triunfo, El Salvador",earthquake,5.98,8.537,0.106,28,reviewed,us,us
 2022-11-15T16:08:09.726Z,62.5602,-149.7491,3.5,1.4,ml,,,,0.51,ak,ak022enu0dos,2022-11-15T16:10:08.632Z,"21 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -63,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T13:57:48.900Z,36.173168182373,-89.5534973144531,10.789999961853,0.730000019,md,5,198,0.08801,0.180000007,nm,nm60500011,2022-11-15T14:17:46.160Z,"southeastern Missouri",earthquake,6.11,15.6999998,,1,reviewed,nm,nm
 2022-11-15T13:36:58.740Z,38.7963333,-122.8134995,3.73,0.35,md,7,194,0.01142,0.01,nc,nc73807746,2022-11-15T14:10:13.132Z,"5km WNW of The Geysers, CA",earthquake,1.84,1.56,,1,automatic,nc,nc
 2022-11-15T13:32:58.230Z,18.0036666666667,-66.8448333333333,11.91,1.6,md,6,148,0.0434,0.17,pr,pr71382563,2022-11-15T13:53:38.220Z,"2 km WNW of Indios, Puerto Rico",earthquake,0.98,0.76,0.112035162509631,3,reviewed,pr,pr
+2022-11-15T13:24:04.140Z,57.9951666666667,-155.916333333333,3.55,1.49,ml,16,164,,0.18,av,av91716581,2022-11-15T21:09:32.600Z,"Alaska Peninsula",earthquake,0.89,2.2,0.218280418669134,16,reviewed,av,av
 2022-11-15T13:23:10.440Z,44.7846667,-110.8155,6.78,0.96,md,14,100,0.02519,0.19,uu,uu60525127,2022-11-15T14:48:14.190Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.53,1.2,0.245,10,reviewed,uu,uu
 2022-11-15T13:20:26.280Z,44.7733333,-110.8103333,4.88,0.74,md,10,98,0.0323,0.18,uu,uu60525117,2022-11-15T14:54:27.020Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.51,0.66,0.239,5,reviewed,uu,uu
 2022-11-15T13:19:44.710Z,44.7893333,-110.8098333,6.55,0.59,md,10,105,0.02897,0.18,uu,uu60525112,2022-11-15T17:28:25.150Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.68,1.23,0.317,6,reviewed,uu,uu
@@ -255,8 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T21:31:31.310Z,38.8268318,-122.8033371,9.96,0.36,md,8,180,0.006282,0.05,nc,nc73807461,2022-11-14T22:25:12.564Z,"7km NW of The Geysers, CA",earthquake,1.45,4.83,,1,automatic,nc,nc
 2022-11-14T21:27:44.700Z,44.14833333333333,-122.73216666666667,-0.58,1.55,ml,19,50,0.08029,0.19,uw,uw61894406,2022-11-15T01:18:04.730Z,"22 km N of Unity, Oregon",explosion,0.35,31.61,0.09833367966144024,18,reviewed,uw,uw
 2022-11-14T21:19:48.912Z,58.5017,-152.6264,27.2,1.7,ml,,,,1.19,ak,ak022em9in4b,2022-11-14T21:22:43.358Z,"51 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-14T21:16:48.040Z,38.8168335,-122.7968369,3.37,0.96,md,12,63,0.008933,0.01,nc,nc73807441,2022-11-14T21:35:11.411Z,"6km NW of The Geysers, CA",earthquake,0.42,0.77,0.27,2,automatic,nc,nc
-2022-11-14T21:13:58.040Z,33.4796667,-116.7751667,2.44,0.51,ml,27,81,0.03882,0.16,ci,ci40132423,2022-11-14T22:08:37.893Z,"9km ENE of Aguanga, CA",earthquake,0.19,0.29,0.02,7,reviewed,ci,ci
-2022-11-14T21:12:58.610Z,38.8151665,-122.7988358,3.16,0.62,md,18,54,0.0077,0.02,nc,nc73807426,2022-11-14T21:23:11.212Z,"6km NW of The Geysers, CA",earthquake,0.26,0.66,0.06,3,automatic,nc,nc
-2022-11-14T21:12:30.550Z,33.4716667,-116.781,2.4,1.25,ml,52,27,0.0437,0.2,ci,ci40132415,2022-11-14T21:58:18.867Z,"8km ENE of Aguanga, CA",earthquake,0.15,0.28,0.116,32,reviewed,ci,ci
-2022-11-14T21:02:32.619Z,-22.5582,-175.074,26.844,4.6,mb,37,128,1.387,0.78,us,us7000ipq8,2022-11-14T21:48:43.040Z,"136 km S of ‘Ohonua, Tonga",earthquake,13.14,5.141,0.103,28,reviewed,us,us
