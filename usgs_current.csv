@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-24T21:36:49.310Z,38.8339996,-122.8174973,1.96,0.85,md,13,68,0.01207,0.03,nc,nc73811116,2022-11-24T21:38:26.066Z,"8km NW of The Geysers, CA",earthquake,0.29,0.79,,1,automatic,nc,nc
+2022-11-24T21:45:37.050Z,35.384,-118.7815,4.2,2.06,ml,42,49,0.07548,0.23,ci,ci40380512,2022-11-24T21:49:17.081Z,"18km NE of Lamont, CA",earthquake,0.31,1.12,0.206,27,automatic,ci,ci
+2022-11-24T21:36:49.310Z,38.8339996,-122.8174973,1.96,0.85,md,13,68,0.01207,0.03,nc,nc73811116,2022-11-24T21:54:12.245Z,"8km NW of The Geysers, CA",earthquake,0.29,0.79,,1,automatic,nc,nc
 2022-11-24T21:31:28.810Z,19.3996658325195,-155.283172607422,4.55000019073486,1.80999994,md,22,40,,0.219999999,hv,hv73234637,2022-11-24T21:34:42.240Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.970000029,1.16999996,12,automatic,hv,hv
 2022-11-24T21:29:17.660Z,19.3901672363281,-155.279159545898,6.34000015258789,1.74000001,md,26,56,,0.209999993,hv,hv73234627,2022-11-24T21:32:17.740Z,"7 km SW of Volcano, Hawaii",earthquake,0.48,0.720000029,0.670000017,13,automatic,hv,hv
 2022-11-24T21:18:20.178Z,31.5725,-115.682,13.519,2.6,ml,21,83,0.201,0.64,us,us7000is6y,2022-11-24T21:31:53.040Z,"60 km ENE of San Vicente, Mexico",earthquake,1.87,6.612,0.06,36,reviewed,us,us
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T18:43:13.230Z,33.4116667,-116.6068333,10.19,0.65,ml,22,87,0.07091,0.17,ci,ci40380472,2022-11-24T18:46:49.457Z,"15km N of Warner Springs, CA",earthquake,0.31,0.7,0.1,13,automatic,ci,ci
 2022-11-24T18:30:52.190Z,19.158166885376,-155.467834472656,30.9799995422363,1.9,ml,16,166,,0.109999999,hv,hv73234437,2022-11-24T18:36:23.910Z,"5 km SSE of Pāhala, Hawaii",earthquake,1.01,1.66999996,4.09,3,automatic,hv,hv
 2022-11-24T18:18:02.700Z,35.9951668,-120.5686646,2.46,1.84,md,23,50,0.02395,0.06,nc,nc73811086,2022-11-24T19:45:12.277Z,"16km NW of Parkfield, CA",earthquake,0.25,0.48,0.18,14,automatic,nc,nc
-2022-11-24T18:06:09.197Z,31.712,-104.453,5,2.7,mb_lg,17,125,0.059,0.37,us,us7000is5q,2022-11-24T19:40:55.762Z,"51 km S of Whites City, New Mexico",earthquake,2.15,1.93,0.124,24,reviewed,us,us
+2022-11-24T18:06:09.197Z,31.712,-104.453,5,2.7,mb_lg,17,125,0.059,0.37,us,us7000is5q,2022-11-24T21:47:20.847Z,"51 km S of Whites City, New Mexico",earthquake,2.15,1.93,0.124,24,reviewed,us,us
 2022-11-24T17:33:47.440Z,38.8376656,-122.8115005,1.55,0.85,md,6,119,0.01429,0.02,nc,nc73811076,2022-11-24T19:08:12.065Z,"8km WNW of Cobb, CA",earthquake,0.49,2.04,,1,automatic,nc,nc
 2022-11-24T17:30:13.410Z,35.9273333,-117.4281667,0.01,1.56,ml,19,193,0.1411,0.14,ci,ci40380440,2022-11-24T17:33:46.029Z,"18km N of Searles Valley, CA",earthquake,0.43,31.61,0.137,22,automatic,ci,ci
 2022-11-24T17:22:09.960Z,38.8149986,-122.7961655,15.42,0.58,md,11,105,0.007053,0.11,nc,nc73811071,2022-11-24T18:43:09.900Z,"5km NW of The Geysers, CA",earthquake,1.93,9.29,0.34,2,automatic,nc,nc
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T21:58:49.260Z,33.5268333,-116.695,13.15,0.6,ml,22,51,0.05223,0.15,ci,ci40380032,2022-11-23T22:02:23.369Z,"4km SSW of Anza, CA",earthquake,0.28,0.59,0.113,16,automatic,ci,ci
 2022-11-23T21:57:31.340Z,46.43966666666667,-122.33316666666667,13.65,0.9,ml,24,123,0.1199,0.24,uw,uw61887047,2022-11-24T00:06:02.200Z,"13 km SSW of Morton, Washington",earthquake,0.67,1.19,0.12057008033872607,10,reviewed,uw,uw
 2022-11-23T21:56:00.980Z,47.54333333333334,-122.7805,-0.19,1.6600000000000001,ml,10,207,0.006419,0.27,uw,uw61887042,2022-11-23T23:47:11.780Z,"6 km WNW of Gorst, Washington",explosion,1.07,31.61,0.1831376149732714,5,reviewed,uw,uw
-2022-11-23T21:52:19.043Z,61.5785,-151.4057,15.3,0.8,ml,,,,0.31,ak,ak022f15jrdw,2022-11-23T23:05:57.547Z,"45 km S of Skwentna, Alaska",earthquake,,1.5,,,reviewed,ak,ak
