@@ -1,13 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T09:26:00.930Z,19.3531665802002,-155.467498779297,3.54999995231628,1.95,ml,36,86,,0.209999993,hv,hv73233912,2022-11-24T09:31:31.830Z,"16 km N of Pāhala, Hawaii",earthquake,0.37,1.32000005,0.23,3,automatic,hv,hv
 2022-11-24T09:15:59.180Z,33.501,-116.7446667,8.15,0.42,ml,14,112,0.06452,0.22,ci,ci40380288,2022-11-24T09:19:31.749Z,"9km SW of Anza, CA",earthquake,0.6,1.33,0.094,10,automatic,ci,ci
 2022-11-24T09:15:57.630Z,19.2066669464111,-155.462997436523,35.3600006103516,2.00999999,md,44,104,,0.109999999,hv,hv73233897,2022-11-24T09:19:05.660Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.860000014,1.30999994,15,automatic,hv,hv
-2022-11-24T09:08:38.210Z,38.8241653,-122.7630005,2.21,0.85,md,11,202,0.008294,0.02,nc,nc73810901,2022-11-24T09:20:10.454Z,"4km W of Cobb, CA",earthquake,0.52,0.91,,1,automatic,nc,nc
+2022-11-24T09:15:25.457Z,-9.8276,159.5324,10,5.4,mww,68,53,0.563,0.85,us,us7000is0z,2022-11-24T09:36:51.061Z,"25 km SW of Malango, Solomon Islands",earthquake,6.22,1.868,0.073,18,reviewed,us,us
+2022-11-24T09:08:38.210Z,38.8241653,-122.7630005,2.21,0.85,md,11,202,0.008294,0.02,nc,nc73810901,2022-11-24T09:26:13.640Z,"4km W of Cobb, CA",earthquake,0.52,0.91,,1,automatic,nc,nc
 2022-11-24T09:08:04.601Z,60.4229,-151.6731,69.6,2.2,ml,,,,0.37,ak,ak022f2logi4,2022-11-24T09:10:56.889Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-24T08:57:20.891Z,39.582,-119.1174,0,1.3,ml,8,227.64,0.243,0.3546,nn,nn00851992,2022-11-24T09:01:24.974Z,"11 km ESE of Fernley, Nevada",earthquake,,45.5,0.43,5,automatic,nn,nn
 2022-11-24T08:56:25.892Z,62.3913,-148.4376,28.9,1.8,ml,,,,1.09,ak,ak022f2ldcwr,2022-11-24T08:59:22.760Z,"66 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-24T08:49:11.350Z,19.486499786377,-155.464660644531,0.699999988079071,1.85000002,md,25,61,,0.230000004,hv,hv73233877,2022-11-24T08:52:25.610Z,"Island of Hawaii, Hawaii",earthquake,0.41,1.71000004,0.200000003,9,automatic,hv,hv
 2022-11-24T08:40:59.190Z,17.868,-66.8566666666667,18.09,2.4,md,9,247,0.1086,0.1,pr,pr71383793,2022-11-24T08:51:01.680Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,0.77,0.5,0.0895997703885234,7,reviewed,pr,pr
-2022-11-24T08:40:01.990Z,38.7953339,-122.8089981,2.94,1.32,md,27,74,0.008392,0.03,nc,nc73810891,2022-11-24T09:15:11.425Z,"5km WNW of The Geysers, CA",earthquake,0.26,0.43,0.1,2,automatic,nc,nc
+2022-11-24T08:40:01.990Z,38.7953339,-122.8089981,2.94,1.32,md,27,74,0.008392,0.03,nc,nc73810891,2022-11-24T09:26:13.491Z,"5km WNW of The Geysers, CA",earthquake,0.26,0.43,0.1,2,automatic,nc,nc
 2022-11-24T08:14:31.300Z,17.9643333333333,-66.9806666666667,10.01,2.09,md,6,192,0.06071,0.03,pr,pr71383788,2022-11-24T08:49:42.980Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.48,0.71,0.0317758567492641,3,reviewed,pr,pr
 2022-11-24T08:04:55.900Z,34.592,-119.1316667,1.83,1.62,ml,26,41,0.1427,0.24,ci,ci40380280,2022-11-24T08:08:35.980Z,"19km NNE of Ojai, CA",earthquake,0.31,0.68,0.178,29,automatic,ci,ci
 2022-11-24T07:43:36.899Z,59.8654,-151.4372,66.9,1.7,ml,,,,0.6,ak,ak022f2kp5uh,2022-11-24T08:39:38.251Z,"11 km ENE of Nikolaevsk, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -30,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T06:24:14.860Z,33.6821667,-116.7918333,13.64,0.44,ml,14,65,0.0699,0.22,ci,ci40380224,2022-11-24T06:27:50.818Z,"9km SW of Idyllwild, CA",earthquake,0.59,0.84,0.207,12,automatic,ci,ci
 2022-11-24T06:24:06.790Z,19.0068333333333,-155.221833333333,34.58,1.92,md,39,260,,0.12,hv,hv73233752,2022-11-24T06:41:27.100Z,"34 km SE of Pāhala, Hawaii",earthquake,0.79,1.33,0.154293029995694,19,reviewed,hv,hv
 2022-11-24T06:19:25.610Z,61.0336,-148.3358,0,1.1,ml,,,,0.92,ak,ak022f2jyk6p,2022-11-24T06:21:29.466Z,"34 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-11-24T06:14:56.073Z,-9.9843,159.7541,10,4.3,mb,21,108,0.575,0.64,us,us7000is06,2022-11-24T07:02:20.040Z,"Solomon Islands",earthquake,7.2,1.924,0.142,16,reviewed,us,us
+2022-11-24T06:14:56.073Z,-9.9843,159.7541,10,4.3,mb,21,108,0.575,0.64,us,us7000is06,2022-11-24T09:33:35.692Z,"Solomon Islands",earthquake,7.2,1.924,0.142,16,reviewed,us,us
 2022-11-24T06:09:43.362Z,56.1148,-149.2274,10,3.4,ml,58,187,2.485,0.52,us,us7000is05,2022-11-24T06:32:45.040Z,"249 km SE of Chiniak, Alaska",earthquake,7.99,2.004,0.052,48,reviewed,us,us
 2022-11-24T06:06:30.563Z,60.102,-152.4959,89.9,1.5,ml,,,,0.61,ak,ak022f2jvs9c,2022-11-24T06:08:45.146Z,"45 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-24T06:03:28.333Z,38.17,-116.1243,16,1.8,ml,11,255.59,0.965,0.2967,nn,nn00851985,2022-11-24T06:06:34.489Z,"67 km NNW of Rachel, Nevada",earthquake,,2.1,0.69,7,automatic,nn,nn
@@ -222,7 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T09:59:28.780Z,33.0885,-116.0365,8.55,0.93,ml,30,48,0.09805,0.14,ci,ci40379824,2022-11-23T16:56:48.966Z,"11km SE of Ocotillo Wells, CA",earthquake,0.18,0.84,0.252,10,reviewed,ci,ci
 2022-11-23T09:53:26.278Z,41.9583,-119.5367,0,1.3,ml,4,210.46,0.573,0.0637,nn,nn00851963,2022-11-23T23:28:30.756Z,"52 km ENE of Fort Bidwell, California",earthquake,,0,1.16,3,reviewed,nn,nn
 2022-11-23T09:48:37.828Z,58.2541,-155.1125,1.2,0.8,ml,,,,0.12,ak,ak022f0ydr7q,2022-11-23T09:50:08.906Z,"85 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2022-11-23T09:36:38.156Z,58.1929,-155.092,0,0.8,ml,,,,0.6,ak,ak022f0yb6nb,2022-11-23T09:40:15.548Z,"79 km NNW of Karluk, Alaska",earthquake,,52.3,,,automatic,ak,ak
-2022-11-23T09:28:37.200Z,38.8211667,-122.7866667,2.24,0.2,md,16,95,0.009175,0.02,nc,nc73810606,2022-11-23T20:43:13.928Z,"6km W of Cobb, CA",earthquake,0.43,0.4,0.241,3,reviewed,nc,nc
-2022-11-23T09:28:06.849Z,31.62107235,-104.5173621,7.674047852000001,2.2,ml,22,75,0.04966738379,0.2,tx,tx2022wyit,2022-11-23T19:27:54.401Z,"62 km SSW of Whites City, New Mexico",earthquake,1.180352754,0.8226781060000001,0.1,13,reviewed,tx,tx
-2022-11-23T09:26:40.114Z,60.3649,-152.1353,86.1,1.6,ml,,,,0.3,ak,ak022f0y8zxc,2022-11-23T15:17:08.605Z,"43 km NW of Ninilchik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
