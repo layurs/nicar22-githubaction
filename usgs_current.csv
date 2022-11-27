@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T04:11:14.690Z,36.6464996,-120.8235016,3.2,1.82,md,6,135,0.02964,0.06,nc,nc73811941,2022-11-27T05:06:11.911Z,"29km NNW of New Idria, CA",earthquake,0.75,1.75,0.13,4,automatic,nc,nc
 2022-11-27T04:08:47.145Z,-24.2295,-67.4011,215.995,4.2,mwr,29,111,1.458,0.41,us,us7000isnh,2022-11-27T04:33:50.040Z,"Chile-Argentina border region",earthquake,8.53,13.031,,,reviewed,us,guc
 2022-11-27T04:00:15.830Z,40.3896675,-124.5531693,19.21,2.45,md,17,265,0.2163,0.18,nc,nc73811936,2022-11-27T04:39:12.740Z,"24km WNW of Petrolia, CA",earthquake,2.47,0.66,0.22,5,automatic,nc,nc
-2022-11-27T03:57:45.682Z,40.8392,30.9877,10,4.1,mb,49,46,0.401,0.65,us,us7000isne,2022-11-27T08:56:38.529Z,"Western Turkey",earthquake,4.08,1.929,0.185,8,reviewed,us,us
+2022-11-27T03:57:45.682Z,40.8392,30.9877,10,4.1,mb,49,46,0.401,0.65,us,us7000isne,2022-11-27T08:56:38.529Z,"14 km W of Düzce, Turkey",earthquake,4.08,1.929,0.185,8,reviewed,us,us
 2022-11-27T03:50:19.740Z,38.8263321,-122.8544998,2.52,1.19,md,24,62,0.002214,0.02,nc,nc73811931,2022-11-27T04:24:12.646Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.41,0.02,4,automatic,nc,nc
 2022-11-27T03:41:54.893Z,38.5332,-119.5265,6,1.2,ml,13,100.11,0.053,0.1386,nn,nn00852106,2022-11-27T03:44:38.357Z,"California-Nevada border region",earthquake,,0.6,0.26,7,automatic,nn,nn
 2022-11-27T03:30:37.886Z,62.0457,-150.622,56.1,2.1,ml,,,,0.4,ak,ak022f7guooc,2022-11-27T03:32:32.152Z,"36 km SW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T16:26:23.391Z,63.5614,-147.4163,8.5,1.5,ml,,,,0.55,ak,ak022f61132b,2022-11-26T16:28:21.683Z,"76 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-26T16:22:43.700Z,33.2048333,-116.358,10.86,0.9,ml,19,81,0.08032,0.19,ci,ci40381264,2022-11-26T16:48:30.138Z,"6km SSE of Borrego Springs, CA",earthquake,0.31,0.6,0.098,14,reviewed,ci,ci
 2022-11-26T16:17:15.635Z,38.4379,-118.3402,8.4,1.4,ml,13,114.19,0.004,0.1973,nn,nn00852078,2022-11-26T23:29:38.075Z,"20 km WNW of Mina, Nevada",earthquake,,1,0,1,reviewed,nn,nn
-2022-11-26T16:12:08.850Z,19.2788333892822,-155.41633605957,30.2900009155273,2,md,45,111,,0.170000002,hv,hv73236912,2022-11-26T16:15:15.010Z,"10 km NE of Pāhala, Hawaii",earthquake,0.54,0.74000001,1.42999995,19,automatic,hv,hv
+2022-11-26T16:12:08.850Z,19.2788333892822,-155.41633605957,30.2900009155273,2,md,45,111,,0.170000002,hv,hv73236912,2022-11-26T16:15:15.010Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.74000001,1.42999995,19,automatic,hv,hv
 2022-11-26T16:07:26.064Z,31.68803839,-104.4049837,6.080151367,3,ml,29,44,0.03935489728,0.2,tx,tx2022xeij,2022-11-26T16:36:51.040Z,"54 km S of Whites City, New Mexico",earthquake,0.7620549099,0.6724354489,0.1,18,reviewed,tx,tx
 2022-11-26T16:05:20.960Z,19.1458339691162,-155.44416809082,31.1000003814697,1.99000001,md,40,236,,0.140000001,hv,hv73236907,2022-11-26T16:08:39.500Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.72,1.12,0.270000011,5,automatic,hv,hv
 2022-11-26T15:51:38.850Z,38.831665,-122.8148346,0.75,0.36,md,9,60,0.009057,0.04,nc,nc73811791,2022-11-26T17:37:14.842Z,"8km NW of The Geysers, CA",earthquake,0.37,2.15,,1,automatic,nc,nc
@@ -184,6 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T10:53:42.990Z,33.5111667,-116.7483333,2.8,1.04,ml,42,38,0.04348,0.16,ci,ci40381200,2022-11-26T16:51:28.850Z,"8km SW of Anza, CA",earthquake,0.17,0.63,0.157,26,reviewed,ci,ci
 2022-11-26T10:50:44.791Z,61.6502,-150.9937,51,1.3,ml,,,,0.51,ak,ak022f5xlo9g,2022-11-26T10:53:18.653Z,"28 km WNW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-11-26T10:45:21.830Z,38.8088341,-122.7210007,4.01,0.86,md,17,130,0.02836,0.1,nc,nc73811711,2022-11-26T12:50:11.125Z,"2km S of Cobb, CA",earthquake,0.63,2.01,0.01,2,automatic,nc,nc
-2022-11-26T10:38:48.610Z,37.4263333,-118.5705,3.28,1.03,md,17,99,0.1907,0.06,nc,nc73811706,2022-11-27T09:06:12.384Z,"3km ENE of Round Valley, CA",earthquake,0.34,2.56,0.247,12,reviewed,nc,nc
-2022-11-26T10:36:31.103Z,-16.5699,-173.4425,46.601,4.6,mb,16,135,2.135,0.65,us,us7000isjf,2022-11-26T11:03:29.040Z,"77 km SSE of Hihifo, Tonga",earthquake,7.12,11.008,0.158,12,reviewed,us,us
-2022-11-26T10:31:02.390Z,33.1878333,-115.6016667,1.58,1.3,ml,8,120,0.01562,0.14,ci,ci40381192,2022-11-26T10:34:34.377Z,"10km SW of Niland, CA",earthquake,0.53,0.65,0.168,22,automatic,ci,ci
