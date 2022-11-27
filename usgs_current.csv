@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-27T23:18:09.350Z,35.9550018,-120.5201645,4.17,0.36,md,9,98,0.01966,0.04,nc,nc73812161,2022-11-27T23:19:42.821Z,"10km NW of Parkfield, CA",earthquake,0.55,0.9,0.24,2,automatic,nc,nc
-2022-11-27T23:10:17.670Z,38.795166,-122.7734985,3.34,0.39,md,10,95,0.03111,0.01,nc,nc73812156,2022-11-27T23:11:53.631Z,"2km NW of The Geysers, CA",earthquake,0.36,1.58,0.19,2,automatic,nc,nc
+2022-11-27T23:29:55.725Z,58.1487,-156.5153,26.8,1.6,ml,,,,0.56,ak,ak022f7sr6fo,2022-11-27T23:32:03.908Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
+2022-11-27T23:18:09.350Z,35.9550018,-120.5201645,4.17,0.36,md,9,98,0.01966,0.04,nc,nc73812161,2022-11-27T23:34:10.645Z,"10km NW of Parkfield, CA",earthquake,0.55,0.9,0.24,2,automatic,nc,nc
+2022-11-27T23:10:17.670Z,38.795166,-122.7734985,3.34,0.39,md,10,95,0.03111,0.01,nc,nc73812156,2022-11-27T23:31:11.630Z,"2km NW of The Geysers, CA",earthquake,0.36,1.58,0.19,2,automatic,nc,nc
 2022-11-27T23:10:08.267Z,64.3077,-152.4734,0,1.7,ml,,,,0.61,ak,ak022f7sn062,2022-11-27T23:12:13.775Z,"48 km N of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-27T22:56:05.440Z,38.7898331,-122.8011703,6.05,0.35,md,6,100,0.002114,0.02,nc,nc73812151,2022-11-27T23:20:12.572Z,"4km WNW of The Geysers, CA",earthquake,2.06,3.57,,1,automatic,nc,nc
 2022-11-27T22:52:02.410Z,33.0765,-116.4706667,10.99,0.83,ml,19,147,0.1066,0.26,ci,ci40381704,2022-11-27T22:55:35.675Z,"12km E of Julian, CA",earthquake,0.68,0.98,0.125,12,automatic,ci,ci
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T19:56:33.456Z,60.0582,-151.2337,39.9,1.8,ml,,,,0.55,ak,ak022f7qj6mp,2022-11-27T19:58:15.269Z,"21 km SSE of Clam Gulch, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-11-27T19:55:01.163Z,51.5244,-175.6184,56.966,4.8,mb,22,148,0.632,0.8,us,us7000issm,2022-11-27T21:59:29.324Z,"80 km ESE of Adak, Alaska",earthquake,6.39,8.538,0.121,21,reviewed,us,us
 2022-11-27T19:48:15.765Z,59.8738,-151.9463,41.3,1.6,ml,,,,0.15,ak,ak022f7qhfjc,2022-11-27T19:49:24.365Z,"12 km NNW of Anchor Point, Alaska",earthquake,,5.1,,,automatic,ak,ak
-2022-11-27T19:43:31.810Z,37.4108333,-119.6676667,15.36,1.61,md,11,86,0.06124,0.12,nc,nc73812111,2022-11-27T22:58:10.432Z,"7km NE of Ahwahnee, CA",earthquake,0.46,0.73,0.171,13,reviewed,nc,nc
+2022-11-27T19:43:31.810Z,37.4108333,-119.6676667,15.36,1.61,md,11,86,0.06124,0.12,nc,nc73812111,2022-11-27T23:28:13.613Z,"7km NE of Ahwahnee, CA",earthquake,0.46,0.73,0.171,13,reviewed,nc,nc
 2022-11-27T19:21:53.505Z,60.1086,-150.1112,33.2,1.9,ml,,,,0.46,ak,ak022f7qbq46,2022-11-27T19:23:47.312Z,"37 km W of Seward, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-27T19:11:29.170Z,35.6561667,-117.5585,6.83,1.02,ml,15,131,0.1048,0.19,ci,ci40381640,2022-11-27T19:14:53.104Z,"11km ENE of Ridgecrest, CA",earthquake,0.4,1.27,0.161,11,automatic,ci,ci
 2022-11-27T19:01:19.080Z,38.8390007,-122.8096695,2.03,0.73,md,18,56,0.0151,0.02,nc,nc73812091,2022-11-27T20:55:12.665Z,"8km WNW of Cobb, CA",earthquake,0.25,0.56,0.1,2,automatic,nc,nc
@@ -185,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T23:49:09.490Z,19.2014999389648,-155.462661743164,35.5900001525879,2.18000007,md,38,104,,0.129999995,hv,hv73237352,2022-11-26T23:52:28.260Z,"Island of Hawaii, Hawaii",earthquake,0.69,0.899999976,0.829999983,15,automatic,hv,hv
 2022-11-26T23:40:26.257Z,36.5924,-116.2294,8.3,0.3,ml,23,124.77,0.103,0.1118,nn,nn00852098,2022-11-27T00:09:56.519Z,"47 km NNW of Pahrump, Nevada",earthquake,,1.2,0.73,8,reviewed,nn,nn
 2022-11-26T23:40:16.130Z,19.3931674957275,-155.259826660156,7.55999994277954,1.85,ml,22,61,,0.25,hv,hv73237342,2022-11-26T23:45:47.590Z,"6 km SSW of Volcano, Hawaii",earthquake,0.55,0.75999999,0.29,6,automatic,hv,hv
-2022-11-26T23:29:39.530Z,35.647,-117.4468333,5.7,1.05,ml,15,170,0.06165,0.15,ci,ci40381312,2022-11-27T17:18:15.544Z,"14km SSW of Searles Valley, CA",earthquake,0.46,1,0.169,10,reviewed,ci,ci
-2022-11-26T23:26:54.930Z,33.4803333,-116.7495,8.62,0.72,ml,26,55,0.05316,0.2,ci,ci40381304,2022-11-26T23:30:31.528Z,"11km SW of Anza, CA",earthquake,0.32,0.99,0.126,20,automatic,ci,ci
