@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T15:24:00.160Z,38.7988319,-122.7458344,2.33,0.63,md,8,186,0.01099,0.05,nc,nc73813866,2022-12-02T15:25:37.472Z,"3km NNE of The Geysers, CA",earthquake,0.56,1.04,0.23,8,automatic,nc,nc
 2022-12-02T14:31:59.580Z,32.8386667,-116.023,8.66,0.72,ml,11,78,0.06601,0.19,ci,ci40383680,2022-12-02T14:35:29.469Z,"12km NNW of Ocotillo, CA",earthquake,0.67,0.82,0.123,4,automatic,ci,ci
 2022-12-02T14:28:54.945Z,32.44445801,-102.0753144,11.49373372,3,ml,23,70,0.09179782525,0.2,tx,tx2022xpee,2022-12-02T15:14:08.293Z,"33 km SSW of Los Ybanez, Texas",earthquake,1.121886797,1.040764201,0.2,14,reviewed,tx,tx
 2022-12-02T14:18:29.916Z,63.5595,-147.3469,0,2.1,ml,,,,0.82,ak,ak022ffx0llm,2022-12-02T14:19:58.383Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -12,8 +13,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T13:29:34.960Z,38.8479996,-122.8134995,1.54,0.22,md,8,69,0.01017,0.02,nc,nc73813846,2022-12-02T13:47:14.242Z,"8km WNW of Cobb, CA",earthquake,0.35,1.15,0.08,9,automatic,nc,nc
 2022-12-02T13:27:13.360Z,33.8958333,-116.8855,14.08,0.86,ml,25,65,0.09608,0.16,ci,ci40383664,2022-12-02T13:44:59.690Z,"3km SSW of Banning, CA",earthquake,0.32,0.92,0.115,24,reviewed,ci,ci
 2022-12-02T13:24:00.337Z,6.8088,-72.9359,156.196,4.1,mb,32,120,0.922,0.6,us,us6000j6ai,2022-12-02T14:03:32.040Z,"7 km NE of Cepitá, Colombia",earthquake,8.57,7.419,0.145,13,reviewed,us,us
-2022-12-02T13:23:47.660Z,40.3148346,-124.4293365,31.72,2.44,md,10,301,0.1111,0.1,nc,nc73813841,2022-12-02T13:32:14.482Z,"12km W of Petrolia, CA",earthquake,5.88,4.28,0.06,6,automatic,nc,nc
-2022-12-02T13:22:15.650Z,40.3236656,-124.4116669,30.08,2.42,md,9,300,0.09739,0.12,nc,nc73813836,2022-12-02T15:06:10.723Z,"11km W of Petrolia, CA",earthquake,6.48,4.81,0.1,7,automatic,nc,nc
+2022-12-02T13:23:47.660Z,40.3148346,-124.4293365,31.72,2.44,md,10,301,0.1111,0.1,nc,nc73813841,2022-12-02T15:21:10.813Z,"12km W of Petrolia, CA",earthquake,5.88,4.28,0.06,6,automatic,nc,nc
+2022-12-02T13:22:15.650Z,40.3236656,-124.4116669,30.08,2.42,md,9,300,0.09739,0.12,nc,nc73813836,2022-12-02T15:31:11.873Z,"11km W of Petrolia, CA",earthquake,6.48,4.81,0.1,7,automatic,nc,nc
 2022-12-02T13:12:36.740Z,33.2041667,-116.6975,8.07,0.81,ml,20,59,0.04241,0.14,ci,ci40383648,2022-12-02T13:45:48.023Z,"7km SE of Lake Henshaw, CA",earthquake,0.25,0.5,0.086,16,reviewed,ci,ci
 2022-12-02T13:10:39.680Z,34.4016667,-119.2555,13.53,1.36,ml,12,132,0.03606,0.22,ci,ci40383640,2022-12-02T13:14:11.222Z,"5km SSW of Ojai, CA",earthquake,1.22,1.63,0.229,11,automatic,ci,ci
 2022-12-02T13:09:09.223Z,-31.4247,-178.4179,38.116,4.8,mb,30,122,2.198,0.9,us,us6000j6ad,2022-12-02T13:29:36.040Z,"Kermadec Islands region",earthquake,10.46,8.36,0.111,25,reviewed,us,us
@@ -241,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T15:36:54.430Z,19.1908340454102,-155.460830688477,32.9000015258789,2.6099999,md,30,150,,0.129999995,hv,hv73249762,2022-12-01T18:19:20.037Z,"2 km SE of Pāhala, Hawaii",earthquake,0.7,1.01999998,1.29999995,3,automatic,hv,hv
 2022-12-01T15:34:37.581Z,61.6712,-149.9463,33.3,1.8,ml,,,,0.54,ak,ak022fea64r2,2022-12-01T15:37:19.957Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-01T15:33:56.730Z,33.1631667,-116.0083333,4.28,1.13,ml,26,43,0.02765,0.22,ci,ci40383216,2022-12-01T19:51:58.707Z,"12km E of Ocotillo Wells, CA",earthquake,0.29,0.71,0.068,13,reviewed,ci,ci
-2022-12-01T15:32:11.720Z,32.8353333,-116.0381667,8.86,1.85,ml,38,44,0.06596,0.25,ci,ci40383200,2022-12-01T22:27:31.505Z,"12km NNW of Ocotillo, CA",earthquake,0.26,0.65,0.092,22,reviewed,ci,ci
-2022-12-01T15:28:29.660Z,32.8361667,-116.0403333,10.46,3.82,mw,79,43,0.06516,0.25,ci,ci40383192,2022-12-02T14:48:47.174Z,"12km NNW of Ocotillo, CA",earthquake,0.18,0.47,,4,reviewed,ci,ci
