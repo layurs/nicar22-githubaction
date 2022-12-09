@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-09T10:37:43.200Z,34.0978333,-117.0505,3.01,1.16,ml,31,88,0.04052,0.2,ci,ci40143959,2022-12-09T10:41:25.554Z,"7km N of Yucaipa, CA",earthquake,0.27,0.71,0.188,28,automatic,ci,ci
-2022-12-09T10:19:05.630Z,38.8221664,-122.8274994,2.09,1.09,md,25,53,0.01334,0.02,nc,nc73816566,2022-12-09T10:20:41.394Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.18,25,automatic,nc,nc
+2022-12-09T10:19:05.630Z,38.8221664,-122.8274994,2.09,1.09,md,25,53,0.01334,0.02,nc,nc73816566,2022-12-09T10:42:15.595Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.18,25,automatic,nc,nc
 2022-12-09T10:18:23.690Z,19.2656669616699,-155.421661376953,33.7799987792969,1.97,ml,48,115,,0.140000001,hv,hv73264507,2022-12-09T10:23:55.390Z,"9 km NE of Pāhala, Hawaii",earthquake,0.57,0.720000029,3.85,5,automatic,hv,hv
 2022-12-09T10:02:21.771Z,64.3261,-150.8713,0,1.3,ml,,,,1.06,ak,ak022frfaujl,2022-12-09T10:04:41.180Z,"76 km S of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-09T09:58:49.623Z,61.1537,-151.1385,58.9,1.7,ml,,,,0.58,ak,ak022frf1h6q,2022-12-09T10:01:08.865Z,"3 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T09:39:32.880Z,38.7999992,-122.7919998,-0.37,0.79,md,17,73,0.008365,0.06,nc,nc73816556,2022-12-09T09:57:15.317Z,"4km NW of The Geysers, CA",earthquake,0.2,0.61,0.2,17,automatic,nc,nc
 2022-12-09T09:23:49.770Z,61.5028,-147.9776,22.5,1.4,ml,,,,0.27,ak,ak022fretz4x,2022-12-09T09:28:55.666Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-09T09:17:13.056Z,61.1618,-151.1564,62.7,1.6,ml,,,,0.5,ak,ak022fresm09,2022-12-09T09:18:58.007Z,"4 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-09T09:16:15.280Z,39.6500015,-123.850502,7.65,1.94,md,11,183,0.3258,0.05,nc,nc73816551,2022-12-09T09:50:10.275Z,"9km SSW of Cape Vizcaino, CA",earthquake,0.45,1.09,0.14,2,automatic,nc,nc
+2022-12-09T09:16:15.280Z,39.6500015,-123.850502,7.65,1.94,md,11,183,0.3258,0.05,nc,nc73816551,2022-12-09T10:45:13.611Z,"9km SSW of Cape Vizcaino, CA",earthquake,0.45,1.09,0.14,2,automatic,nc,nc
 2022-12-09T09:15:22.400Z,38.8498344,-122.817337,1.2,0.39,md,7,84,0.006727,0.02,nc,nc73816546,2022-12-09T10:18:12.445Z,"9km WNW of Cobb, CA",earthquake,0.4,1.14,0.25,8,automatic,nc,nc
 2022-12-09T09:12:16.350Z,19.1843338012695,-155.477172851562,34.4799995422363,1.87,md,33,143,,0.109999999,hv,hv73264467,2022-12-09T09:15:40.150Z,"2 km S of Pāhala, Hawaii",earthquake,0.71,1.12,1.63999999,14,automatic,hv,hv
 2022-12-09T09:08:56.653Z,56.9556,-155.2155,61.9,3,ml,,,,0.3,ak,ak022freqrxd,2022-12-09T09:11:27.927Z,"63 km W of Akhiok, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T11:02:17.190Z,37.8566666,-121.9690018,8.7,1.36,md,10,153,0.01883,0.04,nc,nc73816161,2022-12-08T12:43:12.605Z,"3km NNW of Diablo, CA",earthquake,0.42,0.54,0.12,9,automatic,nc,nc
 2022-12-08T11:00:52.110Z,38.7876663,-122.7699966,2.13,1.09,md,15,81,0.01505,0.02,nc,nc73816156,2022-12-08T11:31:13.197Z,"2km NW of The Geysers, CA",earthquake,0.3,0.54,0.26,18,automatic,nc,nc
 2022-12-08T11:00:09.030Z,38.8363342,-122.7911682,1.68,0.21,md,7,120,0.002169,0.01,nc,nc73816151,2022-12-08T12:18:13.461Z,"6km WNW of Cobb, CA",earthquake,0.5,1.47,0.14,8,automatic,nc,nc
-2022-12-08T10:44:45.010Z,38.8264999,-122.8103333,1.75,0.72,md,13,65,0.003107,0.01,nc,nc73816146,2022-12-08T11:07:14.025Z,"7km NW of The Geysers, CA",earthquake,0.32,0.64,0.06,14,automatic,nc,nc
