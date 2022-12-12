@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-12T11:24:10.020Z,33.3491669,-116.3499985,11.58,1.35,ml,45,69,0.09841,0.19,ci,ci40144847,2022-12-12T11:26:15.332Z,"11km NNE of Borrego Springs, CA",earthquake,0.31,0.97,0.168,9,automatic,ci,ci
+2022-12-12T11:24:10.050Z,33.3531667,-116.3448333,11.51,1.26,ml,35,55,0.1042,0.2,ci,ci40144847,2022-12-12T11:27:42.990Z,"11km NNE of Borrego Springs, CA",earthquake,0.3,1.11,0.144,27,automatic,ci,ci
 2022-12-12T11:21:00.930Z,34.253,-116.445,6.62,1.54,ml,25,79,0.0644,0.18,ci,ci40144839,2022-12-12T11:24:37.938Z,"16km N of Yucca Valley, CA",earthquake,0.28,0.71,0.132,28,automatic,ci,ci
 2022-12-12T11:20:10.620Z,33.9468333,-116.5101667,10.72,0.94,ml,28,69,0.08452,0.19,ci,ci40144831,2022-12-12T11:23:49.820Z,"2km SSW of Desert Hot Springs, CA",earthquake,0.31,0.77,0.177,27,automatic,ci,ci
 2022-12-12T11:07:49.940Z,19.1213340759277,-155.37483215332,29.2900009155273,1.75999999,md,38,189,,0.129999995,hv,hv73267287,2022-12-12T11:11:13.840Z,"14 km SE of Pāhala, Hawaii",earthquake,0.75,1.01999998,1.21000004,8,automatic,hv,hv
@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T10:52:36.220Z,34.2543333,-116.4381667,7.58,1.32,ml,17,60,0.05911,0.2,ci,ci40144815,2022-12-12T11:03:08.250Z,"16km N of Yucca Valley, CA",earthquake,0.34,1.05,0.163,29,automatic,ci,ci
 2022-12-12T10:39:16.559Z,60.9669,-150.6512,46.7,1.9,ml,,,,0.56,ak,ak022fwe4t47,2022-12-12T10:41:31.600Z,"5 km NNE of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-12T10:27:44.370Z,32.7136667,-115.3686667,13.33,1.81,ml,12,277,0.1126,0.22,ci,ci40144807,2022-12-12T10:31:21.488Z,"11km S of Holtville, CA",earthquake,1.31,1.31,0.176,23,automatic,ci,ci
-2022-12-12T10:19:31.140Z,35.5289993,-120.8291702,7.25,1.84,md,17,107,0.09333,0.07,nc,nc73817596,2022-12-12T10:54:10.375Z,"11km NNE of Cayucos, CA",earthquake,0.38,0.91,0.18,12,automatic,nc,nc
+2022-12-12T10:19:31.140Z,35.5286667,-120.8256667,6.25,1.65,md,36,58,0.08868,0.06,nc,nc73817596,2022-12-12T11:36:10.588Z,"11km WSW of Templeton, CA",earthquake,0.19,0.44,0.22,27,reviewed,nc,nc
 2022-12-12T10:15:19.780Z,33.3218333,-116.7548333,12.16,0.92,ml,37,43,0.08569,0.21,ci,ci40144791,2022-12-12T10:19:00.224Z,"9km N of Lake Henshaw, CA",earthquake,0.22,0.84,0.129,24,automatic,ci,ci
 2022-12-12T10:14:32.570Z,17.9413333333333,-66.9561666666667,9.35,2.13,md,20,216,0.05467,0.11,pr,pr71386763,2022-12-12T11:03:44.050Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.4,0.36,0.263332082137101,12,reviewed,pr,pr
 2022-12-12T10:10:02.390Z,38.7836685,-122.723999,2.02,1.09,md,6,194,0.009956,0.04,nc,nc73817591,2022-12-12T11:15:13.481Z,"3km ENE of The Geysers, CA",earthquake,1.11,0.83,0.15,7,automatic,nc,nc
@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T02:24:36.560Z,33.1636667,-115.9635,6.76,1.36,ml,25,65,0.01545,0.25,ci,ci40144687,2022-12-12T02:28:09.193Z,"15km S of Salton City, CA",earthquake,0.39,0.66,0.22,25,automatic,ci,ci
 2022-12-12T02:11:07.758Z,36.623,71.0054,214.544,4.3,mb,31,74,2.622,0.83,us,us6000j8pk,2022-12-12T02:24:33.040Z,"30 km SSE of Jurm, Afghanistan",earthquake,5.03,9.074,0.129,17,reviewed,us,us
 2022-12-12T02:08:34.582Z,35.11603165,-95.57861328,3.032464027,2.21,ml,10,114.5521698,0.1241408288,0.1522763213,ok,ok2022ygmu,2022-12-12T02:11:18.552Z,"8 km E of Crowder, Oklahoma",earthquake,4.689709272,3.668655279,,8,automatic,ok,ok
-2022-12-12T02:00:54.230Z,38.8398333,-122.8778333,2.31,0.66,md,18,89,0.004674,0.04,nc,nc73817491,2022-12-12T11:14:22.717Z,"13km WNW of The Geysers, CA",earthquake,0.23,0.33,0.098,3,reviewed,nc,nc
+2022-12-12T02:00:54.230Z,38.8398333,-122.8778333,2.31,0.66,md,18,89,0.004674,0.04,nc,nc73817491,2022-12-12T11:32:14.565Z,"13km WNW of The Geysers, CA",earthquake,0.23,0.33,0.098,3,reviewed,nc,nc
 2022-12-12T01:53:05.490Z,38.8400002,-122.878334,2.32,1.63,md,27,90,,0.02,nc,nc73817486,2022-12-12T02:27:10.418Z,"13km ENE of Cloverdale, CA",earthquake,0.23,0.34,0.1,25,automatic,nc,nc
 2022-12-12T01:46:50.441Z,35.10015488,-95.56606293,1.459530592,1.95,ml,10,116.3414917,0.1290173531,0.4354106459,ok,ok2022ygmc,2022-12-12T01:49:00.562Z,"9 km ESE of Crowder, Oklahoma",earthquake,4.58310667,3.656581004,,8,automatic,ok,ok
 2022-12-12T01:41:30.970Z,17.9755,-67.0695,11.46,2.29,md,6,206,0.02481,0.37,pr,pr71386698,2022-12-12T02:14:30.800Z,"2 km W of La Parguera, Puerto Rico",earthquake,2,2.14,0.109944632917983,4,reviewed,pr,pr
@@ -162,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T12:03:18.069Z,41.7642,144.3701,10,4.8,mb,50,133,0.94,0.53,us,us6000j8l0,2022-12-11T12:21:52.040Z,"134 km S of Kushiro, Japan",earthquake,6.56,1.879,0.095,34,reviewed,us,us
 2022-12-11T12:02:58.291Z,64.7214,-148.901,19.2,0.9,ml,,,,0.44,ak,ak022furkhlb,2022-12-11T12:05:00.342Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-11T11:42:07.354Z,61.5759,-150.5184,46.5,2.4,ml,,,,0.32,ak,ak022fur7inz,2022-12-11T20:30:34.256Z,"3 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-11T11:30:20.692Z,-7.822,104.2333,10,4.4,mb,23,182,3.406,0.35,us,us6000j8l3,2022-12-11T12:29:10.040Z,"237 km SW of Labuan, Indonesia",earthquake,8.08,1.966,0.162,11,reviewed,us,us
