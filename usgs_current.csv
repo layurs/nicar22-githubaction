@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T06:00:12.656Z,56.828,-155.2852,35,2,ml,,,,0.28,ak,ak022fxz22hn,2022-12-13T06:02:27.449Z,"69 km WSW of Akhiok, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2022-12-13T05:57:08.803Z,60.8105,-150.7396,21.7,1.7,ml,,,,0.52,ak,ak022fxystvk,2022-12-13T05:59:06.651Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-13T05:52:01.460Z,38.788166,-122.7330017,1.91,1.2,md,9,161,0.005718,0.02,nc,nc73818056,2022-12-13T07:03:14.697Z,"2km ENE of The Geysers, CA",earthquake,0.48,0.88,0.14,11,automatic,nc,nc
-2022-12-13T05:30:41.710Z,38.8396683,-122.8231659,1.87,1.27,md,23,65,0.009682,0.04,nc,nc73818046,2022-12-13T06:41:17.572Z,"9km WNW of Cobb, CA",earthquake,0.2,0.5,0.22,25,automatic,nc,nc
+2022-12-13T05:30:41.710Z,38.8396683,-122.8231659,1.87,1.27,md,23,65,0.009682,0.04,nc,nc73818046,2022-12-13T07:46:10.959Z,"9km WNW of Cobb, CA",earthquake,0.2,0.5,0.22,25,automatic,nc,nc
 2022-12-13T05:23:25.010Z,38.8574982,-122.8391647,1.31,1.11,md,15,134,0.01267,0.01,nc,nc73818041,2022-12-13T07:18:10.786Z,"11km WNW of Cobb, CA",earthquake,0.29,0.44,0.32,16,automatic,nc,nc
 2022-12-13T05:19:09.460Z,38.8581657,-122.8388367,1.28,2,md,22,135,0.01259,0.02,nc,nc73818026,2022-12-13T07:03:14.832Z,"11km WNW of Cobb, CA",earthquake,0.22,0.4,0.09,22,automatic,nc,nc
 2022-12-13T05:18:15.750Z,38.8590012,-122.8401642,0.92,0.73,md,5,139,0.01383,0.01,nc,nc73818021,2022-12-13T06:07:15.362Z,"11km WNW of Cobb, CA",earthquake,0.4,1.54,0.11,8,automatic,nc,nc
@@ -83,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T23:36:58.820Z,38.8544998,-122.8371658,0.57,0.85,md,7,122,0.01079,0.01,nc,nc73817761,2022-12-12T23:38:36.336Z,"10km WNW of Cobb, CA",earthquake,0.26,1.26,0.28,8,automatic,nc,nc
 2022-12-12T23:36:39.510Z,38.8571667,-122.8371667,1.3,1.03,md,40,116,0.01108,0.05,nc,nc73817756,2022-12-13T06:58:25.936Z,"11km WNW of Cobb, CA",earthquake,0.13,0.21,0.065,8,reviewed,nc,nc
 2022-12-12T23:36:06.460Z,38.8564987,-122.8368301,1.37,0.31,md,8,128,0.01791,0.02,nc,nc73817751,2022-12-13T00:48:13.474Z,"11km WNW of Cobb, CA",earthquake,0.32,1.22,0.21,9,automatic,nc,nc
-2022-12-12T23:35:37.990Z,38.8565,-122.836,1.34,1.32,md,43,114,0.01005,0.05,nc,nc73817746,2022-12-13T07:01:10.683Z,"10km WNW of Cobb, CA",earthquake,0.13,0.25,0.074,7,reviewed,nc,nc
+2022-12-12T23:35:37.990Z,38.8565,-122.836,1.34,1.32,md,43,114,0.01005,0.05,nc,nc73817746,2022-12-13T07:49:13.979Z,"10km WNW of Cobb, CA",earthquake,0.13,0.25,0.074,7,reviewed,nc,nc
 2022-12-12T23:35:16.220Z,38.857,-122.8383333,0.94,0.81,md,34,131,0.01193,0.03,nc,nc73817741,2022-12-13T06:46:24.618Z,"11km WNW of Cobb, CA",earthquake,0.17,0.27,0.196,5,reviewed,nc,nc
 2022-12-12T23:34:59.420Z,38.8571667,-122.8378333,1.22,1.07,md,42,117,0.01158,0.05,nc,nc73817736,2022-12-13T06:41:54.142Z,"11km WNW of Cobb, CA",earthquake,0.11,0.24,0.137,7,reviewed,nc,nc
 2022-12-12T23:34:02.130Z,35.9578333,-117.4653333,4.12,1.24,ml,13,132,0.1128,0.11,ci,ci40145055,2022-12-13T00:21:28.889Z,"22km NNW of Searles Valley, CA",earthquake,0.29,0.69,0.147,10,reviewed,ci,ci
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T08:04:39.081Z,38.2484,-118.3572,10,0.6,ml,10,148.98,0.116,0.1196,nn,nn00853205,2022-12-12T22:25:32.497Z,"26 km SW of Mina, Nevada",earthquake,,2.9,0,1,reviewed,nn,nn
 2022-12-12T08:00:43.492Z,36.7893,-116.2247,5.1,0.1,ml,11,94.63,0.038,0.0884,nn,nn00853204,2022-12-12T22:16:11.376Z,"49 km ESE of Beatty, Nevada",earthquake,,2.3,0.43,7,reviewed,nn,nn
 2022-12-12T07:59:52.740Z,35.5,-118.397,6.34,1.73,ml,34,41,0.1741,0.13,ci,ci40144767,2022-12-13T00:57:49.800Z,"13km SE of Bodfish, CA",earthquake,0.15,0.65,0.233,27,reviewed,ci,ci
-2022-12-12T07:45:08.078Z,36.8546,-116.1175,8.1,0.1,ml,3,332.61,0.049,0.0535,nn,nn00853203,2022-12-12T22:06:52.422Z,"50 km NW of Indian Springs, Nevada",earthquake,,3.8,0.21,2,reviewed,nn,nn
