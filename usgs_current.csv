@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T09:36:29.300Z,63.0452,-150.9403,114.7,2.2,ml,,,,0.22,ak,ak022g1c4stu,2022-12-15T09:38:32.229Z,"61 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-12-15T09:30:52.800Z,19.2119998931885,-155.372497558594,32.6699981689453,2,md,44,159,,0.129999995,hv,hv73270137,2022-12-15T09:34:03.250Z,"11 km E of Pāhala, Hawaii",earthquake,0.55,0.620000005,2,12,automatic,hv,hv
 2022-12-15T09:15:59.150Z,17.9815,-66.8991666666667,10.56,2.23,md,13,117,0.01292,0.16,pr,pr71387253,2022-12-15T09:31:21.950Z,"Puerto Rico region",earthquake,0.48,0.35,0.186076775986294,5,reviewed,pr,pr
 2022-12-15T09:15:15.840Z,17.9791666666667,-66.886,9.84,2.27,md,7,147,0.00761,0.06,pr,pr71387258,2022-12-15T09:24:30.900Z,"0 km ENE of Maria Antonia, Puerto Rico",earthquake,0.4,0.43,0.0600644761462972,4,reviewed,pr,pr
+2022-12-15T09:14:42.987Z,-60.0429,-26.8852,10,5.2,mb,42,96,15.091,0.6,us,us6000j9dp,2022-12-15T09:34:37.040Z,"South Sandwich Islands region",earthquake,12.77,1.896,0.072,64,reviewed,us,us
 2022-12-15T09:02:49.930Z,38.8366661,-122.7945023,1.98,0.7,md,10,75,0.003684,0.01,nc,nc73818921,2022-12-15T09:22:14.899Z,"6km WNW of Cobb, CA",earthquake,0.38,1.1,0.18,10,automatic,nc,nc
 2022-12-15T09:02:07.147Z,63.0515,-148.7293,7,1.6,ml,,,,0.54,ak,ak022g1bxgru,2022-12-15T09:03:52.173Z,"39 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-15T08:58:50.300Z,33.9698333,-117.1318333,14.82,0.85,ml,22,65,0.04074,0.17,ci,ci40145687,2022-12-15T09:02:28.554Z,"8km WSW of Calimesa, CA",earthquake,0.31,0.78,0.169,23,automatic,ci,ci
@@ -70,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T00:04:28.700Z,17.9638333333333,-66.8451666666667,13.68,2.77,md,17,195,0.03431,0.14,pr,pr71387203,2022-12-15T00:19:30.850Z,"4 km SW of Indios, Puerto Rico",earthquake,0.54,0.24,0.135232493893414,6,reviewed,pr,pr
 2022-12-15T00:00:00.770Z,48.51433333333333,-123.50483333333334,-0.24,0.02,md,4,154,0.14,0.18,uw,uw61898566,2022-12-15T01:42:26.380Z,"7 km NNW of Six Mile, Canada",explosion,0.8,31.61,0.20406110407852052,3,reviewed,uw,uw
 2022-12-14T23:58:23.660Z,38.8283348,-122.8134995,1.58,0.76,md,14,73,0.005612,0.05,nc,nc73818741,2022-12-15T00:43:12.809Z,"8km NW of The Geysers, CA",earthquake,0.27,0.64,0.17,15,automatic,nc,nc
-2022-12-14T23:55:51.279Z,64.8508,-147.5278,8.8,0.2,ml,,,,0.36,ak,ak022fzx1lcx,2022-12-15T00:13:45.141Z,"5 km N of Badger, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2022-12-14T23:55:51.279Z,64.8508,-147.5278,8.8,0.2,ml,,,,0.36,ak,ak022fzx1lcx,2022-12-15T00:13:45.141Z,"Central Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-12-14T23:55:28.720Z,34.557,-116.5265,3.92,2.26,ml,50,46,0.1184,0.12,ci,ci40145615,2022-12-15T00:49:19.690Z,"38km WSW of Ludlow, CA",earthquake,0.14,0.57,0.12,26,reviewed,ci,ci
 2022-12-14T23:53:29.270Z,17.9788333333333,-66.818,14.4,1.91,md,7,200,0.05843,0.06,pr,pr71387198,2022-12-15T00:04:16.080Z,"1 km S of Indios, Puerto Rico",earthquake,0.4,0.41,0.0697276691667581,5,reviewed,pr,pr
 2022-12-14T23:52:54.050Z,56.879,-158.179166666667,4.3,0.27,ml,5,110,,0.07,av,av91079943,2022-12-15T03:21:42.510Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.36,0.72,0.302395832714192,5,reviewed,av,av
@@ -195,11 +198,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T10:47:20.710Z,35.7465,-117.575,2.88,1.5,ml,27,84,0.07147,0.14,ci,ci40145407,2022-12-14T17:43:30.133Z,"16km W of Searles Valley, CA",earthquake,0.21,0.39,0.126,23,reviewed,ci,ci
 2022-12-14T10:44:11.363Z,61.9223,-150.3347,8.7,1.7,ml,,,,0.38,ak,ak022fzp8ka8,2022-12-14T10:46:32.886Z,"25 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-14T10:39:54.600Z,40.4033318,-124.0978317,22.49,1.89,md,8,174,0.02232,0.05,nc,nc73818551,2022-12-14T12:20:13.224Z,"11km S of Rio Dell, CA",earthquake,1.14,1.09,0.23,7,automatic,nc,nc
-2022-12-14T10:39:37.420Z,58.2995,-155.168,3.3,0.02,ml,6,170,,0.26,av,av91079863,2022-12-15T00:27:31.130Z,"91 km NNW of Karluk, Alaska",earthquake,1.94,1.76,0.15906880383132,6,reviewed,av,av
+2022-12-14T10:39:37.420Z,58.2995,-155.168,3.3,0.02,ml,6,170,,0.26,av,av91079863,2022-12-15T00:27:31.130Z,"Alaska Peninsula",earthquake,1.94,1.76,0.15906880383132,6,reviewed,av,av
 2022-12-14T10:30:08.240Z,58.3891666666667,-154.543166666667,1.31,-0.1,ml,6,248,,0.15,av,av91079858,2022-12-15T00:24:25.130Z,"91 km N of Karluk, Alaska",earthquake,0.94,1.78,0.1581226269586,6,reviewed,av,av
 2022-12-14T10:00:01.440Z,51.8071666666667,-177.985,7.5,1.31,ml,4,296,,0.3,av,av91079853,2022-12-15T00:21:32.700Z,"93 km W of Adak, Alaska",earthquake,2.48,1.72,0.256874430901366,4,reviewed,av,av
 2022-12-14T09:56:29.720Z,19.3386666666667,-155.146333333333,4.88,2.18,ml,41,88,,0.12,hv,hv73269162,2022-12-14T22:58:36.150Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.75,0.146541452560138,16,reviewed,hv,hv
 2022-12-14T09:52:35.390Z,35.8148333,-117.6426667,7.89,0.79,ml,17,78,0.03671,0.12,ci,ci40145399,2022-12-14T17:37:37.039Z,"22km N of Ridgecrest, CA",earthquake,0.24,0.42,0.123,5,reviewed,ci,ci
-2022-12-14T09:49:20.590Z,58.2645,-155.130333333333,6.09,-0.33,ml,5,188,,0.16,av,av91079848,2022-12-15T00:17:23.860Z,"87 km NNW of Karluk, Alaska",earthquake,2.92,0.9,0.103893308474756,5,reviewed,av,av
-2022-12-14T09:37:43.186Z,38.3908,-118.8995,11.7,1.2,ml,15,150.4,0.34,0.1621,nn,nn00853326,2022-12-15T02:41:19.669Z,"28 km WSW of Hawthorne, Nevada",earthquake,,2.9,0.1,5,reviewed,nn,nn
-2022-12-14T09:33:26.880Z,18.7968333333333,-65.0691666666667,8.55,3.21,md,7,258,0.4548,0.31,pr,pr71387138,2022-12-14T09:46:47.920Z,"52 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.42,1.43,0.029847934250673,4,reviewed,pr,pr
+2022-12-14T09:49:20.590Z,58.2645,-155.130333333333,6.09,-0.33,ml,5,188,,0.16,av,av91079848,2022-12-15T00:17:23.860Z,"Alaska Peninsula",earthquake,2.92,0.9,0.103893308474756,5,reviewed,av,av
