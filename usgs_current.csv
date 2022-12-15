@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-15T14:04:29.890Z,38.8363342,-122.7914963,1.92,1.27,md,20,43,0.002259,0.02,nc,nc73818956,2022-12-15T14:06:03.468Z,"6km WNW of Cobb, CA",earthquake,0.22,0.51,0.17,21,automatic,nc,nc
+2022-12-15T14:04:29.890Z,38.8363342,-122.7914963,1.92,1.27,md,20,43,0.002259,0.02,nc,nc73818956,2022-12-15T14:21:13.668Z,"6km WNW of Cobb, CA",earthquake,0.22,0.51,0.17,21,automatic,nc,nc
 2022-12-15T13:55:13.580Z,33.3373333,-116.3751667,10.69,1.64,ml,58,40,0.0774,0.23,ci,ci40145735,2022-12-15T14:06:07.410Z,"9km N of Borrego Springs, CA",earthquake,0.26,0.56,0.123,27,automatic,ci,ci
 2022-12-15T13:12:40.630Z,33.1558333,-116.5908333,9,0.96,ml,29,53,0.06408,0.19,ci,ci40145727,2022-12-15T13:16:17.344Z,"9km N of Julian, CA",earthquake,0.3,0.62,0.193,26,automatic,ci,ci
 2022-12-15T12:58:07.450Z,38.848835,-122.7818298,1.11,0.97,md,12,181,0.007532,0.02,nc,nc73818951,2022-12-15T13:41:21.444Z,"6km WNW of Cobb, CA",earthquake,0.51,0.76,0.27,14,automatic,nc,nc
@@ -154,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T18:16:02.660Z,19.7135,-65.7535,82,3.58,md,4,304,1.4827,0.34,pr,pr2022348003,2022-12-14T19:05:04.922Z,"142 km N of Suárez, Puerto Rico",earthquake,6.88,15.98,0.13,3,reviewed,pr,pr
 2022-12-14T18:15:05.960Z,38.8306656,-122.8018341,1.79,1.11,md,23,41,0.009702,0.02,nc,nc73818656,2022-12-14T19:01:11.579Z,"7km W of Cobb, CA",earthquake,0.18,0.38,0.21,25,automatic,nc,nc
 2022-12-14T17:53:58.390Z,61.4321,-150.6238,45.5,1.6,ml,,,,0.43,ak,ak022fztgmlb,2022-12-14T17:56:14.510Z,"13 km SSW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-14T17:40:16.469Z,35.81133333,-95.03666667,0,1.74,ml,45,125,0.3563300759,0.42,ok,ok2022ylio,2022-12-15T14:21:59.304Z,"1 km SE of Zeb, Oklahoma",quarry blast,,0.5,0.19,7,reviewed,ok,ok
 2022-12-14T17:33:33.540Z,17.954,-67.0313333333333,7.12,1.94,md,4,267,0.01965,0.03,pr,pr71387158,2022-12-14T17:54:40.660Z,"2 km SE of La Parguera, Puerto Rico",earthquake,0.52,0.76,0.00737535059220695,3,reviewed,pr,pr
 2022-12-14T17:25:52.670Z,54.7156666666667,-164.112833333333,7.63,0.86,ml,4,257,,0.27,av,av91730741,2022-12-15T01:50:04.540Z,"47 km WSW of False Pass, Alaska",earthquake,1.87,2.01,0.348667069796484,4,reviewed,av,av
 2022-12-14T17:23:24.230Z,62.3354,-148.1335,27.1,1.7,ml,,,,0.97,ak,ak022fzta4h3,2022-12-14T17:25:50.957Z,"62 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -181,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T15:05:34.328Z,62.5288,-151.2619,81.1,1.7,ml,,,,0.34,ak,ak022fzrzf5k,2022-12-14T15:07:26.127Z,"25 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-14T14:55:32.779Z,31.60745084,-103.9620701,8.239624022999998,2.7,ml,30,60,0.00662919375,0.2,tx,tx2022ylda,2022-12-14T16:09:45.662Z,"36 km WSW of Mentone, Texas",earthquake,0.5880168365000001,0.6140795285,0.2,18,reviewed,tx,tx
 2022-12-14T14:36:04.044Z,64.2398,-148.6059,16.7,1.3,ml,,,,0.53,ak,ak022fzrkkes,2022-12-14T14:37:24.718Z,"28 km E of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-14T14:25:57.580Z,51.848,-178.048833333333,-1.8,1.53,ml,6,120,,0.26,av,av91730701,2022-12-15T01:14:29.270Z,"97 km W of Adak, Alaska",earthquake,0.48,1.42,0.19259038682572,6,reviewed,av,av
-2022-12-14T14:21:40.989Z,31.71229338,-104.2694902,7.005639647999999,2.8,ml,24,51,0.04094968509,0.2,tx,tx2022ylbz,2022-12-14T14:37:22.574Z,"52 km S of Whites City, New Mexico",earthquake,0.7387645789000001,0.725827678,0.1,14,reviewed,tx,tx
-2022-12-14T14:17:42.427Z,58.8729,-152.7582,65.8,2,ml,,,,0.39,ak,ak022fzrgkrm,2022-12-14T14:19:56.121Z,"72 km SW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
