@@ -4,8 +4,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T06:58:13.656Z,59.6987,-153.4752,112.6,1.7,ml,,,,0.21,ak,ak022g7wmkj9,2022-12-19T07:11:02.178Z,"36 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-19T06:57:27.590Z,33.3171667,-116.3771667,9.61,1.04,ml,36,64,0.05922,0.22,ci,ci40392112,2022-12-19T07:01:10.580Z,"7km N of Borrego Springs, CA",earthquake,0.31,0.7,0.191,27,automatic,ci,ci
 2022-12-19T06:52:54.560Z,19.2110004425049,-155.485504150391,30.3600006103516,1.85000002,md,23,81,,0.109999999,hv,hv73275832,2022-12-19T06:56:04.710Z,"Island of Hawaii, Hawaii",earthquake,0.89,0.959999979,0.74000001,3,automatic,hv,hv
-2022-12-19T06:48:29.760Z,38.7878342,-122.7678299,2.27,1.26,md,21,79,0.01426,0.03,nc,nc73820581,2022-12-19T07:02:11.196Z,"2km NW of The Geysers, CA",earthquake,0.25,0.47,0.17,20,automatic,nc,nc
-2022-12-19T06:36:46.960Z,35.9923325,-120.1855011,7.88,1.27,md,10,135,0.09107,0.04,nc,nc73820576,2022-12-19T07:30:13.352Z,"5km WSW of Avenal, CA",earthquake,0.86,0.39,0.05,4,automatic,nc,nc
+2022-12-19T06:48:29.760Z,38.7878342,-122.7678299,2.27,1.26,md,21,79,0.01426,0.03,nc,nc73820581,2022-12-19T07:41:16.408Z,"2km NW of The Geysers, CA",earthquake,0.25,0.47,0.17,20,automatic,nc,nc
+2022-12-19T06:36:46.960Z,35.9923325,-120.1855011,7.88,1.27,md,10,135,0.09107,0.04,nc,nc73820576,2022-12-19T07:41:11.408Z,"5km WSW of Avenal, CA",earthquake,0.86,0.39,0.05,4,automatic,nc,nc
 2022-12-19T06:32:52.170Z,19.1918334960938,-155.479827880859,34.7599983215332,2.4,ml,45,81,,0.109999999,hv,hv73275792,2022-12-19T06:38:23.260Z,"1 km S of Pāhala, Hawaii",earthquake,0.59,0.790000021,0.34,7,automatic,hv,hv
 2022-12-19T06:27:13.746Z,58.1698,-155.4389,19.4,0.4,ml,,,,0.89,ak,ak022g7wfxhg,2022-12-19T06:29:58.610Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-19T06:26:42.040Z,19.4046669006348,-155.282333374023,0.699999988079071,1.77,ml,13,89,,0.140000001,hv,hv73275787,2022-12-19T06:32:12.680Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.400000006,0.58,4,automatic,hv,hv
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T01:54:49.410Z,38.8326683,-122.7753296,0.74,0.65,md,7,108,0.004766,0.01,nc,nc73820516,2022-12-19T02:28:12.553Z,"5km WNW of Cobb, CA",earthquake,0.33,0.53,0.29,7,automatic,nc,nc
 2022-12-19T01:50:25.550Z,33.2961667,-116.7256667,11.15,0.35,ml,14,106,0.06612,0.25,ci,ci40392048,2022-12-19T01:53:57.978Z,"7km NNE of Lake Henshaw, CA",earthquake,0.83,1.41,0.085,6,automatic,ci,ci
 2022-12-19T01:22:38.839Z,44.2771,-116.1994,14.476,2.9,ml,16,62,0.823,0.62,us,us6000ja7t,2022-12-19T02:07:15.501Z,"9 km WSW of Smiths Ferry, Idaho",earthquake,1.85,6.729,0.04,84,reviewed,us,us
-2022-12-19T01:08:30.220Z,38.2123333,-119.1833333,4.71,1.97,md,14,105,0.1413,0.1,nc,nc73820501,2022-12-19T07:07:10.225Z,"6km SE of Bridgeport, CA",earthquake,0.46,5.59,0.268,12,reviewed,nc,nc
+2022-12-19T01:08:30.220Z,38.2123333,-119.1833333,4.71,1.97,md,14,105,0.1413,0.1,nc,nc73820501,2022-12-19T07:51:14.464Z,"6km SE of Bridgeport, CA",earthquake,0.46,5.59,0.268,12,reviewed,nc,nc
 2022-12-19T01:00:07.672Z,60.5069,-150.7731,48.8,1.6,ml,,,,0.34,ak,ak022g7tayin,2022-12-19T01:01:55.639Z,"0 km NW of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-19T00:57:04.782Z,-3.5069,-77.0225,104.594,5,mb,100,126,6.005,0.81,us,us6000ja7n,2022-12-19T02:48:26.441Z,"Peru-Ecuador border region",earthquake,9.44,6.96,0.025,521,reviewed,us,us
 2022-12-19T00:40:57.962Z,60.3314,-146.4389,20.1,2,ml,,,,0.63,ak,ak022g7sy7fo,2022-12-19T00:43:12.072Z,"44 km WSW of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T17:56:55.075Z,31.65549035,-104.4606637,5.977319336,2.9,ml,18,66,0.02442488833,0.2,tx,tx2022ysrc,2022-12-18T18:17:54.255Z,"58 km S of Whites City, New Mexico",earthquake,1.152997707,0.8183886501999998,0.1,11,reviewed,tx,tx
 2022-12-18T17:54:41.350Z,38.8238335,-122.8006668,3.14,1.1,md,7,91,0.007361,0.01,nc,nc73820376,2022-12-18T18:55:12.882Z,"6km NW of The Geysers, CA",earthquake,0.52,2.19,0.19,7,automatic,nc,nc
 2022-12-18T17:50:45.660Z,33.0416667,-116.4396667,7.57,0.73,ml,18,82,0.1383,0.25,ci,ci40391920,2022-12-18T17:54:21.511Z,"16km ESE of Julian, CA",earthquake,0.43,2.44,0.191,11,automatic,ci,ci
-2022-12-18T17:49:53.470Z,39.2295,-123.203,5.8,1.11,md,8,156,0.07981,0.06,nc,nc73820371,2022-12-19T07:14:10.266Z,"4km S of Redwood Valley, CA",earthquake,0.44,0.85,0.162,7,reviewed,nc,nc
+2022-12-18T17:49:53.470Z,39.2295,-123.203,5.8,1.11,md,8,156,0.07981,0.06,nc,nc73820371,2022-12-19T07:51:14.591Z,"4km S of Redwood Valley, CA",earthquake,0.44,0.85,0.162,7,reviewed,nc,nc
 2022-12-18T17:49:11.580Z,38.822834,-122.7845001,1.84,0.74,md,11,66,0.01001,0.01,nc,nc73820366,2022-12-18T18:14:13.629Z,"5km W of Cobb, CA",earthquake,0.35,0.54,0.15,13,automatic,nc,nc
 2022-12-18T17:47:33.140Z,38.7794991,-122.716835,1.77,1.04,md,8,102,0.01599,0.02,nc,nc73820361,2022-12-18T18:04:12.566Z,"2km WNW of Anderson Springs, CA",earthquake,0.36,0.68,0.31,8,automatic,nc,nc
 2022-12-18T17:36:50.500Z,38.1536,-118.0266,0,1.4,ml,12,143.01,0.184,0.2121,nn,nn00853645,2022-12-18T17:39:49.663Z,"27 km SSE of Mina, Nevada",earthquake,,9.5,0.27,8,automatic,nn,nn
@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T08:04:38.160Z,35.6638333,-118.4611667,8.32,1.2,ml,21,60,0.01053,0.14,ci,ci40391704,2022-12-18T15:01:39.950Z,"5km S of Wofford Heights, CA",earthquake,0.41,0.46,0.135,12,reviewed,ci,ci
 2022-12-18T07:59:04.120Z,18.3228,-68.762,119,4.34,md,26,177,1.0567,0.59,pr,pr2022352001,2022-12-18T09:25:00.681Z,"15 km SW of San Rafael del Yuma, Dominican Republic",earthquake,3.42,2.36,0.14,22,reviewed,pr,pr
 2022-12-18T07:52:49.950Z,38.8238335,-122.8068314,2.78,0.74,md,9,91,0.00257,0.01,nc,nc73820176,2022-12-18T08:26:12.074Z,"7km NW of The Geysers, CA",earthquake,0.39,1.45,0.14,11,automatic,nc,nc
-2022-12-18T07:50:31.310Z,17.9693333333333,-66.9615,9.21,2.85,md,24,185,0.05039,0.21,pr,pr71387833,2022-12-18T08:39:23.070Z,"Puerto Rico region",earthquake,0.4,0.61,0.126118452868582,12,reviewed,pr,pr
-2022-12-18T07:40:47.923Z,-5.0069,152.0251,90.498,4.6,mb,24,78,0.823,0.56,us,us6000ja46,2022-12-18T08:02:40.040Z,"78 km SSW of Kokopo, Papua New Guinea",earthquake,11.4,8.821,0.136,18,reviewed,us,us
