@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-21T09:19:53.210Z,61.1123,-150.3021,39,1.7,ml,,,,0.52,ak,ak022gb99agp,2022-12-21T09:21:51.835Z,"24 km WSW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-21T09:13:55.680Z,40.5323334,-124.2358322,20,2.15,md,10,174,0.09604,0.1,nc,nc73822411,2022-12-21T09:20:12.471Z,"5km SSE of Ferndale, CA",earthquake,1.14,0.93,0.07,7,automatic,nc,nc
-2022-12-21T09:12:36.442Z,32.11029053,-102.2050067,7.752156576,3.2,ml,10,66,0.03768184043,0.1,tx,tx2022yxmi,2022-12-21T09:40:21.565Z,"17 km NW of Midland, Texas",earthquake,0.701952558,0.8698710537999998,0.3,13,reviewed,tx,tx
+2022-12-21T09:12:36.442Z,32.11029053,-102.2050067,7.752156576,3.2,ml,10,66,0.03768184043,0.1,tx,tx2022yxmi,2022-12-21T09:50:43.947Z,"17 km NW of Midland, Texas",earthquake,0.701952558,0.8698710537999998,0.3,13,reviewed,tx,tx
 2022-12-21T09:03:11.600Z,40.5301666,-124.3515015,14.84,3.03,ml,22,207,0.05558,0.18,nc,nc73822406,2022-12-21T09:20:11.470Z,"9km SW of Ferndale, CA",earthquake,1.39,0.5,0.271,5,automatic,nc,nc
 2022-12-21T09:02:55.670Z,40.5541649,-124.1656647,20.33,1.93,md,11,165,0.1527,0.09,nc,nc73822401,2022-12-21T09:20:11.606Z,"5km S of Fortuna, CA",earthquake,0.75,0.6,0.02,6,automatic,nc,nc
 2022-12-21T08:48:29.820Z,19.3156661987305,-155.388671875,4.17999982833862,1.83000004,md,9,175,,0.0700000003,hv,hv73277452,2022-12-21T08:51:34.130Z,"15 km NE of Pāhala, Hawaii",earthquake,1.51,0.600000024,0.910000026,3,automatic,hv,hv
@@ -298,7 +298,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T11:05:49.570Z,46.759166666666665,-121.92166666666667,4.65,0.51,ml,17,178,0.01931,0.09,uw,uw61899276,2022-12-20T22:35:57.210Z,"8 km E of Ashford, Washington",earthquake,0.32,0.44,0.12639252565277118,8,reviewed,uw,uw
 2022-12-20T11:05:02.360Z,40.5345,-124.3256667,18.78,2.52,md,21,191,0.04398,0.12,nc,nc73821146,2022-12-21T02:27:15.972Z,"7km SW of Ferndale, CA",earthquake,0.52,0.24,0.082,16,reviewed,nc,nc
 2022-12-20T11:03:09.540Z,40.5868333,-124.0923333,22.36,2.99,md,23,61,0.08341,0.1,nc,nc73821141,2022-12-21T05:23:19.105Z,"4km N of Hydesville, CA",earthquake,0.31,0.41,0.253,19,reviewed,nc,nc
-2022-12-20T11:02:13.380Z,40.5318333,-124.3286667,18.03,2.72,md,24,193,0.04327,0.14,nc,nc73821136,2022-12-21T06:49:10.697Z,"7km SW of Ferndale, CA",earthquake,0.59,0.28,0.166,29,reviewed,nc,nc
+2022-12-20T11:02:13.380Z,40.5318333,-124.3286667,18.03,2.72,md,24,193,0.04327,0.14,nc,nc73821136,2022-12-21T09:49:10.812Z,"7km SW of Ferndale, CA",earthquake,0.59,0.28,0.166,29,reviewed,nc,nc
 2022-12-20T11:01:35.890Z,37.1103,-115.4895,13.2,1.5,ml,4,353.21,0.369,0.041,nn,nn00853821,2022-12-20T22:59:28.505Z,"40 km SW of Alamo, Nevada",earthquake,,34,0.01,2,reviewed,nn,nn
 2022-12-20T11:01:01.016Z,62.8944,-149.7874,72.6,2.4,ml,,,,0.69,ak,ak022g9msu9h,2022-12-20T11:02:53.896Z,"52 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-20T10:59:46.100Z,61.0216,-146.6812,56.9,2.6,ml,,,,1.04,ak,ak022g9mjxo2,2022-12-20T11:01:48.861Z,"17 km N of Tatitlek, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -329,6 +329,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T10:00:51.440Z,58.189,-155.286833333333,1.97,-0.47,ml,7,146,,0.08,av,av91733996,2022-12-21T05:30:27.460Z,"84 km NW of Karluk, Alaska",earthquake,0.26,0.57,0.206134780758417,7,reviewed,av,av
 2022-12-20T09:54:37.304Z,36.8755,78.5953,10,4.3,mb,38,95,4.77,0.36,us,us6000jahe,2022-12-20T12:00:42.040Z,"47 km SSW of Zangguy, China",earthquake,8.05,1.93,0.133,16,reviewed,us,us
 2022-12-20T09:54:16.935Z,39.8883,-120.7815,13.5,0.7,ml,3,298.96,0.325,0.1092,nn,nn00853819,2022-12-20T22:37:47.967Z,"0 km SSE of Spring Garden, California",earthquake,,13.9,0.23,3,reviewed,nn,nn
-2022-12-20T09:50:35.550Z,51.8486666666667,-177.928,1.73,1.05,ml,5,151,,0.11,av,av91733981,2022-12-21T05:25:04.810Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.42,2.09,0.377712537708788,5,reviewed,av,av
-2022-12-20T09:48:09.420Z,38.7948341,-122.7278366,1.92,1.26,md,13,102,0.0135,0.01,nc,nc73821011,2022-12-20T10:46:14.050Z,"3km S of Cobb, CA",earthquake,0.31,0.61,0.22,12,automatic,nc,nc
-2022-12-20T09:45:48.140Z,51.8618333333333,-177.939,4.93,0.85,ml,5,158,,0.23,av,av91081258,2022-12-21T05:22:53.640Z,"89 km W of Adak, Alaska",earthquake,0.69,1.73,0.31608991717238,5,reviewed,av,av
