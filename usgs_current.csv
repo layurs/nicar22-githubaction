@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-26T19:45:48.500Z,38.8255005,-122.7633362,1.96,0.22,md,10,183,0.007143,0.02,nc,nc73825406,2022-12-26T19:47:25.726Z,"4km W of Cobb, CA",earthquake,0.85,0.61,0.07,9,automatic,nc,nc
+2022-12-26T19:44:36.690Z,19.9165000915527,-155.702667236328,5.51999998092651,2.3599999,md,16,152,,0.300000012,hv,hv73283897,2022-12-26T19:47:57.380Z,"9 km ESE of Waikoloa, Hawaii",earthquake,0.88,1.36000001,1.57000005,3,automatic,hv,hv
 2022-12-26T19:37:28.090Z,32.9168333,-115.5245,11.03,1.19,ml,9,166,0.0341,0.22,ci,ci40150351,2022-12-26T19:41:04.945Z,"7km S of Brawley, CA",earthquake,1.51,1.01,0.232,15,automatic,ci,ci
 2022-12-26T19:30:31.810Z,33.4886667,-116.7878333,5.17,1.04,ml,45,40,0.02585,0.18,ci,ci40150343,2022-12-26T19:33:58.323Z,"9km NE of Aguanga, CA",earthquake,0.19,0.75,0.086,26,automatic,ci,ci
 2022-12-26T19:07:55.460Z,17.9498333333333,-67.0025,6.06,2.49,md,15,220,0.04424,0.06,pr,pr71389148,2022-12-26T19:22:29.510Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.28,0.21,0.0722975663759908,6,reviewed,pr,pr
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T15:12:00.721Z,59.5679,-153.9851,9,2.4,ml,,,,1.22,ak,ak022gjmh0i0,2022-12-26T15:14:08.429Z,"25 km SSE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-26T15:10:52.329Z,-65.351,-179.6032,10,4.7,mb,22,124,13.209,0.41,us,us6000jbt6,2022-12-26T15:46:04.040Z,"Pacific-Antarctic Ridge",earthquake,8.83,1.909,0.134,21,reviewed,us,us
 2022-12-26T15:10:50.020Z,33.6648333,-116.7685,13.78,1.01,ml,36,66,0.06471,0.16,ci,ci40150279,2022-12-26T15:14:17.838Z,"10km SSW of Idyllwild, CA",earthquake,0.25,0.38,0.208,27,automatic,ci,ci
-2022-12-26T14:52:09.120Z,18.0265,-66.8456666666667,11.9,2.07,md,8,112,0.06033,0.13,pr,pr71389133,2022-12-26T16:21:26.790Z,"1 km SSE of Yauco, Puerto Rico",earthquake,0.66,1.14,0.0689203825428089,8,reviewed,pr,pr
+2022-12-26T14:52:09.120Z,18.0265,-66.8456666666667,11.9,2.07,md,8,112,0.06033,0.13,pr,pr71389133,2022-12-26T16:21:26.790Z,"Puerto Rico region",earthquake,0.66,1.14,0.0689203825428089,8,reviewed,pr,pr
 2022-12-26T14:42:19.142Z,58.1665,-155.4067,0,2.3,ml,,,,0.59,ak,ak022gjm21sq,2022-12-26T14:49:52.040Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-26T14:32:32.530Z,19.2471675872803,-155.38200378418,32.6199989318848,1.95000005,md,42,177,,0.119999997,hv,hv73283647,2022-12-26T14:35:38.130Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.59,0.730000019,0.519999981,17,automatic,hv,hv
 2022-12-26T14:32:28.010Z,62.038,-150.6141,45.9,2,ml,,,,0.37,ak,ak022gjlzxbl,2022-12-26T14:34:01.420Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -215,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T20:00:46.280Z,38.7908325,-122.7616653,1.88,1.11,md,17,105,0.009897,0.02,nc,nc73824836,2022-12-25T22:38:12.973Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.47,0.15,16,automatic,nc,nc
 2022-12-25T19:53:36.970Z,19.4034996032715,-155.29167175293,1.88999998569489,1.89999998,md,13,83,,0.129999995,hv,hv73282727,2022-12-25T19:56:34.660Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.349999994,0.479999989,9,automatic,hv,hv
 2022-12-25T19:53:19.733Z,-26.4829,-115.4617,10,5.1,mb,33,115,39.587,0.77,us,us6000jbnq,2022-12-25T21:21:03.040Z,"southern East Pacific Rise",earthquake,17.48,1.863,0.078,53,reviewed,us,us
-2022-12-25T19:47:31.300Z,18.0136666666667,-66.7506666666667,14.63,2.23,md,6,175,0.1283,0.1,pr,pr71389018,2022-12-25T20:05:02.010Z,"1 km ESE of Magas Arriba, Puerto Rico",earthquake,0.55,1.21,0.0160476352264585,3,reviewed,pr,pr
-2022-12-25T19:45:58.034Z,-26.4784,-115.4967,10,5.4,mb,26,235,39.618,0.51,us,us6000jbn5,2022-12-25T21:48:30.239Z,"southern East Pacific Rise",earthquake,10.4,2,0.042,195,reviewed,us,us
