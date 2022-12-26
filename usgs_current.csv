@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-26T13:40:08.290Z,33.1653333,-115.9313333,7.08,2.03,ml,52,52,0.03977,0.23,ci,ci40150239,2022-12-26T13:43:46.646Z,"15km S of Salton City, CA",earthquake,0.3,0.74,0.114,27,automatic,ci,ci
 2022-12-26T13:28:24.460Z,38.7985001,-122.7809982,3.4,0.59,md,10,133,0.007581,0.01,nc,nc73825261,2022-12-26T13:29:59.047Z,"3km NW of The Geysers, CA",earthquake,0.45,0.87,0.28,11,automatic,nc,nc
-2022-12-26T13:23:11.520Z,38.8308334,-122.8115005,1.46,0.76,md,12,61,0.007511,0.01,nc,nc73825256,2022-12-26T13:24:49.381Z,"8km NW of The Geysers, CA",earthquake,0.32,0.77,0.16,13,automatic,nc,nc
-2022-12-26T13:21:05.250Z,38.8364983,-122.791832,2.12,1.27,md,22,66,0.002234,0.02,nc,nc73825251,2022-12-26T13:37:12.144Z,"6km WNW of Cobb, CA",earthquake,0.21,0.39,0.11,22,automatic,nc,nc
+2022-12-26T13:23:11.520Z,38.8308334,-122.8115005,1.46,0.76,md,12,61,0.007511,0.01,nc,nc73825256,2022-12-26T13:47:15.195Z,"8km NW of The Geysers, CA",earthquake,0.32,0.77,0.16,13,automatic,nc,nc
+2022-12-26T13:21:05.250Z,38.8364983,-122.791832,2.12,1.27,md,22,66,0.002234,0.02,nc,nc73825251,2022-12-26T13:54:12.236Z,"6km WNW of Cobb, CA",earthquake,0.21,0.39,0.11,22,automatic,nc,nc
 2022-12-26T12:52:37.424Z,36.55574036,-98.96151733,0.9361166954,2.57,ml,45,50.31781769,0.0632667169,0.6381934247,ok,ok2022zgxc,2022-12-26T13:24:04.040Z,"7 km WSW of Waynoka, Oklahoma",earthquake,2.273792762,1.336992998,,33,automatic,ok,ok
 2022-12-26T12:42:55.839Z,-8.3738,121.5215,184.336,4.2,mb,31,104,0.755,0.72,us,us6000jbsn,2022-12-26T13:16:43.040Z,"54 km NNW of Ende, Indonesia",earthquake,7.86,6.492,0.137,15,reviewed,us,us
 2022-12-26T12:30:42.360Z,19.183666229248,-155.496170043945,32.2599983215332,2.54999995,md,43,88,,0.119999997,hv,hv73283522,2022-12-26T13:08:11.040Z,"2 km SW of Pāhala, Hawaii",earthquake,0.58,0.649999976,1.09000003,24,automatic,hv,hv
@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T20:29:59.680Z,38.8434982,-122.8221664,-0.77,1.28,md,22,66,0.01118,0.27,nc,nc73824861,2022-12-25T23:05:17.120Z,"9km WNW of Cobb, CA",earthquake,0.45,1.65,0.12,22,automatic,nc,nc
 2022-12-25T20:27:00.230Z,38.8354988,-122.7886658,1.93,1.02,md,10,83,0.003188,0.01,nc,nc73824856,2022-12-25T21:00:14.409Z,"6km WNW of Cobb, CA",earthquake,0.38,0.43,0.09,12,automatic,nc,nc
 2022-12-25T20:23:12.650Z,38.8356667,-122.8085022,3.37,0.35,md,4,110,0.01232,0.01,nc,nc73824851,2022-12-25T20:49:13.353Z,"8km WNW of Cobb, CA",earthquake,1.18,6.37,0.17,7,automatic,nc,nc
-2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-25T20:13:32.190Z,33.0215,-116.4248333,5.74,1.18,ml,36,68,0.1219,0.24,ci,ci40149935,2022-12-25T20:17:33.096Z,"18km ESE of Julian, CA",earthquake,0.3,1.58,0.174,12,automatic,ci,ci
 2022-12-25T20:13:12.030Z,33.0165,-116.4266667,6.05,1.14,ml,36,69,0.1206,0.22,ci,ci40149927,2022-12-25T20:17:17.290Z,"18km ESE of Julian, CA",earthquake,0.29,1.22,0.149,24,automatic,ci,ci
 2022-12-25T20:10:39.030Z,38.8351669,-122.8113327,1.92,1.71,md,34,40,,0.03,nc,nc73824846,2022-12-25T21:56:10.730Z,"8km W of Cobb, CA",earthquake,0.17,0.3,0.14,35,automatic,nc,nc
@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T14:05:50.970Z,38.8334999,-122.81633,1.81,0.88,md,14,57,0.01121,0.02,nc,nc73824681,2022-12-25T14:31:11.159Z,"8km NW of The Geysers, CA",earthquake,0.27,0.69,0.22,15,automatic,nc,nc
 2022-12-25T14:05:03.180Z,38.8321648,-122.81633,1.73,1.33,md,28,53,0.01003,0.02,nc,nc73824676,2022-12-25T15:16:13.405Z,"8km NW of The Geysers, CA",earthquake,0.17,0.32,0.11,27,automatic,nc,nc
 2022-12-25T14:04:58.584Z,64.838,-148.9699,19.1,1.4,ml,,,,0.2,ak,ak022ghyan4y,2022-12-25T14:07:10.320Z,"27 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-25T13:49:44.052Z,62.2646,-151.0743,74.1,1.8,ml,,,,0.13,ak,ak022ghxytmt,2022-12-25T13:51:32.210Z,"30 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
