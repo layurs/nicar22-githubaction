@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-28T21:49:35.880Z,38.7858315,-122.7425003,1.33,1.04,md,12,82,0.005204,0.03,nc,nc73826106,2022-12-28T21:51:13.506Z,"2km NE of The Geysers, CA",earthquake,0.28,0.52,0.29,13,automatic,nc,nc
-2022-12-28T21:45:42.040Z,37.4824982,-121.6504974,10.37,1.65,md,16,71,0.005318,0.08,nc,nc73826101,2022-12-28T21:47:18.345Z,"20km NE of Alum Rock, CA",earthquake,0.35,0.71,0.05,11,automatic,nc,nc
+2022-12-28T21:45:42.040Z,37.4824982,-121.6504974,10.37,1.65,md,16,71,0.005318,0.08,nc,nc73826101,2022-12-28T21:58:10.137Z,"20km NE of Alum Rock, CA",earthquake,0.35,0.71,0.05,11,automatic,nc,nc
 2022-12-28T21:41:37.603Z,60.1754,-152.5974,97.4,2,ml,,,,0.4,ak,ak022gn1alq8,2022-12-28T21:43:09.749Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-28T21:26:02.150Z,33.662,-116.7551667,12.3,1.27,ml,43,42,0.05978,0.17,ci,ci40150919,2022-12-28T21:29:39.686Z,"9km SSW of Idyllwild, CA",earthquake,0.22,0.38,0.239,27,automatic,ci,ci
 2022-12-28T21:17:27.526Z,61.0051,-148.1002,0.9,0.9,ml,,,,1.04,ak,ak022gn15frk,2022-12-28T21:23:27.094Z,"40 km NE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-28T21:12:17.132Z,59.7919,-152.7109,85.2,2.4,ml,,,,0.42,ak,ak022gn147fr,2022-12-28T21:14:41.361Z,"49 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-12-28T21:11:04.134Z,-16.6227,-72.4063,73.583,5.3,mww,102,125,2.627,1.23,us,us7000j0ps,2022-12-28T21:52:10.808Z,"10 km NNE of Quilca, Peru",earthquake,8.12,5.829,0.052,35,reviewed,us,us
+2022-12-28T21:11:04.134Z,-16.6227,-72.4063,73.583,5.3,mww,102,125,2.627,1.23,us,us7000j0ps,2022-12-28T21:57:24.581Z,"10 km NNE of Quilca, Peru",earthquake,8.12,5.829,0.052,35,reviewed,us,us
 2022-12-28T21:10:40.208Z,64.7662,-149.0025,14.4,1.4,ml,,,,0.28,ak,ak022gn13yqc,2022-12-28T21:12:29.564Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-28T21:02:28.840Z,38.828167,-122.8134995,2.16,1.04,md,24,42,0.005465,0.02,nc,nc73826081,2022-12-28T21:04:02.866Z,"8km NW of The Geysers, CA",earthquake,0.2,0.4,0.08,25,automatic,nc,nc
+2022-12-28T21:02:28.840Z,38.828167,-122.8134995,2.16,1.04,md,24,42,0.005465,0.02,nc,nc73826081,2022-12-28T21:55:13.124Z,"8km NW of The Geysers, CA",earthquake,0.2,0.4,0.08,25,automatic,nc,nc
 2022-12-28T21:00:30.320Z,33.857,-117.5066667,0.58,1.12,ml,29,48,0.04897,0.28,ci,ci40150911,2022-12-28T21:04:14.071Z,"3km SSE of Home Gardens, CA",quarry blast,0.49,31.61,0.237,30,automatic,ci,ci
 2022-12-28T20:52:09.050Z,38.7961655,-122.7621689,0.93,0.34,md,9,70,0.004849,0.03,nc,nc73826076,2022-12-28T21:20:12.895Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.59,0.12,9,automatic,nc,nc
 2022-12-28T20:48:09.099Z,60.204,-152.4996,98.8,1.8,ml,,,,0.44,ak,ak022gn0qlxp,2022-12-28T20:50:53.264Z,"49 km WNW of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -47,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T17:01:03.580Z,38.8373337,-122.807663,1.89,0.7,md,10,68,0.01357,0.01,nc,nc73825996,2022-12-28T17:49:13.617Z,"8km WNW of Cobb, CA",earthquake,0.43,0.89,0.09,12,automatic,nc,nc
 2022-12-28T16:49:00.000Z,38.8261681,-122.7956696,2.66,1.31,md,32,35,0.01159,0.02,nc,nc73825991,2022-12-28T17:22:14.443Z,"6km W of Cobb, CA",earthquake,0.21,0.37,0.2,31,automatic,nc,nc
 2022-12-28T16:47:47.220Z,19.41233253479,-155.316162109375,3.79999995231628,2.16,ml,37,78,,0.209999993,hv,hv73285552,2022-12-28T16:53:17.340Z,"9 km WSW of Volcano, Hawaii",earthquake,0.34,0.779999971,0.32,11,automatic,hv,hv
+2022-12-28T16:47:07.745Z,33.3721,133.8746,20.119,4.6,mb,66,77,0.358,0.55,us,us7000j0n9,2022-12-28T21:59:14.040Z,"14 km S of Aki, Japan",earthquake,7.55,5.324,0.08,46,reviewed,us,us
 2022-12-28T16:46:18.211Z,58.1635,-156.4488,250,2.2,ml,,,,1.14,ak,ak022gmycgsd,2022-12-28T16:48:16.846Z,"54 km E of Egegik, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2022-12-28T16:34:20.446Z,-21.2622,171.3631,10,6,mww,53,79,3.877,0.61,us,us7000j0n4,2022-12-28T20:32:13.661Z,"288 km SE of Isangel, Vanuatu",earthquake,8.09,1.827,0.098,10,reviewed,us,us
 2022-12-28T16:22:03.670Z,19.4044990539551,-155.316329956055,4.03999996185303,2.13,ml,31,72,,0.159999996,hv,hv73285527,2022-12-28T16:27:34.230Z,"9 km WSW of Volcano, Hawaii",earthquake,0.36,0.589999974,0.29,12,automatic,hv,hv
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T22:30:12.840Z,49.365,-120.5155,-0.37,2.06,ml,6,180,0.5837,0.27,uw,uw61900686,2022-12-28T01:22:17.560Z,"10 km S of Princeton, Canada",explosion,1.85,31.61,0.06317211476998574,3,reviewed,uw,uw
 2022-12-27T22:22:16.312Z,62.0616,-148.1187,40.1,1.3,ml,,,,0.07,ak,ak022gle8klb,2022-12-27T22:24:37.183Z,"34 km NNE of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-27T22:18:34.760Z,19.3608341217041,-155.076171875,3.42000007629395,2.26999998,md,17,171,,0.170000002,hv,hv73284927,2022-12-27T22:21:36.780Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.66,0.819999993,2.26999998,4,automatic,hv,hv
-2022-12-27T21:57:15.650Z,38.8348351,-122.815834,1.82,1.47,md,22,59,0.01228,0.02,nc,nc73825861,2022-12-27T22:45:12.451Z,"8km W of Cobb, CA",earthquake,0.19,0.4,0.18,25,automatic,nc,nc
