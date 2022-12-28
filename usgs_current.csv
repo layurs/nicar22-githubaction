@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-28T19:42:23.280Z,33.3628333,-116.2423333,10.52,1.17,ml,27,69,0.0563,0.25,ci,ci40150903,2022-12-28T19:45:56.886Z,"17km NE of Borrego Springs, CA",earthquake,0.37,0.79,0.146,26,automatic,ci,ci
-2022-12-28T19:40:11.070Z,36.8925018,-121.6188354,0.46,1.87,md,12,71,0.02299,0.09,nc,nc73826056,2022-12-28T19:44:15.673Z,"2km ENE of Aromas, CA",earthquake,0.29,0.61,0.2,10,automatic,nc,nc
+2022-12-28T19:40:11.070Z,36.8925018,-121.6188354,0.46,1.87,md,12,71,0.02299,0.09,nc,nc73826056,2022-12-28T19:52:10.353Z,"2km ENE of Aromas, CA",earthquake,0.29,0.61,0.2,10,automatic,nc,nc
 2022-12-28T19:31:05.190Z,37.9404984,-122.0273361,10.28,1.18,md,9,122,0.08602,0.05,nc,nc73826051,2022-12-28T19:43:10.305Z,"3km ESE of Pleasant Hill, CA",earthquake,0.7,1.15,0.17,8,automatic,nc,nc
 2022-12-28T19:30:58.409Z,63.5432,-147.7295,4.3,2.1,ml,,,,0.41,ak,ak022gn01f8w,2022-12-28T19:32:54.967Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-28T19:25:51.290Z,38.7796669,-122.7258301,0.54,0.78,md,7,106,0.009231,0.02,nc,nc73826046,2022-12-28T19:27:27.116Z,"3km E of The Geysers, CA",earthquake,0.45,0.75,0.32,7,automatic,nc,nc
+2022-12-28T19:25:51.290Z,38.7796669,-122.7258301,0.54,0.78,md,7,106,0.009231,0.02,nc,nc73826046,2022-12-28T19:55:13.367Z,"3km E of The Geysers, CA",earthquake,0.45,0.75,0.32,7,automatic,nc,nc
 2022-12-28T18:55:57.540Z,38.7973328,-122.7559967,3.72,1.21,md,23,91,0.004386,0.02,nc,nc73826041,2022-12-28T19:12:14.110Z,"2km N of The Geysers, CA",earthquake,0.29,0.62,0.15,22,automatic,nc,nc
 2022-12-28T18:31:07.220Z,38.8354988,-122.8160019,1.59,0.23,md,7,124,0.01294,0.01,nc,nc73826036,2022-12-28T18:52:13.997Z,"8km W of Cobb, CA",earthquake,0.68,1.62,0.15,8,automatic,nc,nc
 2022-12-28T18:26:50.220Z,35.9135,-117.7093333,2.15,2.32,ml,25,79,0.09495,0.17,ci,ci40150895,2022-12-28T18:37:13.550Z,"18km E of Little Lake, CA",earthquake,0.28,0.42,0.133,25,automatic,ci,ci
@@ -47,10 +47,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T13:41:25.990Z,18.2026666666667,-67.2488333333333,23.49,2.69,md,15,167,0.1,0.13,pr,pr71389403,2022-12-28T14:25:13.470Z,"11 km SW of La Playa, Puerto Rico",earthquake,0.55,0.73,0.0280770130774644,6,reviewed,pr,pr
 2022-12-28T13:26:34.512Z,60.5517,-144.0399,4.9,1.6,ml,,,,0.56,ak,ak022gmwfwx0,2022-12-28T13:37:51.287Z,"94 km E of Cordova, Alaska",earthquake,,6,,,automatic,ak,ak
 2022-12-28T13:22:52.129Z,39.0976,-118.1503,8.1,3.4,ml,16,52.33,0.062,0.1008,nn,nn00854257,2022-12-28T18:08:07.583Z,"32 km NW of Gabbs, Nevada",earthquake,,1.4,0.36,5,reviewed,nn,nn
+2022-12-28T13:03:49.413Z,37.0098,-116.1376,9.5,0,ml,23,86.76,0.034,0.1356,nn,nn00854282,2022-12-28T19:50:57.265Z,"Nevada",earthquake,,0.9,0.23,7,reviewed,nn,nn
 2022-12-28T12:43:15.378Z,37.1518,-117.2458,12.7,0.1,ml,5,178.72,0.329,0.1504,nn,nn00854281,2022-12-28T19:35:16.238Z,"51 km WNW of Beatty, Nevada",earthquake,,8.5,0.91,3,reviewed,nn,nn
 2022-12-28T12:35:32.352Z,60.3533,-141.305,5.8,1.9,ml,,,,0.59,ak,ak022gmvweix,2022-12-28T12:37:38.096Z,"125 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T12:25:29.914Z,60.5311,-151.7213,63,1.6,ml,,,,0.29,ak,ak022gmvu98f,2022-12-28T12:26:39.732Z,"23 km WSW of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-12-28T12:24:20.786Z,38.6052,23.6935,9.037,4.8,mww,122,40,1.139,0.65,us,us7000j0m2,2022-12-28T19:20:16.169Z,"5 km NE of Psachná, Greece",earthquake,4.72,3.901,0.062,25,reviewed,us,us
+2022-12-28T12:24:20.786Z,38.6052,23.6935,9.037,4.8,mww,122,40,1.139,0.65,us,us7000j0m2,2022-12-28T19:47:24.051Z,"5 km NE of Psachná, Greece",earthquake,4.72,3.901,0.062,25,reviewed,us,us
 2022-12-28T12:23:30.110Z,36.4948349,-121.0771637,4.23,2.08,md,22,67,0.08881,0.07,nc,nc73825966,2022-12-28T13:25:11.952Z,"7km SE of Pinnacles, CA",earthquake,0.21,1.28,0.18,21,automatic,nc,nc
 2022-12-28T12:18:40.980Z,40.4659996,-123.8858337,20.48,2.1,md,9,177,0.06354,0.07,nc,nc73825961,2022-12-28T19:11:23.295Z,"19km E of Rio Dell, CA",earthquake,0.94,0.55,0.23,4,automatic,nc,nc
 2022-12-28T12:11:30.499Z,60.0326,-151.6899,35.6,1.6,ml,,,,0.58,ak,ak022gmvr995,2022-12-28T12:14:00.488Z,"2 km SSW of Ninilchik, Alaska",earthquake,,11.7,,,automatic,ak,ak
@@ -172,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T20:16:52.892Z,62.7738,-152.0022,9.7,1.4,ml,,,,0.3,ak,ak022gld0hvy,2022-12-27T20:19:38.093Z,"70 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-27T20:15:14.129Z,78.5782,-19.4663,10,4.6,mb,173,47,6.103,0.84,us,us7000j0i2,2022-12-27T23:06:32.040Z,"eastern Greenland",earthquake,7.53,1.886,0.044,161,reviewed,us,us
 2022-12-27T19:58:01.648Z,61.9184,-149.3061,41.8,1.6,ml,,,,0.43,ak,ak022glcnyf8,2022-12-27T20:00:31.338Z,"19 km N of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-27T19:55:24.700Z,38.8310013,-122.817337,1.97,1.09,md,20,50,0.00948,0.02,nc,nc73825821,2022-12-27T20:27:15.565Z,"8km NW of The Geysers, CA",earthquake,0.22,0.49,0.16,23,automatic,nc,nc
