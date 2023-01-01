@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T08:33:37.800Z,33.0276667,-116.8525,13.68,1.35,ml,14,118,0.2206,0.3,ci,ci40152567,2023-01-01T08:37:21.605Z,"2km SE of Ramona, CA",earthquake,1.53,3.17,0.192,21,automatic,ci,ci
 2023-01-01T07:50:25.880Z,38.5515,-119.5263,7.5,1.1,ml,8,192.45,0.213,0.1842,nn,nn00854390,2023-01-01T07:53:54.038Z,"2 km SW of Coleville, California",earthquake,,17.5,0.21,3,automatic,nn,nn
 2023-01-01T07:48:04.600Z,19.1146659851074,-155.405838012695,32.0299987792969,2.07999992,md,39,185,,0.119999997,hv,hv73290392,2023-01-01T07:51:17.430Z,"12 km SE of Pāhala, Hawaii",earthquake,0.55,0.860000014,1.14999998,24,automatic,hv,hv
 2023-01-01T07:39:49.580Z,19.2311668395996,-155.387329101562,30.7099990844727,1.82000005,md,38,147,,0.129999995,hv,hv73290382,2023-01-01T07:43:09.760Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.6,0.800000012,0.00999999978,5,automatic,hv,hv
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T07:22:34.162Z,64.0754,-148.7652,12.7,2.2,ml,,,,0.23,ak,ak0231ru648,2023-01-01T07:24:19.875Z,"18 km ENE of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-01T07:03:01.555Z,-58.8341,-25.5621,38.411,5.2,mb,49,77,7.562,0.57,us,us7000j1d2,2023-01-01T07:22:43.040Z,"South Sandwich Islands region",earthquake,8.27,7.144,0.075,59,reviewed,us,us
 2023-01-01T06:53:35.270Z,36.5970001,-121.2043304,7.98,2.1,md,15,123,0.02949,0.05,nc,nc73827441,2023-01-01T07:53:12.919Z,"9km NW of Pinnacles, CA",earthquake,0.34,0.68,0.36,17,automatic,nc,nc
-2023-01-01T06:49:08.930Z,36.5789986,-121.220665,4.51,4.04,mw,62,62,0.02931,0.58,nc,nc73827436,2023-01-01T08:28:02.055Z,"9km NW of Pinnacles, CA",earthquake,0.6,1.57,,4,reviewed,nc,nc
+2023-01-01T06:49:08.930Z,36.5789986,-121.220665,4.51,4.04,mw,62,62,0.02931,0.58,nc,nc73827436,2023-01-01T08:32:23.560Z,"9km NW of Pinnacles, CA",earthquake,0.6,1.57,,4,reviewed,nc,nc
 2023-01-01T06:46:15.200Z,33.4015,-116.386,2.34,1.65,ml,56,34,0.126,0.24,ci,ci40152551,2023-01-01T07:31:55.744Z,"16km N of Borrego Springs, CA",earthquake,0.25,1.07,0.148,26,automatic,ci,ci
 2023-01-01T06:45:06.210Z,19.2169990539551,-155.387832641602,29.4200000762939,1.71000004,md,28,162,,0.129999995,hv,hv73290312,2023-01-01T06:48:19.590Z,"9 km E of Pāhala, Hawaii",earthquake,0.68,0.74000001,0.850000024,3,automatic,hv,hv
 2023-01-01T06:39:45.239Z,36.5351,70.8869,181.449,4.7,mb,79,57,2.494,0.86,us,us7000j1cr,2023-01-01T06:53:04.040Z,"36 km S of Jurm, Afghanistan",earthquake,6.47,6.876,0.047,139,reviewed,us,us
@@ -116,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T16:27:06.400Z,33.4055,-116.3611667,3.08,0.7,ml,14,166,0.1447,0.34,ci,ci40152223,2022-12-31T16:30:43.527Z,"17km N of Borrego Springs, CA",earthquake,0.95,2.93,0.224,9,automatic,ci,ci
 2022-12-31T16:00:44.870Z,35.9881667,-117.5056667,1.88,1.29,ml,11,93,0.1875,0.15,ci,ci40152215,2022-12-31T16:04:18.741Z,"26km NNW of Searles Valley, CA",earthquake,0.48,1.46,0.192,7,automatic,ci,ci
 2022-12-31T15:58:34.270Z,34.2384987,-117.4448318,4.5,1.44,ml,36,39,0.03148,0.14,ci,ci40152207,2022-12-31T16:29:12.471Z,"4km WNW of Devore, CA",earthquake,0.29,0.33,0.145,8,automatic,ci,ci
-2022-12-31T15:57:40.130Z,17.7851666666667,-66.8835,6.4,2.04,md,4,315,0.1889,0.01,pr,pr71390043,2022-12-31T16:16:31.230Z,"20 km S of Guánica, Puerto Rico",earthquake,0.7,0.57,0.145924929208976,3,reviewed,pr,pr
+2022-12-31T15:57:40.130Z,17.7851666666667,-66.8835,6.4,2.04,md,4,315,0.1889,0.01,pr,pr71390043,2022-12-31T16:16:31.230Z,"Puerto Rico region",earthquake,0.7,0.57,0.145924929208976,3,reviewed,pr,pr
 2022-12-31T15:47:01.210Z,33.4075,-116.365,2.88,0.53,ml,22,88,0.1456,0.27,ci,ci40152199,2022-12-31T17:13:17.887Z,"17km N of Borrego Springs, CA",earthquake,0.54,2.01,0.093,11,automatic,ci,ci
 2022-12-31T15:46:20.540Z,33.4108333,-116.3896667,-0.27,0.51,ml,15,104,0.1162,0.28,ci,ci40152191,2022-12-31T15:49:59.706Z,"17km N of Borrego Springs, CA",earthquake,0.59,31.61,0.09,12,automatic,ci,ci
 2022-12-31T15:38:55.856Z,15.2819,-93.2399,97.789,4.7,mb,44,134,2.479,0.81,us,us7000j19l,2022-12-31T15:55:15.040Z,"20 km SSW of La Esperanza (El Zapotal), Mexico",earthquake,6.88,6.806,0.034,265,reviewed,us,us
@@ -245,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T08:52:11.414Z,35.85176086,-97.18344879,2.267204046,2.54,ml,66,30.30499268,0.08611340821,0.695299656,ok,ok2022zpsr,2023-01-01T03:35:32.446Z,"5 km E of Meridian, Oklahoma",earthquake,1.385683808,1.228486272,,49,automatic,ok,ok
 2022-12-31T08:45:52.050Z,38.7938347,-122.7276688,2.39,1.14,md,9,96,0.01273,0.02,nc,nc73827121,2022-12-31T09:19:11.667Z,"3km NE of The Geysers, CA",earthquake,0.42,1.06,0.3,8,automatic,nc,nc
 2022-12-31T08:45:21.600Z,19.403,-155.2875,0.87,0.22,md,11,95,,0.07,hv,hv73288852,2022-12-31T09:10:46.090Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.35,0.0266522279231508,2,reviewed,hv,hv
-2022-12-31T08:34:41.520Z,17.8005,-66.9446666666667,13.84,2.05,md,8,285,0.1844,0.11,pr,pr71389998,2022-12-31T08:53:28.780Z,"Puerto Rico region",earthquake,0.95,0.39,0.135404808356844,8,reviewed,pr,pr
