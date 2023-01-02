@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-02T15:25:30.942Z,62.5756,-151.0813,85,2,ml,,,,0.47,ak,ak0233k5mcm,2023-01-02T15:27:31.021Z,"18 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-02T15:22:14.737Z,61.7444,-148.1635,6.4,2.3,ml,,,,0.66,ak,ak0233k4xy9,2023-01-02T15:24:17.567Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-02T15:17:42.900Z,38.8214989,-122.8525009,2.58,1.07,md,18,64,0.006936,0.01,nc,nc73827991,2023-01-02T15:19:18.811Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.56,0.16,20,automatic,nc,nc
+2023-01-02T15:17:42.900Z,38.8214989,-122.8525009,2.58,1.07,md,18,64,0.006936,0.01,nc,nc73827991,2023-01-02T15:34:15.513Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.56,0.16,20,automatic,nc,nc
 2023-01-02T14:46:16.517Z,-19.9258,-174.3748,70.368,4.8,mb,15,136,1.461,0.46,us,us7000j1m9,2023-01-02T15:20:47.040Z,"12 km S of Pangai, Tonga",earthquake,10.45,9.557,0.185,9,reviewed,us,us
 2023-01-02T14:45:17.090Z,38.7568321,-122.720665,1.74,1.09,md,11,116,0.005776,0.05,nc,nc73827981,2023-01-02T15:14:12.410Z,"3km SW of Anderson Springs, CA",earthquake,0.5,0.39,0.21,11,automatic,nc,nc
 2023-01-02T14:40:44.450Z,34.4961667,-120.5393333,0.97,1.88,ml,11,270,0.2085,0.31,ci,ci40153031,2023-01-02T14:44:28.301Z,"18km SSW of Lompoc, CA",earthquake,3.07,31.61,0.148,13,automatic,ci,ci
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T13:58:26.230Z,38.791832,-122.75,1.57,1.54,md,29,44,,0.07,nc,nc73827956,2023-01-02T14:36:13.192Z,"2km NNE of The Geysers, CA",earthquake,0.23,0.35,0.14,30,automatic,nc,nc
 2023-01-02T13:56:33.100Z,33.1663333,-115.6215,3.42,1.51,ml,13,86,0.01215,0.09,ci,ci40153023,2023-01-02T14:00:10.732Z,"11km WNW of Calipatria, CA",earthquake,0.28,0.17,0.19,31,automatic,ci,ci
 2023-01-02T13:39:10.204Z,61.1806,-147.0158,27.5,1.8,ml,,,,0.76,ak,ak0233j1pkc,2023-01-02T13:40:55.924Z,"36 km W of Valdez, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-01-02T13:37:09.620Z,41.7871667,-111.9518333,-2.54,2.56,ml,32,62,0.08764,0.38,uu,uu60528987,2023-01-02T15:27:07.040Z,"1 km W of Benson, Utah",earthquake,0.59,5.47,0.056,8,reviewed,uu,uu
+2023-01-02T13:37:09.620Z,41.7871667,-111.9518333,-2.54,2.56,ml,32,62,0.08764,0.38,uu,uu60528987,2023-01-02T15:36:23.212Z,"1 km W of Benson, Utah",earthquake,0.59,5.47,0.056,8,reviewed,uu,uu
 2023-01-02T13:35:55.050Z,38.8043327,-122.8059998,1.05,1.32,md,22,51,0.009112,0.02,nc,nc73827951,2023-01-02T14:09:14.009Z,"5km NW of The Geysers, CA",earthquake,0.18,0.36,0.16,21,automatic,nc,nc
 2023-01-02T13:28:25.650Z,34.0941658,-117.8128357,14.01,1.54,ml,53,57,0.005316,0.18,ci,ci40153015,2023-01-02T13:31:55.263Z,"2km SSW of San Dimas, CA",earthquake,0.34,0.45,0.157,19,automatic,ci,ci
 2023-01-02T13:18:34.623Z,-20.4878,-178.4606,573.848,4.6,mb,84,69,3.121,0.61,us,us7000j1m2,2023-01-02T15:06:38.040Z,"Fiji region",earthquake,12.83,3.459,0.058,88,reviewed,us,us
@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T18:47:36.160Z,38.8139992,-122.8271637,1.94,0.76,md,10,103,0.00536,0.02,nc,nc73827586,2023-01-01T19:13:13.064Z,"7km WNW of The Geysers, CA",earthquake,0.4,0.8,0.33,10,automatic,nc,nc
 2023-01-01T18:46:18.330Z,40.4341667,-124.0085,24.83,1.77,md,25,43,0.08736,0.1,nc,nc73827581,2023-01-02T05:44:12.077Z,"11km SE of Rio Dell, CA",earthquake,0.31,0.55,0.161,14,reviewed,nc,nc
 2023-01-01T18:43:49.360Z,40.4303333,-124.014,24.31,2.06,md,27,43,0.08255,0.09,nc,nc73827576,2023-01-02T06:30:11.455Z,"11km SE of Rio Dell, CA",earthquake,0.23,0.44,0.168,23,reviewed,nc,nc
-2023-01-01T18:35:04.510Z,40.409,-123.971,30.63,5.35,mw,37,44,0.1146,0.13,nc,nc73827571,2023-01-02T15:08:06.646Z,"15km SE of Rio Dell, CA",earthquake,0.25,0.62,,5,reviewed,nc,nc
+2023-01-01T18:35:04.510Z,40.409,-123.971,30.63,5.35,mw,37,44,0.1146,0.13,nc,nc73827571,2023-01-02T15:35:59.555Z,"15km SE of Rio Dell, CA",earthquake,0.25,0.62,,5,reviewed,nc,nc
 2023-01-01T18:34:14.740Z,19.1401666666667,-156.197,38.49,3.77,ml,52,252,,0.11,hv,hv73290972,2023-01-02T04:51:45.210Z,"46 km W of Hawaiian Ocean View, Hawaii",earthquake,0.64,1.12,0.179969539975316,40,reviewed,hv,hv
 2023-01-01T18:24:34.020Z,-2.5692,140.8021,44.062,5.4,mww,76,45,8.551,0.71,us,us7000j1g5,2023-01-01T23:34:44.696Z,"10 km ESE of Jayapura, Indonesia",earthquake,9.37,4.914,0.093,11,reviewed,us,us
 2023-01-01T18:19:18.920Z,32.9141667,-116.2815,11.26,1.24,ml,17,101,0.04432,0.17,ci,ci40152751,2023-01-01T18:22:50.313Z,"25km ENE of Pine Valley, CA",earthquake,0.31,0.47,0.135,15,automatic,ci,ci
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T16:05:22.460Z,33.4058333,-116.3588333,11.26,1.02,ml,20,167,0.1299,0.29,ci,ci40152687,2023-01-01T16:09:06.666Z,"17km N of Borrego Springs, CA",earthquake,0.67,1.5,0.156,15,automatic,ci,ci
 2023-01-01T15:45:53.250Z,61.4574,-151.5625,96.3,2.5,ml,,,,0.47,ak,ak0231wqlwd,2023-01-01T16:59:16.040Z,"43 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-01T15:43:01.720Z,38.833168,-122.7949982,1.78,1.35,md,23,46,0.006372,0.02,nc,nc73827531,2023-01-01T16:16:15.884Z,"6km W of Cobb, CA",earthquake,0.19,0.43,0.17,24,automatic,nc,nc
-2023-01-01T15:35:15.050Z,32.7958333,-116.7026667,14.33,1.24,ml,19,63,0.1022,0.16,ci,ci40152679,2023-01-01T15:38:52.699Z,"7km SE of Alpine, CA",earthquake,0.33,0.59,0.136,9,automatic,ci,ci
