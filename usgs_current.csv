@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-04T13:42:33.060Z,36.6313324,-121.2809982,5.28,1.58,md,12,114,0.07582,0.22,nc,nc73828736,2023-01-04T13:44:07.742Z,"17km NW of Pinnacles, CA",earthquake,0.89,4.16,0.24,7,automatic,nc,nc
-2023-01-04T13:36:40.370Z,36.6478348,-121.2611694,5.95,1.92,md,15,135,,0.07,nc,nc73828731,2023-01-04T13:38:17.737Z,"17km SSE of Tres Pinos, CA",earthquake,0.33,1.11,0.14,16,automatic,nc,nc
+2023-01-04T13:36:40.370Z,36.6478348,-121.2611694,5.95,1.92,md,15,135,,0.07,nc,nc73828731,2023-01-04T13:53:12.686Z,"17km SSE of Tres Pinos, CA",earthquake,0.33,1.11,0.14,16,automatic,nc,nc
 2023-01-04T13:10:47.590Z,19.1259994506836,-155.36799621582,28.4599990844727,1.88999999,md,39,187,,0.140000001,hv,hv73294827,2023-01-04T13:13:56.140Z,"14 km SE of Pāhala, Hawaii",earthquake,0.62,1,1.09000003,15,automatic,hv,hv
 2023-01-04T12:50:25.510Z,18.1735,-66.8691666666667,10.02,1.91,md,5,185,0.1249,0.26,pr,pr71390893,2023-01-04T13:19:08.100Z,"11 km E of Maricao, Puerto Rico",earthquake,1.44,6.67,0.0207380709624155,4,reviewed,pr,pr
 2023-01-04T12:43:00.780Z,38.8255005,-122.8046646,1.41,1.34,md,17,78,0.00472,0.03,nc,nc73828726,2023-01-04T13:35:13.579Z,"7km NW of The Geysers, CA",earthquake,0.21,0.35,0.24,20,automatic,nc,nc
@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T07:33:03.650Z,38.7701683,-122.675499,2.43,1.15,md,8,148,0.0187,0.02,nc,nc73828661,2023-01-04T08:47:15.780Z,"2km ESE of Anderson Springs, CA",earthquake,0.91,0.65,0.45,7,automatic,nc,nc
 2023-01-04T07:22:05.073Z,61.5644,-147.802,33,1.2,ml,,,,0.35,ak,ak0236qg5cr,2023-01-04T07:23:47.166Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-04T07:12:56.900Z,38.5958328,-122.8040009,11.53,1.59,md,10,140,0.1485,0.03,nc,nc73828656,2023-01-04T08:21:13.635Z,"6km N of Windsor, CA",earthquake,0.41,2.19,0.1,11,automatic,nc,nc
-2023-01-04T07:10:07.220Z,17.91,-66.9318333333333,8.68,2.05,md,5,262,0.0818,0.1,pr,pr71390858,2023-01-04T08:10:54.270Z,"Puerto Rico region",earthquake,0.85,1.8,0.0786051454180324,4,reviewed,pr,pr
+2023-01-04T07:10:07.220Z,17.91,-66.9318333333333,8.68,2.05,md,5,262,0.0818,0.1,pr,pr71390858,2023-01-04T08:10:54.270Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.85,1.8,0.0786051454180324,4,reviewed,pr,pr
 2023-01-04T07:05:30.090Z,17.9438333333333,-66.918,15.06,2.37,md,8,216,0.04821,0.08,pr,pr71390848,2023-01-04T07:41:27.980Z,"Puerto Rico region",earthquake,0.55,0.65,0.0539650309079005,5,reviewed,pr,pr
 2023-01-04T07:03:36.880Z,19.1924991607666,-155.509338378906,33.8600006103516,3.08,ml,44,87,,0.129999995,hv,hv73294497,2023-01-04T09:29:20.686Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.59,0.639999986,3.51,27,automatic,hv,hv
 2023-01-04T06:56:41.940Z,38.8250008,-122.7854996,1.09,1.99,md,32,45,,0.04,nc,nc73828636,2023-01-04T07:29:17.352Z,"5km W of Cobb, CA",earthquake,0.17,0.26,0.15,32,automatic,nc,nc
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T14:05:23.126Z,11.8096,-86.9875,57.021,4.2,mb,60,163,0.742,0.67,us,us7000j1ty,2023-01-03T14:50:27.040Z,"51 km W of Masachapa, Nicaragua",earthquake,4.69,7.806,0.074,51,reviewed,us,us
 2023-01-03T14:01:07.950Z,19.4038333892822,-155.29133605957,0.519999980926514,1.73000002,md,17,86,,0.159999996,hv,hv73293437,2023-01-03T15:50:30.626Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.119999997,1.28999996,15,automatic,hv,hv
 2023-01-03T13:55:56.040Z,12.8177,-90.1556,10,4.6,mb,67,187,1.079,1.11,us,us7000j1tw,2023-01-03T21:44:42.511Z,"92 km SSW of Acajutla, El Salvador",earthquake,6.04,1.851,0.038,202,reviewed,us,us
-2023-01-03T13:50:47.910Z,38.8296661,-122.8024979,1.8,2.01,md,37,34,,0.04,nc,nc73828371,2023-01-03T14:55:11.408Z,"7km W of Cobb, CA",earthquake,0.17,0.28,0.18,36,automatic,nc,nc
