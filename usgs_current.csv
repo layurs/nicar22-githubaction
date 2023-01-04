@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-04T18:40:31.510Z,35.4550018,-120.7034988,0.08,1.12,md,5,221,0.1076,0.04,nc,nc73828826,2023-01-04T18:42:04.830Z,"5km SW of Atascadero, CA",earthquake,1.21,6.54,0.23,5,automatic,nc,nc
-2023-01-04T18:34:11.090Z,38.8168335,-122.7611694,1.81,1.51,md,10,116,0.01523,0.03,nc,nc73828821,2023-01-04T18:35:46.328Z,"3km W of Cobb, CA",earthquake,0.37,0.77,0.15,12,automatic,nc,nc
+2023-01-04T18:40:31.510Z,35.4550018,-120.7034988,0.08,1.12,md,5,221,0.1076,0.04,nc,nc73828826,2023-01-04T18:51:10.379Z,"5km SW of Atascadero, CA",earthquake,1.21,6.54,0.23,5,automatic,nc,nc
+2023-01-04T18:34:11.090Z,38.8168335,-122.7611694,1.81,1.51,md,10,116,0.01523,0.03,nc,nc73828821,2023-01-04T18:47:12.355Z,"3km W of Cobb, CA",earthquake,0.37,0.77,0.15,12,automatic,nc,nc
 2023-01-04T17:55:18.320Z,19.1648330688477,-155.477493286133,32.4799995422363,1.94000006,md,30,161,,0.119999997,hv,hv73295052,2023-01-04T17:58:24.640Z,"4 km S of Pāhala, Hawaii",earthquake,0.79,1.19000006,0.639999986,3,automatic,hv,hv
 2023-01-04T17:43:36.090Z,38.8055,-122.7833328,0.51,0.72,md,6,93,0.008019,0.01,nc,nc73828796,2023-01-04T18:14:12.184Z,"4km NW of The Geysers, CA",earthquake,0.51,1.06,0.46,8,automatic,nc,nc
 2023-01-04T17:42:56.809Z,55.3227,-156.1671,35,3.2,ml,28,215,1.899,1.41,us,us7000j24l,2023-01-04T18:13:15.040Z,"south of Alaska",earthquake,3.77,2.004,0.064,32,reviewed,us,us
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T10:07:50.009Z,65.054,-148.9101,15.1,1.3,ml,,,,0.33,ak,ak0236s5bw8,2023-01-04T10:09:37.882Z,"northern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-04T10:04:28.361Z,31.7246,73.9665,10,3.5,mb,12,196,2.009,0.42,us,us7000j22v,2023-01-04T15:09:51.764Z,"2 km NW of Shekhupura, Pakistan",earthquake,10.84,2.011,0.493,1,reviewed,us,us
 2023-01-04T10:04:10.780Z,34.3626667,-116.7413333,2.25,1.08,ml,14,119,0.07274,0.18,ci,ci40153559,2023-01-04T10:07:37.452Z,"15km NE of Big Bear City, CA",earthquake,0.33,0.5,0.189,20,automatic,ci,ci
-2023-01-04T10:01:51.608Z,61.8541,-150.839,55.1,1.9,ml,,,,0.61,ak,ak0236s41q0,2023-01-04T10:03:59.780Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-04T10:01:51.608Z,61.8541,-150.839,55.1,1.9,ml,,,,0.61,ak,ak0236s41q0,2023-01-04T10:03:59.780Z,"33 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-04T09:58:09.800Z,34.011,-117.5685,7.4,0.88,ml,18,114,0.008568,0.15,ci,ci40153551,2023-01-04T10:01:43.694Z,"5km WNW of Mira Loma, CA",earthquake,0.37,0.41,0.191,23,automatic,ci,ci
 2023-01-04T09:53:50.030Z,33.397,-116.3796667,4.25,0.82,ml,27,96,0.1318,0.23,ci,ci40153543,2023-01-04T09:57:25.106Z,"16km N of Borrego Springs, CA",earthquake,0.38,0.86,0.106,16,automatic,ci,ci
 2023-01-04T09:52:31.920Z,35.8673333,-117.4905,8.27,1.03,ml,14,82,0.101,0.15,ci,ci40153535,2023-01-04T09:56:02.419Z,"14km NW of Searles Valley, CA",earthquake,0.35,0.97,0.157,7,automatic,ci,ci
@@ -81,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T07:47:27.149Z,37.0151,-116.2167,5.6,0.5,ml,28,60.76,0.038,0.1607,nn,nn00854499,2023-01-04T17:33:02.906Z,"49 km ENE of Beatty, Nevada",earthquake,,1.3,0.23,20,reviewed,nn,nn
 2023-01-04T07:44:51.000Z,38.8266678,-122.854332,2.76,0.54,md,10,93,0.002169,0.01,nc,nc73828671,2023-01-04T08:47:16.780Z,"10km WNW of The Geysers, CA",earthquake,0.4,0.74,0.41,11,automatic,nc,nc
 2023-01-04T07:39:36.210Z,38.7729988,-122.6776657,2.55,1.32,md,7,142,0.01757,0.02,nc,nc73828666,2023-01-04T09:11:16.927Z,"1km E of Anderson Springs, CA",earthquake,0.64,0.99,0.18,7,automatic,nc,nc
+2023-01-04T07:33:31.720Z,46.9045,-121.95516666666667,12.94,1.04,ml,26,100,0.007529,0.11,uw,uw61901396,2023-01-04T18:46:45.310Z,"17 km NNE of Ashford, Washington",earthquake,0.3,0.38,0.1859516749762995,17,reviewed,uw,uw
 2023-01-04T07:33:03.650Z,38.7701683,-122.675499,2.43,1.15,md,8,148,0.0187,0.02,nc,nc73828661,2023-01-04T08:47:15.780Z,"2km ESE of Anderson Springs, CA",earthquake,0.91,0.65,0.45,7,automatic,nc,nc
 2023-01-04T07:22:05.073Z,61.5644,-147.802,33,1.2,ml,,,,0.35,ak,ak0236qg5cr,2023-01-04T07:23:47.166Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-04T07:12:56.900Z,38.5958328,-122.8040009,11.53,1.59,md,10,140,0.1485,0.03,nc,nc73828656,2023-01-04T08:21:13.635Z,"6km N of Windsor, CA",earthquake,0.41,2.19,0.1,11,automatic,nc,nc
