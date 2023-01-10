@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-10T03:28:15.300Z,38.8243332,-122.8054962,1.46,0.71,md,10,63,0.01818,0.01,nc,nc73830536,2023-01-10T03:29:52.716Z,"7km NW of The Geysers, CA",earthquake,0.26,1.11,0.07,10,automatic,nc,nc
 2023-01-10T03:26:10.360Z,32.171,-116.9408333,0.57,1.59,ml,10,293,0.4355,0.12,ci,ci40155079,2023-01-10T03:29:48.571Z,"6km SSW of Primo Tapia, B.C., MX",earthquake,0.99,31.61,0.147,10,automatic,ci,ci
-2023-01-10T03:17:03.130Z,38.8358345,-122.8081665,2.01,0.81,md,14,57,0.01415,0.01,nc,nc73830531,2023-01-10T03:18:38.511Z,"8km WNW of Cobb, CA",earthquake,0.23,0.57,0.22,14,automatic,nc,nc
+2023-01-10T03:17:03.130Z,38.8358345,-122.8081665,2.01,0.81,md,14,57,0.01415,0.01,nc,nc73830531,2023-01-10T03:49:12.838Z,"8km WNW of Cobb, CA",earthquake,0.23,0.57,0.22,14,automatic,nc,nc
 2023-01-10T03:09:53.780Z,32.6475,-115.6585,3.76,1.44,ml,9,169,0.0573,0.3,ci,ci40155063,2023-01-10T03:13:34.482Z,"10km NW of Progreso, B.C., MX",earthquake,1.32,1.24,0.334,12,automatic,ci,ci
 2023-01-10T03:02:23.622Z,60.9864,-150.8736,55,1.8,ml,,,,0.13,ak,ak023gl690a,2023-01-10T03:03:41.086Z,"12 km NW of Point Possession, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-10T03:00:56.340Z,38.7871666,-122.7676697,2.54,0.83,md,15,81,0.01481,0.02,nc,nc73830521,2023-01-10T03:25:11.691Z,"2km NW of The Geysers, CA",earthquake,0.26,0.53,0.24,15,automatic,nc,nc
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T21:40:34.730Z,-17.8554,-178.0638,501.09,4.5,mb,75,37,3.528,0.5,us,us7000j3a9,2023-01-09T23:42:30.040Z,"278 km E of Levuka, Fiji",earthquake,4.96,7.548,0.071,58,reviewed,us,us
 2023-01-09T21:28:10.600Z,16.0004,41.7908,10,4.9,mb,64,66,4.56,0.5,us,us7000j3a6,2023-01-09T21:51:59.040Z,"85 km SSW of Farasān, Saudi Arabia",earthquake,10.04,1.888,0.063,78,reviewed,us,us
 2023-01-09T21:25:22.619Z,-7.1363,129.7443,77.701,4.5,mb,15,104,1.756,1.18,us,us7000j3af,2023-01-09T23:14:21.040Z,"Kepulauan Babar, Indonesia",earthquake,8.52,7.703,0.163,11,reviewed,us,us
-2023-01-09T21:23:19.290Z,19.1773338317871,-155.496505737305,30.4599990844727,2.83,ml,48,96,,0.109999999,hv,hv73300277,2023-01-10T00:57:39.575Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.49,0.620000005,3.14,28,automatic,hv,hv
+2023-01-09T21:23:19.200Z,19.173,-155.500333333333,31.42,3.11,ml,49,105,,0.11,hv,hv73300277,2023-01-10T03:50:44.090Z,"4 km SW of Pāhala, Hawaii",earthquake,0.43,0.53,0.169849164927858,40,reviewed,hv,hv
 2023-01-09T21:21:54.301Z,-15.4804,166.5576,24.601,5,mb,36,57,5.486,0.72,us,us7000j3a7,2023-01-09T22:31:39.040Z,"65 km W of Luganville, Vanuatu",earthquake,11.31,4.803,0.113,25,reviewed,us,us
 2023-01-09T21:11:06.520Z,38.7910004,-122.7621689,2.02,0.73,md,9,78,0.02024,0.01,nc,nc73830446,2023-01-09T21:12:42.870Z,"2km NNW of The Geysers, CA",earthquake,0.43,1.14,0.32,9,automatic,nc,nc
 2023-01-09T21:00:11.620Z,38.7938347,-122.7593307,2.39,0.75,md,9,122,0.006787,0.02,nc,nc73830441,2023-01-09T21:01:47.710Z,"2km N of The Geysers, CA",earthquake,0.37,0.85,0.31,9,automatic,nc,nc
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T09:43:37.819Z,38.1419,-116.0363,10,1.5,ml,10,178.05,0.548,0.1581,nn,nn00854639,2023-01-09T17:08:09.371Z,"60 km NNW of Rachel, Nevada",earthquake,,5.3,0.22,7,reviewed,nn,nn
 2023-01-09T09:39:41.850Z,48.315,-122.12,11.07,1.12,ml,15,62,0.1116,0.14,uw,uw61901696,2023-01-09T18:22:41.080Z,"7 km W of Lake Cavanaugh, Washington",earthquake,0.3,1.31,0.07623220810041631,7,reviewed,uw,uw
 2023-01-09T09:21:59.346Z,59.5505,-153.0293,96.8,2.1,ml,,,,0.3,ak,ak023f1bni6,2023-01-09T09:24:19.756Z,"66 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-09T09:09:45.056Z,-20.0359,-69.3901,116.451,4.2,mb,33,76,0.409,0.49,us,us7000j33j,2023-01-09T15:14:20.870Z,"81 km ENE of Iquique, Chile",earthquake,2.89,5.661,0.137,15,reviewed,us,us
+2023-01-09T09:09:45.056Z,-20.0359,-69.3901,116.451,4.2,mb,33,76,0.409,0.49,us,us7000j33j,2023-01-10T03:42:11.514Z,"81 km ENE of Iquique, Chile",earthquake,2.89,5.661,0.137,15,reviewed,us,us
 2023-01-09T08:56:31.430Z,19.179500579834,-155.498001098633,32.189998626709,1.70000005,md,42,94,,0.119999997,hv,hv73299847,2023-01-09T08:59:45.750Z,"3 km SW of Pāhala, Hawaii",earthquake,0.67,0.839999974,0.639999986,9,automatic,hv,hv
 2023-01-09T08:51:10.540Z,34.1926667,-117.0461667,8.08,1,ml,21,93,0.09621,0.16,ci,ci40154887,2023-01-09T08:54:43.027Z,"6km ESE of Running Springs, CA",earthquake,0.36,0.81,0.101,25,automatic,ci,ci
 2023-01-09T08:46:47.910Z,19.0091666666667,-65.0946666666667,28.6,3.17,md,6,274,0.6663,0.22,pr,pr71391753,2023-01-09T08:59:16.190Z,"Puerto Rico region",earthquake,2.37,14.9,0.0446112699225014,6,reviewed,pr,pr
@@ -189,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T04:10:21.470Z,38.6061667,-112.5703333,2.29,1.04,md,9,187,0.09653,0.17,uu,uu60529367,2023-01-09T16:21:09.210Z,"24 km SSW of Kanosh, Utah",earthquake,1.35,5.83,0.285,5,reviewed,uu,uu
 2023-01-09T04:06:18.740Z,37.1343346,-121.517334,13.49,1.28,md,8,111,0.06649,0.06,nc,nc73830161,2023-01-09T04:39:14.580Z,"10km NE of San Martin, CA",earthquake,0.74,1.9,0.29,8,automatic,nc,nc
 2023-01-09T03:58:46.350Z,38.8224983,-122.8491669,2.65,0.3,md,8,107,0.00785,0.07,nc,nc73830156,2023-01-09T04:15:14.470Z,"10km WNW of The Geysers, CA",earthquake,0.76,1.39,0.18,10,automatic,nc,nc
-2023-01-09T03:45:41.823Z,61.8972,-150.9393,63.5,2.1,ml,,,,0.36,ak,ak023exw5pi,2023-01-09T03:47:44.980Z,"26 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-09T03:45:28.772Z,-9.0078,124.0895,102.292,4.4,mb,28,75,0.763,0.8,us,us7000j325,2023-01-09T18:07:29.844Z,"38 km WNW of Pante Makasar, Timor Leste",earthquake,7.83,7.557,0.13,17,reviewed,us,us
