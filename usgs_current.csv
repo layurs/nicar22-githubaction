@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-11T11:08:54.478Z,61.5404,-141.1094,3.2,1.4,ml,,,,0.33,ak,ak023idif0q,2023-01-11T11:11:50.033Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-11T11:07:18.640Z,19.171667098999,-155.365173339844,28.7399997711182,2.05999994,md,22,235,,0.109999999,hv,hv73301492,2023-01-11T11:10:43.810Z,"12 km ESE of Pāhala, Hawaii",earthquake,1.05,1.61000001,2.1500001,4,automatic,hv,hv
+2023-01-11T11:03:31.250Z,17.9578333333333,-66.9325,12.83,2.01,md,5,206,0.05349,0.06,pr,pr71392233,2023-01-11T11:30:55.080Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.88,0.260471601715469,2,reviewed,pr,pr
 2023-01-11T10:39:14.480Z,33.8221667,-117.6393333,3.97,1.26,ml,36,57,0.03679,0.18,ci,ci40401640,2023-01-11T10:50:08.180Z,"8km SW of Corona, CA",earthquake,0.26,0.57,0.209,30,automatic,ci,ci
 2023-01-11T10:38:40.770Z,17.9865,-66.8928333333333,13.48,2.36,md,5,134,0.01722,0.06,pr,pr71392223,2023-01-11T11:00:18.360Z,"0 km NNW of Maria Antonia, Puerto Rico",earthquake,0.59,0.31,0.178462354864359,5,reviewed,pr,pr
 2023-01-11T10:17:18.153Z,43.9603,-128.7393,10,5,mww,76,191,1.99,0.88,us,us7000j3ld,2023-01-11T11:17:26.651Z,"off the coast of Oregon",earthquake,8.32,1.929,0.042,54,reviewed,us,us
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-11T08:39:53.573Z,-14.8554,166.7486,10,5.8,mww,60,26,0.734,1.11,us,us7000j3ky,2023-01-11T10:43:52.270Z,"40 km WNW of Port-Olry, Vanuatu",earthquake,6.52,1.86,0.098,10,reviewed,us,us
 2023-01-11T08:37:14.504Z,60.1223,-151.8739,62.3,1.7,ml,,,,0.58,ak,ak023ibw8vu,2023-01-11T08:40:03.718Z,"13 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-11T08:24:38.438Z,60.475,-141.539,5.4,1.6,ml,,,,0.43,ak,ak023ibtif7,2023-01-11T08:26:03.516Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-11T08:21:10.780Z,60.4771,-141.5985,0.9,1.5,ml,,,,0.6,ak,ak023ibst52,2023-01-11T08:22:49.951Z,"128 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-11T08:21:10.780Z,60.4771,-141.5985,0.9,1.5,ml,,,,0.6,ak,ak023ibst52,2023-01-11T08:22:49.951Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-11T07:59:22.456Z,-2.8734,136.9266,66.772,4.8,mb,50,94,4.672,0.77,us,us7000j3kt,2023-01-11T08:35:40.040Z,"167 km ENE of Nabire, Indonesia",earthquake,4.76,7.301,0.068,68,reviewed,us,us
 2023-01-11T07:59:03.140Z,19.4804992675781,-155.498504638672,-1.53999996185303,2.09,ml,23,60,,0.340000004,hv,hv73301387,2023-01-11T08:04:32.640Z,"28 km W of Volcano, Hawaii",earthquake,0.45,0.670000017,0.17,3,automatic,hv,hv
 2023-01-11T07:52:23.779Z,61.674,-148.9643,55.2,1.3,ml,,,,1.41,ak,ak023ibe1tq,2023-01-11T08:13:07.623Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -119,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-10T19:37:01.550Z,18.8263,-64.3388,22,3.76,md,18,219,0.7785,0.42,pr,pr2023010002,2023-01-11T02:29:11.657Z,"72 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.93,27.59,0.08,9,reviewed,pr,pr
 2023-01-10T19:14:17.730Z,38.8186684,-122.8156662,3.38,0.88,md,7,132,0.01576,0.02,nc,nc73830801,2023-01-10T19:37:14.590Z,"7km NW of The Geysers, CA",earthquake,0.63,1.78,0.12,8,automatic,nc,nc
 2023-01-10T19:05:19.780Z,17.9708333333333,-67.0123333333333,9.47,1.84,md,6,179,0.03039,0.04,pr,pr71392073,2023-01-10T19:34:47.290Z,"3 km E of La Parguera, Puerto Rico",earthquake,0.47,0.71,0.0806008328511536,4,reviewed,pr,pr
-2023-01-10T18:32:14.700Z,40.9488333,-124.0303333,22.2,3.61,mw,45,107,0.1389,0.14,nc,nc73830791,2023-01-11T09:00:52.928Z,"6km E of McKinleyville, CA",earthquake,0.29,0.38,,3,reviewed,nc,nc
+2023-01-10T18:32:14.700Z,40.9488333,-124.0303333,22.2,3.61,mw,45,107,0.1389,0.14,nc,nc73830791,2023-01-11T11:27:52.331Z,"6km E of McKinleyville, CA",earthquake,0.29,0.38,,3,reviewed,nc,nc
 2023-01-10T18:32:14.400Z,46.84583333333333,-121.75116666666666,1.65,0.4,ml,11,168,0.01612,0.08,uw,uw61901836,2023-01-10T19:16:51.320Z,"Washington",earthquake,0.3,0.45,0.2532846019416163,4,reviewed,uw,uw
 2023-01-10T18:30:50.760Z,38.7798347,-122.7638321,0.62,1.07,md,12,72,0.009223,0.02,nc,nc73830786,2023-01-10T18:48:14.266Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.46,0.21,11,automatic,nc,nc
 2023-01-10T18:20:52.861Z,61.6484,-146.4891,27.3,1.6,ml,,,,1.23,ak,ak023gu7o86,2023-01-10T18:24:10.607Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
