@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-13T23:26:47.302Z,62.7586,-150.8516,79.5,1.4,ml,,,,0.53,ak,ak023lvu5lm,2023-01-13T23:29:03.384Z,"29 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-13T23:06:04.220Z,19.1296672821045,-155.369338989258,30.1700000762939,1.82000005,md,33,221,,0.119999997,hv,hv73303072,2023-01-13T23:09:26.880Z,"14 km SE of Pāhala, Hawaii",earthquake,1.02,1.37,1.74000001,10,automatic,hv,hv
-2023-01-13T22:56:20.610Z,38.8176651,-122.7943344,2.66,1.22,md,16,56,0.009712,0.02,nc,nc73831676,2023-01-13T23:13:13.230Z,"6km NW of The Geysers, CA",earthquake,0.37,0.59,0.18,19,automatic,nc,nc
+2023-01-13T22:56:20.610Z,38.8176651,-122.7943344,2.66,1.22,md,16,56,0.009712,0.02,nc,nc73831676,2023-01-13T23:32:10.333Z,"6km NW of The Geysers, CA",earthquake,0.37,0.59,0.18,19,automatic,nc,nc
 2023-01-13T22:43:44.650Z,33.1985,-116.4226667,0.41,0.91,ml,13,113,0.06967,0.24,ci,ci40402376,2023-01-13T22:47:21.377Z,"8km SW of Borrego Springs, CA",earthquake,0.75,31.61,0.171,10,automatic,ci,ci
 2023-01-13T22:40:57.896Z,-5.2261,102.9725,35,5.3,mww,104,51,0.86,0.7,us,us7000j4a4,2023-01-13T23:15:05.040Z,"136 km SSW of Pagar Alam, Indonesia",earthquake,7.09,1.874,0.098,10,reviewed,us,us
 2023-01-13T22:37:53.971Z,59.912,-153.3158,140.3,2.1,ml,,,,0.8,ak,ak023lvb3eo,2023-01-13T22:40:37.068Z,"46 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T22:10:57.029Z,61.5438,-149.992,33.4,2,ml,,,,0.72,ak,ak023lv5bae,2023-01-13T22:14:50.235Z,"3 km NW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T22:00:54.740Z,33.5878333,-116.8126667,6.69,0.36,ml,14,75,0.04096,0.15,ci,ci40402368,2023-01-13T22:04:16.951Z,"13km WNW of Anza, CA",earthquake,0.43,0.64,0.071,8,automatic,ci,ci
 2023-01-13T22:00:42.919Z,64.7849,-149.4369,0.4,1.8,ml,,,,0.87,ak,ak023lv351f,2023-01-13T22:02:39.694Z,"25 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-13T21:58:09.520Z,38.8161659,-122.7958298,2.21,1.28,md,22,43,0.008196,0.02,nc,nc73831671,2023-01-13T23:05:11.184Z,"6km NW of The Geysers, CA",earthquake,0.2,0.43,0.2,25,automatic,nc,nc
+2023-01-13T21:58:09.520Z,38.8161659,-122.7958298,2.21,1.28,md,22,43,0.008196,0.02,nc,nc73831671,2023-01-13T23:32:13.333Z,"6km NW of The Geysers, CA",earthquake,0.2,0.43,0.2,25,automatic,nc,nc
 2023-01-13T21:55:56.200Z,33.1993333,-116.5911667,16.85,0.96,ml,28,70,0.04704,0.24,ci,ci40402360,2023-01-13T21:59:27.293Z,"10km SSE of Warner Springs, CA",earthquake,0.42,0.69,0.09,20,automatic,ci,ci
 2023-01-13T21:53:15.060Z,38.8036652,-122.7811661,1.33,0.7,md,11,82,0.009587,0.01,nc,nc73831666,2023-01-13T22:12:13.766Z,"4km NW of The Geysers, CA",earthquake,0.32,0.61,0.16,12,automatic,nc,nc
 2023-01-13T21:51:09.570Z,33.8795,-117.5045,2.55,1.17,ml,20,70,0.07927,0.28,ci,ci40402352,2023-01-13T21:54:37.409Z,"2km E of Home Gardens, CA",quarry blast,0.56,0.92,0.262,28,automatic,ci,ci
@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T23:57:19.540Z,33.431,-116.5606667,12.76,0.93,ml,28,57,0.0724,0.1,ci,ci40402152,2023-01-13T01:33:07.247Z,"17km SE of Anza, CA",earthquake,0.19,0.37,0.146,20,reviewed,ci,ci
 2023-01-12T23:46:18.909Z,61.7469,-149.5174,31.2,1.5,ml,,,,0.67,ak,ak023k8f18i,2023-01-12T23:48:12.190Z,"14 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-12T23:41:45.010Z,17.9613333333333,-66.8411666666667,16.88,1.87,md,6,203,0.03874,0.11,pr,pr71392548,2023-01-13T00:37:50.850Z,"Puerto Rico region",earthquake,0.72,0.71,0.127851018491404,5,reviewed,pr,pr
-2023-01-12T23:37:48.840Z,37.8740005,-121.8308334,14.84,1.82,md,12,179,0.1289,0.05,nc,nc73831406,2023-01-13T01:16:12.091Z,"9km NE of Blackhawk, CA",earthquake,0.59,1.26,0.07,9,automatic,nc,nc
