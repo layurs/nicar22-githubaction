@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-13T03:34:45.330Z,33.3273333,-116.3028333,10.44,1.29,ml,40,53,0.1125,0.25,ci,ci40402184,2023-01-13T03:45:37.000Z,"10km NE of Borrego Springs, CA",earthquake,0.32,0.8,0.178,27,automatic,ci,ci
 2023-01-13T03:31:43.420Z,66.2081,-151.394,0,1.9,ml,,,,1.3,ak,ak023ljyjs6,2023-01-13T03:34:32.865Z,"67 km SE of New Allakaket, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-13T03:31:36.646Z,34.6785,25.276,45.386,4.5,mb,67,78,1.772,0.74,us,us7000j41v,2023-01-13T03:48:12.040Z,"38 km SSE of Pýrgos, Greece",earthquake,8.04,7.733,0.076,53,reviewed,us,us
 2023-01-13T03:24:49.471Z,61.3817,-146.7269,18.5,1.8,ml,,,,0.52,ak,ak023ljx28j,2023-01-13T03:26:44.988Z,"34 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-13T03:21:18.833Z,36.53021622,-98.60401154,3.203243494,2.03,ml,28,88.15237427,0.05970243737,0.3977292617,ok,ok2023awer,2023-01-13T03:25:35.362Z,"13 km WSW of Carmen, Oklahoma",earthquake,2.37003281,1.7406075,,22,automatic,ok,ok
 2023-01-13T03:00:50.945Z,61.3967,-150.0251,33.3,1.3,ml,,,,0.57,ak,ak023ljrx5y,2023-01-13T03:03:05.449Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -146,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T10:21:50.865Z,-5.6587,147.5835,75.502,5.1,mb,55,107,3.745,0.89,us,us7000j3v2,2023-01-12T10:42:09.040Z,"103 km NNW of Finschhafen, Papua New Guinea",earthquake,11.03,7.668,0.049,136,reviewed,us,us
 2023-01-12T10:09:14.180Z,33.0806667,-116.026,8.24,1.28,ml,48,42,0.101,0.19,ci,ci40401968,2023-01-12T16:20:06.807Z,"12km SE of Ocotillo Wells, CA",earthquake,0.18,0.87,0.168,26,reviewed,ci,ci
 2023-01-12T10:00:38.890Z,33.7028333,-116.7208333,17.12,0.84,ml,31,59,0.009999,0.14,ci,ci40401960,2023-01-12T14:29:23.110Z,"4km S of Idyllwild, CA",earthquake,0.24,0.37,0.137,25,reviewed,ci,ci
-2023-01-12T09:57:30.120Z,58.1875,-155.305333333333,-0.96,-0.3,ml,7,152,,0.22,av,av91746311,2023-01-13T02:20:18.540Z,"85 km NW of Karluk, Alaska",earthquake,0.44,31.61,0.262052932427632,7,reviewed,av,av
+2023-01-12T09:57:29.940Z,58.1863333333333,-155.302666666667,2.23,-0.3,ml,7,153,,0.12,av,av91746311,2023-01-13T03:48:51.390Z,"85 km NW of Karluk, Alaska",earthquake,0.3,0.49,0.262052932427632,7,reviewed,av,av
 2023-01-12T09:56:59.685Z,-20.9392,-178.6425,624.212,4.4,mb,36,80,3.22,1.18,us,us7000j3v0,2023-01-12T10:15:39.040Z,"Fiji region",earthquake,15.26,10.741,0.056,91,reviewed,us,us
 2023-01-12T09:56:53.720Z,58.1831666666667,-155.292166666667,0.71,-0.64,ml,5,154,,0.09,av,av91084228,2023-01-13T02:10:35.490Z,"84 km NW of Karluk, Alaska",earthquake,0.32,1.5,0.285407459531436,5,reviewed,av,av
 2023-01-12T09:56:41.180Z,58.1878333333333,-155.293833333333,1.34,-0.73,ml,5,150,,0.03,av,av91084233,2023-01-13T02:12:47.290Z,"85 km NW of Karluk, Alaska",earthquake,0.25,0.73,0.210517944619831,5,reviewed,av,av
@@ -165,7 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T09:09:09.395Z,61.5128,-147.97,6.4,1.4,ml,,,,1.04,ak,ak023jzv0jf,2023-01-12T09:10:51.214Z,"36 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-12T08:26:18.050Z,18.9486,-64.2588,10,3.67,md,17,227,0.9177,0.38,pr,pr2023012000,2023-01-12T08:58:23.177Z,"Virgin Islands region",earthquake,2.33,2.88,0.05,7,reviewed,pr,pr
 2023-01-12T08:11:19.936Z,-23.3558,-174.6806,36.563,4.8,mb,31,111,2.229,0.49,us,us7000j3up,2023-01-12T08:32:44.040Z,"Tonga region",earthquake,8.91,9.851,0.109,26,reviewed,us,us
-2023-01-12T08:07:27.610Z,37.7531666666667,-84.7186666666667,35.29,2.64,md,12,63,0.3285,0.33,se,se60500283,2023-01-13T03:29:26.938Z,"4 km E of Burgin, Kentucky",earthquake,0.63,1.75,0.0813830622912013,7,reviewed,se,se
+2023-01-12T08:07:27.610Z,37.7531666666667,-84.7186666666667,35.29,2.64,md,12,63,0.3285,0.33,se,se60500283,2023-01-13T03:51:32.633Z,"4 km E of Burgin, Kentucky",earthquake,0.63,1.75,0.0813830622912013,7,reviewed,se,se
 2023-01-12T08:05:46.450Z,46.888333333333335,-121.91316666666667,3.54,0.61,ml,13,103,0.03486,0.19,uw,uw61902116,2023-01-12T17:15:53.980Z,"17 km NNE of Ashford, Washington",earthquake,0.47,31.61,0.21798146559519574,6,reviewed,uw,uw
 2023-01-12T07:51:11.700Z,58.5056666666667,-154.411,10.05,0.27,ml,8,318,,0.24,av,av91084208,2023-01-13T01:47:37.940Z,"101 km WNW of Aleneva, Alaska",earthquake,2.48,1,0.163722447576405,8,reviewed,av,av
 2023-01-12T07:38:34.130Z,51.8676666666667,-177.910833333333,4.3,1.75,ml,6,186,,0.12,av,av91746286,2023-01-13T01:41:59.730Z,"87 km W of Adak, Alaska",earthquake,0.51,1.42,0.230067362540403,6,reviewed,av,av
@@ -204,6 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T04:03:56.510Z,53.9185,-166.654333333333,3.39,-0.22,ml,5,146,,0.1,av,av91084188,2023-01-13T00:33:43.050Z,"8 km WNW of Dutch Harbor, Alaska",earthquake,0.39,1.96,0.261174124743234,5,reviewed,av,av
 2023-01-12T04:02:16.113Z,40.3812,-125.7807,10,2.9,ml,26,255,1.268,0.94,us,us7000j3tc,2023-01-12T21:59:36.045Z,"off the coast of Northern California",earthquake,3,2.022,0.049,54,reviewed,us,us
 2023-01-12T04:00:05.540Z,38.8361664,-122.7821655,1.83,1.29,md,16,70,0.006768,0.03,nc,nc73831206,2023-01-12T04:39:11.570Z,"5km WNW of Cobb, CA",earthquake,0.29,0.43,0.11,19,automatic,nc,nc
-2023-01-12T03:53:22.089Z,35.00316667,-97.657,5.65,1.8,ml,87,48,0.09988040006,0.39,ok,ok2023aukg,2023-01-12T14:15:15.506Z,"4 km SW of Dibble, Oklahoma",earthquake,,0.7,0.23,33,reviewed,ok,ok
-2023-01-12T03:48:46.530Z,37.2369995,-121.6194992,3.86,2,md,28,61,0.04809,0.08,nc,nc73831201,2023-01-12T04:11:13.399Z,"12km NNE of Morgan Hill, CA",earthquake,0.19,0.54,0.14,27,automatic,nc,nc
-2023-01-12T03:47:54.640Z,38.8396683,-122.805336,-0.81,0.43,md,7,125,0.01178,0.1,nc,nc73831196,2023-01-12T04:04:13.360Z,"7km WNW of Cobb, CA",earthquake,0.31,1.11,0.25,8,automatic,nc,nc
