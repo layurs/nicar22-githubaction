@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-17T14:56:26.820Z,33.7025,-116.8015,17.47,1.05,ml,18,162,0.07558,0.2,ci,ci40403320,2023-01-17T15:00:05.901Z,"9km WSW of Idyllwild, CA",earthquake,0.6,0.62,0.16,15,automatic,ci,ci
-2023-01-17T14:51:27.130Z,38.8366661,-122.8108368,1.73,0.21,md,7,105,0.01327,0.05,nc,nc73833201,2023-01-17T14:52:59.594Z,"8km WNW of Cobb, CA",earthquake,0.55,1.35,0.12,9,automatic,nc,nc
-2023-01-17T14:51:04.220Z,38.8346672,-122.809166,2.09,1.33,md,28,51,,0.02,nc,nc73833196,2023-01-17T14:52:39.333Z,"8km W of Cobb, CA",earthquake,0.18,0.35,0.16,29,automatic,nc,nc
+2023-01-17T14:51:27.130Z,38.8366661,-122.8108368,1.73,0.21,md,7,105,0.01327,0.05,nc,nc73833201,2023-01-17T15:20:11.100Z,"8km WNW of Cobb, CA",earthquake,0.55,1.35,0.12,9,automatic,nc,nc
+2023-01-17T14:51:04.220Z,38.8346672,-122.809166,2.09,1.33,md,28,51,,0.02,nc,nc73833196,2023-01-17T15:23:11.118Z,"8km W of Cobb, CA",earthquake,0.18,0.35,0.16,29,automatic,nc,nc
 2023-01-17T14:45:02.870Z,19.3271675109863,-155.167999267578,1.35000002384186,1.8,ml,40,92,,0.200000003,hv,hv73305897,2023-01-17T14:55:55.241Z,"14 km SSE of Volcano, Hawaii",earthquake,0.42,0.469999999,3.84,7,automatic,hv,hv
 2023-01-17T14:16:53.470Z,38.828167,-122.7986679,2.15,0.75,md,14,49,0.0101,0.01,nc,nc73833166,2023-01-17T14:33:11.847Z,"7km W of Cobb, CA",earthquake,0.28,0.85,0.16,13,automatic,nc,nc
 2023-01-17T14:12:33.380Z,18.7636666666667,-65.1111666666667,17.16,2.67,md,5,274,0.4346,0.25,pr,pr71393058,2023-01-17T14:44:56.040Z,"Virgin Islands region",earthquake,1.52,1.14,0.0603240926292128,3,reviewed,pr,pr
@@ -9,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T14:10:00.120Z,33.6,-116.804,5.95,0.68,ml,18,83,0.03389,0.16,ci,ci40403304,2023-01-17T14:13:41.924Z,"13km WNW of Anza, CA",earthquake,0.4,0.58,0.17,11,automatic,ci,ci
 2023-01-17T13:39:21.152Z,38.0584,-116.8333,16,1.6,ml,8,162.49,0.689,0.3836,nn,nn00854901,2023-01-17T13:41:51.803Z,"34 km E of Tonopah, Nevada",earthquake,,3.2,0.16,3,automatic,nn,nn
 2023-01-17T13:14:23.130Z,33.4786667,-116.5196667,10.74,0.79,ml,27,89,0.0708,0.2,ci,ci40403296,2023-01-17T13:17:59.430Z,"17km ESE of Anza, CA",earthquake,0.29,0.55,0.135,16,automatic,ci,ci
+2023-01-17T12:59:29.589Z,30.0275,131.0692,29.325,4.6,mb,106,111,1.569,0.61,us,us7000j4vk,2023-01-17T15:15:56.040Z,"56 km ESE of Koshima, Japan",earthquake,3.96,5.472,0.062,79,reviewed,us,us
 2023-01-17T12:47:09.330Z,33.2981667,-116.7573333,7.46,1.27,ml,37,41,0.06203,0.21,ci,ci40403288,2023-01-17T14:47:06.090Z,"6km N of Lake Henshaw, CA",earthquake,0.26,0.92,0.125,26,reviewed,ci,ci
 2023-01-17T12:39:33.110Z,40.4975014,-124.3183365,18.68,1.37,md,8,306,0.1708,0.04,nc,nc73833136,2023-01-17T13:21:12.413Z,"10km SSW of Ferndale, CA",earthquake,3.38,1.67,0.21,2,automatic,nc,nc
 2023-01-17T12:34:21.892Z,61.1219,-151.8832,71,1.9,ml,,,,0.56,ak,ak023sbhfot,2023-01-17T12:36:25.932Z,"40 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -188,6 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T15:32:25.150Z,19.4011669158936,-155.267166137695,9.4399995803833,1.76,ml,24,51,,0.270000011,hv,hv73305062,2023-01-16T15:37:56.470Z,"5 km SW of Volcano, Hawaii",earthquake,0.77,0.639999986,2.42,8,automatic,hv,hv
 2023-01-16T15:26:53.450Z,38.8151665,-122.8255005,2.18,1.09,md,16,55,0.006914,0.02,nc,nc73832861,2023-01-16T15:44:10.797Z,"7km NW of The Geysers, CA",earthquake,0.24,0.61,0.15,17,automatic,nc,nc
 2023-01-16T15:24:44.040Z,60.9287,-152.4023,111.4,2,ml,,,,0.34,ak,ak023qpoak4,2023-01-16T15:26:40.932Z,"66 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-16T15:15:08.750Z,38.8409996,-122.824501,1.76,0.9,md,12,95,0.008911,0.02,nc,nc73832856,2023-01-16T15:32:12.733Z,"9km WNW of Cobb, CA",earthquake,0.29,0.82,0.21,16,automatic,nc,nc
-2023-01-16T15:07:14.588Z,63.5191,-147.3369,11.5,1.5,ml,,,,0.59,ak,ak023qpkl2z,2023-01-16T15:09:39.612Z,"81 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-16T15:03:19.200Z,37.5931667,-119.0078333,2.08,0.32,md,13,214,0.0234,0.02,nc,nc73832846,2023-01-16T19:14:10.954Z,"6km SSW of Mammoth Lakes, CA",earthquake,0.84,0.59,0.235,14,reviewed,nc,nc
