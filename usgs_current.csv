@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T19:20:07.420Z,38.7573318,-122.7261658,0.86,1.03,md,8,112,0.004376,0.05,nc,nc73833646,2023-01-18T19:51:14.321Z,"3km SE of The Geysers, CA",earthquake,0.3,0.48,0.31,7,automatic,nc,nc
 2023-01-18T19:14:52.180Z,32.9425,-80.1993333333333,8.81,1.38,md,8,86,0.04541,0.09,se,se60500298,2023-01-18T20:51:08.476Z,"6 km SSW of Centerville, South Carolina",earthquake,0.34,0.43,0.313578609750622,6,reviewed,se,se
 2023-01-18T19:12:34.480Z,33.2358333,-116.7776667,11.72,0.74,ml,16,59,0.01585,0.16,ci,ci40403672,2023-01-18T19:16:16.465Z,"2km WSW of Lake Henshaw, CA",earthquake,0.36,0.72,0.114,10,automatic,ci,ci
-2023-01-18T19:08:59.170Z,33.6833333,-116.7566667,18.68,0.53,ml,15,133,0.04501,0.13,ci,ci40403664,2023-01-18T19:12:53.124Z,"7km SSW of Idyllwild, CA",earthquake,0.74,0.67,0.061,9,automatic,ci,ci
+2023-01-18T19:08:59.240Z,33.68,-116.758,17.85,0.51,ml,19,130,0.04798,0.08,ci,ci40403664,2023-01-18T21:35:48.308Z,"8km SSW of Idyllwild, CA",earthquake,0.25,0.32,0.056,7,reviewed,ci,ci
 2023-01-18T19:08:56.568Z,-17.4728,-174.6542,227.978,4.5,mb,87,79,1.325,0.65,us,us7000j5ba,2023-01-18T20:11:34.040Z,"148 km NNW of Neiafu, Tonga",earthquake,10.94,7.213,0.063,73,reviewed,us,us
 2023-01-18T19:07:04.848Z,36.7581,-116.2419,5.4,0.3,ml,20,95.18,0.031,0.0993,nn,nn00854974,2023-01-18T19:28:06.355Z,"49 km ESE of Beatty, Nevada",earthquake,,0.8,0.19,7,reviewed,nn,nn
 2023-01-18T19:00:39.270Z,38.8306656,-122.8168335,1.65,0.92,md,19,64,0.008977,0.02,nc,nc73833641,2023-01-18T19:20:13.124Z,"8km NW of The Geysers, CA",earthquake,0.22,0.44,0.17,20,automatic,nc,nc
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T18:19:17.390Z,38.8283348,-122.854332,2.21,0.76,md,17,61,0.002136,0.03,nc,nc73833631,2023-01-18T18:46:12.918Z,"10km NW of The Geysers, CA",earthquake,0.25,0.47,0.15,17,automatic,nc,nc
 2023-01-18T18:19:06.940Z,38.8274994,-122.8533325,2.1,0.26,md,7,142,0.002766,0.01,nc,nc73833626,2023-01-18T18:36:11.863Z,"10km WNW of The Geysers, CA",earthquake,0.51,0.89,0.15,8,automatic,nc,nc
 2023-01-18T18:19:06.329Z,62.2092,-123.921,7.001,4.1,mb,47,57,3.163,1.1,us,us7000j5aj,2023-01-18T20:38:23.040Z,"Northwest Territories, Canada",earthquake,7.08,3.863,0.145,13,reviewed,us,us
-2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"161 km NW of Tobelo, Indonesia",earthquake,8.83,8.529,0.098,31,reviewed,us,us
+2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"Molucca Sea",earthquake,8.83,8.529,0.098,31,reviewed,us,us
 2023-01-18T18:05:15.092Z,59.7876,-151.842,69,1.6,ml,,,,0.31,ak,ak023u2f5it,2023-01-18T18:07:55.190Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-18T18:04:35.722Z,60.766,-147.311,13.5,2.1,ml,,,,0.76,ak,ak023u2ezec,2023-01-18T18:06:35.307Z,"36 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-18T18:03:50.266Z,62.1545,-149.4294,47.6,1.8,ml,,,,0.38,ak,ak023u2essy,2023-01-18T18:05:19.413Z,"21 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T22:05:11.580Z,6.2754,126.0942,137.129,4.5,mb,42,118,0.94,0.87,us,us7000j509,2023-01-17T22:25:51.040Z,"Mindanao, Philippines",earthquake,10.25,6.728,0.096,33,reviewed,us,us
 2023-01-17T21:56:54.157Z,60.2189,-153.1116,114.2,2,ml,,,,0.3,ak,ak023sgz4dj,2023-01-17T22:18:13.040Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-17T21:42:33.761Z,-9.0914,148.075,9.858,5.1,mb,48,123,8.106,0.82,us,us7000j502,2023-01-18T06:05:02.882Z,"40 km SSW of Popondetta, Papua New Guinea",earthquake,8.35,4.553,0.096,37,reviewed,us,us
-2023-01-17T21:40:05.610Z,33.4041667,-116.3863333,6.53,0.7,ml,16,85,0.07655,0.14,ci,ci40403400,2023-01-17T23:07:19.863Z,"16km N of Borrego Springs, CA",earthquake,0.29,0.78,0.203,8,reviewed,ci,ci
