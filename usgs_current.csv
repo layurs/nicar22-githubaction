@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T01:41:39.678Z,25.9503,143.0084,10,4.6,mb,34,137,20.125,0.79,us,us7000j5e6,2023-01-19T02:22:22.040Z,"Volcano Islands, Japan region",earthquake,14.27,1.915,0.068,65,reviewed,us,us
 2023-01-19T01:41:13.400Z,19.4356670379639,-155.251159667969,5.76999998092651,1.74000001,md,17,82,,0.360000014,hv,hv73307157,2023-01-19T01:44:22.880Z,"1 km WSW of Volcano, Hawaii",earthquake,0.69,1.27999997,1.00999999,7,automatic,hv,hv
 2023-01-19T01:35:07.850Z,38.821167,-122.7926636,0.48,1.64,md,26,34,,0.04,nc,nc73833771,2023-01-19T02:44:12.853Z,"6km NNW of The Geysers, CA",earthquake,0.16,0.34,0.18,27,automatic,nc,nc
-2023-01-19T01:33:53.540Z,36.7711678,-121.2805023,8.42,1.82,md,32,73,0.06804,0.1,nc,nc73833766,2023-01-19T02:33:14.784Z,"4km ESE of Tres Pinos, CA",earthquake,0.27,0.48,0.18,24,automatic,nc,nc
+2023-01-19T01:33:53.540Z,36.7711678,-121.2805023,8.42,1.82,md,32,73,0.06804,0.1,nc,nc73833766,2023-01-19T03:30:14.149Z,"4km ESE of Tres Pinos, CA",earthquake,0.27,0.48,0.18,24,automatic,nc,nc
 2023-01-19T01:33:33.050Z,33.4038333,-116.3878333,4.19,1,ml,31,56,0.1234,0.23,ci,ci40403784,2023-01-19T01:37:16.526Z,"16km N of Borrego Springs, CA",earthquake,0.33,0.88,0.149,25,automatic,ci,ci
 2023-01-19T01:23:15.370Z,33.4008333,-116.3795,6,0.9,ml,28,117,0.1282,0.27,ci,ci40403776,2023-01-19T01:26:47.446Z,"16km N of Borrego Springs, CA",earthquake,0.48,1.49,0.169,22,automatic,ci,ci
 2023-01-19T01:19:16.100Z,33.4018333,-116.3901667,4.79,2.12,ml,68,22,0.1248,0.2,ci,ci40403768,2023-01-19T01:30:20.370Z,"16km N of Borrego Springs, CA",earthquake,0.2,1.34,0.163,25,automatic,ci,ci
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T19:40:22.950Z,19.1844997406006,-155.349166870117,27.6599998474121,2.11999989,md,40,191,,0.129999995,hv,hv73306932,2023-01-18T19:44:24.340Z,"13 km E of Pāhala, Hawaii",earthquake,0.61,0.920000017,0.50999999,17,automatic,hv,hv
 2023-01-18T19:40:01.530Z,38.824501,-122.80233,2.02,0.78,md,12,76,0.006149,0.02,nc,nc73833656,2023-01-18T20:34:13.590Z,"7km NW of The Geysers, CA",earthquake,0.3,0.67,0.21,16,automatic,nc,nc
 2023-01-18T19:20:07.420Z,38.7573318,-122.7261658,0.86,1.03,md,8,112,0.004376,0.05,nc,nc73833646,2023-01-18T19:51:14.321Z,"3km SE of The Geysers, CA",earthquake,0.3,0.48,0.31,7,automatic,nc,nc
-2023-01-18T19:14:52.180Z,32.9425,-80.1993333333333,8.81,1.38,md,8,86,0.04541,0.09,se,se60500298,2023-01-18T21:52:43.688Z,"6 km SSW of Centerville, South Carolina",earthquake,0.34,0.43,0.313578609750622,6,reviewed,se,se
+2023-01-18T19:14:52.180Z,32.9425,-80.1993333333333,8.81,1.38,md,8,86,0.04541,0.09,se,se60500298,2023-01-19T03:30:39.769Z,"6 km SSW of Centerville, South Carolina",earthquake,0.34,0.43,0.313578609750622,6,reviewed,se,se
 2023-01-18T19:12:34.440Z,33.2315,-116.7795,11.67,0.76,ml,27,36,0.01795,0.13,ci,ci40403672,2023-01-18T21:42:55.314Z,"2km SW of Lake Henshaw, CA",earthquake,0.18,0.45,0.128,11,reviewed,ci,ci
 2023-01-18T19:08:59.240Z,33.68,-116.758,17.85,0.51,ml,19,130,0.04798,0.08,ci,ci40403664,2023-01-18T21:35:48.308Z,"8km SSW of Idyllwild, CA",earthquake,0.25,0.32,0.056,7,reviewed,ci,ci
 2023-01-18T19:08:56.568Z,-17.4728,-174.6542,227.978,4.5,mb,87,79,1.325,0.65,us,us7000j5ba,2023-01-18T20:11:34.040Z,"148 km NNW of Neiafu, Tonga",earthquake,10.94,7.213,0.063,73,reviewed,us,us
@@ -210,8 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T03:50:59.770Z,36.52533333,-98.60866667,6.3,1.77,ml,89,42,0.05488922886,0.21,ok,ok2023bfje,2023-01-18T14:15:14.041Z,"14 km WSW of Carmen, Oklahoma",earthquake,,0.3,0.22,34,reviewed,ok,ok
 2023-01-18T03:49:28.279Z,63.0925,-150.1108,71.3,1.6,ml,,,,0.63,ak,ak023ttr3yz,2023-01-18T03:51:42.307Z,"67 km WSW of Cantwell, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-01-18T03:46:24.171Z,61.6271,-149.6415,20,2.6,ml,,,,0.84,ak,ak023ttqgj5,2023-01-18T03:48:14.530Z,"2 km W of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-18T03:42:51.200Z,33.9178333,-116.6955,15.38,1.19,ml,48,46,0.1193,0.13,ci,ci40403512,2023-01-18T16:22:27.866Z,"8km E of Cabazon, CA",earthquake,0.13,0.36,0.089,27,reviewed,ci,ci
-2023-01-18T03:42:41.090Z,33.9163333,-116.6921667,16.89,0.5,ml,16,89,0.1203,0.12,ci,ci37491164,2023-01-18T16:27:32.778Z,"9km E of Cabazon, CA",earthquake,0.27,0.85,0.052,10,reviewed,ci,ci
-2023-01-18T03:40:50.560Z,36.52633333,-98.6065,6.31,2.49,ml,85,42,0,0.21,ok,ok2023bfiv,2023-01-18T13:52:42.164Z,"14 km WSW of Carmen, Oklahoma",earthquake,,0.4,0.22,34,reviewed,ok,ok
-2023-01-18T03:39:37.350Z,38.8264999,-122.8154984,4.92,0.65,md,7,116,0.00525,0.03,nc,nc73833426,2023-01-18T04:16:11.924Z,"8km NW of The Geysers, CA",earthquake,0.81,1.52,0.45,8,automatic,nc,nc
-2023-01-18T03:30:04.560Z,33.478,-116.8766667,11.76,0.46,ml,21,79,0.02928,0.11,ci,ci40403504,2023-01-18T14:45:07.268Z,"4km NNW of Aguanga, CA",earthquake,0.2,0.45,0.041,3,reviewed,ci,ci
