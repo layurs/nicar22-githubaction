@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-21T17:27:37.146Z,59.6979,-152.9952,78.6,2.3,ml,,,,1.08,ak,ak023z0kiuq,2023-01-21T17:30:04.431Z,"63 km E of Pedro Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-01-21T17:15:04.240Z,38.8361664,-122.807663,2.29,0.52,md,8,106,0.01289,0.01,nc,nc73835381,2023-01-21T17:16:38.095Z,"8km WNW of Cobb, CA",earthquake,0.49,1.19,0.31,10,automatic,nc,nc
+2023-01-21T17:15:04.240Z,38.8361664,-122.807663,2.29,0.52,md,8,106,0.01289,0.01,nc,nc73835381,2023-01-21T17:44:13.321Z,"8km WNW of Cobb, CA",earthquake,0.49,1.19,0.31,10,automatic,nc,nc
 2023-01-21T16:38:09.300Z,38.8263321,-122.8518295,1.92,0.81,md,9,89,0.01351,0.01,nc,nc73835366,2023-01-21T16:55:15.032Z,"10km WNW of The Geysers, CA",earthquake,0.46,0.71,0.19,10,automatic,nc,nc
 2023-01-21T16:37:52.920Z,17.5566666666667,-67.7223333333333,20.43,3.21,md,19,252,0.5544,0.33,pr,pr71393678,2023-01-21T17:22:40.040Z,"73 km SW of Pole Ojea, Puerto Rico",earthquake,1.34,27.64,0.086585217217203,12,reviewed,pr,pr
 2023-01-21T15:55:53.895Z,-2.1527,102.1545,202.953,4.4,mb,41,146,2.334,0.68,us,us7000j636,2023-01-21T17:12:59.040Z,"southern Sumatra, Indonesia",earthquake,6.83,5.881,0.096,31,reviewed,us,us
@@ -144,11 +144,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T03:28:58.720Z,38.8079987,-122.7799988,1.28,1.64,md,12,109,0.00528,0.05,nc,nc73834931,2023-01-21T04:14:11.335Z,"4km NNW of The Geysers, CA",earthquake,0.35,0.67,0.16,13,automatic,nc,nc
 2023-01-21T03:28:32.740Z,38.8296661,-122.8174973,-0.73,1.42,md,6,105,0.008534,0.02,nc,nc73834921,2023-01-21T04:51:12.551Z,"8km NW of The Geysers, CA",earthquake,0.43,0.73,0.64,3,automatic,nc,nc
 2023-01-21T03:28:26.400Z,38.822834,-122.7871704,0.92,1.7,md,12,75,0.01082,0.04,nc,nc73834916,2023-01-21T04:23:13.563Z,"6km W of Cobb, CA",earthquake,0.32,0.84,0.21,6,automatic,nc,nc
-2023-01-21T03:27:50.440Z,38.8208333,-122.788,0.9,3.06,ml,94,21,0.009479,0.07,nc,nc73834926,2023-01-21T08:09:10.044Z,"6km NNW of The Geysers, CA",earthquake,0.07,0.1,0.221,82,reviewed,nc,nc
+2023-01-21T03:27:50.440Z,38.8208333,-122.788,0.9,3.06,ml,94,21,0.009479,0.07,nc,nc73834926,2023-01-21T17:38:17.518Z,"6km NNW of The Geysers, CA",earthquake,0.07,0.1,0.221,82,reviewed,nc,nc
 2023-01-21T03:23:05.858Z,65.5358,-144.8425,28,2,ml,,,,1,ak,ak023ys7j3t,2023-01-21T03:25:58.291Z,"northern Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-01-21T03:16:48.310Z,38.8028336,-122.765831,0.69,1.08,md,15,85,0.01559,0.02,nc,nc73834911,2023-01-21T03:42:13.148Z,"3km NNW of The Geysers, CA",earthquake,0.23,0.59,0.21,14,automatic,nc,nc
 2023-01-21T02:52:20.370Z,37.3796654,-122.2256699,6.82,2.39,md,35,58,0.02616,0.08,nc,nc73834901,2023-01-21T03:55:22.454Z,"1km ESE of Portola Valley, CA",earthquake,0.19,0.48,0.13,44,automatic,nc,nc
-2023-01-21T02:21:40.376Z,58.7269,-153.705,12.8,1.9,ml,,,,0.17,ak,ak023yrlqqd,2023-01-21T02:23:31.507Z,"87 km NNW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-21T02:17:04.749Z,60.4285,-151.064,41.5,2.3,ml,,,,0.21,ak,ak023yrkt4a,2023-01-21T03:11:44.040Z,"6 km S of Soldotna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-21T02:10:19.850Z,19.2059993743896,-155.476669311523,34.1599998474121,1.86000001,md,33,97,,0.150000006,hv,hv73308842,2023-01-21T02:15:27.310Z,"Island of Hawaii, Hawaii",earthquake,0.74,1.03999996,1.83000004,10,automatic,hv,hv
 2023-01-21T02:07:22.330Z,35.0116667,-118.5076667,2.38,1.35,ml,24,48,0.138,0.22,ci,ci40404536,2023-01-21T02:10:57.037Z,"14km SSW of Tehachapi, CA",earthquake,0.32,1.46,0.222,28,automatic,ci,ci
@@ -217,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T18:05:42.096Z,37.7696,141.5306,69.558,4.5,mb,139,98,2.923,0.54,us,us7000j5vu,2023-01-21T11:18:14.496Z,"near the east coast of Honshu, Japan",earthquake,7.4,6.689,0.052,120,reviewed,us,us
 2023-01-20T18:05:07.253Z,-5.2778,101.8249,25.488,4.5,mb,44,87,1.449,0.69,us,us7000j5vt,2023-01-20T19:47:20.040Z,"170 km SSW of Bengkulu, Indonesia",earthquake,7.41,5.839,0.097,31,reviewed,us,us
 2023-01-20T17:49:34.446Z,2.8019,127.0115,22.687,5,mb,126,55,2.048,1.13,us,us7000j5vr,2023-01-20T18:38:11.040Z,"162 km NW of Tobelo, Indonesia",earthquake,7.36,2.103,0.054,119,reviewed,us,us
-2023-01-20T17:42:09.020Z,19.2386665344238,-155.413833618164,31.0900001525879,2.24000001,md,40,129,,0.150000006,hv,hv73308622,2023-01-20T17:47:42.880Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.6,1.04999995,1.62,18,automatic,hv,hv
-2023-01-20T17:39:03.870Z,36.7878342,-121.3300018,5.36,1.73,md,13,219,0.08131,0.03,nc,nc73834666,2023-01-20T18:32:13.913Z,"1km WSW of Tres Pinos, CA",earthquake,0.61,0.87,0.25,13,automatic,nc,nc
