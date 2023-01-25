@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-25T17:17:43.190Z,19.0405006408691,-155.414337158203,36.9300003051758,3.03,ml,44,205,,0.109999999,hv,hv73312697,2023-01-25T17:23:13.920Z,"17 km E of Naalehu, Hawaii",earthquake,0.58,0.910000026,2.84,29,automatic,hv,hv
-2023-01-25T17:11:57.180Z,38.8188324,-122.7791672,9.78,0.22,md,7,150,0.01369,0.05,nc,nc73837136,2023-01-25T17:25:10.335Z,"5km W of Cobb, CA",earthquake,1.53,1.77,0.13,7,automatic,nc,nc
+2023-01-25T17:11:57.180Z,38.8188324,-122.7791672,9.78,0.22,md,7,150,0.01369,0.05,nc,nc73837136,2023-01-25T17:31:14.368Z,"5km W of Cobb, CA",earthquake,1.53,1.77,0.13,7,automatic,nc,nc
 2023-01-25T16:50:26.330Z,19.2495002746582,-155.373840332031,29.6299991607666,1.80999994,md,42,141,,0.129999995,hv,hv73312692,2023-01-25T16:53:50.340Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.57,1.13,1.38999999,23,automatic,hv,hv
 2023-01-25T16:42:19.450Z,62.4193,-148.9674,49.4,2,ml,,,,0.59,ak,ak02315m7nll,2023-01-25T16:44:17.793Z,"54 km ENE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-25T16:18:18.290Z,34.5131667,-118.7116667,14.44,1.49,ml,24,85,0.09785,0.23,ci,ci40161615,2023-01-25T16:22:06.193Z,"9km WNW of Castaic, CA",earthquake,0.52,0.83,0.268,30,automatic,ci,ci
@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T13:39:22.060Z,19.154333114624,-155.496002197266,34.8499984741211,2.28999996,md,41,136,,0.140000001,hv,hv73312607,2023-01-25T13:44:53.820Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.65,0.899999976,0.209999993,13,automatic,hv,hv
 2023-01-25T13:29:16.700Z,19.1919994354248,-155.382339477539,32.0400009155273,1.99000001,md,40,173,,0.119999997,hv,hv73312597,2023-01-25T13:32:31.390Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.910000026,0.689999998,11,automatic,hv,hv
 2023-01-25T13:19:39.197Z,55.754,-158.5617,56.2,2.5,ml,,,,0.4,ak,ak02315kagu7,2023-01-25T13:21:31.349Z,"40 km ESE of Perryville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-25T12:55:32.281Z,38.602,-119.4128,0.5,1.7,ml,19,68.86,0.085,0.143,nn,nn00855263,2023-01-25T17:23:14.602Z,"California-Nevada border region",earthquake,,3.1,0.46,5,reviewed,nn,nn
+2023-01-25T12:55:32.225Z,38.5984,-119.4216,4.8,1.7,ml,16,67.79,0.078,0.0958,nn,nn00855263,2023-01-25T17:26:27.292Z,"California-Nevada border region",earthquake,,2.4,0.22,3,reviewed,nn,nn
 2023-01-25T12:50:38.510Z,38.8370018,-122.7998352,1.61,1.08,md,19,66,0.007544,0.02,nc,nc73837046,2023-01-25T13:07:13.870Z,"7km WNW of Cobb, CA",earthquake,0.2,0.43,0.13,19,automatic,nc,nc
 2023-01-25T12:46:17.709Z,-5.5069,153.6635,42.747,4.6,mb,30,173,7.522,0.84,us,us6000jj5v,2023-01-25T13:12:13.040Z,"201 km SE of Kokopo, Papua New Guinea",earthquake,13.74,9.073,0.11,25,reviewed,us,us
 2023-01-25T12:43:10.638Z,55.0933,-160.3468,10.8,1.9,ml,,,,0.37,ak,ak02315ju4ud,2023-01-25T15:11:41.787Z,"28 km SSE of Sand Point, Alaska",earthquake,,0.7,,,reviewed,ak,ak
@@ -62,9 +62,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:22:32.970Z,33.883,-118.6923333,10.98,2.9,ml,91,151,0.1541,0.23,ci,ci40161407,2023-01-25T17:09:57.938Z,"17km S of Malibu Beach, CA",earthquake,0.26,0.43,0.131,142,reviewed,ci,ci
 2023-01-25T10:21:13.380Z,32.0271667,-115.5365,18.04,2.17,ml,16,104,0.3503,0.19,ci,ci40161399,2023-01-25T15:40:28.958Z,"41km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.23,0.221,11,reviewed,ci,ci
 2023-01-25T10:09:09.290Z,35.9618333,-117.9138333,8.71,0.84,ml,10,139,0.07899,0.07,ci,ci40161391,2023-01-25T14:35:27.546Z,"3km NNW of Little Lake, CA",earthquake,0.28,0.6,0.214,10,reviewed,ci,ci
-2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-25T17:15:51.896Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
+2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-25T17:34:03.789Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
 2023-01-25T10:01:41.890Z,35.8515,-97.19116667,7.98,3.53,ml,84,46,0,0.12,ok,ok2023bspx,2023-01-25T15:41:07.796Z,"5 km ENE of Meridian, Oklahoma",earthquake,,0.3,0.26,43,reviewed,ok,ok
-2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-25T17:24:34.081Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
+2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-25T17:30:41.648Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
 2023-01-25T09:59:08.048Z,61.4313,-146.363,29.2,1.8,ml,,,,0.84,ak,ak02315i58no,2023-01-25T10:01:20.233Z,"33 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-25T09:54:20.360Z,38.8813324,-122.7841644,10.97,0.25,md,6,230,0.03915,0.05,nc,nc73836986,2023-01-25T12:24:12.264Z,"8km NW of Cobb, CA",earthquake,4.32,2.42,0.07,4,automatic,nc,nc
 2023-01-25T09:49:26.073Z,37.2323,-117.3704,7,0.7,ml,8,187.32,0.219,0.1662,nn,nn00855246,2023-01-25T09:50:46.318Z,"54 km SSW of Goldfield, Nevada",earthquake,,9.1,0.98,5,automatic,nn,nn
