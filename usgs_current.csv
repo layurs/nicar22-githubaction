@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-28T15:01:43.820Z,38.8445015,-122.8411636,2.28,0.62,md,9,178,0.007383,0.01,nc,nc73838831,2023-01-28T15:03:21.333Z,"10km NW of The Geysers, CA",earthquake,0.51,0.88,0.34,9,automatic,nc,nc
+2023-01-28T15:01:43.820Z,38.8445015,-122.8411636,2.28,0.62,md,9,178,0.007383,0.01,nc,nc73838831,2023-01-28T15:19:16.981Z,"10km NW of The Geysers, CA",earthquake,0.51,0.88,0.34,9,automatic,nc,nc
 2023-01-28T14:44:30.260Z,19.0628337860107,-155.421173095703,36.2599983215332,2.55,ml,41,198,,0.129999995,hv,hv73314572,2023-01-28T14:50:02.470Z,"16 km SSE of Pāhala, Hawaii",earthquake,0.6,1.13,0.33,5,automatic,hv,hv
 2023-01-28T14:34:18.373Z,62.5647,-150.847,70.3,1.6,ml,,,,0.7,ak,ak0231ajl425,2023-01-28T14:36:10.155Z,"8 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-28T14:32:36.030Z,32.9318333,-115.5038333,5.25,1.36,ml,10,122,0.05662,0.25,ci,ci40163335,2023-01-28T14:36:12.179Z,"6km SSE of Brawley, CA",earthquake,0.75,0.9,0.219,18,automatic,ci,ci
@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T09:47:48.010Z,33.6555,-116.711,13.58,0.86,ml,30,53,0.05558,0.17,ci,ci40163111,2023-01-28T09:51:22.658Z,"9km S of Idyllwild, CA",earthquake,0.29,0.45,0.187,23,automatic,ci,ci
 2023-01-28T09:42:59.326Z,61.6792,-151.6339,85.2,1.4,ml,,,,0.37,ak,ak0231agnqx8,2023-01-28T09:45:33.488Z,"36 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-28T09:39:51.745Z,57.0365,-157.3527,4.4,2.6,ml,,,,0.76,ak,ak0231agn36u,2023-01-28T10:13:20.040Z,"53 km S of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-28T09:39:50.360Z,41.4968333,-112.1745,0.19,2.88,ml,36,70,0.1095,0.25,uu,uu60530492,2023-01-28T14:54:47.094Z,"8 km SW of Corinne, Utah",earthquake,0.37,2.06,0.095,14,reviewed,uu,uu
+2023-01-28T09:39:50.360Z,41.4968333,-112.1745,0.19,2.88,ml,36,70,0.1095,0.25,uu,uu60530492,2023-01-28T15:23:13.071Z,"8 km SW of Corinne, Utah",earthquake,0.37,2.06,0.095,14,reviewed,uu,uu
 2023-01-28T09:39:23.380Z,38.833168,-122.9046631,4.5,1.67,md,32,105,0.01732,0.03,nc,nc73838791,2023-01-28T12:20:14.896Z,"10km ENE of Cloverdale, CA",earthquake,0.28,0.42,0.2,34,automatic,nc,nc
 2023-01-28T09:33:06.680Z,35.7093333,-117.5618333,2.26,0.94,ml,13,112,0.1101,0.2,ci,ci40163103,2023-01-28T09:36:37.203Z,"14km NE of Ridgecrest, CA",earthquake,0.46,0.84,0.074,10,automatic,ci,ci
 2023-01-28T09:32:44.985Z,61.385,-144.5083,250,1.7,ml,,,,0.94,ak,ak0231aglknu,2023-01-28T09:39:38.791Z,"15 km SSW of Chitina, Alaska",earthquake,,6.1,,,automatic,ak,ak
@@ -229,8 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T15:37:47.957Z,60.287,-141.2543,3.2,0.8,ml,,,,0.22,ak,ak02318wnw71,2023-01-27T15:44:15.970Z,"118 km NW of Yakutat, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-01-27T15:26:21.820Z,17.968,-66.951,4.29,1.95,md,4,189,0.06864,0.06,pr,pr71394643,2023-01-27T15:52:14.950Z,"4 km WSW of Fuig, Puerto Rico",earthquake,1.5,1.3,0.0882787878119986,3,reviewed,pr,pr
 2023-01-27T15:25:08.960Z,38.8171654,-122.8300018,5.36,0.26,md,7,119,0.00831,0.05,nc,nc73838306,2023-01-27T15:58:13.500Z,"8km NW of The Geysers, CA",earthquake,1.35,0.81,0.11,7,automatic,nc,nc
-2023-01-27T15:20:46.520Z,33.004,-116.2225,8.43,0.95,ml,24,102,0.08396,0.17,ci,ci40162695,2023-01-27T22:59:28.062Z,"18km SSW of Ocotillo Wells, CA",earthquake,0.25,0.93,0.174,12,reviewed,ci,ci
-2023-01-27T15:19:05.220Z,38.8330002,-122.8151703,1.4,0.38,md,7,139,0.01038,0.01,nc,nc73838296,2023-01-27T15:36:15.377Z,"8km NW of The Geysers, CA",earthquake,0.41,1.22,0.29,8,automatic,nc,nc
-2023-01-27T15:17:20.210Z,46.8625,-121.89633333333333,8.16,0.91,ml,24,85,0.03926,0.13,uw,uw61904101,2023-01-27T17:35:21.650Z,"15 km NE of Ashford, Washington",earthquake,0.27,0.3,0.1725823723709099,15,reviewed,uw,uw
-2023-01-27T15:13:22.100Z,35.734,-117.6185,9.61,2.59,ml,39,53,0.08333,0.13,ci,ci40162687,2023-01-27T23:11:10.230Z,"14km NNE of Ridgecrest, CA",earthquake,0.15,0.34,0.212,26,reviewed,ci,ci
-2023-01-27T15:09:01.190Z,33.8466667,-116.7833333,17.35,0.98,ml,29,74,0.01751,0.12,ci,ci40162671,2023-01-27T22:48:33.074Z,"8km S of Cabazon, CA",earthquake,0.19,0.39,0.15,15,reviewed,ci,ci
