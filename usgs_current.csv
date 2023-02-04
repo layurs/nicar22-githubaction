@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T22:43:02.803Z,58.3164,-151.0114,4.7,2.2,ml,,,,0.56,ak,ak0231m95wlk,2023-02-04T22:51:44.907Z,"98 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-04T22:39:37.070Z,34.0278333,-119.1643333,3.89,2.08,ml,36,99,0.1607,0.32,ci,ci40411032,2023-02-04T22:50:02.780Z,"14km SSE of Port Hueneme, CA",earthquake,0.66,3.19,0.122,29,automatic,ci,ci
 2023-02-04T22:36:59.980Z,33.4695,-116.5625,8.4,0.49,ml,13,145,0.04162,0.17,ci,ci40411024,2023-02-04T22:40:38.490Z,"14km SE of Anza, CA",earthquake,0.61,0.61,0.105,10,automatic,ci,ci
-2023-02-04T22:31:39.550Z,38.8204994,-122.7626648,1.98,1.41,md,25,120,0.01145,0.03,nc,nc73841996,2023-02-04T23:16:10.595Z,"3km W of Cobb, CA",earthquake,0.24,0.35,0.2,23,automatic,nc,nc
+2023-02-04T22:31:39.550Z,38.8204994,-122.7626648,1.98,1.41,md,25,120,0.01145,0.03,nc,nc73841996,2023-02-04T23:46:13.797Z,"3km W of Cobb, CA",earthquake,0.24,0.35,0.2,23,automatic,nc,nc
 2023-02-04T22:25:59.112Z,62.282,-149.6803,55.4,1.4,ml,,,,0.43,ak,ak0231m9261z,2023-02-04T22:28:22.965Z,"16 km NNE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-04T22:20:27.306Z,63.4367,-147.2755,50.9,1.9,ml,,,,0.91,ak,ak0231m9110q,2023-02-04T22:22:26.695Z,"83 km E of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-04T22:10:30.001Z,-19.9365,-173.2423,10,4.8,mb,28,88,1.048,0.74,us,us6000jlgz,2023-02-04T23:04:16.040Z,"117 km E of Pangai, Tonga",earthquake,7.01,1.877,0.134,17,reviewed,us,us
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T18:12:37.080Z,38.8268318,-122.8544998,2.41,1.17,md,17,61,0.001986,0.01,nc,nc73841911,2023-02-04T21:02:14.791Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.62,0.33,15,automatic,nc,nc
 2023-02-04T18:12:28.930Z,38.8269997,-122.8550034,2.62,2.17,md,25,94,0.001559,0.02,nc,nc73841926,2023-02-04T21:32:13.982Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.43,0.1,27,automatic,nc,nc
 2023-02-04T18:12:15.940Z,38.8271675,-122.854332,2.49,0.8,md,5,127,0.01561,0.01,nc,nc73841906,2023-02-04T18:55:12.949Z,"10km WNW of The Geysers, CA",earthquake,0.95,4.01,0.32,8,automatic,nc,nc
-2023-02-04T18:09:48.805Z,51.6516,-177.5035,71.644,4.2,mb,79,176,0.2,0.47,us,us6000jlfm,2023-02-04T20:07:49.040Z,"64 km WSW of Adak, Alaska",earthquake,7.19,4.781,0.062,78,reviewed,us,us
+2023-02-04T18:09:48.805Z,51.6516,-177.5035,71.644,4.2,mb,79,176,0.2,0.47,us,us6000jlfm,2023-02-04T20:07:49.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,7.19,4.781,0.062,78,reviewed,us,us
 2023-02-04T18:03:04.590Z,38.8269997,-122.8544998,2.2,0.78,md,15,96,0.001932,0.01,nc,nc73841896,2023-02-04T20:11:11.460Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.53,0.19,17,automatic,nc,nc
 2023-02-04T17:56:02.350Z,58.2743333333333,-154.8255,14.05,0.16,ml,9,177,,0.08,av,av91755166,2023-02-04T20:45:26.320Z,"81 km NNW of Karluk, Alaska",earthquake,0.38,0.68,0.174968494964008,9,reviewed,av,av
 2023-02-04T17:45:42.000Z,38.793335,-122.7785034,3.97,0.75,md,9,100,0.01639,0.02,nc,nc73841886,2023-02-04T18:10:12.653Z,"3km NW of The Geysers, CA",earthquake,0.52,1.49,0.19,10,automatic,nc,nc
@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T00:02:01.903Z,60.5936,-142.7359,24.3,0.8,ml,,,,0.08,ak,ak0231lvtkv4,2023-02-04T00:04:22.772Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-03T23:58:12.678Z,-5.6504,149.2188,176.009,4.6,mb,60,33,3.273,0.72,us,us6000jlap,2023-02-04T00:29:50.040Z,"71 km NNW of Kandrian, Papua New Guinea",earthquake,7.6,6.539,0.07,61,reviewed,us,us
 2023-02-03T23:51:24.849Z,60.9264,-150.681,38.1,1.4,ml,,,,0.38,ak,ak0231km9r50,2023-02-03T23:53:49.937Z,"0 km NE of Point Possession, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-02-03T23:43:06.190Z,48.52483333333333,-123.83983333333333,18.51,1.5,ml,11,71,0.04393,0.63,uw,uw61905271,2023-02-04T06:23:38.060Z,"18 km NNW of Sooke, Canada",earthquake,1.19,2.43,0.21440168135304394,8,reviewed,uw,uw
