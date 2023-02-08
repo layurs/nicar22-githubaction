@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-08T09:33:59.430Z,36.9614983,-121.6100006,7.34,1.24,md,8,72,0.05158,0.06,nc,nc73843456,2023-02-08T09:46:10.663Z,"6km SW of Gilroy, CA",earthquake,0.47,1.06,0.33,10,automatic,nc,nc
 2023-02-08T09:29:23.810Z,62.8838,-150.5066,96.2,1.7,ml,,,,0.26,ak,ak0231snhpb1,2023-02-08T09:31:24.033Z,"45 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-02-08T09:27:13.510Z,36.9613342,-121.598999,5.53,1.24,md,11,76,0.05883,0.09,nc,nc73843451,2023-02-08T09:39:11.504Z,"6km SSW of Gilroy, CA",earthquake,0.38,0.93,0.37,10,automatic,nc,nc
+2023-02-08T09:27:13.510Z,36.9613342,-121.598999,5.53,1.24,md,11,76,0.05883,0.09,nc,nc73843451,2023-02-08T09:55:12.601Z,"6km SSW of Gilroy, CA",earthquake,0.38,0.93,0.37,10,automatic,nc,nc
 2023-02-08T09:23:18.520Z,19.1356658935547,-155.402328491211,31.7000007629395,2.1400001,md,42,180,,0.119999997,hv,hv73321262,2023-02-08T09:26:41.640Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.930000007,1.29999995,22,automatic,hv,hv
 2023-02-08T09:16:32.372Z,59.9782,-153.2467,120.5,2.4,ml,,,,0.56,ak,ak0231snexlw,2023-02-08T09:19:13.322Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-08T09:05:03.050Z,33.505,-116.4531667,5.88,1.47,ml,57,54,0.02938,0.21,ci,ci40412192,2023-02-08T09:15:54.040Z,"21km ESE of Anza, CA",earthquake,0.2,0.48,0.21,25,automatic,ci,ci
@@ -101,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T00:14:08.097Z,38.7101,-119.5625,12.4,1.6,ml,22,58.88,0.103,0.1239,nn,nn00855817,2023-02-08T01:24:53.115Z,"2 km NW of Topaz Lake, Nevada",earthquake,,0.8,0.22,6,reviewed,nn,nn
 2023-02-08T00:11:56.157Z,38.1268,37.2542,17.189,4,mb,29,58,0.954,0.89,us,us6000jme5,2023-02-08T00:34:29.040Z,"9 km NE of Ekinözü, Turkey",earthquake,2.84,5.692,0.184,8,reviewed,us,us
 2023-02-08T00:06:29.140Z,38.8364983,-122.7903366,1.77,0.59,md,11,78,0.001908,0.01,nc,nc73843231,2023-02-08T00:56:17.615Z,"6km WNW of Cobb, CA",earthquake,0.4,1.11,0.43,12,automatic,nc,nc
-2023-02-08T00:05:58.245Z,62.9046,-148.0957,55,1.7,ml,,,,0.75,ak,ak0231shzqc0,2023-02-08T00:08:48.331Z,"69 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-08T00:05:58.245Z,62.9046,-148.0957,55,1.7,ml,,,,0.75,ak,ak0231shzqc0,2023-02-08T00:08:48.331Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-08T00:03:01.220Z,38.8123322,-122.8386688,0.8,0.26,md,9,129,0.007488,0.01,nc,nc73843226,2023-02-08T00:16:11.373Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.83,0.15,10,automatic,nc,nc
 2023-02-07T23:55:18.700Z,38.8113327,-122.8381653,0.78,0.43,md,9,79,0.006566,0.01,nc,nc73843221,2023-02-08T00:08:11.320Z,"8km WNW of The Geysers, CA",earthquake,0.26,0.85,0.19,10,automatic,nc,nc
 2023-02-07T23:40:34.470Z,60.9523,-152.1732,72.2,2.1,ml,,,,1.26,ak,ak0231r8cszb,2023-02-07T23:43:03.229Z,"56 km WNW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T21:30:17.276Z,-10.6686,164.9597,51.631,5.4,mww,71,86,5.085,0.95,us,us6000jmcg,2023-02-07T23:34:06.319Z,"91 km W of Lata, Solomon Islands",earthquake,9.24,6.907,0.078,16,reviewed,us,us
 2023-02-07T21:21:26.864Z,37.8863,37.4652,10,4.9,mb,77,55,0.742,0.91,us,us6000jmc7,2023-02-08T00:54:33.549Z,"central Turkey",earthquake,4.25,1.847,0.06,89,reviewed,us,us
 2023-02-07T21:16:54.881Z,61.26,-147.9838,10.1,1.4,ml,,,,1.06,ak,ak0231r70u5s,2023-02-07T21:19:16.866Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-07T21:14:29.089Z,32.1292,35.283,10,4.1,mb,11,171,3.261,0.56,us,us6000jmcs,2023-02-08T09:45:23.552Z,"1 km SSW of Baytā al Fawqā, Palestinian Territory",earthquake,9.11,1.984,0.301,4,reviewed,us,us
+2023-02-07T21:14:29.089Z,32.1292,35.283,10,4.1,mb,11,171,3.261,0.56,us,us6000jmcs,2023-02-08T09:50:33.936Z,"1 km SSW of Baytā al Fawqā, Palestinian Territory",earthquake,9.11,1.984,0.301,4,reviewed,us,us
 2023-02-07T21:11:27.260Z,44.7895,-110.9688333,8.3,1.47,ml,13,114,0.04021,0.15,uu,uu60530416,2023-02-07T22:38:08.080Z,"Wyoming",earthquake,0.4,0.69,0.081,2,reviewed,uu,uu
 2023-02-07T21:10:57.980Z,33.8798333,-117.4921667,-0.48,0.88,ml,19,128,0.05746,0.24,ci,ci40411976,2023-02-07T23:46:03.258Z,"3km E of Home Gardens, CA",quarry blast,0.75,31.61,0.063,9,reviewed,ci,ci
 2023-02-07T21:04:21.110Z,33.3493333,-116.3885,8.15,0.79,ml,25,63,0.02877,0.11,ci,ci40411968,2023-02-07T23:40:53.515Z,"10km N of Borrego Springs, CA",earthquake,0.2,0.43,0.08,15,reviewed,ci,ci
@@ -252,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T10:26:09.734Z,64.1802,-147.9675,11.1,1.1,ml,,,,0.27,ak,ak0231r0j46l,2023-02-07T10:28:08.242Z,"58 km ENE of Ferry, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-07T10:22:21.454Z,-21.4962,-68.5225,132.547,4.2,mb,20,62,1.006,0.62,us,us6000jm7g,2023-02-07T15:40:37.040Z,"114 km NNE of Calama, Chile",earthquake,5.74,7.89,0.167,10,reviewed,us,us
 2023-02-07T10:18:13.368Z,38.0026,38.5474,10,5.4,mww,94,29,1.348,0.56,us,us6000jm7f,2023-02-07T18:40:24.040Z,"6 km WSW of Sincik, Turkey",earthquake,5.35,1.838,0.073,18,reviewed,us,us
-2023-02-07T09:56:46.485Z,-3.593,126.5943,10,4.7,mb,37,52,3.429,0.67,us,us6000jm7c,2023-02-07T10:50:02.040Z,"176 km W of Ambon, Indonesia",earthquake,6.15,1.766,0.112,24,reviewed,us,us
