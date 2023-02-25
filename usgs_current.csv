@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-25T14:32:52.150Z,19.1791667938232,-155.358505249023,28.1399993896484,1.78999996,md,34,175,,0.129999995,hv,hv73330632,2023-02-25T14:35:53.220Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.67,1.20000005,0.949999988,7,automatic,hv,hv
-2023-02-25T14:29:34.340Z,37.4758339,-118.8026657,7.36,1.36,md,15,176,0.1159,0.03,nc,nc73851641,2023-02-25T14:31:09.200Z,"14km SW of Toms Place, CA",earthquake,0.92,1.49,0.1,12,automatic,nc,nc
+2023-02-25T14:29:34.340Z,37.4758339,-118.8026657,7.36,1.36,md,15,176,0.1159,0.03,nc,nc73851641,2023-02-25T14:39:10.900Z,"14km SW of Toms Place, CA",earthquake,0.92,1.49,0.1,12,automatic,nc,nc
 2023-02-25T14:14:31.490Z,32.4366667,-115.6526667,8.6,1.69,ml,11,277,0.221,0.28,ci,ci40418576,2023-02-25T14:18:11.635Z,"17km SSW of Progreso, B.C., MX",earthquake,5.49,31.61,0.273,11,automatic,ci,ci
 2023-02-25T13:52:40.410Z,35.7881667,-117.5806667,8.18,1.09,ml,9,236,0.03073,0.13,ci,ci40418568,2023-02-25T13:56:15.423Z,"16km W of Searles Valley, CA",earthquake,0.85,1.13,0.191,8,automatic,ci,ci
 2023-02-25T13:27:42.966Z,42.7801,145.0736,50.181,6,mww,157,49,1.612,0.91,us,us6000jrjl,2023-02-25T14:36:18.192Z,"61 km ESE of Kushiro, Japan",earthquake,6.53,3.435,0.052,35,reviewed,us,us
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T00:15:35.292Z,57.4259,-156.2395,248,1.9,ml,,,,0.53,ak,ak0232km6q49,2023-02-25T00:18:05.437Z,"70 km E of Ugashik, Alaska",earthquake,,18.1,,,automatic,ak,ak
 2023-02-25T00:05:01.935Z,56.9321,-157.8162,9.1,2.2,ml,,,,0.37,ak,ak0232km4exb,2023-02-25T00:16:22.695Z,"49 km E of Port Heiden, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-25T00:00:08.680Z,32.621666,-117.0374985,15.36,1.33,ml,13,177,0.1342,0.26,ci,ci40418440,2023-02-25T00:02:13.950Z,"1km SE of Chula Vista, CA",earthquake,1.17,1.34,0.176,3,automatic,ci,ci
-2023-02-24T23:59:40.665Z,51.8565,-3.0961,10.122,3.4,ml,16,139,2.438,0.33,us,us6000jrh6,2023-02-25T14:17:04.213Z,"2 km E of Crickhowell, United Kingdom",earthquake,4.83,7.5,0.148,6,reviewed,us,us
+2023-02-24T23:59:40.665Z,51.8565,-3.0961,10.122,3.4,ml,16,139,2.438,0.33,us,us6000jrh6,2023-02-25T14:41:55.944Z,"2 km E of Crickhowell, United Kingdom",earthquake,4.83,7.5,0.148,6,reviewed,us,us
 2023-02-24T23:54:16.646Z,62.8354,-143.5535,3.3,2,ml,,,,1.05,ak,ak0232jcko0w,2023-02-24T23:57:51.843Z,"14 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T23:36:14.560Z,19.93,-155.352833333333,8.2,1.86,md,24,261,,0.25,hv,hv73330312,2023-02-25T00:08:03.040Z,"12 km S of Pa‘auilo, Hawaii",earthquake,0.99,0.63,0.20211936536834,8,reviewed,hv,hv
 2023-02-24T23:35:49.286Z,59.1602,-152.5603,61.5,2.3,ml,,,,0.43,ak,ak0232jcgnxs,2023-02-25T00:00:53.040Z,"42 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T14:51:52.444Z,61.1791,-147.1573,0,1.7,ml,,,,0.97,ak,ak0232j77770,2023-02-24T14:53:43.837Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-24T14:47:49.600Z,33.1586667,-116.3776667,11.55,1.85,ml,63,29,0.09574,0.18,ci,ci40418312,2023-02-24T19:02:05.360Z,"11km S of Borrego Springs, CA",earthquake,0.16,0.29,0.185,29,reviewed,ci,ci
 2023-02-24T14:47:18.550Z,32.9135,-116.2446667,7.83,1.12,ml,17,97,0.06417,0.09,ci,ci40418304,2023-02-24T18:50:19.353Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.19,0.45,0.094,9,reviewed,ci,ci
-2023-02-24T14:40:36.760Z,40.1207,-119.7481,15.3,1,ml,3,184.62,0.051,0.021,nn,nn00856367,2023-02-24T19:18:12.360Z,"22 km NNW of Sutcliffe, Nevada",earthquake,,3.8,0.07,3,reviewed,nn,nn
-2023-02-24T14:39:12.710Z,-15.7798,-177.4963,425.764,4.6,mb,60,51,1.583,0.67,us,us6000jrav,2023-02-25T06:16:10.040Z,"175 km SSE of Alo, Wallis and Futuna",earthquake,11.78,6.62,0.04,187,reviewed,us,us
