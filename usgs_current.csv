@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T19:44:19.460Z,38.7746658,-122.7296677,1.51,1.24,md,11,84,0.01018,0.03,nc,nc73854091,2023-03-01T20:01:12.283Z,"2km E of The Geysers, CA",earthquake,0.37,0.67,0.19,12,automatic,nc,nc
 2023-03-01T19:31:46.580Z,38.8504982,-122.7795029,1.39,1.18,md,14,156,0.008249,0.02,nc,nc73854086,2023-03-01T19:48:16.205Z,"6km WNW of Cobb, CA",earthquake,0.34,0.3,0.43,14,automatic,nc,nc
 2023-03-01T19:29:50.732Z,44.5353,149.5047,35,5,mb,44,92,4.977,0.78,us,us7000jgmv,2023-03-01T19:49:42.040Z,"149 km ESE of Kuril’sk, Russia",earthquake,10.72,1.929,0.061,86,reviewed,us,us
-2023-03-01T19:28:09.750Z,14.121,146.8805,29.518,5.4,mb,85,65,2.024,1.18,us,us7000jgmu,2023-03-01T19:52:35.195Z,"165 km SE of San Jose Village, Northern Mariana Islands",earthquake,8.93,5.285,0.05,144,reviewed,us,us
+2023-03-01T19:28:09.750Z,14.121,146.8805,29.518,5.4,mb,85,65,2.024,1.18,us,us7000jgmu,2023-03-01T20:30:59.582Z,"165 km SE of San Jose Village, Northern Mariana Islands",earthquake,8.93,5.285,0.05,144,reviewed,us,us
 2023-03-01T19:24:07.450Z,34.2638333,-118.477,11.36,1.82,ml,32,56,0.01818,0.15,ci,ci40419896,2023-03-01T20:07:31.425Z,"2km ESE of Granada Hills, CA",earthquake,0.22,0.36,0.118,32,reviewed,ci,ci
 2023-03-01T18:56:47.477Z,36.4178,-115.7739,8.6,-0.1,ml,11,153.55,0.189,0.1402,nn,nn00856491,2023-03-01T19:39:36.692Z,"19 km SSW of Indian Springs, Nevada",earthquake,,3.6,1.04,4,reviewed,nn,nn
 2023-03-01T18:36:28.330Z,48.607166666666664,-123.0365,14.54,1.56,ml,17,112,0.02187,0.16,uw,uw61900357,2023-03-01T18:57:20.670Z,"San Juan Islands region, Washington",earthquake,0.38,0.47,0.18737406693886016,13,reviewed,uw,uw
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T12:16:08.280Z,38.786499,-122.7588348,1.57,1.3,md,25,66,0.01412,0.03,nc,nc73853896,2023-03-01T14:50:14.387Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.39,0.18,25,automatic,nc,nc
 2023-03-01T12:04:12.040Z,38.8261681,-122.8154984,2.35,0.81,md,8,135,0.005062,0.02,nc,nc73853886,2023-03-01T14:23:18.239Z,"8km NW of The Geysers, CA",earthquake,0.59,1.5,0.26,7,automatic,nc,nc
 2023-03-01T11:53:40.100Z,33.872,-116.8095,15.46,0.87,ml,18,206,0.1478,0.12,ci,ci40419824,2023-03-01T20:10:04.406Z,"6km SSW of Cabazon, CA",earthquake,0.42,0.69,0.11,12,reviewed,ci,ci
-2023-03-01T11:35:43.760Z,48.6185,-123.03966666666666,14.23,2.73,ml,20,126,0.01791,0.17,uw,uw61900332,2023-03-01T20:11:28.324Z,"7 km WNW of Orcas, Washington",earthquake,0.35,0.44,0.18001598316856549,20,reviewed,uw,uw
+2023-03-01T11:35:43.760Z,48.6185,-123.03966666666666,14.23,2.73,ml,20,126,0.01791,0.17,uw,uw61900332,2023-03-01T20:30:09.342Z,"7 km WNW of Orcas, Washington",earthquake,0.35,0.44,0.18001598316856549,20,reviewed,uw,uw
 2023-03-01T11:27:59.658Z,50.6422,-173.4286,17.8,3.1,ml,,,,0.52,ak,ak0232reynn3,2023-03-01T19:20:52.197Z,"181 km SSE of Atka, Alaska",earthquake,,21,,,reviewed,ak,ak
 2023-03-01T11:23:23.090Z,38.8268318,-122.815834,1.36,0.46,md,10,70,0.005659,0.02,nc,nc73853876,2023-03-01T11:49:14.153Z,"8km NW of The Geysers, CA",earthquake,0.33,0.78,0.34,9,automatic,nc,nc
 2023-03-01T11:20:41.310Z,19.2591667175293,-155.408828735352,30.3999996185303,1.73000002,md,18,170,,0.119999997,hv,hv73332117,2023-03-01T11:23:48.210Z,"9 km NE of Pāhala, Hawaii",earthquake,0.94,1.37,0.74000001,3,automatic,hv,hv
@@ -216,6 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T02:00:17.060Z,32.991,-116.425,5.28,0.96,ml,29,74,0.02263,0.16,ci,ci40419720,2023-03-01T17:10:16.661Z,"19km ESE of Julian, CA",earthquake,0.24,0.62,0.09,7,reviewed,ci,ci
 2023-03-01T01:54:30.820Z,39.466,-120.2958,7.3,0.7,ml,4,163.56,0.116,0.0593,nn,nn00856493,2023-03-01T19:11:41.139Z,"15 km SSE of Sierraville, California",earthquake,,6.9,0.12,3,reviewed,nn,nn
 2023-03-01T01:45:38.189Z,58.1871,-155.2997,1,1,ml,,,,0.26,ak,ak0232r93y6o,2023-03-01T18:59:30.989Z,"85 km NW of Karluk, Alaska",earthquake,,0,,,reviewed,ak,ak
+2023-03-01T01:31:09.292Z,31.61924547,-104.3454484,6.671435547,2.1,ml,15,62,0.0825968538,0.1,tx,tx2023edxs,2023-03-01T20:32:57.495Z,"61 km S of Whites City, New Mexico",earthquake,1.054782407,1.203570538,0.1,18,reviewed,tx,tx
 2023-03-01T01:30:13.830Z,38.8030014,-122.8079987,0.79,1.08,md,15,58,0.01109,0.03,nc,nc73853276,2023-03-01T02:31:13.316Z,"5km WNW of The Geysers, CA",earthquake,0.24,0.57,0.06,15,automatic,nc,nc
 2023-03-01T01:26:39.093Z,36.4733,70.85,182.074,4.4,mb,36,94,2.427,0.68,us,us7000jge4,2023-03-01T05:06:46.040Z,"Hindu Kush region, Afghanistan",earthquake,8.95,11.773,0.127,18,reviewed,us,us
 2023-03-01T01:14:50.580Z,19.1726665496826,-155.495330810547,35.5499992370605,2.02999997,md,28,151,,0.109999999,hv,hv73331947,2023-03-01T01:18:06.780Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.87,1.08000004,0.25,9,automatic,hv,hv
@@ -248,7 +249,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T23:16:06.510Z,38.8230019,-122.7868347,2.13,0.63,md,7,144,0.01518,0.02,nc,nc73853176,2023-02-28T23:17:43.095Z,"6km W of Cobb, CA",earthquake,0.71,1.01,0.43,9,automatic,nc,nc
 2023-02-28T23:08:02.440Z,38.7835007,-122.7431641,-0.1,1.23,md,15,128,0.02144,0.03,nc,nc73853171,2023-03-01T00:09:16.359Z,"1km ENE of The Geysers, CA",earthquake,0.26,0.59,0.13,14,automatic,nc,nc
 2023-02-28T23:03:37.600Z,39.5275002,-122.4418335,4.58,2.8,ml,6,174,0.2834,0.23,nc,nc73853161,2023-03-01T03:33:15.669Z,"10km SE of Stony Gorge Reservoir, CA",earthquake,1.27,20.81,0.569,8,automatic,nc,nc
-2023-02-28T23:01:39.358Z,-43.5697,172.7784,14.285,3,ml,16,176,0.164,0.28,us,us7000jgcy,2023-03-01T14:51:59.076Z,"South Island of New Zealand",earthquake,3.66,5.727,0.071,26,reviewed,us,us
+2023-02-28T23:01:39.358Z,-43.5697,172.7784,14.285,3,ml,16,176,0.164,0.28,us,us7000jgcy,2023-03-01T20:23:07.850Z,"South Island of New Zealand",earthquake,3.66,5.727,0.071,26,reviewed,us,us
 2023-02-28T23:01:11.421Z,61.705,-150.7638,62.4,1.8,ml,,,,0.38,ak,ak0232pyeona,2023-02-28T23:03:07.830Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-28T22:55:54.360Z,38.8203316,-122.7854996,1.73,1.26,md,22,84,0.008001,0.03,nc,nc73853156,2023-02-28T23:59:20.293Z,"5km NNW of The Geysers, CA",earthquake,0.2,0.4,0.2,21,automatic,nc,nc
 2023-02-28T22:53:47.460Z,39.5296669,-121.7976685,13.53,2.71,ml,6,178,0.1889,0.38,nc,nc73853151,2023-03-01T03:17:18.579Z,"13km S of Durham, CA",earthquake,9.95,27.61,0.533,9,automatic,nc,nc
@@ -274,8 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T20:51:22.024Z,60.1803,-153.3267,147.8,2,ml,,,,0.27,ak,ak0232pwx4ga,2023-02-28T20:54:12.183Z,"54 km E of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-28T20:46:00.690Z,38.8398323,-122.8763351,2.22,0.8,md,11,90,0.005786,0.03,nc,nc73853041,2023-02-28T21:18:14.297Z,"12km NW of The Geysers, CA",earthquake,0.45,0.5,0.36,12,automatic,nc,nc
 2023-02-28T20:43:54.160Z,19.1660003662109,-155.476501464844,35.3800010681152,2.38,ml,39,98,,0.119999997,hv,hv73331902,2023-02-28T20:49:26.090Z,"4 km S of Pāhala, Hawaii",earthquake,0.58,0.779999971,3.97,5,automatic,hv,hv
-2023-02-28T20:28:39.140Z,33.0108333,-116.3771667,8.94,1.44,ml,55,40,0.04802,0.2,ci,ci40419608,2023-02-28T21:27:24.705Z,"22km ESE of Julian, CA",earthquake,0.19,0.47,0.116,22,reviewed,ci,ci
-2023-02-28T20:26:08.490Z,19.2469997406006,-155.36067199707,31.3799991607666,2.13000011,md,35,148,,0.129999995,hv,hv73331897,2023-02-28T20:29:13.940Z,"Island of Hawaii, Hawaii",earthquake,0.7,0.74000001,1.24000001,18,automatic,hv,hv
-2023-02-28T20:21:17.230Z,38.5149994,-119.536499,3.35,2.94,ml,22,97,0.07202,0.08,nc,nc73853036,2023-02-28T23:48:17.220Z,"5km W of Walker, CA",earthquake,0.21,0.62,0.328,21,automatic,nc,nc
-2023-02-28T20:17:50.160Z,17.9435,-66.9458333333333,10.71,2.69,md,27,188,0.04548,0.11,pr,pr71397773,2023-02-28T20:54:51.510Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.29,0.35,0.146674605945492,13,reviewed,pr,pr
-2023-02-28T20:15:54.680Z,46.908166666666666,-121.95016666666666,5.24,0.37,ml,23,152,0.006464,0.1,uw,uw61900277,2023-03-01T01:27:07.870Z,"17 km NNE of Ashford, Washington",earthquake,0.24,0.54,0.11088105072886478,6,reviewed,uw,uw
