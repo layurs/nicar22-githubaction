@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T09:29:57.987Z,59.7041,-152.4784,84,2,ml,,,,0.48,ak,ak0232wce3sm,2023-03-04T09:32:00.636Z,"37 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-04T09:09:56.630Z,38.8404999,-122.8231659,2.11,1.99,md,37,53,0.00981,0.03,nc,nc73855301,2023-03-04T09:30:12.864Z,"9km WNW of Cobb, CA",earthquake,0.16,0.27,0.15,37,automatic,nc,nc
 2023-03-04T09:07:07.610Z,62.2524,-150.2329,0,2.3,ml,,,,0.69,ak,ak0232wc9a5l,2023-03-04T09:09:01.295Z,"7 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-04T09:02:03.260Z,19.2336673736572,-155.386993408203,30.1900005340576,2.14,ml,42,146,,0.129999995,hv,hv73333167,2023-03-04T09:07:34.840Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.63,0.930000007,3.15,8,automatic,hv,hv
+2023-03-04T09:02:03.260Z,19.2336673736572,-155.386993408203,30.1900005340576,2.14,ml,42,146,,0.129999995,hv,hv73333167,2023-03-04T09:44:07.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.63,0.930000007,3.15,8,automatic,hv,hv
 2023-03-04T08:21:49.340Z,38.8165016,-122.7861633,1.5,1.09,md,18,49,0.005367,0.02,nc,nc73855281,2023-03-04T08:39:12.591Z,"5km NNW of The Geysers, CA",earthquake,0.22,0.42,0.14,21,automatic,nc,nc
 2023-03-04T08:20:25.123Z,59.5515,-156.0752,18,2,ml,,,,1.02,ak,ak0232wbqo7k,2023-03-04T08:22:49.621Z,"27 km NNW of Igiugig, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-04T08:13:03.000Z,38.8431664,-122.7676697,1,0.72,md,6,207,0.006839,0.03,nc,nc73855276,2023-03-04T08:29:15.545Z,"4km WNW of Cobb, CA",earthquake,0.94,0.58,0.17,8,automatic,nc,nc
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T07:51:58.760Z,19.2145,-66.5561,25,3.45,md,13,273,0.8901,0.45,pr,pr2023063003,2023-03-04T08:48:47.666Z,"83 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2,30.91,0.03,6,reviewed,pr,pr
 2023-03-04T07:26:26.070Z,33.4976667,-116.7596667,7.59,0.82,ml,33,61,0.03702,0.13,ci,ci40420776,2023-03-04T07:29:54.692Z,"10km SW of Anza, CA",earthquake,0.17,0.6,0.091,23,automatic,ci,ci
 2023-03-04T07:20:02.909Z,6.8851,-73.1219,149.046,4.4,mb,33,95,0.987,0.86,us,us7000jhah,2023-03-04T07:58:57.040Z,"13 km SW of Piedecuesta, Colombia",earthquake,7.47,9.142,0.112,23,reviewed,us,us
-2023-03-04T07:18:39.990Z,38.7993317,-122.80233,0.06,1.5,md,27,46,0.01022,0.04,nc,nc73855256,2023-03-04T07:35:17.271Z,"5km WNW of The Geysers, CA",earthquake,0.15,0.36,0.29,28,automatic,nc,nc
+2023-03-04T07:18:39.990Z,38.7993317,-122.80233,0.06,1.5,md,27,46,0.01022,0.04,nc,nc73855256,2023-03-04T09:35:11.889Z,"5km WNW of The Geysers, CA",earthquake,0.15,0.36,0.29,28,automatic,nc,nc
 2023-03-04T07:14:41.580Z,61.9181,-149.4,100.5,1.7,ml,,,,0.97,ak,ak0232wb3ykf,2023-03-04T07:26:41.405Z,"21 km NNW of Fishhook, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-03-04T07:09:20.060Z,33.4865,-116.782,2.85,1.78,ml,72,37,0.03001,0.21,ci,ci40420760,2023-03-04T07:20:34.690Z,"9km ENE of Aguanga, CA",earthquake,0.18,0.62,0.138,26,automatic,ci,ci
 2023-03-04T07:03:12.290Z,38.7851677,-122.7333298,0.84,0.65,md,8,85,0.00328,0.1,nc,nc73855246,2023-03-04T09:15:15.784Z,"2km ENE of The Geysers, CA",earthquake,0.39,0.89,0.38,7,automatic,nc,nc
@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T09:59:01.260Z,36.59183333,-97.8125,7.15,2.03,ml,94,41,0,0.17,ok,ok2023eifl,2023-03-03T13:21:04.872Z,"5 km NNE of Kremlin, Oklahoma",earthquake,,0.5,0.25,47,reviewed,ok,ok
 2023-03-03T09:58:20.400Z,38.8455009,-122.81633,1.54,0.6,md,10,89,0.01066,0,nc,nc73854906,2023-03-03T12:42:16.592Z,"8km WNW of Cobb, CA",earthquake,0.3,0.97,0.38,11,automatic,nc,nc
 2023-03-03T09:48:01.960Z,-21.3856,-68.9003,127.25,4.1,mb,16,83,0.518,0.39,us,us7000jgzx,2023-03-03T13:44:50.040Z,"118 km N of Calama, Chile",earthquake,5.96,5.319,0.301,3,reviewed,us,us
-2023-03-03T09:43:28.660Z,38.7826653,-122.7251663,1.73,0.74,md,7,111,0.009052,0.01,nc,nc73854901,2023-03-03T12:14:13.239Z,"3km ENE of The Geysers, CA",earthquake,0.41,0.9,0.2,7,automatic,nc,nc
-2023-03-03T09:41:17.296Z,-5.9081,154.4856,50.994,5.2,mb,66,66,6.45,0.66,us,us7000jgzw,2023-03-03T09:58:23.040Z,"119 km WNW of Panguna, Papua New Guinea",earthquake,6.69,6.361,0.064,81,reviewed,us,us
