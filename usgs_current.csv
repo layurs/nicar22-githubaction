@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-08T22:39:41.422Z,64.9919,-147.2596,0,1.5,ml,,,,1.04,ak,ak023336c8h9,2023-03-08T22:43:13.330Z,"16 km NW of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-08T22:31:13.590Z,38.7758331,-122.7276688,1.64,1.16,md,13,73,0.01439,0.02,nc,nc73854445,2023-03-08T22:42:10.734Z,"2km E of The Geysers, CA",earthquake,0.27,0.5,0.11,12,automatic,nc,nc
+2023-03-08T22:31:13.590Z,38.7758331,-122.7276688,1.64,1.16,md,13,73,0.01439,0.02,nc,nc73854445,2023-03-08T22:54:11.641Z,"2km E of The Geysers, CA",earthquake,0.27,0.5,0.11,12,automatic,nc,nc
 2023-03-08T22:11:36.732Z,62.9762,-150.5762,88.9,1.3,ml,,,,0.3,ak,ak023336683t,2023-03-08T22:14:11.620Z,"54 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-08T22:05:28.840Z,38.8356667,-122.7949982,1.86,1.62,md,32,47,0.004551,0.03,nc,nc73854440,2023-03-08T22:22:13.460Z,"6km WNW of Cobb, CA",earthquake,0.19,0.3,0.19,32,automatic,nc,nc
 2023-03-08T21:56:44.063Z,-19.4507,-179.5421,510.26,4.3,mb,37,62,2.843,0.82,us,us7000jiax,2023-03-08T22:15:17.040Z,"194 km SE of Levuka, Fiji",earthquake,12.41,5.568,0.089,36,reviewed,us,us
@@ -32,7 +32,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T20:15:15.560Z,51.8758333333333,-178.116833333333,4.43,0.53,ml,4,224,,0.25,av,av91790061,2023-03-08T22:13:19.200Z,"102 km W of Adak, Alaska",earthquake,1.14,1.74,0.254363370741338,4,reviewed,av,av
 2023-03-08T20:10:03.480Z,51.8721666666667,-178.1195,4.5,0.51,ml,4,228,,0.25,av,av91790056,2023-03-08T22:10:48.320Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.27,1.94,0.209447309546031,4,reviewed,av,av
 2023-03-08T20:07:41.683Z,61.9349,-150.9559,60.9,1.9,ml,,,,0.28,ak,ak023334yiew,2023-03-08T20:09:27.280Z,"23 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-08T20:04:22.710Z,51.8581666666667,-178.063833333333,0.97,1.37,ml,5,181,,0.14,av,av91790041,2023-03-08T22:52:49.280Z,"98 km W of Adak, Alaska",earthquake,0.54,3.21,0.112785896903477,5,reviewed,av,av
 2023-03-08T20:02:49.610Z,38.7958336,-122.7223358,3.48,0.73,md,9,136,0.0296,0.01,nc,nc73854395,2023-03-08T20:32:11.783Z,"3km S of Cobb, CA",earthquake,0.42,1.38,0.23,7,automatic,nc,nc
+2023-03-08T19:54:23.950Z,51.8578333333333,-178.092666666667,3.46,1.85,ml,9,107,,0.18,av,av91790036,2023-03-08T22:50:01.950Z,"100 km W of Adak, Alaska",earthquake,0.5,0.44,0.313632726789924,9,reviewed,av,av
 2023-03-08T19:53:44.260Z,51.8686666666667,-178.091333333333,-1.74,1.75,ml,5,201,,0.29,av,av91790031,2023-03-08T22:42:14.340Z,"100 km W of Adak, Alaska",earthquake,1.4,2.87,0.260718757382649,5,reviewed,av,av
 2023-03-08T19:48:30.580Z,51.8656666666667,-178.0905,1.88,1.11,ml,4,203,,0.29,av,av91790026,2023-03-08T22:38:43.110Z,"100 km W of Adak, Alaska",earthquake,1.09,5.39,0.28712245649368,4,reviewed,av,av
 2023-03-08T19:43:07.130Z,51.8665,-178.124,5.03,1.54,ml,5,232,,0.09,av,av91790021,2023-03-08T22:25:13.770Z,"102 km W of Adak, Alaska",earthquake,0.67,0.85,0.184552544445147,5,reviewed,av,av
@@ -277,6 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T23:10:55.247Z,64.2666,-149.8897,11.2,1.4,ml,,,,0.85,ak,ak02331j84xe,2023-03-07T23:13:18.954Z,"34 km W of Clear, Alaska, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-07T23:01:08.590Z,38.8265,-122.8025,1.79,0.5,md,5,98,0.006679,0.02,nc,nc73854070,2023-03-08T01:07:14.666Z,"7km NW of The Geysers, CA",earthquake,0.6,0.66,0.177,4,reviewed,nc,nc
 2023-03-07T22:59:42.460Z,62.1888,-149.4701,36.6,1.5,ml,,,,0.39,ak,ak02331ix6fa,2023-03-07T23:01:05.291Z,"20 km E of Susitna North, Alaska",earthquake,,4.9,,,automatic,ak,ak
-2023-03-07T22:54:03.478Z,62.1565,-149.6876,51,1.3,ml,,,,0.28,ak,ak02331iw0u3,2023-03-07T22:56:23.060Z,"8 km E of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-03-07T22:47:59.850Z,38.8129997,-122.829834,1.75,1.08,md,11,69,0.004157,0.01,nc,nc73854065,2023-03-07T23:42:15.065Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.58,0.17,12,automatic,nc,nc
-2023-03-07T22:45:35.190Z,64.8555,-151.1589,5.6,1.4,ml,,,,0.86,ak,ak02331iu5u7,2023-03-08T07:35:24.070Z,"29 km WSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
