@@ -2,8 +2,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T17:10:29.890Z,44.7563333,-111.1171667,10.29,0.05,md,5,140,0.04055,0.11,uu,uu60534146,2023-03-15T17:24:16.270Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.88,1.64,0.085,3,reviewed,uu,uu
 2023-03-15T17:04:53.470Z,36.6963348,-121.336998,3.63,2.19,md,32,141,0.01348,0.1,nc,nc73857290,2023-03-15T17:11:11.575Z,"10km S of Tres Pinos, CA",earthquake,0.32,0.58,0.16,30,automatic,nc,nc
 2023-03-15T17:01:52.780Z,33.9708333,-117.0716667,16.2,1.78,ml,63,30,0.07282,0.22,ci,ci40185215,2023-03-15T17:12:46.490Z,"3km SW of Calimesa, CA",earthquake,0.21,0.52,0.187,27,automatic,ci,ci
-2023-03-15T16:59:55.965Z,37.3524,-117.6735,1.8,0.5,ml,9,173.91,0.122,0.3595,nn,nn00857030,2023-03-15T17:01:17.645Z,"44 km S of Silver Peak, Nevada",earthquake,,19.2,0.94,5,automatic,nn,nn
-2023-03-15T16:55:28.420Z,33.5378333,-116.7245,4.22,0.66,ml,17,66,0.0295,0.18,ci,ci40185207,2023-03-15T16:59:03.207Z,"5km WSW of Anza, CA",earthquake,0.3,0.52,0.123,16,automatic,ci,ci
+2023-03-15T16:59:51.296Z,37.5081,-117.9628,1,1.8,ml,7,142.82,0.373,0.1543,nn,nn00857030,2023-03-15T17:34:00.403Z,"19 km SSE of Dyer, Nevada",earthquake,,3.4,1.09,5,reviewed,nn,nn
+2023-03-15T16:55:28.320Z,33.5313333,-116.7298333,4.3,0.65,ml,16,53,0.03454,0.08,ci,ci40185207,2023-03-15T17:29:37.110Z,"6km WSW of Anza, CA",earthquake,0.15,0.3,0.107,12,reviewed,ci,ci
 2023-03-15T16:43:51.611Z,37.5104,-117.9621,2.3,2.5,ml,8,138.44,0.375,0.189,nn,nn00857026,2023-03-15T17:03:04.470Z,"19 km SSE of Dyer, Nevada",earthquake,,2.8,0.48,7,reviewed,nn,nn
 2023-03-15T16:41:35.210Z,36.0148315,-120.572998,2.46,1.1,md,11,119,0.02999,0.04,nc,nc73857270,2023-03-15T16:58:15.477Z,"18km NW of Parkfield, CA",earthquake,0.36,0.96,0.04,3,automatic,nc,nc
 2023-03-15T16:40:48.510Z,17.9878333333333,-66.9608333333333,6.4,2.22,md,3,181,0.07867,0.06,pr,pr71400078,2023-03-15T17:04:28.530Z,"4 km W of Fuig, Puerto Rico",earthquake,1.88,1.43,0.0747305019550843,3,reviewed,pr,pr
@@ -141,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T05:02:06.050Z,33.0533333,-116.3746667,13.84,1.59,ml,39,43,0.08674,0.19,ci,ci40185071,2023-03-15T13:37:40.710Z,"21km E of Julian, CA",earthquake,0.24,0.64,0.265,26,reviewed,ci,ci
 2023-03-15T05:00:39.334Z,63.2567,-150.5533,125.7,2.3,ml,,,,0.41,ak,ak0233egqxj4,2023-03-15T05:58:43.040Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-15T04:45:33.440Z,60.1238,-152.5017,98.4,1.9,ml,,,,0.37,ak,ak0233egf4rk,2023-03-15T04:47:16.370Z,"47 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-15T04:32:39.180Z,58.1931666666667,-155.248333333333,-0.29,-0.42,ml,9,131,,0.14,av,av91806071,2023-03-15T17:36:04.800Z,"83 km NW of Karluk, Alaska",earthquake,0.31,31.61,0.284686891072114,9,reviewed,av,av
 2023-03-15T04:32:29.520Z,47.7135,-121.9265,26.5,0.79,md,8,146,0.04802,0.1,uw,uw61911476,2023-03-15T16:12:50.150Z,"2 km NNW of Lake Marcel-Stillwater, Washington",earthquake,0.48,0.56,0.07464612069670773,5,reviewed,uw,uw
 2023-03-15T04:30:47.920Z,33.7615,-116.9381667,14.83,1.32,ml,61,26,0.05258,0.19,ci,ci40185063,2023-03-15T16:07:46.750Z,"3km SE of San Jacinto, CA",earthquake,0.16,0.28,0.152,21,reviewed,ci,ci
 2023-03-15T04:20:42.190Z,17.9621666666667,-66.8466666666667,12.43,2.06,md,9,203,0.03356,0.12,pr,pr71399683,2023-03-15T04:49:13.110Z,"Puerto Rico region",earthquake,0.69,0.39,0.134581936029082,5,reviewed,pr,pr
@@ -273,9 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T17:47:48.680Z,36.6951675,-121.3413315,3.13,2.87,md,23,152,0.01296,0.07,nc,nc73856850,2023-03-14T21:27:10.219Z,"11km S of Tres Pinos, CA",earthquake,0.28,0.49,0.23,24,automatic,nc,nc
 2023-03-14T17:46:51.590Z,36.6893349,-121.3499985,4.72,3.39,ml,41,45,0.01831,0.23,nc,nc73856845,2023-03-14T21:11:17.115Z,"12km SSW of Tres Pinos, CA",earthquake,0.38,0.93,0.292,35,automatic,nc,nc
 2023-03-14T17:45:49.960Z,19.1761666666667,-155.48,33.16,1.81,md,12,159,,0.07,hv,hv73339712,2023-03-15T07:01:51.410Z,"2 km S of Pāhala, Hawaii",earthquake,0.85,1.28,0.0530460163329702,5,reviewed,hv,hv
-2023-03-14T17:41:44.690Z,36.6980019,-121.3290024,2.94,3.41,ml,15,202,0.1847,0.05,nc,nc73856835,2023-03-14T22:40:25.324Z,"10km S of Tres Pinos, CA",earthquake,0.7,3.38,0.257,38,automatic,nc,nc
-2023-03-14T17:41:24.820Z,36.6985016,-121.3464966,4.92,3.36,ml,36,84,0.008941,0.15,nc,nc73856840,2023-03-14T20:54:18.015Z,"10km SSW of Tres Pinos, CA",earthquake,0.31,0.65,0.267,34,automatic,nc,nc
-2023-03-14T17:38:45.320Z,38.7721672,-122.7121658,14.68,1.34,md,8,196,0.01449,0.09,nc,nc73856825,2023-03-14T20:26:13.847Z,"2km W of Anderson Springs, CA",earthquake,2.24,8.75,0.2,5,automatic,nc,nc
-2023-03-14T17:38:23.733Z,37.5036,-117.9858,11.889,2.7,ml,42,42,0.361,0.7,us,us7000jjvr,2023-03-15T02:03:55.032Z,"19 km SSE of Dyer, Nevada",earthquake,0.96,7.035,0.033,119,reviewed,us,us
-2023-03-14T17:37:43.542Z,37.5236,-117.9766,0,1.6,ml,6,141.38,0.392,0.2888,nn,nn00857000,2023-03-15T02:03:55.983Z,"17 km SSE of Dyer, Nevada",earthquake,,0,0.66,6,reviewed,nn,nn
-2023-03-14T17:32:56.200Z,36.0144997,-120.5733337,2.86,1.21,md,12,117,0.0302,0.05,nc,nc73856805,2023-03-14T19:59:18.694Z,"18km NW of Parkfield, CA",earthquake,0.38,0.71,0.25,5,automatic,nc,nc
