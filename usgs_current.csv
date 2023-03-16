@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T01:51:00.490Z,35.14741135,-95.5594101,5,3.19,ml,29,91.06704712,0.09186146408,0.7843153595,ok,ok2023ffix,2023-03-16T02:45:39.817Z,"9 km ESE of Canadian, Oklahoma",earthquake,2.722934632,,,23,automatic,ok,ok
 2023-03-16T01:46:10.723Z,-30.1749,-176.4661,10,5,mb,26,262,1.558,0.6,us,us7000jkbr,2023-03-16T02:00:35.040Z,"Kermadec Islands region",earthquake,8.47,2.015,0.11,26,reviewed,us,us
 2023-03-16T01:26:54.880Z,38.7963333,-122.7770004,0.25,1.06,md,13,83,0.009094,0.03,nc,nc73857560,2023-03-16T01:43:10.674Z,"3km NW of The Geysers, CA",earthquake,0.23,0.45,0.07,12,automatic,nc,nc
-2023-03-16T01:21:31.820Z,19.816,-155.3685,31.6,2.71,ml,45,215,,0.11,hv,hv73340757,2023-03-16T02:27:33.441Z,"23 km SW of Laupāhoehoe, Hawaii",earthquake,0.51,0.95,0.27781690286495,21,reviewed,hv,hv
+2023-03-16T01:21:31.820Z,19.816,-155.3685,31.6,2.71,ml,45,215,,0.11,hv,hv73340757,2023-03-16T03:30:39.906Z,"23 km SW of Laupāhoehoe, Hawaii",earthquake,0.51,0.95,0.27781690286495,21,reviewed,hv,hv
 2023-03-16T01:19:08.010Z,17.9536666666667,-66.9618333333333,7.06,3.04,md,22,204,0.05388,0.09,pr,pr71400268,2023-03-16T01:53:33.990Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.33,0.15,0.103997766716206,10,reviewed,pr,pr
 2023-03-16T01:15:37.350Z,39.2565002,-123.2963333,5.16,2.1,md,13,78,0.05082,0.07,nc,nc73857555,2023-03-16T02:13:12.990Z,"8km W of Redwood Valley, CA",earthquake,0.33,1.02,0.09,13,automatic,nc,nc
 2023-03-16T01:14:05.360Z,38.796833,-122.7551651,1.61,0.79,md,12,141,0.005192,0.03,nc,nc73857550,2023-03-16T02:13:12.861Z,"2km N of The Geysers, CA",earthquake,0.41,0.47,0.2,12,automatic,nc,nc
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T00:39:31.180Z,38.7803345,-122.7249985,1.09,0.84,md,8,97,0.009613,0.01,nc,nc73857525,2023-03-16T01:37:13.635Z,"3km E of The Geysers, CA",earthquake,0.41,0.74,0.22,8,automatic,nc,nc
 2023-03-16T00:37:33.030Z,38.8380013,-122.8088303,2.02,1.15,md,24,51,0.01444,0.02,nc,nc73857520,2023-03-16T01:26:13.567Z,"8km WNW of Cobb, CA",earthquake,0.17,0.53,0.2,24,automatic,nc,nc
 2023-03-16T00:37:26.923Z,63.2701,-150.4791,122.2,1.3,ml,,,,0.24,ak,ak0233g1j0lw,2023-03-16T00:39:31.683Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-03-16T00:37:16.880Z,38.7816658,-122.7294998,0.66,1.98,md,31,50,0.005861,0.04,nc,nc73857515,2023-03-16T03:13:10.247Z,"2km ENE of The Geysers, CA",earthquake,0.2,0.41,0.24,32,automatic,nc,nc
+2023-03-16T00:37:16.880Z,38.7816658,-122.7294998,0.66,1.98,md,31,50,0.005861,0.04,nc,nc73857515,2023-03-16T03:24:15.322Z,"2km ENE of The Geysers, CA",earthquake,0.2,0.41,0.24,32,automatic,nc,nc
 2023-03-16T00:35:51.880Z,38.7758331,-122.729332,-0.77,1.05,md,7,195,0.01464,0.15,nc,nc73857510,2023-03-16T01:01:12.415Z,"2km E of The Geysers, CA",earthquake,0.88,2.22,0.17,7,automatic,nc,nc
 2023-03-16T00:12:49.807Z,57.1013,-156.3198,16.6,2.2,ml,,,,0.48,ak,ak0233g1dph0,2023-03-16T00:14:26.248Z,"79 km SE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-16T00:12:48.810Z,64.0348,-148.7979,0.1,1.9,ml,,,,0.79,ak,ak0233g1dp2d,2023-03-16T00:14:34.804Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -319,4 +319,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T03:39:32.193Z,51.9019,-177.9432,3.363,2.5,ml,8,175,0.026,0.36,us,us7000jk03,2023-03-15T22:50:00.040Z,"90 km W of Adak, Alaska",earthquake,1.74,4.219,0.128,8,reviewed,us,us
 2023-03-15T03:38:34.145Z,37.7886,101.4197,13.053,4.2,mb,36,88,10.682,0.59,us,us7000jjzz,2023-03-15T22:38:52.040Z,"northern Qinghai, China",earthquake,9.72,4.187,0.102,27,reviewed,us,us
 2023-03-15T03:38:12.200Z,51.8905,-177.9605,4.93,0.8,ml,4,191,,0.04,av,av91806036,2023-03-15T04:41:11.370Z,"91 km W of Adak, Alaska",earthquake,0.65,0.84,0.254437740467543,4,reviewed,av,av
-2023-03-15T03:29:55.906Z,37.1397,36.3882,11.679,4.2,mb,29,95,0.441,0.69,us,us7000jjzy,2023-03-15T22:31:48.040Z,"14 km W of Hasanbeyli, Turkey",earthquake,4.05,8.213,0.215,6,reviewed,us,us
