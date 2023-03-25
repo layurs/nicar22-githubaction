@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-25T13:38:17.030Z,38.8296661,-122.8006668,2.04,0.8,md,11,81,0.009654,0.02,nc,nc73862080,2023-03-25T13:39:54.617Z,"7km W of Cobb, CA",earthquake,0.32,1.08,0.32,13,automatic,nc,nc
+2023-03-25T13:51:26.770Z,33.8045,-117.6491667,4.96,0.99,ml,18,58,0.03463,0.2,ci,ci40189751,2023-03-25T13:55:04.030Z,"10km SW of Corona, CA",earthquake,0.34,0.56,0.271,16,automatic,ci,ci
+2023-03-25T13:38:17.030Z,38.8296661,-122.8006668,2.04,0.8,md,11,81,0.009654,0.02,nc,nc73862080,2023-03-25T13:54:15.974Z,"7km W of Cobb, CA",earthquake,0.32,1.08,0.32,13,automatic,nc,nc
 2023-03-25T13:26:40.143Z,62.3095,-151.0022,71.6,1.4,ml,,,,0.32,ak,ak0233v51g26,2023-03-25T13:28:25.556Z,"24 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T12:41:04.426Z,38.1404,-116.8297,6.9,1.9,ml,25,112.69,0.694,0.3727,nn,nn00857488,2023-03-25T12:42:34.803Z,"36 km ENE of Tonopah, Nevada",earthquake,,0.7,0.89,16,automatic,nn,nn
 2023-03-25T12:35:06.160Z,37.8676682,-121.9506683,9.56,1.35,md,9,193,0.03437,0.06,nc,nc73862070,2023-03-25T13:25:13.796Z,"4km N of Diablo, CA",earthquake,0.64,0.86,0.15,8,automatic,nc,nc
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T11:41:54.670Z,33.7636667,-116.9343333,13.62,1.15,ml,37,29,0.05232,0.18,ci,ci40189727,2023-03-25T11:52:52.180Z,"3km SE of San Jacinto, CA",earthquake,0.22,0.47,0.155,29,automatic,ci,ci
 2023-03-25T11:37:26.960Z,38.8359985,-122.7903366,1.69,0.21,md,7,98,0.002407,0.01,nc,nc73862050,2023-03-25T11:39:04.927Z,"6km WNW of Cobb, CA",earthquake,0.43,1.21,0.12,6,automatic,nc,nc
 2023-03-25T11:36:49.100Z,38.8261681,-122.8519974,1.14,0.4,md,8,100,0.0136,0.04,nc,nc73862045,2023-03-25T12:01:10.352Z,"10km WNW of The Geysers, CA",earthquake,0.35,1.07,0.26,9,automatic,nc,nc
-2023-03-25T11:27:27.430Z,36.6100006,-121.1269989,10.36,1.23,md,7,162,0.06058,0.18,nc,nc73862040,2023-03-25T12:30:16.503Z,"9km N of Pinnacles, CA",earthquake,1.1,2.6,0.27,6,automatic,nc,nc
+2023-03-25T11:27:27.430Z,36.6100006,-121.1269989,10.36,1.23,md,7,162,0.06058,0.18,nc,nc73862040,2023-03-25T13:52:10.981Z,"9km N of Pinnacles, CA",earthquake,1.1,2.6,0.27,6,automatic,nc,nc
 2023-03-25T11:15:46.729Z,63.4913,-151.2946,1.8,1.6,ml,,,,0.36,ak,ak0233v3s8hc,2023-03-25T11:17:38.032Z,"22 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T11:12:11.003Z,61.0095,-145.3096,20.6,2,ml,,,,0.33,ak,ak0233v3riks,2023-03-25T11:13:46.608Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T11:06:02.310Z,38.8243332,-122.7958298,0.97,0.29,md,6,106,0.01117,0.01,nc,nc73862030,2023-03-25T11:30:15.165Z,"6km NNW of The Geysers, CA",earthquake,0.72,2.64,0.09,5,automatic,nc,nc
@@ -258,16 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T14:00:38.480Z,33.1863333,-116.4043333,11.05,1.36,ml,40,45,0.08235,0.21,ci,ci40189247,2023-03-24T14:11:31.570Z,"8km SSW of Borrego Springs, CA",earthquake,0.31,0.52,0.163,26,automatic,ci,ci
 2023-03-24T13:59:51.210Z,33.1828333,-116.4011667,10.97,1.49,ml,31,44,0.08619,0.21,ci,ci40189239,2023-03-24T14:03:28.845Z,"8km SSW of Borrego Springs, CA",earthquake,0.35,0.62,0.144,28,automatic,ci,ci
 2023-03-24T13:59:48.700Z,33.1816673,-116.4089966,11.26,1.58,ml,29,69,0.08657,0.22,ci,ci40189231,2023-03-24T14:01:53.270Z,"9km SSW of Borrego Springs, CA",earthquake,0.34,0.69,0.296,14,automatic,ci,ci
-2023-03-24T13:59:00.230Z,33.1806667,-116.4141667,11.02,2.31,ml,66,22,0.08733,0.21,ci,ci40189223,2023-03-24T14:31:29.598Z,"9km SSW of Borrego Springs, CA",earthquake,0.21,0.51,0.171,26,automatic,ci,ci
-2023-03-24T13:57:56.910Z,33.18,-116.4118333,10.78,1.03,ml,25,81,0.08808,0.2,ci,ci40189215,2023-03-24T14:01:32.086Z,"9km SSW of Borrego Springs, CA",earthquake,0.33,0.59,0.134,19,automatic,ci,ci
-2023-03-24T13:56:16.460Z,38.8258324,-122.8521652,2.44,1.58,md,29,73,0.004055,0.02,nc,nc73861590,2023-03-24T16:34:14.628Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.32,0.14,28,automatic,nc,nc
-2023-03-24T13:55:34.350Z,33.1851667,-116.408,11.35,1.41,ml,41,30,0.08316,0.21,ci,ci40189207,2023-03-24T13:59:10.861Z,"8km SSW of Borrego Springs, CA",earthquake,0.29,0.5,0.18,26,automatic,ci,ci
-2023-03-24T13:54:55.740Z,33.1883333,-116.4005,12.88,0.97,ml,22,73,0.08087,0.23,ci,ci40189199,2023-03-24T13:58:36.634Z,"8km SSW of Borrego Springs, CA",earthquake,0.53,1.01,0.128,15,automatic,ci,ci
-2023-03-24T13:54:27.840Z,33.1793333,-116.4053333,11.13,1.3,ml,40,42,0.08918,0.22,ci,ci40189191,2023-03-24T13:58:00.970Z,"9km SSW of Borrego Springs, CA",earthquake,0.32,0.55,0.141,28,automatic,ci,ci
-2023-03-24T13:54:12.350Z,33.179,-116.4096667,11.81,1.16,ml,28,60,0.1313,0.24,ci,ci40189183,2023-03-24T13:57:53.742Z,"9km SSW of Borrego Springs, CA",earthquake,0.36,1.34,0.148,24,automatic,ci,ci
-2023-03-24T13:52:05.020Z,33.1818333,-116.4135,11.68,1.27,ml,41,39,0.08619,0.23,ci,ci40189175,2023-03-24T13:55:32.961Z,"9km SSW of Borrego Springs, CA",earthquake,0.28,0.97,0.183,26,automatic,ci,ci
-2023-03-24T13:50:34.570Z,33.1793333,-116.4076667,11.57,1.39,ml,48,32,0.08898,0.26,ci,ci40189167,2023-03-24T14:01:59.450Z,"9km SSW of Borrego Springs, CA",earthquake,0.31,1.06,0.163,25,automatic,ci,ci
-2023-03-24T13:49:24.150Z,33.1845,-116.405,7.44,1.1,ml,20,66,0.08409,0.25,ci,ci40189159,2023-03-24T13:53:06.984Z,"8km SSW of Borrego Springs, CA",earthquake,0.52,1.93,0.158,24,automatic,ci,ci
-2023-03-24T13:48:04.762Z,60.4305,-153.2234,5.6,1.3,ml,,,,0.5,ak,ak0233thmql8,2023-03-24T13:49:33.220Z,"Southern Alaska",earthquake,,3.1,,,automatic,ak,ak
-2023-03-24T13:47:56.940Z,33.1851667,-116.4076667,10.51,1.29,ml,35,50,0.08319,0.18,ci,ci40189151,2023-03-24T13:59:50.970Z,"8km SSW of Borrego Springs, CA",earthquake,0.26,0.64,0.183,28,automatic,ci,ci
-2023-03-24T13:47:14.060Z,33.1823333,-116.4076667,11.48,1.73,ml,58,31,0.086,0.18,ci,ci40189143,2023-03-24T13:50:57.951Z,"9km SSW of Borrego Springs, CA",earthquake,0.2,0.41,0.183,24,automatic,ci,ci
