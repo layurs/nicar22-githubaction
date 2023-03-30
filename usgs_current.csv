@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-30T03:30:34.490Z,33.6928333,-116.802,15.55,0.94,ml,34,34,0.07339,0.17,ci,ci39507658,2023-03-30T03:36:48.002Z,"9km SW of Idyllwild, CA",earthquake,0.27,0.43,0.12,22,automatic,ci,ci
 2023-03-30T02:53:21.790Z,38.8343315,-122.8148346,1.48,1.07,md,15,57,0.01154,0.03,nc,nc73864270,2023-03-30T03:07:10.124Z,"8km W of Cobb, CA",earthquake,0.24,0.53,0.19,19,automatic,nc,nc
 2023-03-30T02:36:58.043Z,63.3333,-150.2019,14.9,1,ml,,,,0.7,ak,ak0234388lf0,2023-03-30T02:39:26.776Z,"62 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T02:21:33.131Z,63.2239,-151.3583,0,1.6,ml,,,,0.8,ak,ak0234385br5,2023-03-30T02:23:25.713Z,"39 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -332,6 +333,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T07:24:48.480Z,32.8761667,-115.4828333,7.76,1.08,ml,11,140,0.04194,0.16,ci,ci37520476,2023-03-29T20:05:48.811Z,"9km ENE of Imperial, CA",earthquake,0.76,0.51,0.11,3,reviewed,ci,ci
 2023-03-29T07:24:08.450Z,32.8668333,-115.4831667,10.81,1.49,ml,20,80,0.04003,0.2,ci,ci37520124,2023-03-29T18:57:41.099Z,"8km ENE of Imperial, CA",earthquake,0.34,0.54,0.14,6,reviewed,ci,ci
 2023-03-29T07:23:17.300Z,32.867,-115.4856667,9.59,1.93,ml,28,70,0.04214,0.22,ci,ci40191103,2023-03-29T15:22:35.068Z,"8km ENE of Imperial, CA",earthquake,0.27,0.52,0.22,30,reviewed,ci,ci
+2023-03-29T07:14:12.940Z,58.2408333333333,-155.1465,-1.05,-0.43,ml,9,85,,0.13,av,av91823946,2023-03-30T03:31:41.460Z,"85 km NNW of Karluk, Alaska",earthquake,0.26,31.61,0.197298991714904,9,reviewed,av,av
 2023-03-29T07:12:13.680Z,51.8613333333333,-178.059333333333,-1.8,1.28,ml,5,169,,0.18,av,av91823941,2023-03-30T03:19:00.050Z,"98 km W of Adak, Alaska",earthquake,0.48,1.28,0.187441859019329,5,reviewed,av,av
 2023-03-29T07:12:06.330Z,51.794,-179.0605,9.24,1.48,ml,4,340,,0.06,av,av91096398,2023-03-30T03:22:42.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.36,2.38,0.171788147408283,4,reviewed,av,av
 2023-03-29T07:11:17.280Z,35.8483333,-117.7021667,6.55,2.94,ml,31,71,0.06459,0.13,ci,ci40191095,2023-03-29T15:12:02.705Z,"21km ESE of Little Lake, CA",earthquake,0.16,0.44,0.168,65,reviewed,ci,ci
@@ -387,7 +389,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T03:42:05.510Z,51.8616666666667,-178.088333333333,4.44,1.41,ml,4,207,,0.13,av,av91823726,2023-03-30T00:29:38.280Z,"100 km W of Adak, Alaska",earthquake,0.65,1.01,0.0789346900296943,4,reviewed,av,av
 2023-03-29T03:37:14.780Z,61.0735,-149.2416,26.6,1,ml,,,,0.46,ak,ak02341lasw6,2023-03-29T06:11:03.974Z,"15 km NNW of Girdwood, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2023-03-29T03:37:00.100Z,53.8698333333333,-166.567833333333,4.69,0.7,ml,14,118,,0.08,av,av91823716,2023-03-30T00:24:01.550Z,"2 km WSW of Unalaska, Alaska",earthquake,0.25,0.47,0.185103762090422,13,reviewed,av,av
-2023-03-29T03:36:05.460Z,33.4633333,-116.585,11.13,0.64,ml,33,75,0.03443,0.11,ci,ci40191047,2023-03-29T14:11:46.467Z,"13km SE of Anza, CA",earthquake,0.15,0.31,0.158,14,reviewed,ci,ci
-2023-03-29T03:35:31.170Z,51.864,-178.088166666667,2.32,1.48,ml,5,204,,0.22,av,av91823711,2023-03-30T00:18:13.170Z,"100 km W of Adak, Alaska",earthquake,0.84,1.66,0.102946927634675,5,reviewed,av,av
-2023-03-29T03:32:45.260Z,38.0895,-110.2805,6.04,1.7,ml,11,197,0.7523,0.21,uu,uu60535306,2023-03-29T16:24:52.520Z,"49 km SE of Hanksville, Utah",earthquake,1.44,13.81,0.093,4,reviewed,uu,uu
-2023-03-29T03:28:22.810Z,38.8260002,-122.8546677,2.23,0.77,md,15,93,0.002312,0.01,nc,nc73863795,2023-03-29T03:45:10.808Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.46,0.36,15,automatic,nc,nc
