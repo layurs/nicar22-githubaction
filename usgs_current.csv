@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-01T11:13:35.610Z,32.3328323,-115.3041687,4.28,1.85,ml,16,64,0.1388,0.33,ci,ci39508626,2023-04-01T11:15:41.729Z,"11km WSW of Delta, B.C., MX",earthquake,0.73,3.97,0.254,3,automatic,ci,ci
+2023-04-01T11:13:35.090Z,32.311,-115.3195,1.09,1.6,ml,12,87,0.142,0.26,ci,ci39508626,2023-04-01T11:17:13.537Z,"13km WSW of Delta, B.C., MX",earthquake,0.6,31.61,0.259,16,automatic,ci,ci
 2023-04-01T10:49:03.560Z,38.7879982,-122.7748337,0.02,1.32,md,14,83,0.01146,0.04,nc,nc73865445,2023-04-01T11:14:18.523Z,"2km NW of The Geysers, CA",earthquake,0.25,0.54,0.2,11,automatic,nc,nc
 2023-04-01T10:47:40.460Z,38.8363342,-122.8083344,2.16,1.27,md,11,58,0.02046,0.01,nc,nc73865440,2023-04-01T11:03:15.460Z,"8km WNW of Cobb, CA",earthquake,0.34,0.83,0.18,12,automatic,nc,nc
 2023-04-01T10:40:48.180Z,19.1856670379639,-155.496826171875,32.0099983215332,2.25,ml,40,87,,0.109999999,hv,hv73354037,2023-04-01T11:01:28.040Z,"2 km SW of Pāhala, Hawaii",earthquake,0.67,0.819999993,3.62,7,automatic,hv,hv
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T01:38:42.590Z,33.3935,-116.8958333,12.82,0.84,ml,19,82,0.1139,0.12,ci,ci39508394,2023-04-01T01:42:19.460Z,"5km NW of Palomar Observatory, CA",earthquake,0.28,1.3,0.193,15,automatic,ci,ci
 2023-04-01T01:30:38.490Z,38.8284988,-122.8573303,1.85,0.82,md,12,121,0.001017,0.03,nc,nc73865235,2023-04-01T01:46:12.687Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.41,0.2,13,automatic,nc,nc
 2023-04-01T01:25:31.480Z,33.3831667,-116.9011667,13.71,1.47,ml,54,33,0.1095,0.22,ci,ci39508386,2023-04-01T03:28:07.354Z,"5km NW of Palomar Observatory, CA",earthquake,0.22,0.69,0.153,26,automatic,ci,ci
-2023-04-01T01:16:07.820Z,33.3818321,-116.9046631,14.45,4.15,mw,96,25,0.09986,0.23,ci,ci39508378,2023-04-01T11:07:23.885Z,"5km NW of Palomar Observatory, CA",earthquake,0.25,0.54,,6,reviewed,ci,ci
+2023-04-01T01:16:07.820Z,33.3818321,-116.9046631,14.45,4.15,mw,96,25,0.09986,0.23,ci,ci39508378,2023-04-01T11:27:52.929Z,"5km NW of Palomar Observatory, CA",earthquake,0.25,0.54,,6,reviewed,ci,ci
 2023-04-01T01:13:34.160Z,33.2121667,-115.574,1.14,1.45,ml,19,51,0.04916,0.24,ci,ci39508370,2023-04-01T03:08:25.590Z,"6km WSW of Niland, CA",earthquake,0.44,31.61,0.197,28,automatic,ci,ci
 2023-04-01T01:01:03.360Z,38.9876667,-123.3136667,5.7,1.16,md,12,64,0.02719,0.07,nc,nc73865210,2023-04-01T06:55:14.992Z,"5km ESE of Boonville, CA",earthquake,0.25,0.38,0.242,12,reviewed,nc,nc
 2023-04-01T00:59:50.011Z,65.4505,-148.2323,8.8,1.1,ml,,,,0.1,ak,ak02346i9c1l,2023-04-01T01:05:22.027Z,"northern Alaska",earthquake,,1,,,automatic,ak,ak
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T11:52:53.940Z,44.4208333,-110.2943333,8.07,1.36,md,15,90,0.02976,0.21,uu,uu60536081,2023-03-31T15:04:18.510Z,"69 km SSW of Silver Gate, Montana",earthquake,0.54,0.84,0.08,11,reviewed,uu,uu
 2023-03-31T11:50:38.434Z,59.5422,-152.8643,103.8,1.9,ml,,,,0.22,ak,ak0234517sv7,2023-03-31T11:52:21.578Z,"57 km WNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-31T11:29:32.980Z,56.9113333333333,-158.080333333333,-3.2,1.5,ml,3,254,,0.17,av,av91827626,2023-03-31T19:23:46.800Z,"33 km E of Port Heiden, Alaska",earthquake,1.89,3.28,0.136148017516161,7,reviewed,av,av
-2023-03-31T11:26:22.318Z,59.1647,-145.1426,5.5,2.3,ml,,,,0.17,ak,ak0234512mfr,2023-03-31T11:28:53.881Z,"157 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-03-31T11:20:40.970Z,44.4236667,-110.2938333,5.6,0.56,md,8,92,0.03246,0.18,uu,uu60536076,2023-03-31T15:05:53.840Z,"69 km SSW of Silver Gate, Montana",earthquake,0.56,1.11,0.298,5,reviewed,uu,uu
