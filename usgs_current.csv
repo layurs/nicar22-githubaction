@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-02T13:25:14.982Z,59.5389,-151.2686,14.4,1.7,ml,,,,0.56,ak,ak02348dbycq,2023-04-02T13:27:16.240Z,"Kenai Peninsula, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-04-02T13:20:55.740Z,59.892,-152.4004,66.5,1.6,ml,,,,0.46,ak,ak02348dayx2,2023-04-02T13:23:32.539Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-04-02T13:04:06.020Z,38.8156662,-122.8249969,2.13,1.09,md,13,85,0.007533,0.02,nc,nc73865855,2023-04-02T13:19:11.065Z,"7km NW of The Geysers, CA",earthquake,0.28,0.59,0.15,15,automatic,nc,nc
+2023-04-02T13:04:06.020Z,38.8156662,-122.8249969,2.13,1.09,md,13,85,0.007533,0.02,nc,nc73865855,2023-04-02T13:44:12.220Z,"7km NW of The Geysers, CA",earthquake,0.28,0.59,0.15,15,automatic,nc,nc
 2023-04-02T13:00:54.320Z,38.8358345,-122.8075027,2.09,0.74,md,10,59,0.02065,0.01,nc,nc73865850,2023-04-02T13:32:12.146Z,"8km WNW of Cobb, CA",earthquake,0.3,0.87,0.16,11,automatic,nc,nc
 2023-04-02T12:39:48.230Z,38.7861671,-122.7666702,2.36,1.17,md,19,81,0.01802,0.03,nc,nc73865845,2023-04-02T13:20:12.069Z,"1km NW of The Geysers, CA",earthquake,0.25,0.73,0.19,19,automatic,nc,nc
 2023-04-02T12:38:59.100Z,19.2478332519531,-155.386169433594,32.9900016784668,2.34,ml,38,138,,0.129999995,hv,hv73354842,2023-04-02T12:44:29.800Z,"Hawaii region, Hawaii",earthquake,0.54,0.680000007,0.2,5,automatic,hv,hv
@@ -66,6 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T04:14:42.024Z,61.4394,-147.8958,22.9,1.7,ml,,,,0.56,ak,ak023487wr4a,2023-04-02T04:16:53.147Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-02T04:14:07.724Z,36.2977,141.5322,29.473,4.4,mb,27,151,2.691,0.71,us,us6000k1fx,2023-04-02T05:12:29.943Z,"near the east coast of Honshu, Japan",earthquake,7.97,3.248,0.13,17,reviewed,us,us
 2023-04-02T04:03:36.353Z,61.2918,-146.8596,24,1.8,ml,,,,1.08,ak,ak023487udsz,2023-04-02T04:05:37.833Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-02T03:58:38.010Z,53.8723333333333,-166.581166666667,7.29,2.5,ml,14,118,,0.2,av,av91830131,2023-04-02T13:38:22.650Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.42,0.39,0.199497255003652,15,reviewed,av,av
 2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6,123,0.01987,0.01,nc,nc73865680,2023-04-02T06:37:11.655Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7,automatic,nc,nc
 2023-04-02T03:51:59.325Z,59.7509,-150.632,53.8,2,ml,,,,0.57,ak,ak023487jacc,2023-04-02T03:53:49.504Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-02T03:31:42.880Z,17.9483333333333,-66.9276666666667,5.18,1.96,md,4,221,0.05319,0.08,pr,pr71402328,2023-04-02T03:57:55.540Z,"Puerto Rico region",earthquake,1.15,0.55,0.207587635838696,2,reviewed,pr,pr
@@ -165,8 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T14:12:50.610Z,33.9843333,-116.7851667,16.53,1.01,ml,33,66,0.1261,0.19,ci,ci39508690,2023-04-01T14:16:34.307Z,"7km N of Cabazon, CA",earthquake,0.31,0.85,0.164,27,automatic,ci,ci
 2023-04-01T14:09:46.530Z,36.6946667,-121.3043333,6.29,1.06,md,18,134,0.03622,0.08,nc,nc73865460,2023-04-02T05:27:14.216Z,"11km S of Tres Pinos, CA",earthquake,0.32,0.47,0.368,17,reviewed,nc,nc
 2023-04-01T14:04:49.649Z,59.3387,-153.706,123.8,2.1,ml,,,,0.22,ak,ak02346q9m3o,2023-04-01T14:07:01.984Z,"50 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-01T13:55:36.022Z,61.3583,-150.1236,32.4,1.5,ml,,,,0.53,ak,ak02346pz2yq,2023-04-01T21:34:24.914Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-01T13:45:59.660Z,58.1663333333333,-155.347,0.88,0,ml,5,185,,0.03,av,av91096608,2023-04-01T21:11:03.840Z,"Alaska Peninsula",earthquake,0.27,1.33,0.225821041583708,5,reviewed,av,av
-2023-04-01T13:40:36.540Z,64.8859,-148.211,0.1,1.5,ml,,,,1.09,ak,ak02346pvv9i,2023-04-01T13:42:44.647Z,"10 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-01T13:39:27.885Z,0.8134,126.2041,47.495,4.5,mb,22,57,1.163,0.87,us,us6000k1cv,2023-04-01T14:45:50.040Z,"Molucca Sea",earthquake,7.27,8.032,0.131,17,reviewed,us,us
-2023-04-01T13:36:07.246Z,60.0184,-152.9845,113.2,2,ml,,,,0.24,ak,ak02346puy50,2023-04-01T13:37:54.800Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
