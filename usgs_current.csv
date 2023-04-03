@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-03T12:41:20.148Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-04-03T12:12:56.352Z,61.0768,-150.5664,39,1,ml,,,,0.62,ak,ak0234a0764j,2023-04-03T12:14:56.645Z,"Southern Alaska",earthquake,,5.3,,,automatic,ak,ak
+2023-04-03T12:11:15.120Z,33.887,-116.2576667,3.81,0.97,ml,17,60,0.07989,0.2,ci,ci39509402,2023-04-03T12:14:54.108Z,"14km ENE of Thousand Palms, CA",earthquake,0.34,0.99,0.131,23,automatic,ci,ci
+2023-04-03T12:09:13.184Z,61.3697,-151.6213,86.2,0.7,ml,,,,0.23,ak,ak0234a06fna,2023-04-03T12:11:50.638Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-03T12:07:46.740Z,37.9044991,-121.8198318,0.12,1.84,md,10,107,0.06952,0.17,nc,nc73866215,2023-04-03T12:42:11.729Z,"9km WSW of Brentwood, CA",earthquake,0.55,6.84,0.11,7,automatic,nc,nc
 2023-04-03T11:58:42.954Z,61.5447,-150.5642,31.2,1.2,ml,,,,0.73,ak,ak02349zvkfb,2023-04-03T12:00:19.328Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-03T11:35:27.960Z,35.2051659,-118.6725006,3.38,2.96,ml,85,37,0.02908,0.2,ci,ci39509394,2023-04-03T12:03:53.252Z,"14km E of Arvin, CA",earthquake,0.19,0.66,0.281,24,automatic,ci,ci
+2023-04-03T11:35:27.960Z,35.2051659,-118.6725006,3.38,2.96,ml,85,37,0.02908,0.2,ci,ci39509394,2023-04-03T12:26:28.525Z,"14km E of Arvin, CA",earthquake,0.19,0.66,0.281,24,automatic,ci,ci
 2023-04-03T11:25:31.510Z,34.004,-116.852,14.01,1.22,ml,39,56,0.04811,0.19,ci,ci39509386,2023-04-03T11:29:04.629Z,"9km NNE of Banning, CA",earthquake,0.23,0.54,0.118,26,automatic,ci,ci
 2023-04-03T11:14:33.560Z,33.3,-116.1918333,0.82,1.44,ml,31,59,0.119,0.29,ci,ci39509378,2023-04-03T11:18:05.606Z,"18km ENE of Borrego Springs, CA",earthquake,0.33,0.84,0.141,29,automatic,ci,ci
 2023-04-03T11:10:39.820Z,33.3036667,-116.195,1.08,1.22,ml,23,70,0.1212,0.28,ci,ci39509370,2023-04-03T11:14:12.543Z,"18km ENE of Borrego Springs, CA",earthquake,0.41,0.99,0.116,26,automatic,ci,ci
@@ -85,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T22:32:06.950Z,34.4113333,-117.7423333,1.12,1.35,ml,23,126,0.09722,0.22,ci,ci39509194,2023-04-02T22:35:50.208Z,"9km WSW of Pinon Hills, CA",earthquake,0.38,0.59,0.203,30,automatic,ci,ci
 2023-04-02T22:31:18.603Z,60.213,-152.8521,117.9,1.6,ml,,,,0.15,ak,ak02348iq5dg,2023-04-02T22:32:53.338Z,"Southern Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-04-02T22:29:20.510Z,38.8383331,-122.7956696,1.83,0.48,md,7,89,0.01564,0.01,nc,nc73866000,2023-04-02T23:03:14.820Z,"6km WNW of Cobb, CA",earthquake,0.42,1.78,0.28,8,automatic,nc,nc
-2023-04-02T21:46:44.619Z,35.67941284,-97.07574463,4.455440521,2,ml,19,56.82165527,0.1186136007,0.159282664,ok,ok2023glxx,2023-04-02T21:49:20.622Z,"Oklahoma",earthquake,2.548110116,2.231932999,0.25,7,automatic,ok,ok
+2023-04-02T21:46:44.729Z,35.67933333,-97.0775,7.26,1.72,ml,90,25,0.118776692,0.2,ok,ok2023glxx,2023-04-03T12:39:12.276Z,"Oklahoma",earthquake,,0.5,0.28,49,reviewed,ok,ok
 2023-04-02T21:38:29.684Z,63.3479,-151.0107,11.6,2.6,ml,,,,0.95,ak,ak02348i68l0,2023-04-02T21:39:52.545Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-02T21:31:03.000Z,31.4226,-116.8753,8.507,3.9,ml,31,245,0.906,0.56,us,us6000k1ld,2023-04-03T01:37:05.489Z,"offshore Baja California, Mexico",earthquake,3.33,7.013,0.043,70,reviewed,us,us
 2023-04-02T21:28:22.630Z,19.3736667633057,-155.292999267578,2.32999992370605,1.89,ml,15,97,,0.109999999,hv,hv73355137,2023-04-02T21:33:53.470Z,"Hawaii region, Hawaii",earthquake,0.37,0.550000012,0.79,4,automatic,hv,hv
@@ -133,10 +138,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T13:04:06.020Z,38.8156662,-122.8249969,2.13,1.09,md,13,85,0.007533,0.02,nc,nc73865855,2023-04-02T13:44:12.220Z,"7km NW of The Geysers, CA",earthquake,0.28,0.59,0.15,15,automatic,nc,nc
 2023-04-02T13:00:54.320Z,38.8358345,-122.8075027,2.09,0.74,md,10,59,0.02065,0.01,nc,nc73865850,2023-04-02T13:32:12.146Z,"8km WNW of Cobb, CA",earthquake,0.3,0.87,0.16,11,automatic,nc,nc
 2023-04-02T13:00:47.089Z,10.5103,-86.1548,29.826,4.3,mb,27,206,0.888,0.56,us,us6000k1he,2023-04-02T15:07:37.040Z,"off the coast of Costa Rica",earthquake,3.8,9.028,0.085,39,reviewed,us,us
-2023-04-02T12:39:48.230Z,38.7861671,-122.7666702,2.36,1.17,md,19,81,0.01802,0.03,nc,nc73865845,2023-04-02T16:30:14.295Z,"1km NW of The Geysers, CA",earthquake,0.25,0.73,0.19,19,automatic,nc,nc
-2023-04-02T12:38:59.100Z,19.2478332519531,-155.386169433594,32.9900016784668,2.34,ml,38,138,,0.129999995,hv,hv73354842,2023-04-02T12:44:29.800Z,"Hawaii region, Hawaii",earthquake,0.54,0.680000007,0.2,5,automatic,hv,hv
-2023-04-02T12:32:42.751Z,-1.6165,-77.6531,176.707,4.5,mb,68,98,0.391,0.51,us,us6000k1hb,2023-04-02T12:46:57.040Z,"Ecuador",earthquake,7.76,3.813,0.04,188,reviewed,us,us
-2023-04-02T12:23:56.841Z,61.3377,-150.329,47.1,1.3,ml,,,,0.41,ak,ak02348cq6jo,2023-04-02T12:26:53.782Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-04-02T12:19:14.394Z,62.4031,-150.7552,66.7,1.4,ml,,,,0.72,ak,ak02348cp8en,2023-04-02T12:20:49.385Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-02T12:16:22.326Z,57.6916,-156.127,2.8,1.3,ml,,,,0.42,ak,ak02348coged,2023-04-02T20:25:43.817Z,"Alaska Peninsula",earthquake,,0.5,,,reviewed,ak,ak
-2023-04-02T12:14:32.020Z,38.8451653,-122.8148346,1.48,1.52,md,15,55,0.01158,0.02,nc,nc73865840,2023-04-02T16:03:13.117Z,"8km WNW of Cobb, CA",earthquake,0.21,0.36,0.17,17,automatic,nc,nc
