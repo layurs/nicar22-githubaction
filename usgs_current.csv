@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-04T14:17:09.960Z,19.1908340454102,-155.464660644531,29.3400001525879,2.44000006,md,39,103,,0.119999997,hv,hv73356307,2023-04-04T14:20:34.110Z,"1 km SE of Pāhala, Hawaii",earthquake,0.5,0.810000002,1.63999999,20,automatic,hv,hv
+2023-04-04T14:17:09.960Z,19.1908340454102,-155.464660644531,29.3400001525879,2.24,ml,39,103,,0.119999997,hv,hv73356307,2023-04-04T14:22:42.010Z,"1 km SE of Pāhala, Hawaii",earthquake,0.5,0.810000002,3.55,7,automatic,hv,hv
 2023-04-04T14:02:53.180Z,34.0601667,-117.2551667,13.42,1.41,ml,46,86,0.12,0.19,ci,ci39509642,2023-04-04T14:13:56.390Z,"1km NNE of Loma Linda, CA",earthquake,0.28,0.57,0.185,29,automatic,ci,ci
 2023-04-04T13:57:02.002Z,61.5566,-149.8461,48.2,1.7,ml,,,,0.35,ak,ak0234bolh94,2023-04-04T13:58:47.539Z,"6 km NE of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-04T13:53:14.540Z,41.312,-112.2365,11.87,1.05,md,13,128,0.1028,0.15,uu,uu60536356,2023-04-04T14:20:24.630Z,"12 km W of Plain City, Utah",earthquake,0.51,1.03,0.161,7,reviewed,uu,uu
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T13:01:01.900Z,33.3895,-116.9075,14.23,1.07,ml,27,63,0.104,0.18,ci,ci39509626,2023-04-04T13:56:51.121Z,"6km NW of Palomar Observatory, CA",earthquake,0.34,0.95,0.213,21,reviewed,ci,ci
 2023-04-04T12:57:38.894Z,60.096,-152.8024,104.3,1.4,ml,,,,0.3,ak,ak0234bo04ht,2023-04-04T12:59:23.826Z,"61 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-04T12:54:32.603Z,13.7533,125.5404,15.027,6.2,mww,158,36,6.642,0.53,us,us6000k1x2,2023-04-04T14:09:34.040Z,"124 km E of Gigmoto, Philippines",earthquake,7.85,3.707,0.04,59,reviewed,us,us
-2023-04-04T12:35:20.770Z,60.3138,-147.7922,17.5,1.6,ml,,,,0.49,ak,ak0234bnvdcd,2023-04-04T12:36:53.935Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-04T12:35:20.770Z,60.3138,-147.7922,17.5,1.6,ml,,,,0.49,ak,ak0234bnvdcd,2023-04-04T12:36:53.935Z,"30 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-04T12:22:10.450Z,63.7136,-145.4967,12.4,1.3,ml,,,,0.71,ak,ak0234bnsk8l,2023-04-04T12:25:12.382Z,"22 km SW of Deltana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-04T12:22:10.014Z,62.4788,-149.1257,36.8,1.1,ml,,,,1.44,ak,ak0234bnsk7d,2023-04-04T12:24:46.088Z,"50 km E of Chase, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-04-04T12:21:55.600Z,38.8326683,-122.8108368,1.64,0.67,md,7,91,0.02014,0,nc,nc73866700,2023-04-04T13:16:13.727Z,"8km W of Cobb, CA",earthquake,0.43,1.47,0.17,10,automatic,nc,nc
@@ -46,11 +46,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T08:27:28.137Z,61.5145,-150.2543,28.6,1.5,ml,,,,0.47,ak,ak0234blfxs0,2023-04-04T08:30:34.944Z,"14 km ESE of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-04T08:26:23.130Z,18.0346666666667,-66.748,17.59,2.43,md,7,169,0.1383,0.09,pr,pr71402478,2023-04-04T08:37:20.790Z,"Puerto Rico region",earthquake,0.53,0.96,0.157318648642253,5,reviewed,pr,pr
 2023-04-04T08:25:48.313Z,65.4813,-149.9614,14.2,1.5,ml,,,,0.56,ak,ak0234blfjvz,2023-04-04T08:27:39.997Z,"10 km ESE of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-04T08:16:27.768Z,60.0144,-151.9045,73.5,1.5,ml,,,,0.38,ak,ak0234bldkuw,2023-04-04T08:18:36.759Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-04T08:16:27.768Z,60.0144,-151.9045,73.5,1.5,ml,,,,0.38,ak,ak0234bldkuw,2023-04-04T08:18:36.759Z,"12 km NW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-04T08:15:08.690Z,37.4523315,-119.0203323,11.78,2.84,md,11,111,0.1479,0.06,nc,nc73866665,2023-04-04T13:33:00.441Z,"21km S of Mammoth Lakes, CA",earthquake,0.35,0.98,0.13,15,automatic,nc,nc
 2023-04-04T08:10:26.160Z,37.4496651,-119.0171661,10.93,2.11,md,5,127,0.1488,0.01,nc,nc73866660,2023-04-04T11:27:16.023Z,"21km S of Mammoth Lakes, CA",earthquake,0.53,1.37,0.32,4,automatic,nc,nc
 2023-04-04T07:58:51.913Z,61.2946,-152.5335,68.8,1.2,ml,,,,0.98,ak,ak0234bl176v,2023-04-04T08:00:39.672Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-04T07:37:50.510Z,38.8148346,-122.8081665,3.55,0.9,md,12,78,0.01217,0.03,nc,nc73866645,2023-04-04T07:54:12.730Z,"6km NW of The Geysers, CA",earthquake,0.41,0.87,0.2,11,automatic,nc,nc
+2023-04-04T07:34:55.130Z,33.6393333,-116.7386667,16.66,0.54,ml,21,58,0.05023,0.1,ci,ci39509562,2023-04-04T14:23:34.183Z,"11km NNW of Anza, CA",earthquake,0.24,0.38,0.131,6,reviewed,ci,ci
 2023-04-04T07:26:28.330Z,33.4953333,-116.4093333,7.47,1.02,ml,21,120,0.03115,0.21,ci,ci39509554,2023-04-04T07:29:59.587Z,"21km SSW of La Quinta, CA",earthquake,0.38,1.01,0.189,23,automatic,ci,ci
 2023-04-04T07:07:30.533Z,27.0852,141.4644,111.838,4.9,mb,68,121,6.178,0.97,us,us6000k1vu,2023-04-04T10:51:35.040Z,"Bonin Islands, Japan region",earthquake,10.97,7.384,0.038,231,reviewed,us,us
 2023-04-04T06:57:00.220Z,32.9296667,-116.3691667,8.35,1.31,ml,29,58,0.06065,0.18,ci,ci39509546,2023-04-04T07:00:35.803Z,"19km NE of Pine Valley, CA",earthquake,0.26,0.76,0.151,19,automatic,ci,ci
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T21:56:28.930Z,46.50116666666667,-122.5655,-0.51,1.28,ml,19,101,0.05546,0.28,uw,uw61915846,2023-04-03T23:32:16.210Z,"6 km WSW of Mossyrock, Washington",explosion,0.93,31.61,0.1626094507160949,8,reviewed,uw,uw
 2023-04-03T21:46:41.837Z,-21.457,-66.8319,233.522,5.1,mww,73,67,1.942,1.21,us,us6000k1ty,2023-04-03T22:05:06.040Z,"85 km SW of Atocha, Bolivia",earthquake,6.5,6.356,0.055,32,reviewed,us,us
 2023-04-03T21:44:14.711Z,14.4203,56.3116,10,5.5,mww,81,40,10.471,0.78,us,us6000k1u1,2023-04-03T23:46:58.859Z,"Owen Fracture Zone region",earthquake,7.3,1.73,0.063,24,reviewed,us,us
-2023-04-03T21:34:46.365Z,14.5226,56.2931,10,5.1,mb,76,39,10.369,0.94,us,us6000k1tw,2023-04-03T21:52:30.040Z,"Owen Fracture Zone region",earthquake,9.18,1.874,0.055,106,reviewed,us,us
+2023-04-03T21:34:46.282Z,14.4932,56.3003,10,5.5,mww,81,39,10.399,0.86,us,us6000k1tw,2023-04-04T14:33:29.728Z,"Owen Fracture Zone region",earthquake,7.73,1.85,0.062,25,reviewed,us,us
 2023-04-03T21:27:59.760Z,18.044,-66.8053333333333,15.08,2.13,md,6,145,0.09824,0.09,pr,pr71402413,2023-04-03T21:38:53.990Z,"3 km NNW of Guayanilla, Puerto Rico",earthquake,0.46,1.03,0.0929973303045184,5,reviewed,pr,pr
 2023-04-03T21:12:17.790Z,35.4688333,-118.4093333,10.54,1.53,ml,14,84,0.1774,0.11,ci,ci39509458,2023-04-04T00:45:21.291Z,"15km SSE of Bodfish, CA",earthquake,0.23,0.47,0.313,9,reviewed,ci,ci
 2023-04-03T21:11:52.215Z,31.661,-104.4338,5,2.5,ml,21,114,0.058,0.5,us,us6000k1tq,2023-04-03T23:50:45.301Z,"57 km S of Whites City, New Mexico",earthquake,1.14,1.756,0.065,31,reviewed,us,us
@@ -171,7 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T14:59:42.316Z,0.8854,98.8409,84.516,6.1,mww,126,48,1.332,0.92,us,us6000k1qa,2023-04-04T11:13:10.506Z,"72 km SW of Padangsidempuan, Indonesia",earthquake,6.21,4.859,0.062,25,reviewed,us,us
 2023-04-03T14:51:09.081Z,65.0481,-149.5458,13.4,1.2,ml,,,,0.67,ak,ak0234a1mam4,2023-04-03T14:53:26.054Z,"14 km SW of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-03T14:47:22.030Z,34.0185,-116.7303333,12.5,0.97,ml,33,112,0.06643,0.12,ci,ci39509410,2023-04-03T20:53:29.271Z,"12km NNE of Cabazon, CA",earthquake,0.17,0.42,0.094,18,reviewed,ci,ci
-2023-04-03T14:28:48.160Z,19.2485008239746,-155.398666381836,32.4799995422363,2.27,ml,41,132,,0.119999997,hv,hv73355637,2023-04-03T15:24:08.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.550000012,2.53,12,automatic,hv,hv
-2023-04-03T14:27:33.339Z,60.3342,-141.3336,6.7,1.8,ml,,,,0.68,ak,ak0234a1h7at,2023-04-03T14:29:39.542Z,"125 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-03T14:25:10.491Z,61.5281,-151.2983,15,1.3,ml,,,,0.89,ak,ak0234a1gq3t,2023-04-03T14:33:47.292Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-03T14:24:08.410Z,38.8338318,-122.8184967,1.59,0.71,md,9,87,0.01409,0.01,nc,nc73866240,2023-04-03T14:58:14.569Z,"8km NW of The Geysers, CA",earthquake,0.31,1,0.26,9,automatic,nc,nc
