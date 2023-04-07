@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-07T19:40:24.000Z,38.8438339,-122.7661667,7.62,0.79,md,9,225,0.008084,0.05,nc,nc73868705,2023-04-07T19:42:01.043Z,"4km WNW of Cobb, CA",earthquake,1.36,0.71,0.26,9,automatic,nc,nc
-2023-04-07T19:20:45.890Z,38.8413315,-122.8718338,2.14,0.95,md,13,100,0.002841,0.02,nc,nc73868700,2023-04-07T19:34:10.603Z,"12km NW of The Geysers, CA",earthquake,0.5,0.65,0.08,15,automatic,nc,nc
+2023-04-07T19:54:29.160Z,34.1811667,-116.8115,0.77,1.15,ml,32,76,0.1214,0.17,ci,ci40437816,2023-04-07T19:58:04.800Z,"9km SSE of Big Bear City, CA",earthquake,0.28,0.47,0.2,25,automatic,ci,ci
+2023-04-07T19:53:53.280Z,19.2099990844727,-155.365325927734,32.5400009155273,2.17000008,md,26,208,,0.129999995,hv,hv73358512,2023-04-07T19:57:13.340Z,"11 km E of Pāhala, Hawaii",earthquake,0.86,0.970000029,1.08000004,3,automatic,hv,hv
+2023-04-07T19:51:33.470Z,38.8391685,-122.8088303,4.96,0.73,md,7,71,0.01578,0.01,nc,nc73868715,2023-04-07T20:03:11.789Z,"8km WNW of Cobb, CA",earthquake,1.2,7.6,0.07,5,automatic,nc,nc
+2023-04-07T19:40:24.000Z,38.8438339,-122.7661667,7.62,0.79,md,9,225,0.008084,0.05,nc,nc73868705,2023-04-07T19:53:11.732Z,"4km WNW of Cobb, CA",earthquake,1.36,0.71,0.26,9,automatic,nc,nc
+2023-04-07T19:20:45.890Z,38.8413315,-122.8718338,2.14,0.95,md,13,100,0.002841,0.02,nc,nc73868700,2023-04-07T20:00:12.771Z,"12km NW of The Geysers, CA",earthquake,0.5,0.65,0.08,15,automatic,nc,nc
 2023-04-07T19:18:47.260Z,33.3226667,-115.7468333,2.7,1.53,ml,30,62,0.03196,0.24,ci,ci40437808,2023-04-07T19:22:34.039Z,"3km SSW of Bombay Beach, CA",earthquake,0.46,0.73,0.1,27,automatic,ci,ci
 2023-04-07T19:16:40.880Z,33.3316667,-115.7426667,3.06,1.58,ml,34,58,0.02233,0.27,ci,ci40437800,2023-04-07T19:20:25.261Z,"2km SSW of Bombay Beach, CA",earthquake,0.52,0.71,0.077,24,automatic,ci,ci
 2023-04-07T18:55:44.400Z,18.0393333333333,-66.8783333333333,17.8,2.54,md,7,99,0.06394,0.08,pr,pr71402878,2023-04-07T19:25:55.530Z,"2 km E of Lluveras, Puerto Rico",earthquake,0.56,1.18,0.0944647014644593,3,reviewed,pr,pr
@@ -13,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T17:49:53.413Z,63.9325,-149.0323,0,1.6,ml,,,,0.79,ak,ak0234gpjnd5,2023-04-07T17:52:09.758Z,"9 km NNW of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-07T17:43:33.990Z,37.6166667,-122.4726667,8.64,1.2,md,21,64,0.02056,0.05,nc,nc73868665,2023-04-07T19:05:14.418Z,"1km ENE of Pacifica, CA",earthquake,0.33,0.29,0.144,15,reviewed,nc,nc
 2023-04-07T17:41:21.405Z,61.492,-152.1284,9.5,0.2,ml,,,,0.21,ak,ak0234gphoqi,2023-04-07T17:52:05.343Z,"Southern Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-04-07T17:39:07.990Z,53.4855,-167.606,10.06,1.29,ml,13,188,,0.18,av,av91838856,2023-04-07T19:49:20.360Z,"82 km WSW of Unalaska, Alaska",earthquake,1.05,0.97,0.229646632581434,14,reviewed,av,av
 2023-04-07T17:38:01.730Z,38.7806664,-122.754837,0.93,0.8,md,8,90,0.01309,0.01,nc,nc73868655,2023-04-07T18:21:13.155Z,"0km NNE of The Geysers, CA",earthquake,0.37,0.76,0.14,8,automatic,nc,nc
 2023-04-07T17:33:41.301Z,66.1249,-148.332,11,1.2,ml,,,,0.86,ak,ak0234gpg71m,2023-04-07T17:45:23.364Z,"36 km ENE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T17:20:12.380Z,64.7564,-149.0596,17.7,0.7,ml,,,,0.37,ak,ak0234gpdcgp,2023-04-07T17:22:43.412Z,"17 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -109,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T08:26:13.050Z,32.1701667,-115.0671667,22.35,1.82,ml,7,249,0.1239,0.18,ci,ci40437528,2023-04-07T08:29:49.044Z,"7km WSW of Estacion Coahuila, B.C., MX",earthquake,2.99,1.26,0.29,10,automatic,ci,ci
 2023-04-07T08:24:29.920Z,38.8484993,-122.8143311,1.21,0.93,md,8,112,0.00935,0.02,nc,nc73868490,2023-04-07T08:38:12.645Z,"8km WNW of Cobb, CA",earthquake,0.66,1.69,0.22,8,automatic,nc,nc
 2023-04-07T08:22:22.660Z,56.175,-159.493166666667,20.28,0.32,ml,6,132,,0.12,av,av91097078,2023-04-07T17:24:43.200Z,"Alaska Peninsula",earthquake,0.51,0.79,0.599805904875987,7,reviewed,av,av
-2023-04-07T08:17:23.830Z,38.787,-122.768,1.67,1,md,27,81,0.01507,0.04,nc,nc73868485,2023-04-07T19:09:10.444Z,"2km NW of The Geysers, CA",earthquake,0.19,0.28,0.215,21,reviewed,nc,nc
+2023-04-07T08:17:23.830Z,38.787,-122.768,1.67,1,md,27,81,0.01507,0.04,nc,nc73868485,2023-04-07T19:49:12.706Z,"2km NW of The Geysers, CA",earthquake,0.19,0.28,0.215,21,reviewed,nc,nc
 2023-04-07T08:08:08.570Z,38.8323326,-122.8168335,1.79,0.9,md,13,68,0.01037,0.02,nc,nc73868480,2023-04-07T08:20:10.525Z,"8km NW of The Geysers, CA",earthquake,0.24,0.55,0.28,13,automatic,nc,nc
 2023-04-07T08:04:03.440Z,37.4738333,-118.8448333,4.83,1.27,md,16,197,0.1167,0.03,nc,nc73868470,2023-04-07T09:15:15.899Z,"18km SW of Toms Place, CA",earthquake,0.73,1.57,0.047,14,reviewed,nc,nc
 2023-04-07T08:03:16.960Z,37.4666667,-118.8353333,3.55,0.95,md,10,248,0.1232,0.04,nc,nc73868475,2023-04-07T08:23:11.542Z,"17km SW of Toms Place, CA",earthquake,1.15,2.45,0.079,9,reviewed,nc,nc
@@ -201,6 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T01:52:37.150Z,38.8175011,-122.7639999,1.57,0.43,md,8,187,0.01371,0.01,nc,nc73868295,2023-04-07T02:09:14.247Z,"4km W of Cobb, CA",earthquake,0.5,0.67,0.25,8,automatic,nc,nc
 2023-04-07T01:31:55.580Z,38.2655,-112.4971667,4.8,0.8,md,13,243,0.1133,0.04,uu,uu60536531,2023-04-07T15:18:17.430Z,"12 km E of Beaver, Utah",earthquake,0.89,2.61,0.147,6,reviewed,uu,uu
 2023-04-07T01:28:38.780Z,51.841,-178.0335,-0.92,1.5,ml,5,118,,0.28,av,av91837981,2023-04-07T01:46:48.790Z,"96 km W of Adak, Alaska",earthquake,0.7,3.87,0.172904155897295,5,reviewed,av,av
+2023-04-07T01:25:17.640Z,32.3078333,-115.2631667,9.74,1.89,ml,14,116,0.1168,0.29,ci,ci40437352,2023-04-07T19:48:47.760Z,"8km SW of Delta, B.C., MX",earthquake,0.55,1.51,0.268,10,reviewed,ci,ci
 2023-04-07T01:23:52.000Z,37.3548333,-119.8253333,24.66,1.58,md,11,63,0.09164,0.13,nc,nc73868285,2023-04-07T09:42:17.082Z,"9km W of Ahwahnee, CA",earthquake,0.46,0.58,0.188,11,reviewed,nc,nc
 2023-04-07T01:23:08.378Z,62.1215,-148.663,20,1.4,ml,,,,0.28,ak,ak0234gfv1md,2023-04-07T01:24:48.807Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-07T01:18:22.800Z,57.8924,-155.9387,9.9,1.8,ml,,,,0.43,ak,ak0234gfu05k,2023-04-07T01:20:01.285Z,"92 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -234,7 +239,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T22:32:43.360Z,32.6378333,-115.7341667,9.59,1.67,ml,18,70,0.01321,0.21,ci,ci40437296,2023-04-07T19:19:54.300Z,"16km WNW of Progreso, B.C., MX",earthquake,0.52,0.62,0.256,15,reviewed,ci,ci
 2023-04-06T22:29:00.918Z,38.1283,-117.9948,11.3,2.1,ml,9,70.64,0.071,0.1394,nn,nn00857912,2023-04-06T23:49:23.365Z,"30 km SSE of Mina, Nevada",earthquake,,1.7,0.44,6,reviewed,nn,nn
 2023-04-06T22:23:18.480Z,53.8791666666667,-166.6,6.15,-0.08,ml,7,149,,0.19,av,av91837856,2023-04-06T23:00:51.270Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.52,1.04,0.252747721847724,7,reviewed,av,av
-2023-04-06T22:21:41.330Z,37.6146667,-122.4765,9.07,1.12,md,15,66,0.02253,0.04,nc,nc73868255,2023-04-07T18:11:14.098Z,"1km E of Pacifica, CA",earthquake,0.26,0.34,0.363,12,reviewed,nc,nc
+2023-04-06T22:21:41.330Z,37.6146667,-122.4765,9.07,1.12,md,15,66,0.02253,0.04,nc,nc73868255,2023-04-07T20:03:10.789Z,"1km E of Pacifica, CA",earthquake,0.26,0.34,0.363,12,reviewed,nc,nc
 2023-04-06T22:19:38.810Z,33.1886667,-115.6281667,1.55,2.01,ml,40,77,0.007247,0.25,ci,ci40437288,2023-04-07T19:12:41.980Z,"12km WSW of Niland, CA",earthquake,0.31,0.39,0.16,64,reviewed,ci,ci
 2023-04-06T22:09:40.290Z,38.8241653,-122.796669,3.84,1.1,md,21,64,0.0105,0.06,nc,nc73868250,2023-04-07T02:33:13.386Z,"6km NW of The Geysers, CA",earthquake,0.33,0.58,0.14,20,automatic,nc,nc
 2023-04-06T22:09:19.944Z,27.3416,141.3771,89.094,4.7,mb,146,207,5.911,0.75,us,us6000k2ju,2023-04-06T23:13:24.040Z,"Bonin Islands, Japan region",earthquake,14.59,8.835,0.046,142,reviewed,us,us
@@ -265,9 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T20:25:46.400Z,33.8516667,-117.4855,-0.49,1.46,ml,36,48,0.04798,0.22,ci,ci40437248,2023-04-06T21:53:06.683Z,"4km SE of Home Gardens, CA",quarry blast,0.34,31.61,0.163,20,reviewed,ci,ci
 2023-04-06T20:19:39.390Z,58.172,-155.284166666667,-0.76,-0.75,ml,6,164,,0.07,av,av91837741,2023-04-06T20:51:45.160Z,"83 km NW of Karluk, Alaska",earthquake,0.44,31.61,0.308190249104598,6,reviewed,av,av
 2023-04-06T20:11:01.726Z,37.4162,-116.9516,7.7,0.8,ml,5,214.66,0.328,0.1197,nn,nn00857918,2023-04-07T00:14:05.061Z,"41 km SE of Goldfield, Nevada",earthquake,,9.2,0.9,4,reviewed,nn,nn
-2023-04-06T20:05:59.306Z,31.63898612,-104.420952,5.848779297,2.5,ml,22,65,0.01966107012,0.2,tx,tx2023gtco,2023-04-07T10:08:36.543Z,"59 km S of Whites City, New Mexico",earthquake,1.941474011,1.3365352340000003,0.1,18,reviewed,tx,tx
-2023-04-06T20:04:19.310Z,37.6183333,-122.4665,8.47,1.34,md,21,119,0.01995,0.09,nc,nc73868190,2023-04-07T18:52:12.338Z,"2km ENE of Pacifica, CA",earthquake,0.26,0.27,0.111,13,reviewed,nc,nc
-2023-04-06T20:00:03.868Z,59.7812,-152.7728,84.8,1.8,ml,,,,0.41,ak,ak0234f3hzsy,2023-04-06T20:01:59.143Z,"52 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-04-06T19:55:21.990Z,60.097,-152.9649,113.6,2,ml,,,,0.48,ak,ak0234f38dzb,2023-04-06T19:57:47.348Z,"70 km WNW of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-04-06T19:52:44.290Z,59.842,-152.3387,69.2,1.9,ml,,,,0.41,ak,ak0234f37sjx,2023-04-06T19:55:05.388Z,"29 km WNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-04-06T19:48:52.229Z,34.49966667,-97.22066667,0,1.45,ml,71,66,0.1277749262,0.57,ok,ok2023gtca,2023-04-06T19:57:29.381Z,"9 km W of Davis, Oklahoma",quarry blast,,0.6,0.16,23,reviewed,ok,ok
