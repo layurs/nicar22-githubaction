@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-09T10:37:32.935Z,37.769,-116.0131,0.3,1.5,ml,16,191.66,0.612,0.3848,nn,nn00857997,2023-04-09T10:40:01.539Z,"27 km WNW of Rachel, Nevada",earthquake,,48.6,0.94,9,automatic,nn,nn
-2023-04-09T10:32:53.920Z,37.3366661,-121.7003326,7.68,1.27,md,17,68,0.0463,0.05,nc,nc73869740,2023-04-09T10:34:31.423Z,"12km ESE of Alum Rock, CA",earthquake,0.22,0.67,0.12,11,automatic,nc,nc
+2023-04-09T10:37:24.220Z,32.839,-115.443,4.39,1,ml,6,102,0.02352,0.14,ci,ci40438768,2023-04-09T10:41:03.991Z,"7km WNW of Holtville, CA",earthquake,0.5,0.5,0.186,10,automatic,ci,ci
+2023-04-09T10:32:53.920Z,37.3366661,-121.7003326,7.68,1.27,md,17,68,0.0463,0.05,nc,nc73869740,2023-04-09T10:45:10.508Z,"12km ESE of Alum Rock, CA",earthquake,0.22,0.67,0.12,11,automatic,nc,nc
 2023-04-09T10:32:07.120Z,33.6645,-116.7723333,10.39,0.43,ml,16,107,0.06722,0.14,ci,ci40438760,2023-04-09T10:35:43.459Z,"10km SSW of Idyllwild, CA",earthquake,0.37,0.68,0.203,9,automatic,ci,ci
+2023-04-09T10:31:20.480Z,8.924,93.9567,10,5.5,mww,108,45,2.965,0.67,us,us6000k2zy,2023-04-09T10:51:38.573Z,"Nicobar Islands, India region",earthquake,7.11,1.843,0.065,23,reviewed,us,us
 2023-04-09T10:26:53.480Z,40.3031654,-124.4544983,19.19,2.94,md,20,251,0.1315,0.18,nc,nc73869735,2023-04-09T10:33:10.434Z,"15km W of Petrolia, CA",earthquake,2.62,0.62,0.1,14,automatic,nc,nc
 2023-04-09T10:21:21.100Z,37.3376656,-121.6983337,7.49,2.55,md,63,44,0.04462,0.06,nc,nc73869730,2023-04-09T10:32:29.405Z,"12km ESE of Alum Rock, CA",earthquake,0.14,0.32,0.1,78,automatic,nc,nc
 2023-04-09T10:20:26.493Z,61.6523,-149.6244,28.1,1.8,ml,,,,0.45,ak,ak0234jwa1ax,2023-04-09T10:22:31.881Z,"3 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T09:21:17.370Z,37.3351669,-121.7006683,7.3,1.58,md,28,54,0.04675,0.04,nc,nc73869700,2023-04-09T10:22:16.364Z,"12km ESE of Alum Rock, CA",earthquake,0.18,0.4,0.08,14,automatic,nc,nc
 2023-04-09T09:20:38.665Z,37.7417,-116.0107,1.7,1.2,ml,8,205.22,0.588,0.3172,nn,nn00857993,2023-04-09T09:23:50.041Z,"Nevada",earthquake,,29.7,1.01,4,automatic,nn,nn
 2023-04-09T09:19:51.170Z,37.3341675,-121.6983337,7.58,1.71,md,21,66,0.04507,0.05,nc,nc73869695,2023-04-09T10:11:26.281Z,"12km ESE of Alum Rock, CA",earthquake,0.19,0.55,0.18,13,automatic,nc,nc
-2023-04-09T09:14:47.070Z,37.3330002,-121.6988297,7.94,1.11,md,9,81,0.04566,0.02,nc,nc73869690,2023-04-09T10:01:15.221Z,"12km ESE of Alum Rock, CA",earthquake,0.33,0.95,0.23,7,automatic,nc,nc
+2023-04-09T09:14:47.070Z,37.3330002,-121.6988297,7.94,1.11,md,9,81,0.04566,0.02,nc,nc73869690,2023-04-09T10:45:11.508Z,"12km ESE of Alum Rock, CA",earthquake,0.33,0.95,0.23,7,automatic,nc,nc
 2023-04-09T09:10:38.910Z,38.5098343,-119.5388336,1.83,2.87,md,32,81,0.1783,0.15,nc,nc73869670,2023-04-09T10:15:11.314Z,"5km W of Walker, CA",earthquake,0.3,2.43,0.19,30,automatic,nc,nc
 2023-04-09T09:09:10.750Z,37.336834,-121.6978302,7.69,2.47,md,58,54,0.0443,0.07,nc,nc73869660,2023-04-09T10:31:14.422Z,"12km ESE of Alum Rock, CA",earthquake,0.15,0.33,0.14,61,automatic,nc,nc
 2023-04-09T09:07:51.102Z,58.225,-155.1363,37.7,1,ml,,,,0.22,ak,ak0234jvlvaf,2023-04-09T09:10:47.154Z,"83 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -235,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T11:07:43.790Z,38.7878342,-122.7666702,2.55,0.74,md,10,95,0.01388,0.02,nc,nc73869210,2023-04-08T12:17:11.561Z,"2km NW of The Geysers, CA",earthquake,0.44,1.22,0.14,9,automatic,nc,nc
 2023-04-08T11:06:12.086Z,9.0749,93.9965,11.077,4.6,mb,70,60,2.845,0.98,us,us6000k2uv,2023-04-08T11:35:05.040Z,"Nicobar Islands, India region",earthquake,6.97,4.058,0.086,50,reviewed,us,us
 2023-04-08T10:57:28.260Z,38.7555008,-122.7034988,0.65,0.73,md,8,128,0.01308,0.02,nc,nc73869205,2023-04-08T11:14:15.214Z,"2km SSW of Anderson Springs, CA",earthquake,0.87,0.46,0.09,6,automatic,nc,nc
-2023-04-08T10:50:12.010Z,33.8871667,-118.5948333,9.25,2.39,ml,63,142,0.1826,0.27,ci,ci40438152,2023-04-09T00:37:57.989Z,"17km SW of Marina del Rey, CA",earthquake,0.43,1.24,0.221,26,automatic,ci,ci
-2023-04-08T10:50:10.590Z,33.5283333,-116.7318333,4.79,0.48,ml,16,82,0.03725,0.1,ci,ci40438160,2023-04-08T10:53:58.652Z,"6km WSW of Anza, CA",earthquake,0.21,0.24,0.155,12,automatic,ci,ci
-2023-04-08T10:48:37.626Z,61.9978,-149.7383,35.1,1.2,ml,,,,0.37,ak,ak0234i8wpf8,2023-04-08T10:50:53.018Z,"19 km SSE of Susitna North, Alaska",earthquake,,3.5,,,automatic,ak,ak
