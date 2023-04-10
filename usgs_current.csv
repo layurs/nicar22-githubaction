@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-10T07:08:17.200Z,19.2678337097168,-155.399002075195,28.8899993896484,2.18,ml,34,136,,0.150000006,hv,hv73360527,2023-04-10T07:13:49.610Z,"11 km NE of Pāhala, Hawaii",earthquake,0.58,0.74000001,3.32,7,automatic,hv,hv
+2023-04-10T07:05:43.691Z,-10.7763,164.6997,10,5.4,mww,96,56,4.864,0.6,us,us6000k38k,2023-04-10T07:28:33.931Z,"120 km W of Lata, Solomon Islands",earthquake,8.82,1.849,0.08,15,reviewed,us,us
 2023-04-10T06:58:13.120Z,17.92,-66.9523333333333,13.8,2.94,md,12,234,0.08853,0.1,pr,pr71403653,2023-04-10T07:19:47.730Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.69,0.23,0.350962373345555,6,reviewed,pr,pr
 2023-04-10T06:55:49.830Z,17.9548333333333,-66.9551666666667,15.49,2.46,md,6,206,0.075,0.09,pr,pr71403638,2023-04-10T07:12:10.960Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.66,0.73,0.18782515938767,5,reviewed,pr,pr
 2023-04-10T06:51:39.540Z,17.9535,-66.96,15.68,2.36,md,6,208,0.07979,0.08,pr,pr71403628,2023-04-10T07:15:17.660Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.69,0.63,0.150384485787407,4,reviewed,pr,pr
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T06:34:58.610Z,33.3893333,-116.898,9.97,0.7,ml,26,40,0.112,0.26,ci,ci40439136,2023-04-10T06:38:37.224Z,"5km NW of Palomar Observatory, CA",earthquake,0.43,1.56,0.23,18,automatic,ci,ci
 2023-04-10T06:33:31.949Z,59.151,-153.0476,67.3,2.2,ml,,,,0.34,ak,ak0234lhig3u,2023-04-10T06:35:26.843Z,"68 km WSW of Nanwalek, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-04-10T06:27:00.590Z,33.1885,-116.0266667,4.48,0.78,ml,15,79,0.04367,0.22,ci,ci40439128,2023-04-10T06:30:39.871Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.48,0.92,0.131,10,automatic,ci,ci
-2023-04-10T06:19:29.340Z,38.7638321,-122.7253342,3.14,1.17,md,13,91,0.002266,0.02,nc,nc73870160,2023-04-10T06:41:20.711Z,"3km ESE of The Geysers, CA",earthquake,0.51,0.84,0.16,13,automatic,nc,nc
+2023-04-10T06:19:29.340Z,38.7638321,-122.7253342,3.14,1.17,md,13,91,0.002266,0.02,nc,nc73870160,2023-04-10T07:32:11.014Z,"3km ESE of The Geysers, CA",earthquake,0.51,0.84,0.16,13,automatic,nc,nc
 2023-04-10T06:14:48.753Z,32.26226807,-101.9327601,8.925984701,3.6,ml,31,62,0.03872593918,0.1,tx,tx2023gzjd,2023-04-10T07:11:04.022Z,"20 km NW of Stanton, Texas",earthquake,0.5775057391,0.9353123041,0.1,15,reviewed,tx,tx
 2023-04-10T06:09:45.900Z,35.9985,-117.3483333,4.14,1.79,ml,14,106,0.1196,0.18,ci,ci40439120,2023-04-10T06:13:25.696Z,"26km N of Searles Valley, CA",earthquake,0.57,1.51,0.085,11,automatic,ci,ci
 2023-04-10T06:09:28.310Z,38.760334,-122.7286682,2.5,2.44,md,58,38,0.003231,0.06,nc,nc73870150,2023-04-10T07:05:11.840Z,"3km SE of The Geysers, CA",earthquake,0.16,0.28,0.18,71,automatic,nc,nc
@@ -292,5 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T07:46:15.773Z,9.0648,94.0249,10,5.4,mww,91,43,4.789,1.03,us,us6000k2z6,2023-04-09T09:49:52.805Z,"Nicobar Islands, India region",earthquake,6.68,1.84,0.073,18,reviewed,us,us
 2023-04-09T07:41:03.000Z,18.2275,-67.4376666666667,7.07,3.4,md,17,128,0.161,0.3,pr,pr71403038,2023-04-09T13:51:46.669Z,"22 km WSW of Stella, Puerto Rico",earthquake,0.54,1.01,0.119530969144164,14,reviewed,pr,pr
 2023-04-09T07:38:28.300Z,34.4591667,-117.7536667,4.56,1.06,ml,13,97,0.0758,0.13,ci,ci40438704,2023-04-09T14:03:18.998Z,"5km SE of Llano, CA",earthquake,0.38,0.58,0.317,14,reviewed,ci,ci
-2023-04-09T07:36:50.420Z,32.4941667,-115.5781667,12.24,2.37,ml,26,66,0.0436,0.34,ci,ci40438696,2023-04-09T07:40:27.662Z,"10km S of Progreso, B.C., MX",earthquake,0.63,1.72,0.221,26,automatic,ci,ci
-2023-04-09T07:27:35.170Z,33.9521667,-116.8381667,8.06,0.46,ml,10,121,0.123,0.06,ci,ci40438688,2023-04-09T07:31:05.598Z,"5km NE of Banning, CA",earthquake,0.29,1.04,0.133,7,automatic,ci,ci
