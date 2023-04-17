@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-17T21:08:40.220Z,19.382999420166,-155.276504516602,3.6800000667572,1.80999994,md,20,67,,0.219999999,hv,hv73367452,2023-04-17T21:11:36.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.42,0.49000001,1.10000002,11,automatic,hv,hv
 2023-04-17T20:55:52.733Z,61.2696,-145.4997,24.1,1.8,ml,,,,0.59,ak,ak0234xaqpe1,2023-04-17T20:57:40.219Z,"46 km SSW of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-17T20:55:01.285Z,31.65891069,-104.3600458,6.388647461,3.5,ml,22,69,0.06143631365,0.3,tx,tx2023hngs,2023-04-17T21:16:09.624Z,"57 km S of Whites City, New Mexico",earthquake,1.243308607,1.254367582,0.2,15,reviewed,tx,tx
+2023-04-17T20:55:01.285Z,31.65891069,-104.3600458,6.388647461,3.5,ml,22,69,0.06143631365,0.3,tx,tx2023hngs,2023-04-17T21:24:54.862Z,"57 km S of Whites City, New Mexico",earthquake,1.243308607,1.254367582,0.2,15,reviewed,tx,tx
 2023-04-17T20:47:22.689Z,31.67400592,-104.3714802,6.285815430000001,2.6,ml,18,68,0.05461755525,0.2,tx,tx2023hngm,2023-04-17T21:02:22.136Z,"55 km S of Whites City, New Mexico",earthquake,0.9381091238,1.056836282,0.2,11,reviewed,tx,tx
 2023-04-17T20:30:41.570Z,34.0171667,-117.4611667,0.33,1.07,ml,21,96,0.07501,0.4,ci,ci40442072,2023-04-17T20:34:31.174Z,"2km ENE of Glen Avon, CA",earthquake,0.89,31.61,0.176,29,automatic,ci,ci
 2023-04-17T20:06:29.461Z,-4.4649,143.2355,78.845,5,mb,58,30,6.265,1.08,us,us6000k55j,2023-04-17T20:54:54.705Z,"53 km ESE of Ambunti, Papua New Guinea",earthquake,10.23,5.563,0.069,67,reviewed,us,us
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T19:57:22.142Z,-31.8945,-179.0336,10.092,5,mb,47,70,2.794,1.19,us,us6000k55f,2023-04-17T20:45:35.040Z,"Kermadec Islands region",earthquake,12.47,3.935,0.076,55,reviewed,us,us
 2023-04-17T19:51:49.190Z,36.5403328,-121.1196671,9.05,2.54,md,51,129,0.06149,0.21,nc,nc73874850,2023-04-17T20:42:13.022Z,"2km ENE of Pinnacles, CA",earthquake,0.37,0.83,0.15,48,automatic,nc,nc
 2023-04-17T19:50:02.207Z,62.4421,-149.576,48.5,1.5,ml,,,,0.32,ak,ak0234xa43b0,2023-04-17T19:56:58.364Z,"27 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-17T19:41:00.440Z,39.920166,-123.5456696,0.08,2.03,md,11,73,0.122,0.31,nc,nc73874840,2023-04-17T20:06:14.777Z,"26km NNW of Laytonville, CA",earthquake,0.85,9.77,0.06,6,automatic,nc,nc
+2023-04-17T19:41:00.440Z,39.920166,-123.5456696,0.08,2.03,md,11,73,0.122,0.31,nc,nc73874840,2023-04-17T21:33:12.290Z,"26km NNW of Laytonville, CA",earthquake,0.85,9.77,0.06,6,automatic,nc,nc
 2023-04-17T19:31:32.300Z,33.7736664,-117.904335,0.4,1.18,ml,13,137,0.113,0.39,ci,ci40442040,2023-04-17T19:35:12.637Z,"4km NNW of Santa Ana, CA",earthquake,1.06,2.24,0.374,6,automatic,ci,ci
 2023-04-17T19:26:57.290Z,31.6543,-104.2837,5,2.8,mb_lg,19,109,0.186,0.48,us,us6000k550,2023-04-17T19:58:50.040Z,"58 km S of Whites City, New Mexico",earthquake,1.05,1.583,0.1,42,reviewed,us,us
 2023-04-17T19:12:37.020Z,38.2566681,-122.6103363,3.61,1.28,md,6,222,0.2595,0.07,nc,nc73874835,2023-04-17T20:06:13.777Z,"4km NE of Petaluma, CA",earthquake,5.63,9.91,,1,automatic,nc,nc
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T21:54:16.770Z,33.8808333,-117.1931667,13.15,1.61,ml,65,45,0.02164,0.16,ci,ci40441624,2023-04-17T17:59:44.700Z,"6km SSE of Moreno Valley, CA",earthquake,0.17,0.37,0.237,24,reviewed,ci,ci
 2023-04-16T21:50:00.692Z,36.6968,-116.1132,4.6,0.7,ml,16,147.79,0.012,0.1249,nn,nn00858286,2023-04-16T23:25:40.756Z,"Nevada",earthquake,,0.9,1.21,5,reviewed,nn,nn
 2023-04-16T21:35:27.099Z,60.4101,-142.036,4.9,1.8,ml,,,,0.63,ak,ak0234vnog79,2023-04-16T21:37:28.629Z,"123 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-16T21:32:49.250Z,18.4148,-68.55,123,3.72,md,11,220,0.1956,0.59,pr,pr2023106001,2023-04-16T23:24:49.508Z,"7 km ENE of Boca de Yuma, Dominican Republic",earthquake,6.45,3.01,0.13,3,reviewed,pr,pr
