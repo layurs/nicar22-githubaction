@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T21:00:48.606Z,62.0002,-150.3021,13.8,1.9,ml,,,,0.79,ak,ak02350m31a4,2023-04-19T21:02:41.349Z,"29 km SW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-19T20:48:23.487Z,61.5054,-151.9974,0.3,0.7,ml,,,,0.28,ak,ak02350lru3w,2023-04-19T20:49:37.708Z,"62 km SSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-19T20:45:28.420Z,48.327,-114.389166666667,13.86,1.39,ml,12,173,0.2176,0.18,mb,mb90010938,2023-04-19T21:09:48.800Z,"western Montana",earthquake,0.71,1.08,0.297503514702812,6,reviewed,mb,mb
-2023-04-19T20:44:12.580Z,19.3333339691162,-155.135833740234,2.52999997138977,2.18,ml,34,100,,0.189999998,hv,hv73369517,2023-04-19T20:49:43.890Z,"14 km S of Fern Forest, Hawaii",earthquake,0.37,0.660000026,0.35,9,automatic,hv,hv
+2023-04-19T20:44:12.550Z,19.3316666666667,-155.131166666667,4.74,2.33,ml,36,124,,0.12,hv,hv73369517,2023-04-19T21:26:29.470Z,"14 km S of Fern Forest, Hawaii",earthquake,0.33,0.6,0.07058166304555,14,reviewed,hv,hv
 2023-04-19T20:43:58.120Z,19.3291666666667,-155.137666666667,2.96,0.8,md,17,119,,0.1,hv,hv73369512,2023-04-19T21:15:40.930Z,"15 km S of Fern Forest, Hawaii",earthquake,0.35,0.92,0.219442018905738,7,reviewed,hv,hv
 2023-04-19T20:41:43.380Z,61.5664,-151.7798,76.3,0.9,ml,,,,1.01,ak,ak02350lqdmq,2023-04-19T20:44:08.451Z,"51 km SSW of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-19T20:29:27.060Z,33.9543333,-116.9215,13.53,1.27,ml,50,39,0.1242,0.12,ci,ci40442888,2023-04-19T21:03:38.070Z,"5km NW of Banning, CA",earthquake,0.13,0.38,0.132,29,reviewed,ci,ci
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T16:42:16.231Z,-9.9964,114.9786,35,4.4,mb,31,135,1.722,0.96,us,us6000k5kc,2023-04-19T17:09:12.864Z,"134 km S of Jimbaran, Indonesia",earthquake,6.15,1.93,0.155,12,reviewed,us,us
 2023-04-19T16:39:37.710Z,38.800499,-122.7531662,2.02,0.76,md,7,102,0.005116,0.02,nc,nc73875480,2023-04-19T17:38:13.606Z,"3km N of The Geysers, CA",earthquake,0.46,0.76,0.04,6,automatic,nc,nc
 2023-04-19T16:37:34.090Z,38.8311653,-122.8186646,1.42,1,md,16,60,0.01026,0.01,nc,nc73875475,2023-04-19T17:11:18.425Z,"8km NW of The Geysers, CA",earthquake,0.26,0.54,0.2,17,automatic,nc,nc
-2023-04-19T16:07:01.081Z,32.6029,-70.8431,10,4.5,mb,150,67,5.199,0.99,us,us6000k5k8,2023-04-19T21:10:04.672Z,"off the east coast of the United States",earthquake,8.31,1.817,0.052,110,reviewed,us,us
+2023-04-19T16:07:01.081Z,32.6029,-70.8431,10,4.5,mb,150,67,5.199,0.99,us,us6000k5k8,2023-04-19T21:28:48.060Z,"off the east coast of the United States",earthquake,8.31,1.817,0.052,110,reviewed,us,us
 2023-04-19T15:48:38.054Z,39.2294,-120.0882,8.4,0,ml,3,158.85,0.037,0.009,nn,nn00858417,2023-04-19T18:51:13.110Z,"0 km WNW of Carnelian Bay, California",earthquake,,4.1,0,1,reviewed,nn,nn
 2023-04-19T15:42:05.510Z,33.3551667,-116.3535,12.05,1.11,ml,47,34,0.03057,0.17,ci,ci40442744,2023-04-19T16:48:39.830Z,"11km N of Borrego Springs, CA",earthquake,0.19,0.49,0.11,20,reviewed,ci,ci
 2023-04-19T15:36:10.440Z,38.7868347,-122.7699966,0.98,2.38,md,48,51,0.01537,0.06,nc,nc73875470,2023-04-19T16:44:15.250Z,"2km NW of The Geysers, CA",earthquake,0.15,0.23,0.16,50,automatic,nc,nc
@@ -233,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T21:41:05.774Z,31.66462483,-104.3272603,7.622631836000001,2.249987231,mlv,24,138,0.0536218356,0.2,tx,tx2023hpdt,2023-04-19T20:57:40.627Z,"56 km S of Whites City, New Mexico",earthquake,0.8401720541999999,0.9895977218,0.1136328342,18,reviewed,tx,tx
 2023-04-18T21:38:09.660Z,37.374,-121.7296667,7.5,0.95,md,15,66,0.07655,0.07,nc,nc73875235,2023-04-18T22:55:58.854Z,"9km E of Alum Rock, CA",earthquake,0.25,0.49,0.249,15,reviewed,nc,nc
 2023-04-18T21:35:46.070Z,38.8095016,-122.822998,2.02,1.05,md,17,75,0.00487,0.03,nc,nc73875230,2023-04-18T22:10:15.677Z,"7km WNW of The Geysers, CA",earthquake,0.31,0.4,0.31,16,automatic,nc,nc
-2023-04-18T21:30:06.260Z,37.3718338,-121.729332,6.5,1.77,md,23,53,0.09665,0.07,nc,nc73875225,2023-04-19T00:13:12.229Z,"9km E of Alum Rock, CA",earthquake,0.21,0.75,0.1,17,automatic,nc,nc
-2023-04-18T21:27:57.030Z,40.6793327,-124.1816635,14.24,2.57,md,17,188,0.18,0.16,nc,nc73875220,2023-04-19T20:17:38.495Z,"5km S of Humboldt Hill, CA",earthquake,1.12,1.11,0.12,12,automatic,nc,nc
-2023-04-18T21:21:42.240Z,36.6838333,-121.3648333,-0.47,1.32,md,18,80,0.0278,0.15,nc,nc73875215,2023-04-18T22:51:57.082Z,"12km SSW of Tres Pinos, CA",chemical explosion,0.35,31.61,0.147,14,reviewed,nc,nc
