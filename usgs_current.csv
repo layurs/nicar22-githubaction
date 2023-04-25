@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-25T10:45:08.560Z,36.9339981,-121.6831665,11.11,1.65,md,20,80,0.01734,0.12,nc,nc73877555,2023-04-25T10:57:11.166Z,"5km ESE of Interlaken, CA",earthquake,0.36,0.87,0.3,15,automatic,nc,nc
+2023-04-25T10:42:43.560Z,39.3768349,-122.9061661,2.61,2.38,md,21,120,0.1719,0.11,nc,nc73877550,2023-04-25T10:49:16.114Z,"6km SE of Lake Pillsbury, CA",earthquake,0.3,2.02,0.17,18,automatic,nc,nc
+2023-04-25T10:40:27.730Z,61.5085,-151.2583,25.5,0.9,ml,,,,0.36,ak,ak0235aczvmd,2023-04-25T10:41:58.772Z,"39 km W of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-25T10:35:37.460Z,33.6026667,-116.804,6.65,0.34,ml,13,67,0.0456,0.16,ci,ci40445216,2023-04-25T10:39:10.280Z,"13km WNW of Anza, CA",earthquake,0.44,0.68,0.242,5,automatic,ci,ci
 2023-04-25T10:18:04.057Z,65.4561,-144.7746,0,1.4,ml,,,,0.91,ak,ak0235acv41h,2023-04-25T10:20:14.244Z,"13 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-25T10:07:19.870Z,34.0315,-117.1061667,9.73,0.84,ml,22,57,0.006524,0.19,ci,ci40445208,2023-04-25T10:10:55.902Z,"5km SSE of Mentone, CA",earthquake,0.33,0.78,0.172,18,automatic,ci,ci
@@ -26,9 +29,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T06:07:14.423Z,60.8501,-151.5558,76,1.4,ml,,,,0.76,ak,ak0235aaf1jm,2023-04-25T06:08:21.441Z,"22 km NW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-25T05:42:38.622Z,60.51,-151.3162,53,1.7,ml,,,,0.48,ak,ak0235aa15va,2023-04-25T05:44:11.320Z,"5 km SSW of Kenai, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-25T05:40:51.879Z,64.7374,-148.9654,10.1,1.1,ml,,,,0.89,ak,ak0235aa0rag,2023-04-25T05:42:47.099Z,"16 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-25T05:35:59.850Z,-2.8165,-79.8398,60.464,5.3,mww,86,83,0.761,1.28,us,us7000jvqd,2023-04-25T10:30:19.511Z,"10 km NNW of Baláo, Ecuador",earthquake,5.73,6.862,0.089,12,reviewed,us,us
+2023-04-25T05:35:59.850Z,-2.8165,-79.8398,60.464,5.3,mww,86,83,0.761,1.28,us,us7000jvqd,2023-04-25T10:51:18.159Z,"10 km NNW of Baláo, Ecuador",earthquake,5.73,6.862,0.089,12,reviewed,us,us
 2023-04-25T05:15:59.940Z,19.1821670532227,-155.488494873047,33.6300010681152,1.85000002,md,33,129,,0.119999997,hv,hv73375512,2023-04-25T05:19:01.240Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.889999986,0.920000017,8,automatic,hv,hv
-2023-04-25T05:14:41.399Z,61.838,-149.9219,40,1.3,ml,,,,0.44,ak,ak0235a9v617,2023-04-25T05:16:42.108Z,"11 km NNE of Willow, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-04-25T05:14:41.399Z,61.838,-149.9219,40,1.3,ml,,,,0.44,ak,ak0235a9v617,2023-04-25T05:16:42.108Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-04-25T05:07:15.952Z,62.2062,-150.0029,27.4,1.1,ml,,,,0.37,ak,ak0235a9tm23,2023-04-25T05:09:05.512Z,"9 km WNW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-25T05:01:55.430Z,19.19700050354,-155.378997802734,32.2700004577637,2.24,ml,42,163,,0.119999997,hv,hv73375487,2023-04-25T05:07:29.370Z,"10 km E of Pāhala, Hawaii",earthquake,0.52,0.660000026,3.01,13,automatic,hv,hv
 2023-04-25T04:55:20.322Z,58.1614,-155.6511,249.8,1.3,ml,,,,0.74,ak,ak0235a9ih5s,2023-04-25T04:57:21.133Z,"83 km SE of King Salmon, Alaska",earthquake,,7,,,automatic,ak,ak
@@ -102,8 +105,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T20:10:04.190Z,19.1728324890137,-155.484832763672,30.2600002288818,2.04,ml,31,93,,0.140000001,hv,hv73375042,2023-04-24T20:15:35.830Z,"3 km S of Pāhala, Hawaii",earthquake,0.77,0.959999979,3.76,8,automatic,hv,hv
 2023-04-24T20:09:26.720Z,19.5238342285156,-155.329833984375,1.71000003814697,1.91,ml,7,280,,0.25,hv,hv73375037,2023-04-24T20:14:57.660Z,"13 km NW of Volcano, Hawaii",earthquake,3.83,19.9300003,3.72,5,automatic,hv,hv
 2023-04-24T20:04:59.810Z,35.0505,-118.3493333,-0.75,0.93,ml,13,62,0.0601,0.14,ci,ci40445048,2023-04-24T21:44:23.416Z,"13km SE of Tehachapi, CA",quarry blast,0.43,31.61,0.14,7,reviewed,ci,ci
-2023-04-24T20:03:14.400Z,19.179666519165,-155.49333190918,30.7299995422363,1.89999998,md,32,159,,0.209999993,hv,hv73375032,2023-04-24T20:06:27.370Z,"Island of Hawaii, Hawaii",earthquake,0.94,1.25999999,1.89999998,4,automatic,hv,hv
-2023-04-24T20:00:55.086Z,-0.781,98.5339,15.462,7.1,mww,70,58,2.282,0.91,us,us7000jvl3,2023-04-25T07:46:47.683Z,"Kepulauan Batu, Indonesia",earthquake,7.35,3.944,0.06,27,reviewed,us,us
+2023-04-24T20:03:14.400Z,19.179666519165,-155.49333190918,30.7299995422363,1.89999998,md,32,159,,0.209999993,hv,hv73375032,2023-04-24T20:06:27.370Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.94,1.25999999,1.89999998,4,automatic,hv,hv
+2023-04-24T20:00:55.086Z,-0.781,98.5339,15.462,7.1,mww,70,58,2.282,0.91,us,us7000jvl3,2023-04-25T07:46:47.683Z,"170 km SSE of Teluk Dalam, Indonesia",earthquake,7.35,3.944,0.06,27,reviewed,us,us
 2023-04-24T19:53:06.080Z,59.7856,-151.1918,56,1.8,ml,,,,0.49,ak,ak02358uw66k,2023-04-24T19:55:52.659Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-24T19:39:54.370Z,17.9785,-66.9833333333333,7.76,1.98,md,3,171,0.05865,0.02,pr,pr71406623,2023-04-24T20:22:03.150Z,"6 km E of La Parguera, Puerto Rico",earthquake,1.6,0.83,0.0880266815120878,3,reviewed,pr,pr
 2023-04-24T19:39:24.280Z,17.5505,-64.8405,27.26,2.82,md,4,312,0.2132,0.51,pr,pr71406618,2023-04-24T20:11:25.780Z,"21 km SSW of Saint Croix, U.S. Virgin Islands",earthquake,4.17,4.73,0.00651866211206831,2,reviewed,pr,pr
@@ -211,10 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T11:20:19.320Z,58.1828333333333,-155.3495,-0.94,-0.19,ml,7,166,,0.14,av,av91098193,2023-04-25T00:02:55.560Z,"86 km NW of Karluk, Alaska",earthquake,0.35,9.33,0.160513095536566,7,reviewed,av,av
 2023-04-24T11:19:55.130Z,58.1895,-155.349166666667,1.77,0.54,ml,8,159,,0.09,av,av91861886,2023-04-25T00:00:44.900Z,"87 km NW of Karluk, Alaska",earthquake,0.25,0.41,0.188686122353731,8,reviewed,av,av
 2023-04-24T11:14:21.730Z,38.8133316,-122.8154984,2.73,0.77,md,11,60,0.01091,0.02,nc,nc73877290,2023-04-24T12:46:11.906Z,"6km NW of The Geysers, CA",earthquake,0.35,1.13,0.06,12,automatic,nc,nc
-2023-04-24T10:58:31.890Z,9.3899,93.8833,7.192,5.1,mb,49,82,5.131,0.89,us,us6000k6r8,2023-04-24T11:19:01.040Z,"280 km SSE of Port Blair, India",earthquake,8.74,4.013,0.086,44,reviewed,us,us
-2023-04-24T10:56:07.230Z,32.7713333,-116.5791667,16.23,0.73,ml,12,148,0.1201,0.07,ci,ci40444800,2023-04-24T13:10:15.166Z,"7km SW of Pine Valley, CA",earthquake,0.3,0.57,0.134,7,reviewed,ci,ci
-2023-04-24T10:54:50.688Z,58.1126,-155.5701,21.8,1.1,ml,,,,0.55,ak,ak02358pjkx8,2023-04-25T01:00:31.860Z,"89 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-04-24T10:52:27.330Z,33.2253333,-116.087,8.34,1.42,ml,42,52,0.09709,0.22,ci,ci40444792,2023-04-24T11:02:56.620Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.26,1.15,0.116,27,automatic,ci,ci
-2023-04-24T10:51:45.270Z,54.1376666666667,-165.924666666667,3.93,-1.07,ml,7,92,,0.25,av,av91098238,2023-04-25T02:23:40.900Z,"9 km W of Akutan, Alaska",earthquake,0.37,0.89,0.190290905105891,7,reviewed,av,av
-2023-04-24T10:47:07.860Z,33.3881667,-116.9,14.44,0.73,ml,22,62,0.04653,0.16,ci,ci40444784,2023-04-24T10:50:39.129Z,"5km NW of Palomar Observatory, CA",earthquake,0.35,0.58,0.155,19,automatic,ci,ci
-2023-04-24T10:40:54.600Z,38.1785,-112.883,5.79,1.43,ml,18,91,0.1161,0.11,uu,uu60538066,2023-04-24T16:17:33.650Z,"5 km SE of Minersville, Utah",earthquake,0.42,1.65,0.068,3,reviewed,uu,uu
