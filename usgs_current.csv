@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T19:19:00.186Z,60.0721,-151.995,78.4,1.6,ml,,,,0.35,ak,ak0235irwyde,2023-04-30T19:20:29.922Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-30T19:09:14.630Z,19.3461666107178,-155.210662841797,5.07000017166138,1.84000003,md,33,115,,0.129999995,hv,hv73384797,2023-04-30T19:12:29.520Z,"10 km SSE of Volcano, Hawaii",earthquake,0.35,0.560000002,1.22000003,15,automatic,hv,hv
 2023-04-30T19:06:42.790Z,59.1906,-153.6685,113.4,1.9,ml,,,,0.38,ak,ak0235iru9cn,2023-04-30T19:08:34.104Z,"62 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-04-30T18:58:07.490Z,36.6489983,-121.3318329,1.38,1.38,md,5,114,0.04048,0.01,nc,nc73882356,2023-04-30T19:18:13.817Z,"16km S of Tres Pinos, CA",earthquake,0.35,1.06,0.16,4,automatic,nc,nc
+2023-04-30T18:58:07.490Z,36.6489983,-121.3318329,1.38,1.38,md,5,114,0.04048,0.01,nc,nc73882356,2023-04-30T21:31:11.606Z,"16km S of Tres Pinos, CA",earthquake,0.35,1.06,0.16,4,automatic,nc,nc
 2023-04-30T18:57:04.840Z,59.914,-152.5352,79.8,1.3,ml,,,,0.47,ak,ak0235irjoc4,2023-04-30T18:59:24.171Z,"42 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-30T18:45:49.960Z,29.0219,139.5328,402.397,4.3,mb,63,132,4.088,0.54,us,us7000jx83,2023-04-30T19:05:21.040Z,"Izu Islands, Japan region",earthquake,11.78,7.966,0.039,191,reviewed,us,us
 2023-04-30T18:40:43.030Z,40.1708336,-121.041832,-0.14,2.45,md,11,94,0.3063,0.23,nc,nc73882351,2023-04-30T21:13:14.493Z,"3km E of Canyondam, CA",earthquake,1.06,14.95,0.07,5,automatic,nc,nc
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T07:19:16.930Z,33.2165,-115.589,1.16,2.86,ml,35,90,0.04359,0.24,ci,ci40215607,2023-04-30T07:30:10.730Z,"7km WSW of Niland, CA",earthquake,0.39,31.61,0.149,28,automatic,ci,ci
 2023-04-30T07:17:18.800Z,34.0373333,-117.246,15.63,1.21,ml,34,48,0.1084,0.18,ci,ci40215599,2023-04-30T07:20:56.896Z,"2km SE of Loma Linda, CA",earthquake,0.25,0.54,0.152,22,automatic,ci,ci
 2023-04-30T07:12:27.860Z,33.2058333,-115.5943333,1.51,2.92,ml,40,89,0.03276,0.22,ci,ci40215591,2023-04-30T18:19:25.720Z,"8km WSW of Niland, CA",earthquake,0.23,0.32,0.151,17,reviewed,ci,ci
-2023-04-30T07:10:10.180Z,33.1893333,-115.5933333,1.88,4.29,mw,55,87,0.02213,0.29,ci,ci40215583,2023-04-30T17:57:02.459Z,"9km SW of Niland, CA",earthquake,0.27,0.41,,6,reviewed,ci,ci
+2023-04-30T07:10:10.180Z,33.1893333,-115.5933333,1.88,4.29,mw,55,87,0.02213,0.29,ci,ci40215583,2023-04-30T21:30:24.018Z,"9km SW of Niland, CA",earthquake,0.27,0.41,,6,reviewed,ci,ci
 2023-04-30T07:09:34.500Z,33.2008333,-115.59,2.04,4.53,mw,65,88,0.0317,0.25,ci,ci40215575,2023-04-30T19:48:29.433Z,"8km WSW of Niland, CA",earthquake,0.24,0.35,,6,reviewed,ci,ci
 2023-04-30T07:04:21.820Z,33.0448333,-115.9735,16.63,0.92,ml,15,64,0.1284,0.25,ci,ci40215567,2023-04-30T07:07:55.528Z,"18km SE of Ocotillo Wells, CA",earthquake,0.85,1.79,0.062,8,automatic,ci,ci
 2023-04-30T07:02:43.310Z,33.0316667,-116.0176667,1.37,1.58,ml,43,41,0.1454,0.23,ci,ci40215559,2023-04-30T07:13:18.630Z,"16km SE of Ocotillo Wells, CA",earthquake,0.25,0.73,0.151,26,automatic,ci,ci
@@ -315,9 +315,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T21:41:16.010Z,33.0323333,-116.0061667,2.51,1.2,ml,25,55,0.1428,0.23,ci,ci40215047,2023-04-29T21:44:55.427Z,"17km SE of Ocotillo Wells, CA",earthquake,0.35,0.71,0.137,24,automatic,ci,ci
 2023-04-29T21:37:47.980Z,33.029,-116.0158333,1.04,1.7,ml,41,40,0.1471,0.26,ci,ci40215039,2023-04-29T21:48:41.420Z,"17km SE of Ocotillo Wells, CA",earthquake,0.28,31.61,0.158,27,automatic,ci,ci
 2023-04-29T21:36:18.870Z,32.7133333,-115.5388333,6.98,2.29,ml,26,56,0.0864,0.27,ci,ci40215031,2023-04-29T21:52:03.036Z,"2km SSW of Heber, CA",earthquake,0.48,1.33,0.235,26,automatic,ci,ci
-2023-04-29T21:32:34.600Z,32.7136667,-115.5373333,4.39,1.68,ml,21,83,0.08722,0.29,ci,ci40215015,2023-04-29T21:36:14.240Z,"2km SSW of Heber, CA",earthquake,0.52,1.56,0.254,23,automatic,ci,ci
-2023-04-29T21:28:04.630Z,38.6995,-122.7421667,6.57,0.93,md,37,155,0.01633,0.07,nc,nc73881996,2023-04-30T01:02:12.069Z,"9km S of The Geysers, CA",earthquake,0.28,0.36,0.188,31,reviewed,nc,nc
-2023-04-29T21:26:22.730Z,34.4555,-117.901,8.31,1.12,ml,14,74,0.04544,0.19,ci,ci40215007,2023-04-29T21:29:54.199Z,"6km S of Pearblossom, CA",earthquake,0.53,0.79,0.279,19,automatic,ci,ci
-2023-04-29T21:23:33.710Z,33.3525,-116.4248333,10.58,2.27,ml,81,24,0.08432,0.22,ci,ci40214999,2023-04-29T21:34:17.890Z,"12km NNW of Borrego Springs, CA",earthquake,0.2,0.44,0.166,25,automatic,ci,ci
-2023-04-29T21:22:19.570Z,33.3606667,-116.4066667,10.87,0.77,ml,28,54,0.08125,0.19,ci,ci40214991,2023-04-30T14:32:11.110Z,"12km NNW of Borrego Springs, CA",earthquake,0.31,0.56,0.145,17,reviewed,ci,ci
-2023-04-29T21:21:28.640Z,46.20016666666667,-122.19833333333334,8.09,0.64,ml,15,112,0.005207,0.13,uw,uw61920531,2023-04-30T01:27:52.030Z,"37 km NNE of Amboy, Washington",earthquake,0.44,0.21,0.22497095985592985,9,reviewed,uw,uw
