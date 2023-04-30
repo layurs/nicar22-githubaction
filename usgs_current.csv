@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-30T15:24:30.480Z,38.7676659,-122.7095032,7.46,0.81,md,8,95,0.008008,0.07,nc,nc73882286,2023-04-30T15:26:07.457Z,"2km WSW of Anderson Springs, CA",earthquake,1.14,0.9,0.08,6,automatic,nc,nc
+2023-04-30T15:21:22.840Z,34.992,-118.5321667,8.8,0.83,ml,12,50,0.1565,0.12,ci,ci40216111,2023-04-30T15:24:58.902Z,"17km SSW of Tehachapi, CA",earthquake,0.27,1.32,0.241,7,automatic,ci,ci
+2023-04-30T15:16:13.060Z,33.2121667,-115.5928333,2.27,1.17,ml,11,104,0.03821,0.19,ci,ci40216095,2023-04-30T15:19:48.728Z,"8km WSW of Niland, CA",earthquake,0.51,0.55,0.198,20,automatic,ci,ci
+2023-04-30T15:09:40.810Z,19.3619995117188,-155.302001953125,0.920000016689301,2.03,ml,20,97,,0.25,hv,hv73384592,2023-04-30T15:15:10.500Z,"11 km SW of Volcano, Hawaii",earthquake,0.32,0.469999999,0.15,3,automatic,hv,hv
+2023-04-30T15:04:52.630Z,34.222,-117.9155,0.44,1.48,ml,8,99,0.3449,0.22,ci,ci40216087,2023-04-30T15:08:36.918Z,"10km NNE of Bradbury, CA",earthquake,0.93,31.61,0.26,23,automatic,ci,ci
 2023-04-30T15:02:15.286Z,62.3518,-148.2885,35,1.3,ml,,,,0.2,ak,ak0235ipfly0,2023-04-30T15:03:34.306Z,"Central Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-04-30T14:59:24.050Z,34.12,-117.4825,2.24,1.07,ml,24,49,0.08865,0.16,ci,ci40216079,2023-04-30T15:02:55.420Z,"3km NW of Fontana, CA",earthquake,0.26,0.42,0.211,30,automatic,ci,ci
 2023-04-30T14:50:30.320Z,57.8557,-155.3892,76.7,1.1,ml,,,,0.63,ak,ak0235ip4hvc,2023-04-30T14:51:45.474Z,"64 km WNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -88,8 +93,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T07:19:16.930Z,33.2165,-115.589,1.16,2.86,ml,35,90,0.04359,0.24,ci,ci40215607,2023-04-30T07:30:10.730Z,"7km WSW of Niland, CA",earthquake,0.39,31.61,0.149,28,automatic,ci,ci
 2023-04-30T07:17:18.800Z,34.0373333,-117.246,15.63,1.21,ml,34,48,0.1084,0.18,ci,ci40215599,2023-04-30T07:20:56.896Z,"2km SE of Loma Linda, CA",earthquake,0.25,0.54,0.152,22,automatic,ci,ci
 2023-04-30T07:12:27.960Z,33.2094994,-115.5958328,0.44,3.26,ml,10,119,0.03456,0.26,ci,ci40215591,2023-04-30T08:01:48.040Z,"8km WSW of Niland, CA",earthquake,0.89,5.27,0.273,3,automatic,ci,ci
-2023-04-30T07:10:10.710Z,33.2014999,-115.5936661,9.57,3.95,mlr,54,49,0.07812,0.29,ci,ci40215583,2023-04-30T14:39:09.506Z,"8km WSW of Niland, CA",earthquake,0.33,0.67,0.356,22,reviewed,ci,ci
-2023-04-30T07:09:34.660Z,33.1988335,-115.5820007,8.24,4.53,mw,104,45,0.07752,0.24,ci,ci40215575,2023-04-30T14:53:26.773Z,"7km SW of Niland, CA",earthquake,0.22,0.69,,6,reviewed,ci,ci
+2023-04-30T07:10:10.710Z,33.2014999,-115.5936661,9.57,3.95,mlr,54,49,0.07812,0.29,ci,ci40215583,2023-04-30T15:24:06.952Z,"8km WSW of Niland, CA",earthquake,0.33,0.67,0.356,22,reviewed,ci,ci
+2023-04-30T07:09:34.660Z,33.1988335,-115.5820007,8.24,4.53,mw,104,45,0.07752,0.24,ci,ci40215575,2023-04-30T15:19:39.647Z,"7km SW of Niland, CA",earthquake,0.22,0.69,,6,reviewed,ci,ci
 2023-04-30T07:04:21.820Z,33.0448333,-115.9735,16.63,0.92,ml,15,64,0.1284,0.25,ci,ci40215567,2023-04-30T07:07:55.528Z,"18km SE of Ocotillo Wells, CA",earthquake,0.85,1.79,0.062,8,automatic,ci,ci
 2023-04-30T07:02:43.310Z,33.0316667,-116.0176667,1.37,1.58,ml,43,41,0.1454,0.23,ci,ci40215559,2023-04-30T07:13:18.630Z,"16km SE of Ocotillo Wells, CA",earthquake,0.25,0.73,0.151,26,automatic,ci,ci
 2023-04-30T06:56:57.489Z,23.0054,94.3717,98.798,4.6,mb,131,34,3.327,0.75,us,us7000jx4v,2023-04-30T07:46:36.040Z,"70 km S of Mawlaik, Myanmar",earthquake,7.67,6.177,0.041,178,reviewed,us,us
@@ -362,20 +367,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T15:36:31.430Z,35.7581667,-120.2911667,3.34,1.01,md,24,108,0.04233,0.07,nc,nc73881851,2023-04-29T22:43:11.334Z,"4km N of Cholame, CA",earthquake,0.44,0.53,0.113,13,reviewed,nc,nc
 2023-04-29T15:34:51.440Z,33.5276667,-116.7451667,2.54,0.69,ml,22,45,0.0382,0.15,ci,ci40214567,2023-04-30T14:35:22.890Z,"7km WSW of Anza, CA",earthquake,0.2,0.23,0.15,19,reviewed,ci,ci
 2023-04-29T15:30:47.500Z,19.3988333333333,-155.283666666667,1.05,0.25,md,13,62,,0.1,hv,hv73382957,2023-04-29T15:39:53.230Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.22,0.0369918840029619,3,reviewed,hv,hv
-2023-04-29T15:29:07.280Z,19.4035,-155.272666666667,1.09,0.29,md,15,72,,0.11,hv,hv73382952,2023-04-29T15:43:05.120Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.25,0.0431486283017795,3,reviewed,hv,hv
-2023-04-29T15:27:41.067Z,61.2218,-147.0809,20,1.1,ml,,,,1.12,ak,ak0235h21moh,2023-04-29T18:47:35.644Z,"40 km WNW of Valdez, Alaska",earthquake,,1.7,,,reviewed,ak,ak
-2023-04-29T15:23:28.320Z,32.7033333,-115.5425,1.08,1.59,ml,12,107,0.1298,0.24,ci,ci40214559,2023-04-29T15:27:08.255Z,"3km SSW of Heber, CA",earthquake,0.73,31.61,0.213,19,automatic,ci,ci
-2023-04-29T15:20:46.030Z,38.8216667,-122.8040009,3.19,0.74,md,11,81,0.005048,0.01,nc,nc73881846,2023-04-29T15:37:13.692Z,"6km NW of The Geysers, CA",earthquake,0.37,1.29,0.17,11,automatic,nc,nc
-2023-04-29T15:20:31.010Z,19.4163333333333,-155.265,1.46,0.48,md,20,104,,0.1,hv,hv73382932,2023-04-29T15:31:50.240Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.31,0.115841211159465,6,reviewed,hv,hv
-2023-04-29T15:20:12.455Z,61.8117,-147.423,36.6,1.6,ml,,,,0.52,ak,ak0235h2044d,2023-04-29T15:21:48.688Z,"12 km E of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-29T15:19:09.760Z,38.8180008,-122.805336,3.33,2.34,md,56,31,0.006535,0.05,nc,nc73881841,2023-04-29T17:53:19.478Z,"6km NW of The Geysers, CA",earthquake,0.14,0.2,0.11,59,automatic,nc,nc
-2023-04-29T15:15:12.820Z,33.034,-115.9993333,2.52,1.18,ml,23,108,0.1403,0.19,ci,ci40214543,2023-04-29T15:18:55.881Z,"17km SE of Ocotillo Wells, CA",earthquake,0.33,0.68,0.162,20,automatic,ci,ci
-2023-04-29T15:14:41.870Z,19.4106666666667,-155.284333333333,1.12,2.25,ml,27,75,,0.09,hv,hv73382927,2023-04-29T15:26:04.980Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.16,0.128060247269827,11,reviewed,hv,hv
-2023-04-29T15:13:00.390Z,19.4098333333333,-155.286166666667,1.31,2.12,md,18,80,,0.1,hv,hv73382922,2023-04-29T15:37:19.350Z,"6 km WSW of Volcano, Hawaii",earthquake,0.19,0.19,0.00834664300684995,3,reviewed,hv,hv
-2023-04-29T15:12:21.150Z,19.403,-155.290666666667,1.66,0.26,md,14,66,,0.1,hv,hv73382917,2023-04-29T16:28:46.960Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.19,0.172275257778414,3,reviewed,hv,hv
-2023-04-29T15:11:01.270Z,19.4083333333333,-155.286,0.93,0.42,md,14,76,,0.06,hv,hv73382912,2023-04-29T16:57:58.890Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.23,0.168744595422276,2,reviewed,hv,hv
-2023-04-29T15:10:03.837Z,65.0326,-147.0419,4.6,1.5,ml,,,,1.04,ak,ak0235h1xy93,2023-04-29T15:12:12.130Z,"17 km N of Two Rivers, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-29T15:09:30.050Z,34.948,-116.7226667,1.13,1.79,ml,20,63,0.2152,0.2,ci,ci40214535,2023-04-29T15:13:09.176Z,"28km ENE of Barstow, CA",earthquake,0.35,1.71,0.22,28,automatic,ci,ci
-2023-04-29T15:09:12.230Z,32.7061667,-115.5295,6.97,1.74,ml,16,116,0.09699,0.24,ci,ci40214527,2023-04-29T15:12:49.233Z,"3km S of Heber, CA",earthquake,0.52,1.4,0.228,27,automatic,ci,ci
-2023-04-29T15:09:01.441Z,65.4393,-148.0537,13.4,0.7,ml,,,,0.26,ak,ak0235h1xqey,2023-04-29T15:11:04.015Z,"24 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-29T15:08:13.450Z,19.4175,-155.324,4.96,0.69,md,16,156,,0.08,hv,hv73382897,2023-04-29T17:03:50.340Z,"9 km WSW of Volcano, Hawaii",earthquake,0.44,0.58,0.194182446052614,4,reviewed,hv,hv
