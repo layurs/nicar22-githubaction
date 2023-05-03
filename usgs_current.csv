@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-03T19:01:46.500Z,38.7963333,-122.8041687,1.8,0.29,md,8,91,0.008042,0.01,nc,nc73883526,2023-05-03T19:03:20.912Z,"5km WNW of The Geysers, CA",earthquake,0.41,0.93,0.06,8,automatic,nc,nc
+2023-05-03T19:09:30.350Z,36.8945007,-121.6169968,-0.18,2.63,md,8,77,0.02243,0.04,nc,nc73883531,2023-05-03T19:11:06.384Z,"2km ENE of Aromas, CA",earthquake,0.24,0.73,0.15,7,automatic,nc,nc
+2023-05-03T19:03:44.160Z,33.2233333,-117.1926667,3.59,1.14,ml,19,114,0.07591,0.25,ci,ci40218335,2023-05-03T19:07:16.970Z,"5km ENE of Vista, CA",earthquake,0.68,2.27,0.114,16,automatic,ci,ci
+2023-05-03T19:01:46.500Z,38.7963333,-122.8041687,1.8,0.29,md,8,91,0.008042,0.01,nc,nc73883526,2023-05-03T19:14:11.270Z,"5km WNW of The Geysers, CA",earthquake,0.41,0.93,0.06,8,automatic,nc,nc
+2023-05-03T18:58:37.160Z,17.9976666666667,-67.3376666666667,4.29,2.92,md,16,187,0.1648,0.15,pr,pr71407778,2023-05-03T19:11:39.200Z,"16 km W of Pole Ojea, Puerto Rico",earthquake,0.42,0.47,0.124558923673516,11,reviewed,pr,pr
 2023-05-03T18:48:46.280Z,34.527,-97.20016667,1.62,2.08,ml,90,66,0.1376729839,0.31,ok,ok2023iqip,2023-05-03T18:59:46.957Z,"7 km WNW of Davis, Oklahoma",earthquake,,1,0.28,35,reviewed,ok,ok
 2023-05-03T18:47:16.180Z,17.9018333333333,-66.848,12.79,2.35,md,10,235,0.07867,0.09,pr,pr71407773,2023-05-03T18:59:06.020Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.94,0.34,0.206110492683416,6,reviewed,pr,pr
 2023-05-03T18:40:03.740Z,17.9148333333333,-66.8466666666667,13.79,2.55,md,15,231,0.06745,0.2,pr,pr71407768,2023-05-03T18:54:33.800Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,0.32,0.157329747124986,5,reviewed,pr,pr
@@ -15,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T17:28:12.740Z,19.1378326416016,-155.397994995117,29.7700004577637,2.14,ml,43,180,,0.170000002,hv,hv73388112,2023-05-03T18:04:13.040Z,"11 km SE of Pāhala, Hawaii",earthquake,0.62,0.839999974,0.15,7,automatic,hv,hv
 2023-05-03T17:27:40.060Z,19.1646671295166,-155.345840454102,29.3799991607666,2.05,ml,17,216,,0.0900000036,hv,hv73388107,2023-05-03T17:33:10.260Z,"14 km ESE of Pāhala, Hawaii",earthquake,2.05,1.13999999,3.67,6,automatic,hv,hv
 2023-05-03T17:17:19.970Z,38.838501,-122.8371658,1.12,0.7,md,15,111,0.001314,0.02,nc,nc73883501,2023-05-03T18:40:14.050Z,"10km NW of The Geysers, CA",earthquake,0.23,0.46,0.29,15,automatic,nc,nc
-2023-05-03T17:16:38.636Z,38.0816,36.5226,10.473,4.9,mb,110,26,0.335,0.94,us,us7000jxsv,2023-05-03T18:18:17.582Z,"7 km NNE of Göksun, Turkey",earthquake,5.3,2.531,0.037,230,reviewed,us,us
+2023-05-03T17:16:38.636Z,38.0816,36.5226,10.473,4.9,mb,110,26,0.335,0.94,us,us7000jxsv,2023-05-03T19:16:30.431Z,"7 km NNE of Göksun, Turkey",earthquake,5.3,2.531,0.037,230,reviewed,us,us
 2023-05-03T17:15:46.970Z,17.9295,-66.8468333333333,13.27,2.44,md,10,219,0.05482,0.2,pr,pr71407703,2023-05-03T17:44:54.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,1.14,0.52,0.151179566061082,8,reviewed,pr,pr
 2023-05-03T17:13:59.762Z,59.941,-152.8966,101.4,1.6,ml,,,,0.13,ak,ak0235npayy0,2023-05-03T17:15:19.382Z,"62 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-03T17:00:57.200Z,33.189,-115.5965,2.4,1.51,ml,21,92,0.01974,0.19,ci,ci40218199,2023-05-03T17:04:43.374Z,"9km SW of Niland, CA",earthquake,0.32,0.28,0.201,27,automatic,ci,ci
@@ -159,11 +162,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T02:56:28.740Z,38.8253326,-122.8513336,2.15,1.32,md,28,59,0.004858,0.02,nc,nc73883231,2023-05-03T06:03:19.410Z,"10km WNW of The Geysers, CA",earthquake,0.19,0.33,0.17,28,automatic,nc,nc
 2023-05-03T02:53:54.725Z,61.2257,-151.6902,83.4,1.4,ml,,,,0.42,ak,ak0235ngm14g,2023-05-03T03:16:56.539Z,"34 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-03T02:51:53.661Z,31.62201139,-104.5146816,7.057055663999999,2.1,ml,20,77,0.0481528806,0.1,tx,tx2023ipdb,2023-05-03T16:48:55.663Z,"62 km SSW of Whites City, New Mexico",earthquake,1.078906302,0.5923339385,0.1,24,reviewed,tx,tx
+2023-05-03T02:51:30.340Z,60.0013333333333,-153.099166666667,1.37,-1.23,ml,4,147,,0.12,av,av91872076,2023-05-03T19:08:25.610Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.45,1.4,0.061776026570699,4,reviewed,av,av
 2023-05-03T02:50:10.130Z,35.868,-117.7235,9.66,1.4,ml,16,113,0.06818,0.19,ci,ci40217759,2023-05-03T02:53:43.772Z,"18km ESE of Little Lake, CA",earthquake,0.38,0.78,0.287,14,automatic,ci,ci
 2023-05-03T02:49:53.620Z,35.838,-117.8858333,4.41,1.14,ml,9,168,0.01704,0.08,ci,ci40217767,2023-05-03T02:53:48.208Z,"11km S of Little Lake, CA",earthquake,0.55,0.28,0.154,10,automatic,ci,ci
 2023-05-03T02:47:27.150Z,35.8623333,-117.7221667,9.82,0.9,ml,10,121,0.139,0.13,ci,ci40217751,2023-05-03T02:51:07.695Z,"19km ESE of Little Lake, CA",earthquake,0.4,0.8,0.161,7,automatic,ci,ci
 2023-05-03T02:36:50.659Z,37.4238,-117.0792,7.1,1,ml,14,140.89,0.19,0.1511,nn,nn00859005,2023-05-03T15:27:10.155Z,"34 km SSE of Goldfield, Nevada",earthquake,,6.9,1.1,7,reviewed,nn,nn
 2023-05-03T02:21:38.888Z,57.038,-154.936,8.5,2.1,ml,,,,0.27,ak,ak0235ngf4zk,2023-05-03T02:23:11.522Z,"47 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-03T02:19:05.100Z,53.922,-166.667,4.54,0.75,ml,8,85,,0.09,av,av91872051,2023-05-03T19:16:59.540Z,"8 km WNW of Dutch Harbor, Alaska",earthquake,0.26,0.53,0.198530923882379,8,reviewed,av,av
 2023-05-03T02:16:01.510Z,35.874,-117.7176667,9.83,1.89,ml,18,114,0.07573,0.15,ci,ci40217743,2023-05-03T13:01:29.944Z,"18km ESE of Little Lake, CA",earthquake,0.25,0.7,0.163,21,reviewed,ci,ci
 2023-05-03T02:15:44.960Z,35.8728333,-117.7173333,8.35,1.56,ml,19,114,0.07487,0.19,ci,ci40217735,2023-05-03T02:19:20.269Z,"18km ESE of Little Lake, CA",earthquake,0.34,1.03,0.124,13,automatic,ci,ci
 2023-05-03T02:13:04.648Z,58.0217,-154.5216,8.5,1.1,ml,,,,0.24,ak,ak0235ngdcm8,2023-05-03T18:59:32.440Z,"50 km N of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -171,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T02:12:29.245Z,9.3615,-78.5655,82.435,5.1,mww,55,84,3.381,0.85,us,us7000jxn2,2023-05-03T12:38:20.351Z,"Panama",earthquake,7.28,6.593,0.078,16,reviewed,us,us
 2023-05-03T02:11:11.900Z,-16.4029,-73.0069,61.584,5,mb,39,57,3.21,0.8,us,us7000jxn0,2023-05-03T02:49:32.040Z,"Near the coast of southern Peru",earthquake,12.28,6.392,0.069,66,reviewed,us,us
 2023-05-03T02:10:44.550Z,35.873,-117.7133333,10.19,0.96,ml,14,118,0.07674,0.1,ci,ci40217727,2023-05-03T02:14:16.029Z,"19km ESE of Little Lake, CA",earthquake,0.27,0.4,0.135,8,automatic,ci,ci
+2023-05-03T02:09:50.280Z,58.2106666666667,-155.108333333333,2.35,-0.12,ml,7,90,,0.19,av,av91872036,2023-05-03T19:05:34.850Z,"Alaska Peninsula",earthquake,0.35,1.89,0.334910556388039,7,reviewed,av,av
 2023-05-03T02:00:07.220Z,35.8743333,-117.7255,9.42,1.27,ml,16,113,0.07302,0.17,ci,ci40217719,2023-05-03T02:03:46.488Z,"18km ESE of Little Lake, CA",earthquake,0.38,0.8,0.262,10,automatic,ci,ci
 2023-05-03T01:58:57.134Z,63.7078,-148.841,68.8,1.3,ml,,,,0.64,ak,ak0235ng1oa9,2023-05-03T02:00:56.890Z,"4 km SE of Denali Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-03T01:52:38.337Z,59.7754,-152.104,88.5,1.5,ml,,,,0.49,ak,ak0235ng0cjd,2023-05-03T01:55:28.343Z,"15 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -200,6 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T00:30:51.540Z,58.243,-155.171333333333,4.34,-0.44,ml,6,131,,0.07,av,av91871966,2023-05-03T18:42:23.140Z,"86 km NNW of Karluk, Alaska",earthquake,0.3,0.49,0.169058329945576,6,reviewed,av,av
 2023-05-03T00:26:32.590Z,35.8733333,-117.7151667,9.16,2.29,ml,24,72,0.07622,0.17,ci,ci40217663,2023-05-03T00:30:13.542Z,"19km ESE of Little Lake, CA",earthquake,0.26,0.76,0.176,25,automatic,ci,ci
 2023-05-03T00:26:21.430Z,58.1841666666667,-155.3055,2.19,0.22,ml,9,196,,0.07,av,av91871956,2023-05-03T18:36:37.520Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.42,0.260943016406738,9,reviewed,av,av
+2023-05-03T00:20:36.110Z,38.772,-122.7353333,1.29,0.44,md,14,66,0.01127,0.04,nc,nc73883146,2023-05-03T19:09:31.959Z,"2km ESE of The Geysers, CA",earthquake,0.36,0.56,0.146,6,reviewed,nc,nc
 2023-05-03T00:15:06.170Z,19.3005,-155.231666666667,0.37,2.12,ml,43,139,,0.13,hv,hv73387272,2023-05-03T03:33:52.380Z,"15 km S of Volcano, Hawaii",earthquake,0.24,0.23,0.146356257275055,15,reviewed,hv,hv
 2023-05-03T00:14:35.670Z,35.872,-117.7268333,9.62,1.08,ml,15,113,0.07045,0.16,ci,ci40217647,2023-05-03T00:18:05.241Z,"18km ESE of Little Lake, CA",earthquake,0.4,0.69,0.155,8,automatic,ci,ci
 2023-05-03T00:05:16.080Z,33.0818333,-115.599,9.16,1.56,ml,23,65,0.04225,0.23,ci,ci40217639,2023-05-03T00:16:05.450Z,"5km NNE of Westmorland, CA",earthquake,0.58,0.82,0.205,28,automatic,ci,ci
@@ -259,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T19:24:13.460Z,38.8148346,-122.8270035,1.65,1.07,md,13,81,0.006195,0.01,nc,nc73883061,2023-05-02T20:16:12.703Z,"7km NW of The Geysers, CA",earthquake,0.25,0.53,0.15,14,automatic,nc,nc
 2023-05-02T19:23:27.020Z,38.8148346,-122.831665,1.11,0.43,md,8,105,0.006267,0.01,nc,nc73883056,2023-05-02T20:06:14.506Z,"8km WNW of The Geysers, CA",earthquake,0.52,0.81,0.27,8,automatic,nc,nc
 2023-05-02T19:23:20.177Z,40.0992,-119.7445,14.5,0.8,ml,4,191.16,0.072,0.1054,nn,nn00858989,2023-05-02T23:43:24.360Z,"20 km NW of Sutcliffe, Nevada",earthquake,,2.9,0.02,2,reviewed,nn,nn
-2023-05-02T19:14:05.220Z,37.6093333,-122.4613333,7.12,0.65,md,8,104,0.0298,0.07,nc,nc73883051,2023-05-02T20:39:13.730Z,"2km ESE of Pacifica, CA",earthquake,0.62,1,0.198,7,reviewed,nc,nc
-2023-05-02T19:12:48.703Z,31.72484073,-104.3448577,7.532653809,2.5,ml,27,72,0.06983934835,0.3,tx,tx2023ionw,2023-05-03T17:45:13.644Z,"50 km S of Whites City, New Mexico",earthquake,0.5081666796,0.824395841,0.2,21,reviewed,tx,tx
-2023-05-02T19:05:32.460Z,46.0105,-112.478666666667,-2,1.69,ml,17,64,0.0527,0.08,mb,mb90012053,2023-05-02T21:02:16.100Z,"4 km E of Butte, Montana",quarry blast,0.34,31.61,0.269065275824552,11,reviewed,mb,mb
