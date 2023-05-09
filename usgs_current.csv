@@ -78,8 +78,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T20:52:02.789Z,62.7025,-150.0453,15.5,1.8,ml,,,,0.52,ak,ak0235w108ra,2023-05-08T20:53:39.937Z,"28 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-08T20:50:21.190Z,19.2173328399658,-155.23567199707,27.1900005340576,1.82000005,md,28,227,,0.109999999,hv,hv73393212,2023-05-08T20:53:29.720Z,"24 km S of Volcano, Hawaii",earthquake,1.45,0.839999974,1.36000001,5,automatic,hv,hv
 2023-05-08T20:20:35.074Z,37.9808,38.3955,13.819,4.5,mb,81,74,0.636,0.85,us,us6000kagp,2023-05-08T22:06:34.939Z,"eastern Turkey",earthquake,6.27,5.381,0.079,47,reviewed,us,us
-2023-05-08T20:20:26.506Z,62.8622,-150.4975,86.5,1.3,ml,,,,0.42,ak,ak0235w0tfoa,2023-05-08T20:22:26.671Z,"43 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-08T20:16:48.819Z,59.599,-152.7212,54.9,1.4,ml,,,,0.25,ak,ak0235w0smj5,2023-05-08T20:18:18.554Z,"52 km WNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-05-08T20:20:26.506Z,62.8622,-150.4975,86.5,1.3,ml,,,,0.42,ak,ak0235w0tfoa,2023-05-08T20:22:26.671Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-08T20:16:48.819Z,59.599,-152.7212,54.9,1.4,ml,,,,0.25,ak,ak0235w0smj5,2023-05-08T20:18:18.554Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-08T20:14:18.123Z,37.4546,137.3632,8.798,4.9,mb,70,88,1.13,0.93,us,us6000kagl,2023-05-09T04:00:14.099Z,"47 km ENE of Anamizu, Japan",earthquake,6.22,4.615,0.033,285,reviewed,us,us
 2023-05-08T20:12:23.643Z,64.0015,-149.28,11.6,1.4,ml,,,,0.51,ak,ak0235w0rpq4,2023-05-08T20:14:10.995Z,"8 km WSW of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-08T20:05:04.850Z,47.24666666666667,-121.75633333333333,-0.86,1.12,ml,14,177,0.05065,0.08,uw,uw61922706,2023-05-08T22:30:00.910Z,"Washington",explosion,0.69,31.61,0.2439500512033308,13,reviewed,uw,uw
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T10:09:59.819Z,55.3195,-158.1746,36.9,3.1,ml,,,,1.06,ak,ak0235vustbh,2023-05-08T10:12:30.808Z,"89 km SE of Perryville, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2023-05-08T10:05:40.530Z,35.5058333,-118.397,6.36,1.58,ml,25,38,0.1687,0.14,ci,ci40220759,2023-05-08T13:13:29.200Z,"12km SE of Bodfish, CA",earthquake,0.22,0.99,0.196,25,reviewed,ci,ci
 2023-05-08T10:03:41.476Z,61.8342,-146.3274,47,1.5,ml,,,,1.67,ak,ak0235vurhlv,2023-05-08T10:06:47.894Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-05-08T09:58:58.600Z,19.2401666666667,-155.374333333333,32,3.84,ml,50,147,,0.12,hv,hv73392507,2023-05-09T05:51:40.881Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.47,0.189534644035054,32,reviewed,hv,hv
+2023-05-08T09:58:58.600Z,19.2401666666667,-155.374333333333,32,3.84,ml,50,147,,0.12,hv,hv73392507,2023-05-09T07:24:50.762Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.47,0.189534644035054,32,reviewed,hv,hv
 2023-05-08T09:58:54.120Z,32.7085,-115.5488333,6.48,2.08,ml,34,48,0.05816,0.22,ci,ci40220751,2023-05-08T21:33:56.907Z,"3km SW of Heber, CA",earthquake,0.24,0.76,0.223,27,reviewed,ci,ci
 2023-05-08T09:48:58.900Z,19.415,-155.343333333333,2.02,2.21,ml,35,62,,0.13,hv,hv73392497,2023-05-08T23:43:07.310Z,"11 km WSW of Volcano, Hawaii",earthquake,0.26,0.39,0.220057476309202,7,reviewed,hv,hv
 2023-05-08T09:37:03.100Z,19.4175,-155.345666666667,2.25,2.3,ml,36,73,,0.12,hv,hv73392482,2023-05-08T23:59:24.454Z,"12 km WSW of Volcano, Hawaii",earthquake,0.25,0.42,0.162175883356829,15,reviewed,hv,hv
@@ -182,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T07:50:30.173Z,40.0919,-119.719,16.4,0.1,ml,3,216.17,0.079,0.0176,nn,nn00859192,2023-05-08T22:27:09.618Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,4.1,0.27,2,reviewed,nn,nn
 2023-05-08T07:38:50.200Z,33.2655,-116.4316667,4.93,1.65,ml,75,37,0.01245,0.17,ci,ci40220735,2023-05-08T21:07:18.240Z,"5km WNW of Borrego Springs, CA",earthquake,0.14,0.36,0.182,42,reviewed,ci,ci
 2023-05-08T07:38:23.585Z,62.3334,-150.1721,61.8,1.3,ml,,,,0.86,ak,ak0235vt6nh2,2023-05-08T07:40:15.699Z,"3 km WNW of Talkeetna, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-05-08T07:26:09.179Z,58.1965,-155.2819,1.8,0.4,ml,,,,2.04,ak,ak0235vt41rt,2023-05-08T07:28:34.872Z,"85 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-08T07:12:41.391Z,61.389,-141.16,11.1,1,ml,,,,0.36,ak,ak0235vt148b,2023-05-08T07:15:08.924Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-08T07:09:55.240Z,19.133,-155.484833333333,31.36,1.74,md,32,176,,0.1,hv,hv73392302,2023-05-09T00:26:21.400Z,"7 km S of Pāhala, Hawaii",earthquake,0.65,0.77,0.252798960361819,15,reviewed,hv,hv
