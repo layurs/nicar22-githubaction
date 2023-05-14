@@ -1,8 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-14T08:58:53.370Z,37.3043327,-121.6756668,6.26,1.29,md,9,134,0.04531,0.05,nc,nc73887926,2023-05-14T09:00:27.187Z,"15km E of Seven Trees, CA",earthquake,0.58,0.76,0.05,7,automatic,nc,nc
-2023-05-14T08:55:41.110Z,37.6178322,-122.4720001,8.46,1.33,md,9,222,0.03945,0.02,nc,nc73887921,2023-05-14T08:57:17.283Z,"1km ENE of Pacifica, CA",earthquake,1.28,0.87,0.11,6,automatic,nc,nc
+2023-05-14T09:26:55.940Z,38.829834,-122.854332,1.67,0.74,md,16,64,0.003027,0.02,nc,nc73887931,2023-05-14T09:28:32.683Z,"10km NW of The Geysers, CA",earthquake,0.22,0.4,0.25,18,automatic,nc,nc
+2023-05-14T09:16:11.350Z,33.3288333,-116.2085,8.41,0.63,ml,24,117,0.141,0.21,ci,ci40224887,2023-05-14T09:19:39.773Z,"18km ENE of Borrego Springs, CA",earthquake,0.42,1.73,0.18,11,automatic,ci,ci
+2023-05-14T09:08:08.232Z,61.509,-149.9047,32.4,1.7,ml,,,,0.38,ak,ak02365rf4zb,2023-05-14T09:10:22.380Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-14T08:59:04.850Z,33.4456667,-116.8455,10.57,-0.02,ml,16,89,0.0653,0.19,ci,ci40224879,2023-05-14T09:02:38.349Z,"2km E of Aguanga, CA",earthquake,0.48,0.97,0.047,2,automatic,ci,ci
+2023-05-14T08:58:53.370Z,37.3043327,-121.6756668,6.26,1.29,md,9,134,0.04531,0.05,nc,nc73887926,2023-05-14T09:25:12.503Z,"15km E of Seven Trees, CA",earthquake,0.58,0.76,0.05,7,automatic,nc,nc
+2023-05-14T08:55:41.110Z,37.6178322,-122.4720001,8.46,1.33,md,9,222,0.03945,0.02,nc,nc73887921,2023-05-14T09:14:12.430Z,"1km ENE of Pacifica, CA",earthquake,1.28,0.87,0.11,6,automatic,nc,nc
 2023-05-14T08:54:47.523Z,59.8183,-152.1398,68.6,1.7,ml,,,,0.35,ak,ak02365r3ncg,2023-05-14T08:56:49.109Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-14T08:51:28.670Z,33.7591667,-116.932,14.95,0.53,ml,13,141,0.07222,0.22,ci,ci40224871,2023-05-14T08:54:55.971Z,"4km SE of San Jacinto, CA",earthquake,0.62,1.01,0.085,11,automatic,ci,ci
+2023-05-14T08:44:09.608Z,33.3234,139.465,12.154,5,mww,78,70,0.359,0.48,us,us6000kbtl,2023-05-14T09:15:55.040Z,"Izu Islands, Japan region",earthquake,5.61,4.11,0.059,28,reviewed,us,us
 2023-05-14T08:36:47.950Z,32.5753333,-115.2951667,17.75,1.49,ml,20,66,0.1381,0.25,ci,ci40224863,2023-05-14T08:40:25.701Z,"6km ENE of Puebla, B.C., MX",earthquake,0.59,1.62,0.263,16,automatic,ci,ci
 2023-05-14T08:21:41.106Z,33.3438,139.3432,5.938,5.8,mww,125,31,0.455,1,us,us6000kbtf,2023-05-14T08:52:54.152Z,"152 km SSE of Shimoda, Japan",earthquake,7.21,3.59,0.044,50,reviewed,us,us
 2023-05-14T08:20:52.480Z,33.2968333,-116.7546667,7.43,1.17,ml,48,42,0.06079,0.18,ci,ci40224855,2023-05-14T08:31:13.140Z,"6km N of Lake Henshaw, CA",earthquake,0.21,0.7,0.146,26,automatic,ci,ci
@@ -181,8 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T09:34:00.270Z,33.9686667,-117.2176667,13.56,0.83,ml,23,67,0.04293,0.19,ci,ci40224231,2023-05-13T09:37:35.549Z,"5km NNE of Moreno Valley, CA",earthquake,0.29,0.71,0.178,19,automatic,ci,ci
 2023-05-13T09:30:54.050Z,43.619,-111.046333333333,1.82,0.82,ml,8,148,0.1448,0.15,mb,mb90013893,2023-05-13T14:42:35.760Z,"5 km ENE of Victor, Idaho",earthquake,0.6,1.77,0.291961975849864,5,reviewed,mb,mb
 2023-05-13T09:29:09.240Z,19.4105,-155.307166666667,2.31,0.63,md,12,93,,0.09,hv,hv73399997,2023-05-13T10:17:13.160Z,"8 km WSW of Volcano, Hawaii",earthquake,0.31,0.26,0.220125486169879,4,reviewed,hv,hv
-2023-05-13T09:20:54.800Z,19.4035,-155.290333333333,0.69,0.43,md,11,98,,0.09,hv,hv73399982,2023-05-13T10:19:48.840Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.22,0.197464398879654,2,reviewed,hv,hv
-2023-05-13T09:18:46.740Z,19.1826667785645,-155.413497924805,32.0699996948242,2.21,ml,20,173,,0.140000001,hv,hv73399972,2023-05-13T09:24:17.270Z,"7 km ESE of Pāhala, Hawaii",earthquake,1.22,1.14999998,0.15,3,automatic,hv,hv
-2023-05-13T09:15:46.590Z,19.409,-155.263833333333,1.18,1.54,ml,20,103,,0.12,hv,hv73399967,2023-05-13T10:36:31.770Z,"4 km SW of Volcano, Hawaii",earthquake,0.17,0.23,0.108127573492228,6,reviewed,hv,hv
-2023-05-13T09:09:55.250Z,19.4106666666667,-155.261333333333,1.27,1.14,md,14,116,,0.12,hv,hv73399957,2023-05-13T11:02:07.440Z,"Island of Hawaii, Hawaii",earthquake,0.23,0.47,0.0494668744132877,2,reviewed,hv,hv
-2023-05-13T09:02:39.680Z,35.8885,-117.687,5.18,0.7,ml,9,121,0.1018,0.17,ci,ci40224223,2023-05-13T09:06:21.209Z,"20km ESE of Little Lake, CA",earthquake,0.72,3.35,0.115,6,automatic,ci,ci
