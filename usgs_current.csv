@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-14T10:25:15.350Z,38.8366661,-122.8366699,1.45,1.51,md,20,105,0.002131,0.02,nc,nc73887946,2023-05-14T10:26:48.323Z,"10km NW of The Geysers, CA",earthquake,0.23,0.36,0.12,22,automatic,nc,nc
-2023-05-14T10:22:13.960Z,38.8168335,-122.8219986,2.08,1.21,md,18,50,0.009733,0.02,nc,nc73887941,2023-05-14T10:23:48.282Z,"7km NW of The Geysers, CA",earthquake,0.23,0.49,0.31,19,automatic,nc,nc
-2023-05-14T10:21:47.604Z,57.7198,-154.8932,40.7,2.5,ml,,,,0.83,ak,ak02365s3fxk,2023-05-14T10:24:07.102Z,"31 km WNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-05-14T10:25:15.350Z,38.8366661,-122.8366699,1.45,1.51,md,20,105,0.002131,0.02,nc,nc73887946,2023-05-14T10:47:11.059Z,"10km NW of The Geysers, CA",earthquake,0.23,0.36,0.12,22,automatic,nc,nc
+2023-05-14T10:22:13.960Z,38.8168335,-122.8219986,2.08,1.21,md,18,50,0.009733,0.02,nc,nc73887941,2023-05-14T10:46:12.025Z,"7km NW of The Geysers, CA",earthquake,0.23,0.49,0.31,19,automatic,nc,nc
+2023-05-14T10:21:47.604Z,57.7198,-154.8932,40.7,2.5,ml,,,,0.83,ak,ak02365s3fxk,2023-05-14T10:52:51.917Z,"31 km WNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-14T10:19:37.846Z,62.0765,-149.2672,30.8,1.4,ml,,,,0.42,ak,ak02365s2zqw,2023-05-14T10:21:25.759Z,"31 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-14T10:11:35.410Z,33.4067,139.3165,14.045,5.6,mww,116,38,0.508,0.69,us,us6000kbtz,2023-05-14T10:29:42.040Z,"144 km SSE of Shimoda, Japan",earthquake,4.13,3.254,0.047,44,reviewed,us,us
+2023-05-14T10:11:35.380Z,33.4097,139.3129,13.71,5.6,mww,124,33,0.512,0.7,us,us6000kbtz,2023-05-14T10:51:03.771Z,"144 km SSE of Shimoda, Japan",earthquake,2.82,3.362,0.044,50,reviewed,us,us
 2023-05-14T09:53:41.150Z,19.2493324279785,-155.411331176758,28.4400005340576,1.83000004,md,19,144,,0.119999997,hv,hv73401667,2023-05-14T09:56:37.400Z,"8 km NE of Pāhala, Hawaii",earthquake,0.81,1.94000006,0.779999971,3,automatic,hv,hv
-2023-05-14T09:49:42.069Z,11.4555,141.6158,10,5.1,mww,59,48,3.819,0.56,us,us6000kbtw,2023-05-14T10:29:56.377Z,"222 km NNE of Fais, Micronesia",earthquake,9.8,1.863,0.083,14,reviewed,us,us
+2023-05-14T09:49:42.069Z,11.4555,141.6158,10,5.1,mww,59,48,3.819,0.56,us,us6000kbtw,2023-05-14T10:49:57.233Z,"222 km NNE of Fais, Micronesia",earthquake,9.8,1.863,0.083,14,reviewed,us,us
 2023-05-14T09:48:51.410Z,19.3964996337891,-155.237670898438,1.78999996185303,2.26,ml,30,62,,0.239999995,hv,hv73401662,2023-05-14T09:54:22.530Z,"Island of Hawaii, Hawaii",earthquake,0.43,0.460000008,2.11,13,automatic,hv,hv
-2023-05-14T09:26:55.940Z,38.829834,-122.854332,1.67,0.74,md,16,64,0.003027,0.02,nc,nc73887931,2023-05-14T09:43:12.657Z,"10km NW of The Geysers, CA",earthquake,0.22,0.4,0.25,18,automatic,nc,nc
+2023-05-14T09:26:55.940Z,38.829834,-122.854332,1.67,0.74,md,16,64,0.003027,0.02,nc,nc73887931,2023-05-14T10:42:12.002Z,"10km NW of The Geysers, CA",earthquake,0.22,0.4,0.25,18,automatic,nc,nc
 2023-05-14T09:16:11.350Z,33.3288333,-116.2085,8.41,0.63,ml,24,117,0.141,0.21,ci,ci40224887,2023-05-14T09:19:39.773Z,"18km ENE of Borrego Springs, CA",earthquake,0.42,1.73,0.18,11,automatic,ci,ci
 2023-05-14T09:08:08.232Z,61.509,-149.9047,32.4,1.7,ml,,,,0.38,ak,ak02365rf4zb,2023-05-14T09:10:22.380Z,"2 km ESE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-14T08:59:04.850Z,33.4456667,-116.8455,10.57,-0.02,ml,16,89,0.0653,0.19,ci,ci40224879,2023-05-14T09:02:38.349Z,"2km E of Aguanga, CA",earthquake,0.48,0.97,0.047,2,automatic,ci,ci
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T06:13:16.180Z,18.405,-67.822,97,3.63,md,14,324,0.3435,0.36,pr,pr2023134005,2023-05-14T07:28:21.756Z,"60 km W of Rincón, Puerto Rico",earthquake,2.44,1.72,0.1,4,reviewed,pr,pr
 2023-05-14T06:10:08.330Z,38.8040009,-122.8079987,0.97,0.79,md,11,79,0.01068,0.02,nc,nc73887891,2023-05-14T07:52:13.913Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.7,0.2,12,automatic,nc,nc
 2023-05-14T06:07:39.690Z,38.7996674,-122.8001633,1.45,0.87,md,14,56,0.009117,0.02,nc,nc73887886,2023-05-14T07:24:14.740Z,"4km WNW of The Geysers, CA",earthquake,0.25,0.53,0.15,16,automatic,nc,nc
-2023-05-14T06:04:17.942Z,3.9752,-73.7986,10,4.8,mb,66,87,1.009,0.87,us,us6000kbsg,2023-05-14T10:26:48.036Z,"4 km WSW of Acacías, Colombia",earthquake,2.99,1.881,0.03,339,reviewed,us,us
+2023-05-14T06:04:17.942Z,3.9752,-73.7986,10,4.8,mb,66,87,1.009,0.87,us,us6000kbsg,2023-05-14T10:43:50.397Z,"4 km WSW of Acacías, Colombia",earthquake,2.99,1.881,0.03,339,reviewed,us,us
 2023-05-14T06:03:40.120Z,61.0094,-151.1718,3,2.7,ml,,,,0.18,ak,ak02365plywp,2023-05-14T07:36:12.040Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-14T06:02:12.152Z,60.6,-152.854,250,1.4,ml,,,,0.81,ak,ak02365plk67,2023-05-14T07:17:50.709Z,"84 km W of Salamatof, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-05-14T05:59:56.790Z,19.1515007019043,-155.459167480469,31.7800006866455,2.26999998,md,19,216,,0.119999997,hv,hv73401457,2023-05-14T06:03:16.260Z,"6 km SSE of Pāhala, Hawaii",earthquake,1.58,1.12,1.50999999,3,automatic,hv,hv
