@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-16T08:31:33.123Z,59.3521,-152.5653,60.2,2.3,ml,,,,0.51,ak,ak0236921dpw,2023-05-16T08:33:24.195Z,"36 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-16T08:31:33.123Z,59.3521,-152.5653,60.2,2.3,ml,,,,0.51,ak,ak0236921dpw,2023-05-16T08:40:16.040Z,"36 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-16T08:26:41.609Z,61.0185,-151.6677,69.7,0.9,ml,,,,0.32,ak,ak0236920bts,2023-05-16T08:27:52.147Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-16T08:14:13.555Z,59.9194,-151.4524,45.9,1.9,ml,,,,0.65,ak,ak023691xp2j,2023-05-16T08:15:54.023Z,"14 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-16T08:07:32.340Z,35.8728333,-117.6956667,5.16,0.87,ml,12,119,0.0853,0.18,ci,ci40225927,2023-05-16T08:11:12.443Z,"20km ESE of Little Lake, CA",earthquake,0.4,1.81,0.115,8,automatic,ci,ci
@@ -173,6 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T11:26:32.520Z,19.3858337402344,-155.281005859375,0.920000016689301,2.67,ml,7,159,,0.0799999982,hv,hv73403097,2023-05-15T17:57:55.004Z,"Island of Hawaii, Hawaii",earthquake,0.75,0.330000013,0.84,13,automatic,hv,hv
 2023-05-15T11:25:34.380Z,40.6066667,-124.1018333,17.29,1.62,md,13,144,0.09794,0.07,nc,nc73888386,2023-05-16T06:37:15.015Z,"5km ENE of Fortuna, CA",earthquake,0.5,0.7,0.288,8,reviewed,nc,nc
 2023-05-15T11:21:21.350Z,38.847332,-122.8160019,1.34,0.51,md,6,92,0.009298,0.03,nc,nc73888381,2023-05-15T11:45:16.215Z,"8km WNW of Cobb, CA",earthquake,0.39,1,0.3,8,automatic,nc,nc
+2023-05-15T11:16:44.410Z,38.8205,-122.8228333,2.51,0.39,md,15,49,0.009879,0.01,nc,nc73888376,2023-05-16T08:51:59.100Z,"8km NW of The Geysers, CA",earthquake,0.29,0.67,0.461,15,reviewed,nc,nc
 2023-05-15T11:13:40.251Z,64.7076,-147.63,13.7,1.1,ml,,,,0.31,ak,ak02367g6hqh,2023-05-15T11:15:39.671Z,"11 km SSW of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-15T11:11:08.461Z,36.8791,-116.2187,3.1,-0.3,ml,17,79.42,0.036,0.1478,nn,nn00859559,2023-05-15T20:33:25.857Z,"48 km E of Beatty, Nevada",earthquake,,1.8,1.08,6,reviewed,nn,nn
 2023-05-15T11:00:24.070Z,38.8201675,-122.8061676,2.41,0.85,md,16,52,0.004438,0.01,nc,nc73888371,2023-05-15T11:24:14.085Z,"6km NW of The Geysers, CA",earthquake,0.28,0.78,0.3,17,automatic,nc,nc
@@ -194,9 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T09:11:05.650Z,19.2566661834717,-155.363006591797,28.4799995422363,1.70000005,md,37,161,,0.100000001,hv,hv73402917,2023-05-15T09:14:23.190Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.54,0.75,1.02999997,11,automatic,hv,hv
 2023-05-15T09:10:25.425Z,61.7826,-148.2845,30,1.6,ml,,,,0.58,ak,ak02367eyy8e,2023-05-15T09:11:55.825Z,"9 km E of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-15T09:01:09.840Z,35.6806667,-117.5495,1.96,0.9,ml,11,127,0.1036,0.16,ci,ci40225391,2023-05-15T09:04:41.879Z,"13km ENE of Ridgecrest, CA",earthquake,0.43,0.55,0.122,8,automatic,ci,ci
-2023-05-15T08:53:13.237Z,39.352,-119.9122,0,-0.4,ml,3,246.1,0.105,0.2567,nn,nn00859554,2023-05-15T18:05:20.370Z,"10 km ESE of Floriston, California",earthquake,,0,0,1,reviewed,nn,nn
-2023-05-15T08:52:47.010Z,33.586,-116.7551667,9.88,0.38,ml,19,51,0.0107,0.33,ci,ci40225383,2023-05-15T08:56:15.779Z,"8km WNW of Anza, CA",earthquake,0.7,1.6,0.224,9,automatic,ci,ci
-2023-05-15T08:52:44.810Z,33.7155,-116.8328333,15.38,-0.07,ml,24,71,0.08098,0.12,ci,ci40225375,2023-05-15T08:56:12.456Z,"7km ESE of Valle Vista, CA",earthquake,0.25,0.4,0.04,3,automatic,ci,ci
-2023-05-15T08:52:21.180Z,38.8351669,-122.7901688,1.51,0.88,md,10,69,0.01307,0.02,nc,nc73888346,2023-05-15T09:19:13.312Z,"6km WNW of Cobb, CA",earthquake,0.43,1.54,0.23,10,automatic,nc,nc
-2023-05-15T08:49:10.033Z,37.5508,72.2305,188.669,4.1,mb,20,113,1.953,0.48,us,us6000kbzx,2023-05-15T16:49:39.040Z,"60 km E of Khorugh, Tajikistan",earthquake,6.14,9.03,0.262,4,reviewed,us,us
-2023-05-15T08:38:30.280Z,33.4691667,-116.5685,4.88,1.51,ml,55,66,0.03797,0.28,ci,ci40225367,2023-05-15T08:48:57.400Z,"14km SE of Anza, CA",earthquake,0.26,0.94,0.201,26,automatic,ci,ci
