@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-20T12:25:19.820Z,33.1708333,-116.5283333,15.25,0.87,ml,20,69,0.1037,0.23,ci,ci40229303,2023-05-20T12:28:54.955Z,"12km NE of Julian, CA",earthquake,0.54,0.9,0.268,8,automatic,ci,ci
 2023-05-20T12:22:23.130Z,33.1626667,-116.543,12.66,1.68,ml,56,27,0.09471,0.21,ci,ci40229295,2023-05-20T12:33:10.030Z,"11km NNE of Julian, CA",earthquake,0.23,0.72,0.178,25,automatic,ci,ci
-2023-05-20T12:15:15.680Z,38.8230019,-122.8521652,1.95,0.87,md,12,135,0.00584,0.02,nc,nc73890316,2023-05-20T12:32:14.432Z,"10km WNW of The Geysers, CA",earthquake,0.43,0.59,0.2,13,automatic,nc,nc
+2023-05-20T12:15:15.680Z,38.8230019,-122.8521652,1.95,0.87,md,12,135,0.00584,0.02,nc,nc73890316,2023-05-20T13:15:10.706Z,"10km WNW of The Geysers, CA",earthquake,0.43,0.59,0.2,13,automatic,nc,nc
 2023-05-20T12:03:46.700Z,19.4060001373291,-155.281661987305,0.990000009536743,1.78,ml,26,66,,0.180000007,hv,hv73411462,2023-05-20T12:09:19.050Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.189999998,0.27,8,automatic,hv,hv
 2023-05-20T12:03:08.010Z,19.392333984375,-155.249328613281,1.87000000476837,1.98,ml,13,69,,0.25,hv,hv73411457,2023-05-20T12:08:39.160Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.409999996,0.52,7,automatic,hv,hv
 2023-05-20T11:37:14.470Z,19.1936664581299,-155.38166809082,30.25,1.92,ml,44,164,,0.119999997,hv,hv73411412,2023-05-20T11:42:45.890Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.860000014,4.46,4,automatic,hv,hv
@@ -41,8 +41,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T08:35:56.540Z,19.5678329467773,-155.032836914062,36.9799995422363,2.02,ml,43,103,,0.119999997,hv,hv73411112,2023-05-20T08:41:27.820Z,"1 km WNW of Orchidlands Estates, Hawaii",earthquake,0.5,0.709999979,0.22,8,automatic,hv,hv
 2023-05-20T08:35:01.899Z,35.19229507,-97.81761932,11.78632545,1.8,ml,15,81.53407288,0.007962027565,0.7506851773,ok,ok2023jupx,2023-05-20T08:37:41.530Z,"6 km ENE of Amber, Oklahoma",earthquake,3.709429372,4.403500174,0.44,4,automatic,ok,ok
 2023-05-20T08:21:51.630Z,38.7919998,-122.7600021,2.14,0.64,md,9,72,0.008616,0.03,nc,nc73890271,2023-05-20T08:23:24.227Z,"2km N of The Geysers, CA",earthquake,0.38,1.34,0.23,10,automatic,nc,nc
-2023-05-20T08:20:51.910Z,33.3833333,-116.8998333,11.71,2.74,ml,86,25,0.04298,0.23,ci,ci40229159,2023-05-20T12:44:37.522Z,"4km NW of Palomar Observatory, CA",earthquake,0.19,0.82,0.205,25,automatic,ci,ci
-2023-05-20T08:18:16.220Z,33.3831673,-116.9041672,13.42,3.55,mlr,87,26,0.04556,0.23,ci,ci40229151,2023-05-20T12:54:28.624Z,"5km NW of Palomar Observatory, CA",earthquake,0.27,0.63,0.263,15,reviewed,ci,ci
+2023-05-20T08:20:51.910Z,33.3833333,-116.8998333,11.71,2.74,ml,86,25,0.04298,0.23,ci,ci40229159,2023-05-20T13:19:55.499Z,"4km NW of Palomar Observatory, CA",earthquake,0.19,0.82,0.205,25,automatic,ci,ci
+2023-05-20T08:18:16.220Z,33.3831673,-116.9041672,13.42,3.55,mlr,87,26,0.04556,0.23,ci,ci40229151,2023-05-20T13:17:04.584Z,"5km NW of Palomar Observatory, CA",earthquake,0.27,0.63,0.263,15,reviewed,ci,ci
 2023-05-20T08:17:38.460Z,33.388,-116.8966667,14.1,1.38,ml,54,32,0.1131,0.23,ci,ci40229143,2023-05-20T08:45:09.569Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,0.72,0.174,26,automatic,ci,ci
 2023-05-20T08:17:33.510Z,33.7368333,-117.321,21.2,1.47,ml,24,162,0.26,0.38,ci,ci40229135,2023-05-20T08:21:32.017Z,"6km WSW of Good Hope, CA",earthquake,1.33,2.88,0.263,29,automatic,ci,ci
 2023-05-20T08:14:26.560Z,34.0851667,-117.3181667,10.61,1.07,ml,26,62,0.1031,0.24,ci,ci40229127,2023-05-20T09:05:04.786Z,"1km NNW of Colton, CA",earthquake,0.33,0.8,0.202,28,automatic,ci,ci
@@ -128,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T00:35:38.650Z,37.8271675,-121.9526672,7.19,1.96,md,17,156,0.04473,0.05,nc,nc73890116,2023-05-20T02:33:15.663Z,"1km SSE of Diablo, CA",earthquake,0.31,0.55,0.2,13,automatic,nc,nc
 2023-05-20T00:35:08.560Z,38.8373337,-122.807663,2.43,0.52,md,8,137,0.01405,0.01,nc,nc73890111,2023-05-20T01:09:15.889Z,"8km WNW of Cobb, CA",earthquake,0.51,1.86,0.33,8,automatic,nc,nc
 2023-05-20T00:26:20.850Z,38.840168,-122.8248367,1.55,0.77,md,18,69,0.008466,0.06,nc,nc73890106,2023-05-20T02:08:14.525Z,"9km WNW of Cobb, CA",earthquake,0.32,0.47,0.17,21,automatic,nc,nc
-2023-05-20T00:17:36.580Z,41.5542,-83.4859,6.484,2.6,mb_lg,23,62,0.236,0.34,us,us6000kdbu,2023-05-20T13:00:05.310Z,"3 km S of Walbridge, Ohio",earthquake,0.98,4.252,0.089,33,reviewed,us,us
+2023-05-20T00:17:36.580Z,41.5542,-83.4859,6.484,2.6,mb_lg,23,62,0.236,0.34,us,us6000kdbu,2023-05-20T13:16:01.513Z,"3 km S of Walbridge, Ohio",earthquake,0.98,4.252,0.089,33,reviewed,us,us
 2023-05-20T00:13:17.990Z,38.8380013,-122.8363342,1.24,0.67,md,14,116,0.0008844,0.01,nc,nc73890101,2023-05-20T00:46:14.752Z,"10km NW of The Geysers, CA",earthquake,0.24,0.52,0.15,14,automatic,nc,nc
 2023-05-20T00:10:21.460Z,35.487,-118.2716667,7.77,1.87,ml,32,33,0.118,0.21,ci,ci40228943,2023-05-20T00:20:40.720Z,"23km ESE of Bodfish, CA",earthquake,0.26,1.3,0.162,26,automatic,ci,ci
 2023-05-20T00:09:00.210Z,35.482,-118.2641667,0.26,1.14,ml,14,73,0.2243,0.18,ci,ci40228935,2023-05-20T00:12:31.201Z,"24km ESE of Bodfish, CA",earthquake,0.28,31.61,0.061,11,automatic,ci,ci
@@ -258,6 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T13:51:51.498Z,58.0279,-139.7028,10,2.7,ml,31,191,1.849,0.51,us,us6000kd5j,2023-05-20T07:09:08.040Z,"169 km S of Yakutat, Alaska",earthquake,3.62,2.01,0.055,44,reviewed,us,us
 2023-05-19T13:43:05.265Z,63.2383,-144.6716,0.1,1.9,ml,,,,0.87,ak,ak0236e3p3pa,2023-05-19T13:45:08.729Z,"46 km S of Dry Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-19T13:34:34.880Z,19.1998329162598,-155.504333496094,34.1500015258789,1.92,ml,45,79,,0.129999995,hv,hv73409512,2023-05-19T13:40:05.330Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.689999998,4.41,4,automatic,hv,hv
-2023-05-19T13:20:21.110Z,19.1986675262451,-155.503997802734,33.560001373291,2.76,ml,49,79,,0.109999999,hv,hv73409502,2023-05-19T13:55:48.700Z,"2 km W of Pāhala, Hawaii",earthquake,0.49,0.660000026,1.72,27,automatic,hv,hv
-2023-05-19T13:20:05.527Z,63.1925,-143.3527,0,1.1,ml,,,,1.16,ak,ak0236e3k694,2023-05-19T13:22:21.483Z,"21 km S of Tanacross, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-19T13:04:12.317Z,40.0667,-119.6078,0,-0.3,ml,2,276.31,0.141,0.0199,nn,nn00859760,2023-05-20T00:09:02.167Z,"12 km N of Sutcliffe, Nevada",earthquake,,0,0.03,2,reviewed,nn,nn
