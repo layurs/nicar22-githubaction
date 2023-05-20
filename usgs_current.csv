@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-20T22:08:47.835Z,-23.4523,171.5186,25.476,5.1,mb,28,118,3.843,0.77,us,us6000kdi1,2023-05-20T22:26:29.040Z,"southeast of the Loyalty Islands",earthquake,7.91,5.098,0.067,72,reviewed,us,us
 2023-05-20T22:01:00.240Z,33.3971667,-116.8925,14.26,0.65,ml,21,96,0.05011,0.19,ci,ci40229871,2023-05-20T22:04:35.039Z,"5km NNW of Palomar Observatory, CA",earthquake,0.37,0.81,0.169,15,automatic,ci,ci
-2023-05-20T21:55:32.230Z,36.3826666666667,-83.7465,17.34,2.83,md,30,48,0.2253,0.21,se,se60526396,2023-05-20T22:19:58.230Z,"14 km WSW of New Tazewell, Tennessee",earthquake,0.34,0.69,0.148486775577378,22,reviewed,se,se
+2023-05-20T21:55:32.230Z,36.3826666666667,-83.7465,17.34,2.83,md,30,48,0.2253,0.21,se,se60526396,2023-05-20T22:35:23.254Z,"14 km WSW of New Tazewell, Tennessee",earthquake,0.34,0.69,0.148486775577378,22,reviewed,se,se
 2023-05-20T21:44:08.130Z,38.7993317,-122.7791672,2.68,0.66,md,9,146,0.009193,0.01,nc,nc73890516,2023-05-20T22:00:16.117Z,"3km NW of The Geysers, CA",earthquake,0.63,1.04,0.15,8,automatic,nc,nc
 2023-05-20T21:24:58.360Z,33.3626667,-116.918,24.75,0.75,ml,9,221,0.0472,0.28,ci,ci40229847,2023-05-20T21:28:34.097Z,"5km W of Palomar Observatory, CA",earthquake,1.9,2.16,0.167,10,automatic,ci,ci
 2023-05-20T21:14:13.890Z,19.4448337554932,-155.309661865234,1.79999995231628,1.74,ml,9,120,,0.150000006,hv,hv73412202,2023-05-20T21:19:44.200Z,"7 km W of Volcano, Hawaii",earthquake,0.34,0.529999971,0.18,3,automatic,hv,hv
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T15:16:53.720Z,38.8030014,-122.8108368,1.17,0.77,md,14,63,0.01311,0.02,nc,nc73890371,2023-05-20T17:00:14.135Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.58,0.12,16,automatic,nc,nc
 2023-05-20T14:30:45.550Z,38.8223343,-122.7994995,2.89,0.83,md,8,99,0.008328,0.02,nc,nc73890361,2023-05-20T16:06:10.795Z,"6km NW of The Geysers, CA",earthquake,0.53,1.05,0.28,9,automatic,nc,nc
 2023-05-20T14:27:36.730Z,38.8030014,-122.8116684,0.96,0.74,md,11,69,0.01371,0.02,nc,nc73890351,2023-05-20T15:39:10.632Z,"6km WNW of The Geysers, CA",earthquake,0.3,0.63,0.24,12,automatic,nc,nc
-2023-05-20T14:11:22.652Z,34.9139,140.1024,83.664,4.6,mb,32,136,1.597,0.63,us,us6000kdgi,2023-05-20T17:14:03.040Z,"15 km SSE of Wada, Japan",earthquake,7.98,8.824,0.109,25,reviewed,us,us
+2023-05-20T14:11:22.652Z,34.9139,140.1024,83.664,4.6,mb,32,136,1.597,0.63,us,us6000kdgi,2023-05-20T22:43:01.084Z,"15 km SSE of Wada, Japan",earthquake,7.98,8.824,0.109,25,reviewed,us,us
 2023-05-20T13:50:20.878Z,-23.1579,170.6373,10,4.7,mb,15,225,2.992,0.48,us,us6000kdgf,2023-05-20T18:16:57.040Z,"southeast of the Loyalty Islands",earthquake,7.78,1.976,0.174,10,reviewed,us,us
 2023-05-20T13:30:05.400Z,38.5584,-118.4523,0,1,ml,8,158.59,0.31,0.1845,nn,nn00859794,2023-05-20T15:37:22.230Z,"15 km ENE of Hawthorne, Nevada",earthquake,,0,0.28,3,reviewed,nn,nn
 2023-05-20T13:29:27.068Z,-23.0514,170.7303,38.459,5.2,mb,40,128,3.061,0.6,us,us6000kdgb,2023-05-20T13:54:00.040Z,"southeast of the Loyalty Islands",earthquake,7.79,6.178,0.076,57,reviewed,us,us
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T08:35:01.899Z,35.19229507,-97.81761932,11.78632545,1.8,ml,15,81.53407288,0.007962027565,0.7506851773,ok,ok2023jupx,2023-05-20T08:37:41.530Z,"6 km ENE of Amber, Oklahoma",earthquake,3.709429372,4.403500174,0.44,4,automatic,ok,ok
 2023-05-20T08:21:51.630Z,38.7919998,-122.7600021,2.14,0.64,md,9,72,0.008616,0.03,nc,nc73890271,2023-05-20T08:23:24.227Z,"2km N of The Geysers, CA",earthquake,0.38,1.34,0.23,10,automatic,nc,nc
 2023-05-20T08:20:51.910Z,33.3833333,-116.8998333,11.71,2.74,ml,86,25,0.04298,0.23,ci,ci40229159,2023-05-20T21:28:56.292Z,"4km NW of Palomar Observatory, CA",earthquake,0.19,0.82,0.205,25,automatic,ci,ci
-2023-05-20T08:18:16.220Z,33.3831673,-116.9041672,13.42,3.55,mlr,87,26,0.04556,0.23,ci,ci40229151,2023-05-20T22:24:58.167Z,"5km NW of Palomar Observatory, CA",earthquake,0.27,0.63,0.263,15,reviewed,ci,ci
+2023-05-20T08:18:16.220Z,33.3831673,-116.9041672,13.42,3.55,mlr,87,26,0.04556,0.23,ci,ci40229151,2023-05-20T22:48:58.638Z,"5km NW of Palomar Observatory, CA",earthquake,0.27,0.63,0.263,15,reviewed,ci,ci
 2023-05-20T08:17:38.460Z,33.388,-116.8966667,14.1,1.38,ml,54,32,0.1131,0.23,ci,ci40229143,2023-05-20T08:45:09.569Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,0.72,0.174,26,automatic,ci,ci
 2023-05-20T08:14:26.560Z,34.0851667,-117.3181667,10.61,1.07,ml,26,62,0.1031,0.24,ci,ci40229127,2023-05-20T09:05:04.786Z,"1km NNW of Colton, CA",earthquake,0.33,0.8,0.202,28,automatic,ci,ci
 2023-05-20T08:12:18.640Z,38.8303337,-122.8560028,2.03,0.48,md,9,106,0.0179,0,nc,nc73890251,2023-05-20T09:53:19.470Z,"10km NW of The Geysers, CA",earthquake,0.38,0.94,0.29,10,automatic,nc,nc
@@ -207,8 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T23:43:05.910Z,35.9508333,-117.6913333,1.33,2.41,ml,23,65,0.154,0.21,ci,ci40228903,2023-05-19T23:46:46.325Z,"20km E of Little Lake, CA",earthquake,0.33,0.88,0.139,26,automatic,ci,ci
 2023-05-19T23:40:24.550Z,33.6521667,-116.746,13.79,1.99,ml,61,37,0.06025,0.19,ci,ci40228895,2023-05-19T23:51:10.740Z,"10km SSW of Idyllwild, CA",earthquake,0.19,0.31,0.19,25,automatic,ci,ci
 2023-05-19T23:28:08.460Z,34.1123333,-117.5005,0.65,1.09,ml,24,93,0.09515,0.21,ci,ci40228879,2023-05-19T23:31:50.607Z,"4km WNW of Fontana, CA",earthquake,0.36,0.6,0.19,29,automatic,ci,ci
-2023-05-19T22:46:39.618Z,63.6279,-149.9465,138.6,2.3,ml,,,,0.36,ak,ak0236e92px2,2023-05-19T23:23:44.040Z,"52 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-19T22:45:31.960Z,33.2721667,-116.2038333,10.54,1.77,ml,60,37,0.08972,0.2,ci,ci40228847,2023-05-20T14:35:39.457Z,"16km NNW of Ocotillo Wells, CA",earthquake,0.19,0.53,0.142,25,reviewed,ci,ci
-2023-05-19T22:44:01.996Z,-22.5786,-66.0944,264.606,4.2,mb,17,163,1.959,0.41,us,us6000kdb9,2023-05-19T23:20:42.040Z,"43 km WNW of Abra Pampa, Argentina",earthquake,6.64,13.486,0.199,7,reviewed,us,us
-2023-05-19T22:41:57.220Z,38.8426666,-122.8393326,2.04,0.73,md,12,105,0.005059,0.01,nc,nc73890071,2023-05-19T23:05:13.137Z,"10km NW of The Geysers, CA",earthquake,0.35,0.79,0.54,13,automatic,nc,nc
-2023-05-19T22:32:55.970Z,17.923,-66.965,13.58,3.09,md,16,229,0.09665,0.2,pr,pr71410023,2023-05-19T22:54:59.630Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.81,0.39,0.103901709203353,9,reviewed,pr,pr
