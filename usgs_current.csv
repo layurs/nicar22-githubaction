@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-28T23:09:08.641Z,37.2938,-117.5945,1.9,1.3,ml,10,245.17,0.073,0.2883,nn,nn00860460,2023-05-28T23:11:35.532Z,"51 km S of Silver Peak, Nevada",earthquake,,46.8,0.76,8,automatic,nn,nn
+2023-05-28T22:53:51.197Z,60.6568,-152.1566,92.6,1.1,ml,,,,0.4,ak,ak0236t4ydan,2023-05-28T22:56:00.196Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-28T22:53:03.695Z,58.188,-155.301,1.1,0.6,ml,,,,0.61,ak,ak0236t4y9np,2023-05-28T22:55:54.605Z,"85 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-05-28T22:31:15.890Z,19.6435,-65.7378333333333,69.44,3.44,md,8,287,1.367,0.43,pr,pr71411578,2023-05-28T23:03:16.850Z,"134 km N of Suárez, Puerto Rico",earthquake,7.22,19.06,0.0124033040180525,3,reviewed,pr,pr
 2023-05-28T22:21:24.960Z,19.4151668548584,-155.257171630859,0.579999983310699,2.2,ml,32,57,,0.180000007,hv,hv73427372,2023-05-28T22:27:03.140Z,"3 km SW of Volcano, Hawaii",earthquake,0.19,0.219999999,1,14,automatic,hv,hv
 2023-05-28T22:16:37.940Z,33.2466667,-116.0418333,9.75,0.86,ml,17,78,0.09062,0.31,ci,ci40236359,2023-05-28T22:20:13.468Z,"10km SW of Salton City, CA",earthquake,0.75,1.65,0.085,12,automatic,ci,ci
 2023-05-28T22:13:19.250Z,33.2406667,-116.0565,8.74,1.65,ml,47,51,0.09406,0.21,ci,ci40236351,2023-05-28T22:23:58.340Z,"11km SW of Salton City, CA",earthquake,0.26,0.97,0.103,27,automatic,ci,ci
@@ -62,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T14:36:14.970Z,38.8356667,-122.81633,1.2,0.75,md,13,68,0.01319,0.03,nc,nc73890940,2023-05-28T15:10:15.157Z,"8km W of Cobb, CA",earthquake,0.26,0.69,0.17,14,automatic,nc,nc
 2023-05-28T14:08:33.540Z,33.448,-116.6223333,5.79,0.44,ml,15,88,0.04952,0.25,ci,ci40236023,2023-05-28T14:12:09.516Z,"13km SSE of Anza, CA",earthquake,0.53,1.29,0.237,9,automatic,ci,ci
 2023-05-28T13:53:39.390Z,35.6495,-117.572,1.22,0.44,ml,9,126,0.1218,0.12,ci,ci40236007,2023-05-28T13:57:21.186Z,"10km ENE of Ridgecrest, CA",earthquake,0.43,0.58,0.106,3,automatic,ci,ci
-2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-28T22:44:47.193Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
+2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-28T23:11:34.308Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
 2023-05-28T13:40:31.060Z,38.8185005,-122.8223343,2.3,0.77,md,17,52,0.01075,0.02,nc,nc73890935,2023-05-28T14:14:13.834Z,"7km NW of The Geysers, CA",earthquake,0.28,0.66,0.17,17,automatic,nc,nc
 2023-05-28T13:33:57.622Z,58.1779,-155.251,0.2,0.8,ml,,,,0.88,ak,ak0236szh6zv,2023-05-28T13:39:32.394Z,"82 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-28T13:30:01.478Z,-5.8395,148.0491,112.278,4.4,mb,18,116,3.65,0.93,us,us7000k4mc,2023-05-28T16:19:59.040Z,"82 km NNE of Finschhafen, Papua New Guinea",earthquake,6.76,11.634,0.144,14,reviewed,us,us
@@ -200,8 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T23:17:13.485Z,37.1797,-116.7376,2.2,1.1,ml,20,124.72,0.038,0.196,nn,nn00860427,2023-05-27T23:19:22.309Z,"30 km N of Beatty, Nevada",earthquake,,1.1,0.64,14,automatic,nn,nn
 2023-05-27T23:16:00.090Z,44.7618333333333,-114.416166666667,2.64,2.68,ml,16,66,0.4598,0.17,mb,mb90015973,2023-05-28T14:21:46.740Z,"32 km NNW of Challis, Idaho",earthquake,0.55,5.38,0.217906531656917,36,reviewed,mb,mb
 2023-05-27T23:14:33.632Z,44.777,-114.3922,10,2.5,ml,11,90,0.461,0.62,us,us7000k4j2,2023-05-28T13:19:51.110Z,"32 km NNW of Challis, Idaho",earthquake,1.94,1.993,0.052,48,reviewed,us,us
-2023-05-27T23:08:25.830Z,35.695,-117.5325,4.8,0.81,ml,9,166,0.09346,0.24,ci,ci40235607,2023-05-27T23:11:56.002Z,"14km SW of Searles Valley, CA",earthquake,0.95,1.11,0.046,5,automatic,ci,ci
-2023-05-27T23:05:30.260Z,64.2718,-149.926,8.5,2.2,ml,,,,0.82,ak,ak0236rhq4f6,2023-05-27T23:07:30.664Z,"35 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-27T23:00:47.096Z,58.264,-155.1521,1.2,0.5,ml,,,,0.35,ak,ak0236rhp351,2023-05-27T23:01:46.431Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
-2023-05-27T22:53:52.640Z,19.2649993896484,-155.369827270508,30.8899993896484,1.95,ml,40,155,,0.150000006,hv,hv73425177,2023-05-27T22:59:24.310Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.709999979,0.55,8,automatic,hv,hv
-2023-05-27T22:53:30.548Z,37.2945,-117.5934,1,1.3,ml,14,109.13,0.074,0.2656,nn,nn00860424,2023-05-27T22:56:01.910Z,"Nevada",earthquake,,13.4,0.86,11,automatic,nn,nn
