@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-04T23:10:25.420Z,34.0333328,-117.0018311,12.12,2.41,ml,114,16,0.08127,0.2,ci,ci40478320,2023-06-04T23:12:31.638Z,"4km E of Yucaipa, CA",earthquake,0.17,0.53,0.262,23,automatic,ci,ci
+2023-06-04T23:30:25.910Z,33.4900017,-116.5400009,8.89,1,ml,40,52,0.05219,0.18,ci,ci40478344,2023-06-04T23:32:31.906Z,"14km ESE of Anza, CA",earthquake,0.27,0.81,0.207,12,automatic,ci,ci
+2023-06-04T23:20:58.670Z,33.4531667,-116.5731667,12.53,0.74,ml,30,54,0.04801,0.17,ci,ci40478336,2023-06-04T23:24:41.387Z,"15km SE of Anza, CA",earthquake,0.24,0.57,0.197,21,automatic,ci,ci
+2023-06-04T23:14:09.260Z,35.0281667,-117.6715,0.32,1.47,ml,14,80,0.09575,0.17,ci,ci40478328,2023-06-04T23:17:52.866Z,"4km NNW of Boron, CA",quarry blast,0.46,31.61,0.186,24,automatic,ci,ci
+2023-06-04T23:12:20.920Z,18.843,-67.3251666666667,9.88,3.35,md,13,278,0.3861,0.21,pr,pr71412353,2023-06-04T23:24:09.490Z,"45 km NNW of San Antonio, Puerto Rico",earthquake,0.8,0.44,0.0740890665816987,7,reviewed,pr,pr
+2023-06-04T23:10:25.410Z,34.034,-116.9995,12.35,2.15,ml,90,34,0.07948,0.19,ci,ci40478320,2023-06-04T23:21:34.250Z,"4km E of Yucaipa, CA",earthquake,0.16,0.44,0.236,25,automatic,ci,ci
 2023-06-04T23:06:01.620Z,64.7713,-150.8911,13.3,1.2,ml,,,,0.97,ak,ak02374q11vm,2023-06-04T23:09:01.773Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-04T22:52:24.127Z,61.2146,-147.0361,0,1.6,ml,,,,0.71,ak,ak02374ppiy4,2023-06-04T22:54:32.153Z,"38 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-04T22:46:48.073Z,61.0414,-149.739,37.3,1.2,ml,,,,0.72,ak,ak02374poahs,2023-06-04T22:49:08.152Z,"14 km NNW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -114,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T10:25:37.400Z,32.9471667,-115.547,5.86,1.39,ml,24,84,0.04701,0.3,ci,ci40477760,2023-06-04T10:29:08.746Z,"4km SSW of Brawley, CA",earthquake,0.51,1,0.259,24,automatic,ci,ci
 2023-06-04T10:21:46.140Z,32.9508333,-115.5513333,6.24,1.34,ml,16,95,0.04985,0.29,ci,ci40477752,2023-06-04T10:25:18.286Z,"4km SSW of Brawley, CA",earthquake,0.67,1.94,0.312,19,automatic,ci,ci
 2023-06-04T10:15:26.085Z,0.4379,120.2208,560.69,4.4,mb,33,96,0.873,0.47,us,us7000k68i,2023-06-04T10:29:11.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,13.12,10.044,0.114,22,reviewed,us,us
-2023-06-04T10:09:35.060Z,35.5723333333333,-82.8641666666667,2.9,3.24,md,16,106,0.1056,0.22,se,se60500788,2023-06-04T23:08:28.418Z,"3 km N of West Canton, North Carolina",earthquake,0.66,2.22,0.0555412525618748,12,reviewed,se,se
+2023-06-04T10:09:35.060Z,35.5723333333333,-82.8641666666667,2.9,3.24,md,16,106,0.1056,0.22,se,se60500788,2023-06-04T23:21:27.321Z,"3 km N of West Canton, North Carolina",earthquake,0.66,2.22,0.0555412525618748,12,reviewed,se,se
 2023-06-04T10:07:39.262Z,39.6164,-119.9738,5.7,1.3,ml,16,121.74,0.013,0.1427,nn,nn00860822,2023-06-04T13:35:31.604Z,"Nevada",earthquake,,1.1,0.43,6,reviewed,nn,nn
 2023-06-04T09:50:40.110Z,34.4088333,-119.0838333,7.87,1.33,ml,6,122,0.05247,0.18,ci,ci40477744,2023-06-04T09:54:16.846Z,"6km NNW of Santa Paula, CA",earthquake,0.67,1.18,0.369,12,automatic,ci,ci
 2023-06-04T09:37:55.632Z,61.3194,-150.4315,41.1,1.9,ml,,,,0.47,ak,ak02374hvqrv,2023-06-04T09:39:56.726Z,"24 km W of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -251,6 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T23:53:59.080Z,-25.446,-179.4489,466.069,4.4,mb,27,104,4.037,0.37,us,us7000k667,2023-06-04T00:13:14.040Z,"south of the Fiji Islands",earthquake,15.94,9.197,0.117,21,reviewed,us,us
 2023-06-03T23:43:33.844Z,39.5954,-119.4004,10.4,1.6,ml,14,74.92,0.116,0.1713,nn,nn00860805,2023-06-04T01:42:57.584Z,"10 km WSW of Wadsworth, Nevada",earthquake,,2.7,0.26,6,reviewed,nn,nn
 2023-06-03T23:34:50.250Z,35.8691667,-117.6821667,11.03,0.96,ml,12,133,0.09041,0.15,ci,ci40477464,2023-06-03T23:39:11.517Z,"22km ESE of Little Lake, CA",earthquake,0.44,0.75,0.243,9,automatic,ci,ci
-2023-06-03T23:28:34.780Z,38.7888336,-122.7901688,1.07,0.79,md,16,111,0.004682,0.03,nc,nc73896621,2023-06-04T00:10:13.022Z,"3km WNW of The Geysers, CA",earthquake,0.25,0.41,0.13,16,automatic,nc,nc
-2023-06-03T23:20:08.960Z,38.7944984,-122.82267,1.98,0.62,md,10,105,0.009728,0.03,nc,nc73896616,2023-06-03T23:58:11.941Z,"6km WNW of The Geysers, CA",earthquake,0.41,0.92,0.28,10,automatic,nc,nc
-2023-06-03T23:18:57.510Z,38.8476677,-122.81633,1.09,0.81,md,10,101,0.008876,0.04,nc,nc73896611,2023-06-03T23:44:13.845Z,"9km WNW of Cobb, CA",earthquake,0.33,0.91,0.37,11,automatic,nc,nc
