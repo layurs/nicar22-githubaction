@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-15T23:26:35.840Z,38.8063316,-122.7826691,2.13,1.96,md,35,41,0.007089,0.06,nc,nc73901576,2023-06-15T23:30:48.255Z,"4km NW of The Geysers, CA",earthquake,0.18,0.33,0.17,30,automatic,nc,nc
+2023-06-15T23:26:35.840Z,38.8063316,-122.7826691,2.13,1.96,md,35,41,0.007089,0.06,nc,nc73901576,2023-06-15T23:38:10.362Z,"4km NW of The Geysers, CA",earthquake,0.18,0.33,0.17,30,automatic,nc,nc
 2023-06-15T23:10:41.900Z,33.63,-116.6885,13.02,0.62,ml,21,76,0.07274,0.16,ci,ci40486904,2023-06-15T23:14:11.282Z,"8km N of Anza, CA",earthquake,0.35,0.56,0.205,15,automatic,ci,ci
 2023-06-15T22:58:16.380Z,38.8334999,-122.8138351,1.18,0.89,md,17,69,0.01051,0.05,nc,nc73901571,2023-06-15T23:00:58.517Z,"8km W of Cobb, CA",earthquake,0.24,0.52,0.24,16,automatic,nc,nc
-2023-06-15T22:55:03.400Z,38.8263321,-122.8553314,1.64,0.77,md,8,210,0.01975,0.02,nc,nc73901561,2023-06-15T22:56:38.621Z,"10km WNW of The Geysers, CA",earthquake,0.47,0.92,0.2,9,automatic,nc,nc
-2023-06-15T22:51:58.330Z,38.8153343,-122.8205032,3.07,0.73,md,14,59,0.009361,0.07,nc,nc73901556,2023-06-15T22:54:38.260Z,"7km NW of The Geysers, CA",earthquake,0.38,1.1,0.38,16,automatic,nc,nc
+2023-06-15T22:55:03.400Z,38.8263321,-122.8553314,1.64,0.77,md,8,210,0.01975,0.02,nc,nc73901561,2023-06-15T23:51:13.428Z,"10km WNW of The Geysers, CA",earthquake,0.47,0.92,0.2,9,automatic,nc,nc
+2023-06-15T22:51:58.330Z,38.8153343,-122.8205032,3.07,0.73,md,14,59,0.009361,0.07,nc,nc73901556,2023-06-15T23:40:12.373Z,"7km NW of The Geysers, CA",earthquake,0.38,1.1,0.38,16,automatic,nc,nc
 2023-06-15T22:45:48.020Z,38.8003349,-122.7723312,3.34,0.77,md,9,118,0.01412,0.01,nc,nc73901546,2023-06-15T23:13:13.227Z,"3km NNW of The Geysers, CA",earthquake,0.78,1.66,0.05,8,automatic,nc,nc
 2023-06-15T22:42:57.260Z,38.8003349,-122.7693329,3.12,0.75,md,15,96,0.01566,0.02,nc,nc73901541,2023-06-15T23:04:13.165Z,"3km NNW of The Geysers, CA",earthquake,0.3,0.7,0.08,14,automatic,nc,nc
 2023-06-15T22:21:44.516Z,62.7698,-150.4792,77,1.5,ml,,,,0.46,ak,ak0237mwfqr7,2023-06-15T22:24:05.197Z,"33 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-06-15T22:18:36.460Z,38.7735,-122.7203333,1.36,1.37,md,38,43,0.01241,0.05,nc,nc73901531,2023-06-15T23:06:10.179Z,"2km W of Anderson Springs, CA",earthquake,0.17,0.24,0.158,31,reviewed,nc,nc
+2023-06-15T22:18:36.460Z,38.7735,-122.7203333,1.36,1.37,md,38,43,0.01241,0.05,nc,nc73901531,2023-06-15T23:47:11.410Z,"2km W of Anderson Springs, CA",earthquake,0.17,0.24,0.158,31,reviewed,nc,nc
 2023-06-15T22:16:36.867Z,62.1132,-147.7322,32,1.7,ml,,,,0.86,ak,ak0237mwenl2,2023-06-15T22:18:22.713Z,"34 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-15T22:02:50.378Z,34.7377,23.2862,10,4.1,mb,43,185,1.426,0.71,us,us7000k8t3,2023-06-15T22:30:29.040Z,"65 km SSW of Palaióchora, Greece",earthquake,7.14,1.934,0.104,25,reviewed,us,us
 2023-06-15T22:02:00.640Z,38.8403333,-122.8246667,1.94,0.47,md,26,68,0.008628,0.02,nc,nc73901526,2023-06-15T23:28:12.306Z,"9km WNW of Cobb, CA",earthquake,0.18,0.39,0.141,25,reviewed,nc,nc
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T20:20:58.120Z,19.354,-63.9545,33,3.69,md,10,301,1.4167,0.27,pr,pr2023166001,2023-06-15T21:03:06.729Z,"Leeward Islands",earthquake,1.87,18.01,0.15,4,reviewed,pr,pr
 2023-06-15T20:17:50.630Z,46.90716666666667,-121.8755,10.98,0.38,ml,20,126,0.04192,0.1,uw,uw61933501,2023-06-15T22:18:38.000Z,"Washington",earthquake,0.29,0.59,0.18017228741839036,7,reviewed,uw,uw
 2023-06-15T20:17:19.112Z,61.9017,-148.4218,15,1.4,ml,,,,0.74,ak,ak0237mv7ypz,2023-06-15T20:19:55.258Z,"11 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-15T20:06:45.413Z,61.1854,-147.171,10.4,1.4,ml,,,,0.38,ak,ak0237mv5nuj,2023-06-15T20:09:02.933Z,"44 km NW of Tatitlek, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-06-15T20:06:45.413Z,61.1854,-147.171,10.4,1.4,ml,,,,0.38,ak,ak0237mv5nuj,2023-06-15T20:09:02.933Z,"Southern Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-06-15T20:00:19.910Z,45.788833333333336,-123.03,-0.45,1.95,ml,6,179,0.1651,0.07,uw,uw61933496,2023-06-15T22:08:25.210Z,"12 km WNW of Scappoose, Oregon",explosion,0.76,31.61,0.1631973929543178,6,reviewed,uw,uw
 2023-06-15T19:58:02.128Z,60.3451,-152.3619,82,1.7,ml,,,,0.38,ak,ak0237muva5w,2023-06-15T19:59:28.714Z,"50 km NW of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-06-15T19:39:55.997Z,62.7632,-148.467,53.6,1.9,ml,,,,1.01,ak,ak0237murbo1,2023-06-15T19:42:42.635Z,"74 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -177,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T02:40:11.850Z,46.22516666666667,-119.60166666666667,7.17,1.02,ml,11,146,0.06046,0.05,uw,uw61933411,2023-06-15T16:55:11.670Z,"9 km WSW of Benton City, Washington",earthquake,0.47,0.22,0.09440681085768043,9,reviewed,uw,uw
 2023-06-15T02:22:21.740Z,33.336,-116.3611667,9.84,0.77,ml,27,162,0.01051,0.2,ci,ci40486232,2023-06-15T16:17:23.323Z,"9km N of Borrego Springs, CA",earthquake,0.38,0.56,0.096,9,reviewed,ci,ci
 2023-06-15T02:19:23.315Z,13.7437,120.7412,112,6.2,mww,128,24,9.031,0.61,us,us7000k8jz,2023-06-15T15:26:50.742Z,"Mindoro, Philippines",earthquake,5.47,1.831,0.034,84,reviewed,us,us
-2023-06-15T01:46:32.797Z,-29.2983,-176.9735,35,5.1,mb,47,121,0.828,0.86,us,us7000k8ju,2023-06-15T02:11:45.040Z,"Kermadec Islands region",earthquake,9.89,1.777,0.05,129,reviewed,us,us
+2023-06-15T01:46:32.022Z,-29.2921,-176.94,35,5.1,mb,68,64,0.857,0.59,us,us7000k8ju,2023-06-15T23:49:40.040Z,"Kermadec Islands region",earthquake,9.48,1.863,0.048,138,reviewed,us,us
 2023-06-15T01:42:58.190Z,33.5503333,-116.4133333,10.58,0.54,ml,21,116,0.02878,0.09,ci,ci40486216,2023-06-15T16:07:17.251Z,"16km SW of La Quinta, CA",earthquake,0.18,0.29,0.111,9,reviewed,ci,ci
 2023-06-15T01:34:05.380Z,37.4723333,-118.8461667,6.46,1.1,md,20,170,0.1183,0.03,nc,nc73901221,2023-06-15T20:17:20.207Z,"18km SW of Toms Place, CA",earthquake,0.55,1.18,0.087,14,reviewed,nc,nc
 2023-06-15T01:29:34.796Z,59.4157,-153.9874,44,1.5,ml,,,,0.63,ak,ak0237mjzc13,2023-06-15T01:31:02.886Z,"32 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -201,8 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T00:01:58.421Z,-29.2915,-177.1798,50.581,5,mb,50,121,0.648,0.67,us,us7000k8jh,2023-06-15T00:20:13.040Z,"Kermadec Islands, New Zealand",earthquake,8.96,6.467,0.076,55,reviewed,us,us
 2023-06-14T23:58:57.958Z,23.5519,121.5229,28.815,4.4,mb,37,85,0.261,0.75,us,us7000k8jg,2023-06-15T02:39:44.792Z,"Taiwan",earthquake,2.43,5.483,0.143,14,reviewed,us,us
 2023-06-14T23:54:10.330Z,33.1478333,-115.9775,7.66,1.81,ml,60,36,0.02559,0.18,ci,ci40486136,2023-06-15T14:58:04.300Z,"14km E of Ocotillo Wells, CA",earthquake,0.15,0.39,0.13,46,reviewed,ci,ci
-2023-06-14T23:52:42.330Z,33.8965,-116.2728333,7.27,0.83,ml,12,99,0.08759,0.13,ci,ci40486144,2023-06-15T14:30:09.826Z,"14km NE of Thousand Palms, CA",earthquake,0.31,1.18,0.061,6,reviewed,ci,ci
-2023-06-14T23:49:38.680Z,38.8371658,-122.7943344,2.48,0.28,md,8,84,0.003355,0.02,nc,nc73901201,2023-06-15T00:08:15.942Z,"6km WNW of Cobb, CA",earthquake,0.48,1.05,0.16,8,automatic,nc,nc
-2023-06-14T23:41:32.135Z,63.5721,-149.1782,33,1.2,ml,,,,0.71,ak,ak0237l9m38d,2023-06-14T23:43:40.921Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-14T23:41:28.370Z,47.495,-112.691666666667,22.44,1.3,ml,15,154,0.2859,0.1,mb,mb90018328,2023-06-15T14:10:19.130Z,"22 km W of Augusta, Montana",earthquake,0.56,1.94,0.163158838506307,5,reviewed,mb,mb
-2023-06-14T23:40:04.560Z,46.6341666666667,-113.262,4.25,0.97,ml,10,118,0.2343,0.11,mb,mb90018368,2023-06-15T16:29:46.840Z,"9 km WSW of Drummond, Montana",earthquake,0.46,8.86,0.224180878503627,4,reviewed,mb,mb
