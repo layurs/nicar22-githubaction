@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T08:59:42.590Z,17.9771666666667,-66.9463333333333,11.91,2.95,md,9,190,0.06388,0.17,pr,pr71413623,2023-06-16T09:11:37.130Z,"3 km WSW of Fuig, Puerto Rico",earthquake,1.01,0.9,0.262860329036925,7,reviewed,pr,pr
 2023-06-16T08:52:03.930Z,19.1665000915527,-155.487503051758,34.5,1.87,md,37,103,,0.140000001,hv,hv73452567,2023-06-16T08:55:22.980Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.56,0.850000024,0.289999992,9,automatic,hv,hv
 2023-06-16T08:51:03.575Z,-23.5488,-175.8334,9.103,4.9,mb,34,120,2.438,0.58,us,us7000k8vy,2023-06-16T09:08:16.040Z,"Tonga region",earthquake,5.96,4.866,0.122,21,reviewed,us,us
-2023-06-16T08:50:52.300Z,35.5611667,-120.7948333,4.97,1.77,md,40,47,,0.05,nc,nc73901691,2023-06-16T10:23:14.380Z,"8km W of Templeton, CA",earthquake,0.17,0.37,0.201,32,reviewed,nc,nc
+2023-06-16T08:50:52.300Z,35.5611667,-120.7948333,4.97,1.77,md,40,47,,0.05,nc,nc73901691,2023-06-16T10:41:10.493Z,"8km W of Templeton, CA",earthquake,0.17,0.37,0.201,32,reviewed,nc,nc
 2023-06-16T08:47:01.110Z,38.8138351,-122.8243332,2.04,1.13,md,22,55,0.006239,0.02,nc,nc73901686,2023-06-16T10:15:13.329Z,"7km NW of The Geysers, CA",earthquake,0.19,0.41,0.18,22,automatic,nc,nc
 2023-06-16T08:41:33.095Z,-23.4342,-175.9522,6.483,5.1,mb,57,120,2.358,0.6,us,us7000k8vx,2023-06-16T08:59:53.040Z,"253 km SSW of ‘Ohonua, Tonga",earthquake,10.33,4.213,0.083,47,reviewed,us,us
 2023-06-16T08:36:48.060Z,17.9806666666667,-66.8156666666667,11.35,2.43,md,7,193,0.06078,0.11,pr,pr71413613,2023-06-16T08:46:59.610Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.59,0.5,0.21631459425579,5,reviewed,pr,pr
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T05:10:21.060Z,38.8273315,-122.8151703,2.12,0.63,md,9,76,0.005594,0.01,nc,nc73901651,2023-06-16T05:25:13.730Z,"8km NW of The Geysers, CA",earthquake,0.37,0.93,0.29,11,automatic,nc,nc
 2023-06-16T04:53:52.070Z,38.8110008,-122.8223343,2.23,1.07,md,13,59,0.005755,0.03,nc,nc73901646,2023-06-16T07:49:12.441Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.5,0.21,14,automatic,nc,nc
 2023-06-16T04:50:47.180Z,17.9435,-66.3931666666667,5.42,2.22,md,13,188,0.22,0.09,pr,pr71413593,2023-06-16T05:08:18.160Z,"2 km SSE of Santa Isabel, Puerto Rico",earthquake,0.34,0.3,0.172759252560735,8,reviewed,pr,pr
-2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-16T09:21:13.368Z,"India-Bangladesh border region",earthquake,8.43,1.87,0.067,70,reviewed,us,us
+2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-16T10:40:22.569Z,"India-Bangladesh border region",earthquake,8.43,1.87,0.067,70,reviewed,us,us
 2023-06-16T04:35:09.985Z,58.7967,-153.5358,15,2.1,ml,,,,0.96,ak,ak0237o9c7ms,2023-06-16T04:41:01.176Z,"89 km NNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-16T03:58:29.360Z,34.0303333,-116.7416667,15.4,1.4,ml,51,36,0.05511,0.14,ci,ci40486992,2023-06-16T04:09:23.740Z,"13km NNE of Cabazon, CA",earthquake,0.17,0.44,0.194,26,automatic,ci,ci
 2023-06-16T03:46:21.840Z,38.8261681,-122.8063354,1.97,0.77,md,8,109,0.004024,0.01,nc,nc73901636,2023-06-16T04:12:15.121Z,"7km NW of The Geysers, CA",earthquake,0.38,1.05,0.16,9,automatic,nc,nc
@@ -180,6 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T11:07:12.440Z,43.0326666666667,-110.8395,5.16,2.56,ml,23,96,0.3288,0.22,mb,mb90018358,2023-06-15T15:57:39.659Z,"Wyoming",earthquake,0.5,1.33,0.209565648048587,26,reviewed,mb,mb
 2023-06-15T11:07:06.920Z,33.6393333,-116.7195,12.3,1.93,ml,69,29,0.0588,0.2,ci,ci40486472,2023-06-15T13:13:46.220Z,"10km NNW of Anza, CA",earthquake,0.17,0.34,0.276,26,reviewed,ci,ci
 2023-06-15T11:05:41.080Z,33.6453333,-116.7143333,12.88,0.5,ml,13,89,0.06566,0.08,ci,ci40486464,2023-06-15T13:12:55.396Z,"10km S of Idyllwild, CA",earthquake,0.28,0.53,0.294,12,reviewed,ci,ci
-2023-06-15T10:39:34.320Z,33.4105,-116.35,14.19,0.92,ml,48,37,0.1292,0.19,ci,ci40486448,2023-06-15T18:59:58.147Z,"17km N of Borrego Springs, CA",earthquake,0.2,0.46,0.121,23,reviewed,ci,ci
-2023-06-15T10:33:28.800Z,38.3151667,-122.1765,10.09,1.17,md,29,66,0.04648,0.14,nc,nc73901306,2023-06-15T19:23:11.892Z,"7km N of Green Valley, CA",earthquake,0.29,0.53,0.249,18,reviewed,nc,nc
-2023-06-15T10:33:03.171Z,61.2424,-151.1307,50.3,1.5,ml,,,,0.54,ak,ak0237mpd0xf,2023-06-15T10:35:55.659Z,"11 km NNW of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
