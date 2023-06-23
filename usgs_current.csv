@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-23T08:49:38.267Z,58.1922,-155.3124,7.8,0.3,ml,,,,0.68,ak,ak0237zwkftq,2023-06-23T08:52:13.067Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2023-06-23T08:45:33.057Z,64.7926,-148.0898,1,0.3,ml,,,,0.54,ak,ak0237zwjkg9,2023-06-23T08:47:53.646Z,"7 km SSW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-23T08:44:56.398Z,59.4706,-152.833,90,1.1,ml,,,,0.54,ak,ak0237zwjemf,2023-06-23T08:46:28.607Z,"53 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-23T08:22:34.350Z,33.8851667,-117.7966667,9.84,1.04,ml,25,71,0.05699,0.29,ci,ci40492616,2023-06-23T08:26:15.742Z,"2km ESE of Yorba Linda, CA",earthquake,0.53,1.04,0.238,17,automatic,ci,ci
 2023-06-23T08:10:56.020Z,33.3881667,-116.8811667,2.45,1.1,ml,48,26,0.03779,0.24,ci,ci40492608,2023-06-23T08:14:33.594Z,"4km NNW of Palomar Observatory, CA",earthquake,0.23,0.82,0.146,26,automatic,ci,ci
 2023-06-23T08:05:36.453Z,62.8531,-150.9149,96.1,1.1,ml,,,,0.22,ak,ak0237zwb05p,2023-06-23T08:07:47.600Z,"40 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -31,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T04:20:07.200Z,38.7771683,-122.7190018,1.2,1.87,md,32,81,0.01512,0.04,nc,nc73904151,2023-06-23T07:46:13.972Z,"2km W of Anderson Springs, CA",earthquake,0.21,0.4,0.16,24,automatic,nc,nc
 2023-06-23T04:18:41.990Z,37.3363342,-121.6073303,5.21,1.16,md,9,131,0.02858,0.1,nc,nc73904146,2023-06-23T07:00:13.708Z,"20km E of Alum Rock, CA",earthquake,0.53,0.8,0.24,2,automatic,nc,nc
 2023-06-23T04:13:06.510Z,19.166166305542,-155.47900390625,30.0900001525879,2.05999994,md,38,100,,0.170000002,hv,hv73459292,2023-06-23T04:16:18.060Z,"4 km S of Pāhala, Hawaii",earthquake,0.79,1.16999996,0.99000001,16,automatic,hv,hv
-2023-06-23T04:10:16.382Z,61.0243,-148.3426,3.7,1.3,ml,,,,0.68,ak,ak0237ztyas3,2023-06-23T04:13:32.439Z,"33 km NE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-23T04:10:16.382Z,61.0243,-148.3426,3.7,1.3,ml,,,,0.68,ak,ak0237ztyas3,2023-06-23T04:13:32.439Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-23T04:02:04.171Z,60.1254,-152.1815,72.1,1.8,ml,,,,0.41,ak,ak0237ztwk3l,2023-06-23T04:03:58.423Z,"29 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-23T03:46:10.820Z,19.1625003814697,-155.47900390625,31.6100006103516,2.45,ml,49,156,,0.109999999,hv,hv73459267,2023-06-23T03:59:08.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.58,0.730000019,3.13,22,automatic,hv,hv
 2023-06-23T03:31:04.138Z,66.368,-154.7363,0,1.3,ml,,,,1.02,ak,ak0237zthc90,2023-06-23T03:33:32.726Z,"41 km NNW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -209,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T09:14:06.096Z,31.67796304,-104.3995089,6.080151367,2.1,ml,34,69,0.02261818355,0.2,tx,tx2023mcyu,2023-06-22T18:38:41.724Z,"55 km S of Whites City, New Mexico",earthquake,0.7963057607000001,0.6250312563,0,6,reviewed,tx,tx
 2023-06-22T09:12:07.080Z,38.8311653,-122.8154984,2.4,0.76,md,8,96,0.00884,0.01,nc,nc73903866,2023-06-22T09:35:14.617Z,"8km NW of The Geysers, CA",earthquake,0.52,1.37,0.21,8,automatic,nc,nc
 2023-06-22T09:09:52.210Z,53.8786666666667,-166.6335,6.2,0.15,ml,7,165,,0.21,av,av91933831,2023-06-23T02:52:17.830Z,"6 km WSW of Dutch Harbor, Alaska",earthquake,0.58,1.05,0.150980893522244,7,reviewed,av,av
-2023-06-22T08:58:31.050Z,47.1555,-121.796,17.98,0.79,ml,22,158,0.1355,0.12,uw,uw61934996,2023-06-22T22:33:42.730Z,"11 km W of Greenwater, Washington",earthquake,0.41,0.79,0.10778608201804296,13,reviewed,uw,uw
-2023-06-22T08:48:01.280Z,58.2416666666667,-155.158666666667,4.21,0.55,ml,10,112,,0.05,av,av91933816,2023-06-23T02:46:46.200Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.39,0.221280378973099,10,reviewed,av,av
