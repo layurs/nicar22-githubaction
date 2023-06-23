@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-23T04:20:07.200Z,38.7771683,-122.7190018,1.2,1.87,md,32,81,0.01512,0.04,nc,nc73904151,2023-06-23T04:37:10.810Z,"2km W of Anderson Springs, CA",earthquake,0.21,0.4,0.16,24,automatic,nc,nc
-2023-06-23T04:18:41.990Z,37.3363342,-121.6073303,5.21,1.16,md,9,131,0.02858,0.1,nc,nc73904146,2023-06-23T04:33:10.780Z,"20km E of Alum Rock, CA",earthquake,0.53,0.8,0.24,2,automatic,nc,nc
+2023-06-23T04:45:03.360Z,18.8373336791992,-155.27116394043,10.5699996948242,2.61,ml,35,263,,0.129999995,hv,hv73459322,2023-06-23T04:58:46.040Z,"41 km SE of Naalehu, Hawaii",earthquake,1.61,1.44000006,0.5,14,automatic,hv,hv
+2023-06-23T04:41:02.100Z,18.7854995727539,-155.263168334961,10.25,2.47000003,md,30,274,,0.140000001,hv,hv73459312,2023-06-23T04:54:44.040Z,"45 km SE of Naalehu, Hawaii",earthquake,1.58,1.57000005,0.330000013,5,automatic,hv,hv
+2023-06-23T04:20:07.200Z,38.7771683,-122.7190018,1.2,1.87,md,32,81,0.01512,0.04,nc,nc73904151,2023-06-23T04:53:18.899Z,"2km W of Anderson Springs, CA",earthquake,0.21,0.4,0.16,24,automatic,nc,nc
+2023-06-23T04:18:41.990Z,37.3363342,-121.6073303,5.21,1.16,md,9,131,0.02858,0.1,nc,nc73904146,2023-06-23T04:45:15.852Z,"20km E of Alum Rock, CA",earthquake,0.53,0.8,0.24,2,automatic,nc,nc
 2023-06-23T04:13:06.510Z,19.166166305542,-155.47900390625,30.0900001525879,2.05999994,md,38,100,,0.170000002,hv,hv73459292,2023-06-23T04:16:18.060Z,"4 km S of Pāhala, Hawaii",earthquake,0.79,1.16999996,0.99000001,16,automatic,hv,hv
 2023-06-23T04:10:16.382Z,61.0243,-148.3426,3.7,1.3,ml,,,,0.68,ak,ak0237ztyas3,2023-06-23T04:13:32.439Z,"33 km NE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-23T04:02:04.171Z,60.1254,-152.1815,72.1,1.8,ml,,,,0.41,ak,ak0237ztwk3l,2023-06-23T04:03:58.423Z,"29 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -48,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T20:24:43.550Z,33.7171667,-116.7708333,15.66,0.95,ml,33,90,0.04761,0.19,ci,ci40492256,2023-06-22T20:28:17.766Z,"5km WSW of Idyllwild, CA",earthquake,0.29,0.46,0.165,29,automatic,ci,ci
 2023-06-22T20:17:10.295Z,57.3063,-150.0764,28.7,2.3,ml,,,,1.3,ak,ak0237yfzduk,2023-06-22T22:40:35.535Z,"136 km ESE of Chiniak, Alaska",earthquake,,4.7,,,reviewed,ak,ak
 2023-06-22T20:10:00.716Z,39.3537,-119.9954,6.6,1.6,ml,25,51.16,0.069,0.1266,nn,nn00861580,2023-06-22T21:11:09.451Z,"Nevada",earthquake,,1,0.31,9,reviewed,nn,nn
-2023-06-22T19:50:19.302Z,62.1758,-149.4272,38.4,3.7,ml,,,,0.79,ak,ak0237yfl15l,2023-06-23T03:43:28.655Z,"22 km E of Susitna North, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-06-22T19:50:19.302Z,62.1758,-149.4272,38.4,3.7,ml,,,,0.79,ak,ak0237yfl15l,2023-06-23T04:46:27.053Z,"22 km E of Susitna North, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-06-22T19:47:37.800Z,19.3136672973633,-155.217163085938,-0.25,2.16,ml,40,128,,0.230000004,hv,hv73458757,2023-06-22T19:53:09.300Z,"14 km S of Volcano, Hawaii",earthquake,0.32,0.270000011,0.18,13,automatic,hv,hv
 2023-06-22T19:46:52.720Z,38.8383331,-122.8353348,1.62,1.15,md,23,49,0.0002818,0.02,nc,nc73904021,2023-06-22T20:29:18.865Z,"10km NW of The Geysers, CA",earthquake,0.2,0.33,0.19,23,automatic,nc,nc
 2023-06-22T19:33:44.122Z,-28.7244,-176.6314,10,5.1,mb,21,83,1.25,1.11,us,us7000kaf3,2023-06-22T19:54:01.040Z,"Kermadec Islands region",earthquake,10.22,1.915,0.095,36,reviewed,us,us
@@ -223,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T05:13:07.510Z,37.4678333,-111.4616667,9.29,2.16,ml,21,113,0.6763,0.17,uu,uu60542981,2023-06-22T13:16:28.060Z,"35 km SSE of Escalante, Utah",earthquake,0.54,1.76,0.171,15,reviewed,uu,uu
 2023-06-22T05:09:29.920Z,38.8026657,-122.8150024,3.21,0.79,md,17,71,0.01269,0.07,nc,nc73903816,2023-06-22T06:51:12.645Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.92,0.47,17,automatic,nc,nc
 2023-06-22T05:08:11.740Z,37.5735,-118.928,7.44,0.65,md,11,217,0.06879,0.03,nc,nc73903811,2023-06-22T10:14:49.231Z,"8km SSE of Mammoth Lakes, CA",earthquake,0.84,1.56,0.089,10,reviewed,nc,nc
-2023-06-22T05:07:07.480Z,51.9345,178.470666666667,5.55,0.18,ml,4,305,,0.23,av,av91933666,2023-06-23T01:49:49.750Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.23,2.05,0.456801132574689,4,reviewed,av,av
-2023-06-22T04:50:35.860Z,58.1735,-155.376666666667,1.88,0.25,ml,8,216,,0.06,av,av91933656,2023-06-23T01:43:43.540Z,"Alaska Peninsula",earthquake,0.37,0.59,0.376056486130864,9,reviewed,av,av
