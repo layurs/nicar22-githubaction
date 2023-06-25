@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-25T03:50:45.990Z,33.9416667,-117.2503333,28.42,1.25,ml,14,83,0.1161,0.27,ci,ci40494576,2023-06-25T03:54:21.996Z,"3km NW of Moreno Valley, CA",earthquake,0.87,0.77,0.329,27,automatic,ci,ci
 2023-06-25T03:40:37.960Z,33.7068333,-116.718,16.77,0.81,ml,30,48,0.005375,0.17,ci,ci40494568,2023-06-25T03:44:07.104Z,"4km S of Idyllwild, CA",earthquake,0.37,0.43,0.188,18,automatic,ci,ci
 2023-06-25T03:14:19.337Z,63.0324,-151.7512,0,1.2,ml,,,,0.66,ak,ak023834gf8t,2023-06-25T03:16:11.941Z,"56 km S of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-25T03:06:26.177Z,-24.1507,-175.7109,10,4.9,mb,37,121,3.004,1.31,us,us7000kaxn,2023-06-25T03:50:20.040Z,"south of Tonga",earthquake,10.83,1.879,0.052,114,reviewed,us,us
 2023-06-25T02:49:53.640Z,33.4923333,-116.4375,13.68,0.55,ml,17,135,0.12,0.22,ci,ci40494560,2023-06-25T02:53:29.793Z,"22km SSW of La Quinta, CA",earthquake,0.72,1.43,0.116,13,automatic,ci,ci
 2023-06-25T02:39:04.211Z,60.2127,-150.0481,31.5,1.7,ml,,,,0.35,ak,ak0238340bd1,2023-06-25T02:41:05.690Z,"33 km SSW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-25T02:32:57.170Z,33.5316667,-116.5236667,12.34,0.72,ml,19,108,0.07526,0.13,ci,ci40494552,2023-06-25T02:36:36.541Z,"14km E of Anza, CA",earthquake,0.27,0.5,0.266,20,automatic,ci,ci
@@ -61,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T20:26:49.262Z,31.68618975,-104.1605363,6.131567383,2.9,ml,35,54,0.07152756709,0.2,tx,tx2023mhma,2023-06-24T20:48:13.168Z,"53 km W of Mentone, Texas",earthquake,0.4936503593,0.5882881292999999,0.2,25,reviewed,tx,tx
 2023-06-24T20:26:07.010Z,38.8300018,-122.3681641,-0.65,1.31,md,7,154,0.2917,0.13,nc,nc73904791,2023-06-24T22:38:13.484Z,"17km E of Hidden Valley Lake, CA",earthquake,2.01,6.27,,2,automatic,nc,nc
 2023-06-24T20:25:17.684Z,39.3553,-119.9941,7.3,0.8,ml,9,116.56,0.071,0.1103,nn,nn00861690,2023-06-24T23:22:43.626Z,"4 km SSE of Floriston, California",earthquake,,1.6,0.35,5,reviewed,nn,nn
-2023-06-24T20:16:40.319Z,62.0039,-148.5927,15.3,1.1,ml,,,,1.01,ak,ak02381r1x33,2023-06-24T20:18:21.657Z,"24 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-24T20:16:40.319Z,62.0039,-148.5927,15.3,1.1,ml,,,,1.01,ak,ak02381r1x33,2023-06-24T20:18:21.657Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-24T19:51:09.550Z,19.1660003662109,-155.355667114258,29.4400005340576,1.72000003,md,36,178,,0.119999997,hv,hv73460802,2023-06-24T19:54:24.700Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,1.04999995,1.02999997,16,automatic,hv,hv
 2023-06-24T19:48:38.580Z,37.0564,-116.1871,6,0.8,ml,20,47.48,0.062,0.0996,nn,nn00861680,2023-06-24T23:03:57.795Z,"Nevada",earthquake,,1.2,0.41,10,reviewed,nn,nn
 2023-06-24T19:47:29.350Z,36.8071671,-121.4518356,6.35,1.72,md,13,87,0.04298,0.09,nc,nc73904786,2023-06-24T22:12:17.356Z,"6km SW of Hollister, CA",earthquake,0.37,0.83,0.13,5,automatic,nc,nc
@@ -203,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T04:12:42.700Z,61.5281,-149.913,34.1,1,ml,,,,0.65,ak,ak02381hi4q6,2023-06-24T04:15:08.041Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-24T04:04:29.030Z,38.8241653,-122.7649994,2.03,0.78,md,11,123,0.01639,0.02,nc,nc73904521,2023-06-24T04:55:14.930Z,"4km W of Cobb, CA",earthquake,0.35,0.73,0.12,11,automatic,nc,nc
 2023-06-24T04:03:39.945Z,61.5052,-149.9018,34.9,1.5,ml,,,,0.25,ak,ak02381hg72i,2023-06-24T15:54:30.490Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-24T03:52:26.180Z,37.5531667,-118.7943333,5.61,0.71,md,11,310,0.04602,0.06,nc,nc73904506,2023-06-24T21:16:14.011Z,"10km W of Toms Place, CA",earthquake,0.86,0.77,0.128,12,reviewed,nc,nc
-2023-06-24T03:49:32.090Z,61.4982,-149.9352,29.9,2.8,ml,,,,0.86,ak,ak02381h4lqi,2023-06-24T09:02:24.326Z,"2 km SSE of Big Lake, Alaska",earthquake,,0.5,,,reviewed,ak,ak
