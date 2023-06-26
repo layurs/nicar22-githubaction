@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-26T22:21:23.380Z,38.840168,-122.8779984,2.52,0.75,md,11,137,0.007325,0.02,nc,nc73905751,2023-06-26T22:22:56.738Z,"13km WNW of The Geysers, CA",earthquake,0.44,0.74,0.15,14,automatic,nc,nc
+2023-06-26T22:21:23.380Z,38.840168,-122.8779984,2.52,0.75,md,11,137,0.007325,0.02,nc,nc73905751,2023-06-26T22:39:14.404Z,"13km WNW of The Geysers, CA",earthquake,0.44,0.74,0.15,14,automatic,nc,nc
 2023-06-26T22:13:11.161Z,57.5931,-153.3073,10,2.4,ml,,,,0.91,ak,ak023853arvw,2023-06-26T22:28:53.040Z,"39 km WSW of Womens Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-26T22:05:49.870Z,32.8288333,-116.0376667,7.71,1.22,ml,25,89,0.06223,0.26,ci,ci40496464,2023-06-26T22:09:22.263Z,"11km NNW of Ocotillo, CA",earthquake,0.5,0.92,0.151,17,automatic,ci,ci
 2023-06-26T21:58:10.160Z,19.0563335418701,-155.424667358398,30.1800003051758,2.2,ml,37,199,,0.159999996,hv,hv73462642,2023-06-26T22:03:41.530Z,"16 km E of Naalehu, Hawaii",earthquake,0.88,1.14999998,0.24,5,automatic,hv,hv
@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T20:06:07.280Z,46.839666666666666,-120.89883333333333,6.33,1.4000000000000001,ml,14,100,0.1182,0.22,uw,uw61927552,2023-06-26T20:48:36.890Z,"3 km NE of Nile, Washington",earthquake,0.54,1.18,0.14524321707023558,12,reviewed,uw,uw
 2023-06-26T19:39:40.810Z,38.831501,-122.8178329,1.67,0.69,md,12,59,0.01011,0.01,nc,nc73905696,2023-06-26T20:36:15.630Z,"8km NW of The Geysers, CA",earthquake,0.28,0.71,0.47,13,automatic,nc,nc
 2023-06-26T19:35:39.640Z,35.656,-118.3196667,8.51,0.82,ml,12,145,0.04701,0.12,ci,ci40496256,2023-06-26T19:39:12.684Z,"14km ESE of Wofford Heights, CA",earthquake,0.46,0.59,0.205,6,automatic,ci,ci
+2023-06-26T19:30:25.070Z,46.02316666666667,-122.219,-1.05,1.22,ml,6,175,0.004788,0.04,uw,uw61927517,2023-06-26T22:37:19.510Z,"21 km NE of Amboy, Washington",explosion,0.55,31.61,0.02765988305256517,5,reviewed,uw,uw
 2023-06-26T19:27:11.700Z,34.0073333,-116.3158333,9.65,0.71,ml,15,90,0.08722,0.24,ci,ci40496224,2023-06-26T19:30:34.213Z,"14km S of Joshua Tree, CA",earthquake,0.53,0.94,0.066,8,automatic,ci,ci
 2023-06-26T19:23:46.820Z,33.6175,-117.0255,1.54,1.23,ml,11,68,0.196,0.34,ci,ci40496216,2023-06-26T19:27:42.599Z,"11km SSE of Winchester, CA",earthquake,0.9,5.79,0.371,16,automatic,ci,ci
 2023-06-26T19:03:38.700Z,35.0435,-97.52166667,5.42,1.53,ml,85,42,0.02969417299,0.39,ok,ok2023mlag,2023-06-26T19:16:38.389Z,"3 km WSW of Washington, Oklahoma",earthquake,,0.6,0.24,28,reviewed,ok,ok
@@ -214,8 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T23:12:40.800Z,46.6365,-113.278833333333,5,1.62,ml,18,49,0.2302,0.15,mb,mb90019668,2023-06-26T14:07:05.780Z,"10 km WSW of Drummond, Montana",earthquake,0.31,31.61,0.0688169886879959,7,reviewed,mb,mb
 2023-06-25T23:01:00.170Z,18.9305,-63.5591,19,3.76,md,13,242,1.0045,0.5,pr,pr2023176001,2023-06-25T23:55:26.458Z,"94 km NNW of Sandy Ground Village, Anguilla",earthquake,4.71,8.14,0.17,4,reviewed,pr,pr
 2023-06-25T22:53:57.313Z,61.9577,-150.4214,15.8,1.9,ml,,,,0.41,ak,ak02383g03lf,2023-06-25T22:56:29.659Z,"30 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-25T22:45:51.220Z,38.8479996,-122.7994995,1.3,0.22,md,9,92,0.007092,0.02,nc,nc73905316,2023-06-25T23:23:14.260Z,"7km WNW of Cobb, CA",earthquake,0.37,0.78,0.13,9,automatic,nc,nc
-2023-06-25T22:44:16.440Z,34.041,-117.2843333,17.22,1.1,ml,28,93,0.08928,0.25,ci,ci40495240,2023-06-25T22:47:47.526Z,"2km WSW of Loma Linda, CA",earthquake,0.45,0.96,0.18,29,automatic,ci,ci
-2023-06-25T22:37:49.240Z,38.7741661,-122.7263336,1.45,0.23,md,6,81,0.01217,0.01,nc,nc73905311,2023-06-25T23:12:14.207Z,"3km E of The Geysers, CA",earthquake,0.52,1.26,0.09,5,automatic,nc,nc
-2023-06-25T22:37:39.970Z,38.7738342,-122.7273331,1.03,0.89,md,7,78,0.01192,0.04,nc,nc73905306,2023-06-25T23:02:13.139Z,"2km E of The Geysers, CA",earthquake,0.58,1.35,0.25,6,automatic,nc,nc
-2023-06-25T22:31:22.540Z,38.7895012,-122.7624969,-0.9,1.08,md,10,80,0.01132,0.18,nc,nc73905301,2023-06-26T01:00:12.829Z,"2km NNW of The Geysers, CA",earthquake,0.36,2.51,0.17,12,automatic,nc,nc
