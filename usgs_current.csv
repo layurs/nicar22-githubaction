@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T15:11:13.734Z,61.2609,-149.6097,32.6,1.2,ml,,,,0.53,ak,ak0238i7f3d9,2023-07-04T15:13:10.067Z,"1 km ENE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-04T15:03:41.850Z,35.7801667,-117.6013333,11.98,0.96,ml,10,133,0.1359,0.23,ci,ci40503264,2023-07-04T15:07:25.236Z,"18km W of Searles Valley, CA",earthquake,0.74,1.98,0.049,5,automatic,ci,ci
 2023-07-04T15:03:04.730Z,37.8040009,-122.591835,4.9,1.65,md,18,159,0.08619,0.04,nc,nc73908751,2023-07-04T16:34:13.115Z,"7km S of Muir Beach, CA",earthquake,0.4,0.82,0.11,11,automatic,nc,nc
-2023-07-04T14:58:49.940Z,40.4025002,-124.3813324,27.44,3.88,mw,24,236,0.08029,0.11,nc,nc73908746,2023-07-04T20:03:23.623Z,"12km NW of Petrolia, CA",earthquake,1.44,1.2,,4,reviewed,nc,nc
+2023-07-04T14:58:49.570Z,40.3898333,-124.4095,29.86,3.88,mw,38,223,0.1018,0.16,nc,nc73908746,2023-07-04T21:39:45.402Z,"13km NW of Petrolia, CA",earthquake,0.7,0.45,,4,reviewed,nc,nc
 2023-07-04T14:55:45.500Z,38.8221664,-122.8046646,2.88,0.81,md,12,81,0.0044,0.01,nc,nc73908741,2023-07-04T15:52:11.868Z,"6km NW of The Geysers, CA",earthquake,0.37,1.26,0.15,12,automatic,nc,nc
 2023-07-04T14:54:23.492Z,57.7467,-155.9396,0,1.5,ml,,,,0.5,ak,ak0238i72wb1,2023-07-04T14:56:02.003Z,"Alaska Peninsula",earthquake,,28.4,,,automatic,ak,ak
 2023-07-04T14:42:41.440Z,17.9626666666667,-67.0723333333333,6.87,3.11,md,14,233,0.02759,0.19,pr,pr71416208,2023-07-04T16:04:10.280Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.67,0.27,0.108811051790694,8,reviewed,pr,pr
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T08:32:30.270Z,35.9788333,-120.5351667,2.98,0.04,md,11,88,0.01404,0.05,nc,nc71130794,2023-07-04T12:13:14.508Z,"13km NW of Parkfield, CA",earthquake,0.25,0.52,0.189,4,reviewed,nc,nc
 2023-07-04T08:32:22.620Z,35.9796667,-120.5348333,3.05,0.03,md,11,90,0.01457,0.05,nc,nc73908651,2023-07-04T10:08:11.704Z,"13km NW of Parkfield, CA",earthquake,0.23,0.48,0.186,4,reviewed,nc,nc
 2023-07-04T08:28:09.340Z,38.838665,-122.828331,1.76,1.04,md,16,99,0.005589,0.02,nc,nc73908646,2023-07-04T08:45:12.244Z,"9km NW of The Geysers, CA",earthquake,0.28,0.4,0.2,14,automatic,nc,nc
-2023-07-04T08:03:57.470Z,36.1936666666667,-93.6366666666667,11.78,2.49,md,10,112,0.2606,0.12,nm,nm60500893,2023-07-04T20:44:22.945Z,"15 km NE of Huntsville, Arkansas",earthquake,0.77,1.01,0.104257577611041,10,reviewed,nm,nm
+2023-07-04T08:03:57.470Z,36.1936666666667,-93.6366666666667,11.78,2.49,md,10,112,0.2606,0.12,nm,nm60500893,2023-07-04T20:44:22.945Z,"Missouri-Arkansas border region",earthquake,0.77,1.01,0.104257577611041,10,reviewed,nm,nm
 2023-07-04T08:02:04.880Z,32.996,-117.6923333,13.36,1.25,ml,10,261,0.5229,0.15,ci,ci40503168,2023-07-04T08:05:37.017Z,"37km WSW of Carlsbad, CA",earthquake,2.41,31.61,0.176,10,automatic,ci,ci
 2023-07-04T08:01:42.400Z,34.0506667,-117.1686667,6.83,0.96,ml,35,44,0.08073,0.22,ci,ci40503160,2023-07-04T08:05:17.116Z,"1km ESE of Redlands, CA",earthquake,0.28,0.99,0.173,26,automatic,ci,ci
 2023-07-04T07:47:50.910Z,33.255,-116.687,17.43,0.72,ml,20,62,0.0649,0.17,ci,ci40503152,2023-07-04T07:51:20.443Z,"6km WSW of Warner Springs, CA",earthquake,0.33,0.76,0.111,11,automatic,ci,ci
@@ -155,5 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T22:13:31.850Z,31.86309814,-101.7977087,9.072713216,3,ml,26,61,0.08318696916,0.1,tx,tx2023mybc,2023-07-03T22:28:54.642Z,"29 km S of Stanton, Texas",earthquake,0.7303934095,0.9374625076,0.1,13,reviewed,tx,tx
 2023-07-03T21:53:06.920Z,46.19016666666667,-122.19333333333333,4.59,0.35000000000000003,ml,9,124,0.0291,0.07,uw,uw61938111,2023-07-04T15:58:43.700Z,"36 km NNE of Amboy, Washington",earthquake,0.49,1.06,0.19474866900034413,5,reviewed,uw,uw
 2023-07-03T21:50:22.363Z,62.7286,-151.0239,92.4,1.6,ml,,,,0.3,ak,ak0238gnoq3g,2023-07-03T21:51:52.841Z,"29 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-03T21:48:09.160Z,38.8428333,-122.8381667,2.51,0.22,md,13,106,0.004727,0.03,nc,nc73908486,2023-07-04T09:27:15.489Z,"10km NW of The Geysers, CA",earthquake,0.25,0.31,0.396,13,reviewed,nc,nc
-2023-07-03T21:33:46.207Z,-30.5772,-71.6781,31.138,4.2,mwr,38,100,0.103,0.63,us,us6000kpy4,2023-07-03T21:58:36.040Z,"46 km W of Ovalle, Chile",earthquake,4.37,5.144,0.049,40,reviewed,us,us
