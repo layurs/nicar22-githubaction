@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-15T10:03:57.466Z,59.7895,-153.4616,122.9,1.9,ml,,,,0.31,ak,ak02390bb4g0,2023-07-15T10:05:42.033Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-15T10:02:21.400Z,36.6930008,-121.3608322,0.53,2.13,md,31,49,,0.16,nc,nc73913176,2023-07-15T10:10:14.321Z,"11 km SSW of Tres Pinos, CA",earthquake,0.28,0.82,0.11,10,automatic,nc,nc
+2023-07-15T10:14:31.362Z,58.4603,-155.4489,122.7,1,ml,,,,0.25,ak,ak02390bdfa8,2023-07-15T10:16:32.623Z,"74 km ESE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-15T10:10:42.530Z,58.1796,-155.3675,1.2,0.2,ml,,,,0.23,ak,ak02390bcla5,2023-07-15T10:12:13.635Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
+2023-07-15T10:03:57.466Z,59.7895,-153.4616,122.9,1.9,ml,,,,0.31,ak,ak02390bb4g0,2023-07-15T10:14:50.040Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-15T10:02:21.400Z,36.6930008,-121.3608322,0.53,2.13,md,31,49,,0.16,nc,nc73913176,2023-07-15T10:25:11.374Z,"11 km SSW of Tres Pinos, CA",earthquake,0.28,0.82,0.11,10,automatic,nc,nc
 2023-07-15T09:49:21.815Z,62.4455,-150.5312,80.4,1.2,ml,,,,1.12,ak,ak02390azh05,2023-07-15T09:51:23.228Z,"13 km ESE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-15T09:39:32.825Z,37.3842,-117.1961,3.2,0.3,ml,8,219.99,0.388,0.4086,nn,nn00862660,2023-07-15T09:42:46.049Z,"36 km S of Goldfield, Nevada",earthquake,,14.1,0.65,4,automatic,nn,nn
 2023-07-15T09:34:52.870Z,33.8693333,-117.757,9.19,0.9,ml,21,47,0.04897,0.19,ci,ci39613514,2023-07-15T09:38:24.536Z,"6km ESE of Yorba Linda, CA",earthquake,0.36,0.8,0.126,14,automatic,ci,ci
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T09:11:33.980Z,61.8288,-149.6186,39.3,1.6,ml,,,,0.24,ak,ak02390arcqe,2023-07-15T09:13:03.442Z,"22 km WNW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-15T09:08:14.320Z,38.8226662,-122.7965012,2.91,1.33,md,28,31,0.01063,0.04,nc,nc73913166,2023-07-15T09:53:12.198Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.48,0.18,28,automatic,nc,nc
 2023-07-15T08:58:51.452Z,57.3677,-154.0816,39.5,2.2,ml,,,,0.21,ak,ak02390ag14p,2023-07-15T09:04:06.040Z,"20 km SSW of Larsen Bay, Alaska",earthquake,,6.5,,,automatic,ak,ak
-2023-07-15T08:54:35.290Z,37.6251678,-119.0224991,2.23,1.1,md,10,96,0.01213,0.01,nc,nc73913161,2023-07-15T09:28:11.208Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.35,0.63,0.21,11,automatic,nc,nc
+2023-07-15T08:54:35.290Z,37.6251678,-119.0224991,2.23,1.1,md,10,96,0.01213,0.01,nc,nc73913161,2023-07-15T10:19:15.343Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.35,0.63,0.21,11,automatic,nc,nc
 2023-07-15T08:53:46.841Z,31.5927,-104.3788,5,3.1,ml,23,74,0.663,0.51,us,us7000kfy6,2023-07-15T09:00:36.040Z,"63 km WNW of Toyah, Texas",earthquake,2.99,1.981,0.085,26,reviewed,us,us
 2023-07-15T08:51:43.728Z,63.0996,-150.299,88.6,1.2,ml,,,,0.46,ak,ak02390aeiis,2023-07-15T08:54:06.690Z,"71 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-15T08:43:46.621Z,58.183,-155.3782,1.2,0,ml,,,,0.15,ak,ak02390act0m,2023-07-15T08:44:52.058Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
@@ -225,9 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T10:35:22.480Z,36.1501667,-117.9885,2.09,1.74,ml,15,200,0.113,0.2,ci,ci39612538,2023-07-14T13:46:28.470Z,"12km NNW of Coso Junction, CA",earthquake,0.73,1.97,0.175,16,reviewed,ci,ci
 2023-07-14T10:34:03.680Z,38.7946663,-122.7353363,1.47,1.11,md,15,97,0.01146,0.02,nc,nc73912856,2023-07-14T14:07:16.115Z,"3 km NE of The Geysers, CA",earthquake,0.35,0.49,0.15,14,automatic,nc,nc
 2023-07-14T10:33:41.338Z,58.1662,-155.4077,1.2,0.5,ml,,,,0.88,ak,ak0238yny65x,2023-07-14T10:35:22.928Z,"87 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-07-14T10:20:18.379Z,35.6575,-98.11266667,4.5,2.07,ml,96,41,0.08908251897,0.27,ok,ok2023nrgb,2023-07-14T12:10:14.368Z,"6 km N of Calumet, Oklahoma",earthquake,,0.6,0.27,48,reviewed,ok,ok
-2023-07-14T10:18:23.850Z,38.8250008,-122.7991638,2.82,1.04,md,13,120,0.008672,0.01,nc,nc73912851,2023-07-14T10:50:13.972Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.64,0.24,17,automatic,nc,nc
-2023-07-14T10:18:13.090Z,33.7011667,-116.8133333,16.31,1.43,ml,56,43,0.07658,0.2,ci,ci39612522,2023-07-14T13:45:25.600Z,"9km SE of Valle Vista, CA",earthquake,0.21,0.39,0.187,26,reviewed,ci,ci
-2023-07-14T10:17:32.393Z,61.5087,-146.9326,25.1,1.6,ml,,,,0.45,ak,ak0238ynuq0n,2023-07-14T10:18:51.395Z,"49 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-14T10:14:38.120Z,33.5363333,-116.681,9.18,0.4,ml,23,46,0.05186,0.1,ci,ci39612514,2023-07-14T19:44:10.901Z,"2km SSW of Anza, CA",earthquake,0.16,0.33,0.142,9,reviewed,ci,ci
-2023-07-14T10:14:35.152Z,64.6392,-150.9991,9.3,1.8,ml,,,,0.46,ak,ak0238ynu32z,2023-07-14T10:16:31.302Z,"43 km SSW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
