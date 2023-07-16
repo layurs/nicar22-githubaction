@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-16T17:17:47.779Z,63.5567,-150.6128,1.6,1.1,ml,,,,0.61,ak,ak0239233hfd,2023-07-16T17:20:06.185Z,"55 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T17:08:52.719Z,58.1798,-155.3706,2.7,0.6,ml,,,,0.18,ak,ak0239231kd3,2023-07-16T17:10:41.367Z,"87 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-16T16:54:52.380Z,36.2369995,-121.5213318,13.07,1.67,md,18,115,,0.09,nc,nc73913691,2023-07-16T17:13:12.548Z,"24 km N of Lopez Point, CA",earthquake,0.43,0.81,0.15,17,automatic,nc,nc
+2023-07-16T16:54:52.380Z,36.2369995,-121.5213318,13.07,1.67,md,18,115,,0.09,nc,nc73913691,2023-07-16T17:39:11.703Z,"24 km N of Lopez Point, CA",earthquake,0.43,0.81,0.15,17,automatic,nc,nc
 2023-07-16T16:54:49.582Z,38.5278,-118.1578,8.2,1.4,ml,6,63.72,0.388,0.1663,nn,nn00862789,2023-07-16T17:03:32.411Z,"15 km NNW of Mina, Nevada",earthquake,,1.6,0.13,4,reviewed,nn,nn
 2023-07-16T16:52:52.278Z,57.2537,-156.3127,81,1.5,ml,,,,1.04,ak,ak023922pk8b,2023-07-16T16:54:47.121Z,"71 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-16T16:49:28.050Z,39.5698318,-122.0248337,-0.04,2.61,md,10,90,0.3175,0.16,nc,nc73913686,2023-07-16T17:13:11.552Z,"15 km ENE of Willows, CA",earthquake,0.55,6.23,0.14,11,automatic,nc,nc
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T14:33:21.705Z,39.3931,-119.7172,6.4,0.7,ml,9,124.54,0.037,0.1723,nn,nn00862775,2023-07-16T15:29:24.649Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.4,0.15,4,reviewed,nn,nn
 2023-07-16T14:30:35.158Z,39.3949,-119.717,7,1.5,ml,17,80.97,0.037,0.1745,nn,nn00862764,2023-07-16T15:26:15.323Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.9,0.27,6,reviewed,nn,nn
 2023-07-16T14:28:07.896Z,39.4475,-119.4119,17.1,0.8,ml,6,191.09,0.264,0.1088,nn,nn00862774,2023-07-16T15:23:03.598Z,"8 km NNW of Stagecoach, Nevada",earthquake,,1.9,0.36,5,reviewed,nn,nn
-2023-07-16T14:23:32.036Z,25.721,91.3553,10,4.3,mb,35,104,3.972,0.74,us,us7000kg5v,2023-07-16T17:02:13.707Z,"24 km NNE of Nongstoin, India",earthquake,5.12,1.892,0.109,24,reviewed,us,us
+2023-07-16T14:23:32.036Z,25.721,91.3553,10,4.3,mb,35,104,3.972,0.74,us,us7000kg5v,2023-07-16T17:39:38.061Z,"24 km NNE of Nongstoin, India",earthquake,5.12,1.892,0.109,24,reviewed,us,us
 2023-07-16T14:16:19.003Z,60.6914,-150.8685,51.6,1.6,ml,,,,0.2,ak,ak023921awoc,2023-07-16T14:17:27.940Z,"18 km NNW of Sterling, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-07-16T14:11:51.089Z,39.3937,-119.7159,5.5,0.6,ml,8,124.8,0.038,0.1416,nn,nn00862773,2023-07-16T15:19:56.070Z,"Nevada",earthquake,,1.8,0.06,4,reviewed,nn,nn
 2023-07-16T14:02:17.110Z,38.8311653,-122.8138351,1.78,0.7,md,11,56,0.0184,0.02,nc,nc73913661,2023-07-16T14:18:11.564Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.98,0.08,11,automatic,nc,nc
@@ -232,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T17:52:27.900Z,39.3801651,-123.1248322,8.02,1.68,md,6,130,0.007039,0.03,nc,nc73913351,2023-07-15T20:52:13.176Z,"14 km NNE of Redwood Valley, CA",earthquake,0.71,0.56,,1,automatic,nc,nc
 2023-07-15T17:52:10.320Z,34.1395,-117.4168333,6.27,0.95,ml,25,119,0.04379,0.14,ci,ci39613746,2023-07-16T16:07:57.949Z,"6km NW of Rialto, CA",earthquake,0.25,0.4,0.082,5,reviewed,ci,ci
 2023-07-15T17:48:42.550Z,38.7910004,-122.7651672,2.4,1.11,md,19,69,0.01051,0.03,nc,nc73913346,2023-07-15T20:22:14.988Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.51,0.14,20,automatic,nc,nc
-2023-07-15T17:27:40.620Z,18.8638333333333,-64.707,45.96,3.23,md,4,328,0.561,0.28,pr,pr71418033,2023-07-15T17:39:38.520Z,"59 km N of Cruz Bay, U.S. Virgin Islands",earthquake,9.46,11.26,0.0741095383660886,3,reviewed,pr,pr
-2023-07-15T17:23:39.100Z,33.409,-116.4418333,8.69,0.5,ml,14,124,0.1419,0.16,ci,ci39613730,2023-07-15T17:27:13.074Z,"18km NNW of Borrego Springs, CA",earthquake,0.34,1.06,0.11,12,automatic,ci,ci
