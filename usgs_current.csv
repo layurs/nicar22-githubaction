@@ -1,8 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-17T02:01:45.000Z,35.7685,-117.5996667,3.67,2.01,ml,22,64,0.1401,0.19,ci,ci39614498,2023-07-17T02:05:32.866Z,"18km W of Searles Valley, CA",earthquake,0.33,1.11,0.129,22,automatic,ci,ci
-2023-07-17T01:56:21.490Z,40.2906685,-124.4776688,10.13,2.33,md,16,242,0.1511,0.12,nc,nc73913801,2023-07-17T02:03:11.806Z,"17 km WSW of Petrolia, CA",earthquake,1.82,0.76,0.13,8,automatic,nc,nc
-2023-07-17T01:56:01.030Z,36.6428337,-121.2990036,6.46,1.19,md,8,80,0.0343,0.21,nc,nc73913796,2023-07-17T01:58:52.562Z,"16 km S of Tres Pinos, CA",earthquake,0.81,1.9,0.53,2,automatic,nc,nc
-2023-07-17T01:50:27.660Z,38.8468323,-122.8146667,1.2,1.04,md,8,95,0.01586,0.01,nc,nc73913791,2023-07-17T01:53:22.461Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.56,0.08,7,automatic,nc,nc
+2023-07-17T02:29:02.680Z,17.8868333333333,-66.9588333333333,8.99,2.56,md,15,245,0.09743,0.11,pr,pr71418233,2023-07-17T02:50:06.080Z,"10 km SSW of Guánica, Puerto Rico",earthquake,0.71,0.67,0.132745004195082,7,reviewed,pr,pr
+2023-07-17T02:27:22.160Z,19.2598323822021,-155.375671386719,30.9099998474121,2.24,ml,49,136,,0.150000006,hv,hv73484517,2023-07-17T02:32:53.810Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.51,0.589999974,2.64,21,automatic,hv,hv
+2023-07-17T02:25:57.410Z,59.6243,-139.6144,10.9,2.5,ml,,,,0.87,ak,ak02393hr2bh,2023-07-17T02:41:52.830Z,"10 km NE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-17T02:15:19.122Z,58.2183,-154.0716,68.6,1.6,ml,,,,0.34,ak,ak02393hou7c,2023-07-17T02:17:35.345Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
+2023-07-17T02:14:39.590Z,38.715168,-122.9176636,6.21,1.36,md,15,156,0.07721,0.04,nc,nc73913816,2023-07-17T02:30:14.978Z,"12 km NNW of Healdsburg, CA",earthquake,0.52,1.33,0.21,12,automatic,nc,nc
+2023-07-17T02:12:32.876Z,61.629,-149.8275,35.5,2,ml,,,,0.29,ak,ak02393ho847,2023-07-17T02:17:56.886Z,"0 km WSW of Houston, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2023-07-17T02:01:45.000Z,35.7685,-117.5996667,3.67,2.01,ml,22,64,0.1401,0.19,ci,ci39614498,2023-07-17T02:12:32.800Z,"18km W of Searles Valley, CA",earthquake,0.33,1.11,0.129,22,automatic,ci,ci
+2023-07-17T01:56:21.490Z,40.2906685,-124.4776688,10.13,2.33,md,16,242,0.1511,0.12,nc,nc73913801,2023-07-17T02:22:38.586Z,"17 km WSW of Petrolia, CA",earthquake,1.82,0.76,0.13,8,automatic,nc,nc
+2023-07-17T01:56:01.030Z,36.6428337,-121.2990036,6.46,1.19,md,8,80,0.0343,0.21,nc,nc73913796,2023-07-17T02:45:11.060Z,"16 km S of Tres Pinos, CA",earthquake,0.81,1.9,0.53,2,automatic,nc,nc
+2023-07-17T01:50:27.660Z,38.8468323,-122.8146667,1.2,1.04,md,8,95,0.01586,0.01,nc,nc73913791,2023-07-17T02:57:16.116Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.56,0.08,7,automatic,nc,nc
 2023-07-17T01:50:21.150Z,19.2628326416016,-155.371826171875,31.2399997711182,1.99000001,md,30,155,,0.129999995,hv,hv73484462,2023-07-17T01:53:33.810Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.63,0.74000001,1.80999994,6,automatic,hv,hv
 2023-07-17T01:40:17.730Z,19.2409992218018,-155.367004394531,29.4300003051758,1.78,ml,27,167,,0.100000001,hv,hv73484452,2023-07-17T01:45:47.340Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.87,0.689999998,0.15,3,automatic,hv,hv
 2023-07-17T01:30:48.590Z,36.6554985,-121.284668,6.61,2.49,md,46,111,,0.11,nc,nc73913781,2023-07-17T02:03:14.806Z,"15 km SSE of Tres Pinos, CA",earthquake,0.24,0.56,0.13,50,automatic,nc,nc
@@ -67,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T19:33:20.780Z,31.5301667,-114.3841667,5.96,3.11,ml,8,133,0.5271,0.34,ci,ci39614330,2023-07-16T21:00:11.797Z,"94km SE of Estacion Coahuila, B.C., MX",earthquake,0.78,31.61,0.187,75,reviewed,ci,ci
 2023-07-16T19:25:55.245Z,27.3262,54.4283,10,4.1,mb,31,145,2.858,0.73,us,us7000kg6y,2023-07-16T20:41:11.040Z,"47 km SE of Gerāsh, Iran",earthquake,9.96,1.93,0.109,23,reviewed,us,us
 2023-07-16T19:18:13.825Z,11.2114,125.4522,10.898,4.5,mb,36,113,4.117,0.68,us,us7000kg75,2023-07-16T20:35:53.040Z,"9 km NW of Quinapundan, Philippines",earthquake,13.34,4.46,0.094,33,reviewed,us,us
-2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T01:48:24.425Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
+2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T02:07:35.533Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
 2023-07-16T19:15:20.294Z,39.3965,-119.7177,5.4,0.7,ml,7,124.31,0.037,0.1326,nn,nn00862820,2023-07-16T20:09:27.020Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.7,0.39,4,reviewed,nn,nn
 2023-07-16T19:14:43.490Z,38.8359985,-122.7699966,1.96,1.04,md,14,143,0.00552,0.03,nc,nc73913711,2023-07-16T20:40:11.858Z,"4 km WNW of Cobb, CA",earthquake,0.29,0.46,0.07,14,automatic,nc,nc
 2023-07-16T19:11:39.600Z,36.5698318,-121.1549988,7.15,1.69,md,12,132,0.02455,0.06,nc,nc73913706,2023-07-16T20:13:11.694Z,"4 km NNW of Pinnacles, CA",earthquake,0.5,0.7,0.33,6,automatic,nc,nc
@@ -128,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T13:44:35.575Z,18.4397,-100.8293,75.43,5.1,mww,84,121,1.797,0.8,us,us7000kg5l,2023-07-16T16:39:14.149Z,"10 km N of Santa Teresa, Mexico",earthquake,9.14,6.49,0.098,10,reviewed,us,us
 2023-07-16T13:42:35.246Z,39.3962,-119.7199,4.8,0.2,ml,5,123.85,0.035,0.1093,nn,nn00862768,2023-07-16T14:39:28.507Z,"11 km NNW of Virginia City, Nevada",earthquake,,2,0.14,3,reviewed,nn,nn
 2023-07-16T13:40:18.103Z,55.0132,-157.5961,36.05,3.3,ml,22,217,1.4,0.47,us,us7000kg5i,2023-07-16T16:00:55.040Z,"Alaska Peninsula",earthquake,9.37,24.067,0.085,18,reviewed,us,us
-2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-17T01:29:25.421Z,"10 km NNW of Virginia City, Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
+2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-17T03:05:45.679Z,"10 km NNW of Virginia City, Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
 2023-07-16T13:33:22.614Z,39.3944,-119.7186,6.6,0.8,ml,10,124.2,0.036,0.146,nn,nn00862767,2023-07-16T14:36:21.339Z,"Nevada",earthquake,,1.2,0.16,4,reviewed,nn,nn
 2023-07-16T13:33:04.690Z,46.225833333333334,-119.60266666666666,7.44,0.47000000000000003,ml,10,206,0.05992,0.05,uw,uw61932062,2023-07-17T00:42:24.370Z,"9 km WSW of Benton City, Washington",earthquake,0.6,0.19,0.05913301034556315,7,reviewed,uw,uw
 2023-07-16T13:32:24.780Z,33.039,-116.427,8.55,0.7,ml,13,85,0.0684,0.19,ci,ci39614162,2023-07-16T13:51:17.167Z,"17km ESE of Julian, CA",earthquake,0.39,1.25,0.198,6,reviewed,ci,ci
@@ -214,8 +220,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T07:03:22.988Z,54.3141,-160.8799,40.194,4.4,mb,28,169,1.063,0.84,us,us7000kg37,2023-07-16T08:06:09.954Z,"116 km SSW of Sand Point, Alaska",earthquake,8.16,9.963,0.203,7,reviewed,us,us
 2023-07-16T07:02:00.040Z,54.5192,-160.9962,6.8,3.8,ml,,,,0.78,ak,ak02391x1ua6,2023-07-16T07:41:15.805Z,"96 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T07:00:22.912Z,54.5021,-161.0341,8.136,3.4,ml,31,203,0.908,0.49,us,us7000kg34,2023-07-16T07:40:41.193Z,"98 km SSW of Sand Point, Alaska",earthquake,2.9,8.8,0.128,8,reviewed,us,us
-2023-07-16T06:51:19.871Z,54.6974,-160.7965,49.476,5.7,mb,26,150,0.679,0.58,us,us7000kg31,2023-07-17T02:02:19.034Z,"73 km SSW of Sand Point, Alaska",earthquake,6.19,10.67,0.173,12,reviewed,us,us
-2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-17T01:00:55.331Z,"98 km S of Sand Point, Alaska",earthquake,4.08,3.279,0.025,156,reviewed,us,us
+2023-07-16T06:51:19.871Z,54.6974,-160.7965,49.476,5.7,mb,26,150,0.679,0.58,us,us7000kg31,2023-07-17T02:09:34.232Z,"73 km SSW of Sand Point, Alaska",earthquake,6.19,10.67,0.173,12,reviewed,us,us
+2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-17T03:06:08.608Z,"98 km S of Sand Point, Alaska",earthquake,4.08,3.279,0.025,156,reviewed,us,us
 2023-07-16T06:46:57.440Z,61.6357,-147.7284,28.6,1.5,ml,,,,0.67,ak,ak02391wpya8,2023-07-16T06:48:46.536Z,"19 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-16T06:44:37.973Z,38.5333,-118.1584,6.2,1,ml,7,73.98,0.392,0.1657,nn,nn00862795,2023-07-16T19:10:01.251Z,"16 km NNW of Mina, Nevada",earthquake,,1.7,0.09,3,reviewed,nn,nn
 2023-07-16T06:35:49.628Z,55.7086,-158.4637,86,3,ml,,,,1,ak,ak02391wnksy,2023-07-16T07:02:44.361Z,"48 km ESE of Perryville, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -257,11 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T03:37:32.670Z,38.5382,-118.1611,8.7,3.1,ml,16,45.27,0.366,0.1759,nn,nn00862696,2023-07-16T13:42:40.816Z,"17 km NNW of Mina, Nevada",earthquake,,1.3,0.15,8,reviewed,nn,nn
 2023-07-16T03:34:29.747Z,63.2693,-151.7372,0,2,ml,,,,1.09,ak,ak02391uv0qm,2023-07-16T03:36:38.550Z,"30 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T03:27:20.246Z,59.5004,-151.7341,56.5,1.4,ml,,,,0.38,ak,ak02391uthzs,2023-07-16T03:29:52.088Z,"Kenai Peninsula, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-07-16T03:04:07.059Z,61.7012,-150.3105,45.6,1.1,ml,,,,0.78,ak,ak02391uojje,2023-07-16T03:06:31.707Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-07-16T03:02:21.925Z,61.6749,-150.2771,32.6,1.5,ml,,,,0.42,ak,ak02391uo580,2023-07-16T11:08:47.743Z,"15 km WSW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-16T02:58:35.700Z,46.918166666666664,-121.90816666666667,12.15,0.45,ml,22,108,0.02907,0.13,uw,uw61932002,2023-07-16T04:21:04.440Z,"20 km NNE of Ashford, Washington",earthquake,0.34,0.61,0.16459448139578722,14,reviewed,uw,uw
-2023-07-16T02:49:15.119Z,61.7438,-150.7475,44.8,1.5,ml,,,,0.63,ak,ak02391ucrqv,2023-07-16T02:51:41.577Z,"25 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-16T02:48:40.150Z,48.406,-121.85966666666667,3.46,2.05,ml,14,83,0.1611,0.16,uw,uw61931997,2023-07-16T04:40:14.270Z,"14 km NE of Lake Cavanaugh, Washington",earthquake,0.38,15.89,0.0961867385784465,11,reviewed,uw,uw
-2023-07-16T02:45:28.328Z,39.646,-119.6479,5,2.3,ml,29,73.3,0.049,0.166,nn,nn00862692,2023-07-16T15:56:41.843Z,"Nevada",earthquake,,1.5,0.28,8,reviewed,nn,nn
-2023-07-16T02:16:54.870Z,33.3258333,-116.3911667,8.56,0.89,ml,32,37,0.06146,0.24,ci,ci39613954,2023-07-16T02:20:35.300Z,"8km N of Borrego Springs, CA",earthquake,0.39,1.34,0.134,23,automatic,ci,ci
-2023-07-16T02:08:03.837Z,17.6926,-106.1551,10,4.4,mb,41,201,5.059,0.98,us,us7000kg1w,2023-07-16T02:55:16.040Z,"off the coast of Jalisco, Mexico",earthquake,9.38,1.961,0.036,217,reviewed,us,us
