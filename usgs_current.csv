@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T08:46:20.270Z,36.1998329,-120.3219986,11.24,1.62,md,12,156,0.05237,0.03,nc,nc73918641,2023-07-31T08:47:57.465Z,"7 km NNE of Coalinga, CA",earthquake,0.6,0.86,0.08,8,automatic,nc,nc
+2023-07-31T08:42:28.800Z,33.6866667,-116.7915,14.81,0.46,ml,14,81,0.06895,0.14,ci,ci39625946,2023-07-31T08:46:00.272Z,"9 km SW of Idyllwild, CA",earthquake,0.42,0.65,0.057,8,automatic,ci,ci
+2023-07-31T08:39:38.850Z,19.2026672363281,-155.375335693359,30.2000007629395,1.97000003,md,41,175,,0.100000001,hv,hv73504437,2023-07-31T08:42:51.130Z,"10 km E of Pāhala, Hawaii",earthquake,0.51,0.620000005,0.600000024,9,automatic,hv,hv
 2023-07-31T08:31:41.274Z,61.9262,-149.2456,18.7,0.9,ml,,,,0.14,ak,ak0239qqvrwv,2023-07-31T08:33:05.277Z,"20 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-31T08:21:20.120Z,19.2521667480469,-155.410995483398,34.5900001525879,2.38,ml,48,137,,0.159999996,hv,hv73504427,2023-07-31T08:26:58.630Z,"8 km NE of Pāhala, Hawaii",earthquake,0.55,0.660000026,3.13,28,automatic,hv,hv
 2023-07-31T08:19:19.900Z,38.8426666,-122.800499,16.34,0.72,md,12,79,0.008998,0.12,nc,nc73918631,2023-07-31T08:36:16.739Z,"7 km WNW of Cobb, CA",earthquake,2.65,0.84,0.36,14,automatic,nc,nc
@@ -34,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T04:17:19.710Z,38.795166,-122.8284988,8.48,0.29,md,10,141,0.00542,0.02,nc,nc73918581,2023-07-31T04:37:15.379Z,"7 km WNW of The Geysers, CA",earthquake,1.4,5.94,0.14,11,automatic,nc,nc
 2023-07-31T04:15:00.490Z,32.921,-116.3441667,8.75,0.82,ml,20,87,0.04795,0.2,ci,ci39625914,2023-07-31T04:18:36.523Z,"20 km ENE of Pine Valley, CA",earthquake,0.35,0.84,0.149,10,automatic,ci,ci
 2023-07-31T04:08:38.490Z,38.8014984,-122.8160019,2.83,0.62,md,14,75,0.01265,0.02,nc,nc73918576,2023-07-31T06:14:15.069Z,"6 km WNW of The Geysers, CA",earthquake,0.38,0.75,0.28,14,automatic,nc,nc
-2023-07-31T04:08:22.152Z,58.1668,-155.3931,1.2,0.5,ml,,,,0.82,ak,ak0239qod2jr,2023-07-31T04:09:20.104Z,"86 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
+2023-07-31T04:08:22.152Z,58.1668,-155.3931,1.2,0.5,ml,,,,0.82,ak,ak0239qod2jr,2023-07-31T04:09:20.104Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
 2023-07-31T04:07:59.206Z,-48.2872,-76.0652,10,4.8,mb,42,166,2.562,0.73,us,us6000kwsq,2023-07-31T04:24:39.040Z,"285 km WSW of Cochrane, Chile",earthquake,9.21,1.925,0.079,49,reviewed,us,us
 2023-07-31T03:51:13.440Z,17.9471666666667,-66.9166666666667,12.47,2.63,md,10,209,0.04513,0.08,pr,pr71419843,2023-07-31T04:09:57.220Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.51,0.3,0.190880210766698,7,reviewed,pr,pr
 2023-07-31T03:47:04.700Z,45.59283333333333,-124.65,8.08,1.7,ml,7,307,0.5592,0.19,uw,uw61936427,2023-07-31T06:56:31.840Z,"55 km WNW of Cape Meares, Oregon",earthquake,4.27,15.95,0.2016631081734317,5,reviewed,uw,uw
@@ -210,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T09:20:13.430Z,33.6488333,-116.7133333,15.58,0.5,ml,17,89,0.06218,0.17,ci,ci39625498,2023-07-30T14:15:56.819Z,"10 km S of Idyllwild, CA",earthquake,0.42,0.59,0.277,11,reviewed,ci,ci
 2023-07-30T09:08:54.460Z,19.4260005950928,-155.273162841797,0.109999999403954,1.81,ml,15,107,,0.0799999982,hv,hv73503297,2023-07-30T09:14:24.250Z,"4 km WSW of Volcano, Hawaii",earthquake,0.17,0.140000001,0.23,6,automatic,hv,hv
 2023-07-30T08:58:48.833Z,65.4409,-144.7616,0,1.5,ml,,,,0.89,ak,ak0239p3i8c3,2023-07-30T09:01:31.438Z,"14 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-30T08:53:20.570Z,38.796833,-122.8073349,3.08,0.29,md,7,149,0.009125,0.02,nc,nc73918211,2023-07-30T10:29:15.931Z,"5 km WNW of The Geysers, CA",earthquake,0.67,2.39,0.07,9,automatic,nc,nc
-2023-07-30T08:50:51.890Z,38.7931671,-122.8099976,3,1.12,md,22,77,0.007258,0.03,nc,nc73918206,2023-07-30T10:01:12.771Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.49,0.19,21,automatic,nc,nc
-2023-07-30T08:50:29.850Z,44.5833333333333,-112.542166666667,5.95,1.56,ml,8,125,0.08025,0.04,mb,mb90022878,2023-07-30T13:31:44.180Z,"7 km SSE of Lima, Montana",earthquake,0.27,0.65,0.219593027866064,14,reviewed,mb,mb
-2023-07-30T08:43:59.033Z,-55.9427,-27.3692,53.239,5.2,mb,60,67,5.492,0.7,us,us6000kwnm,2023-07-30T09:02:27.040Z,"South Sandwich Islands region",earthquake,10.81,7.716,0.062,86,reviewed,us,us
