@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-07T13:14:22.250Z,33.6445,-116.6978333,14.07,0.5,ml,17,66,0.0704,0.13,ci,ci40531152,2023-08-07T13:17:53.934Z,"10 km NNW of Anza, CA",earthquake,0.39,0.56,0.091,9,automatic,ci,ci
+2023-08-07T13:27:04.455Z,64.7266,-150.9639,10.3,1.1,ml,,,,0.78,ak,ak023a2elfot,2023-08-07T13:29:15.672Z,"34 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-07T13:14:22.250Z,33.6445,-116.6978333,14.07,0.5,ml,17,66,0.0704,0.13,ci,ci40531152,2023-08-07T13:35:34.943Z,"10 km NNW of Anza, CA",earthquake,0.39,0.56,0.091,9,reviewed,ci,ci
+2023-08-07T13:09:23.354Z,31.6637,-104.392,5,3,ml,29,102,0.093,0.54,us,us6000kyew,2023-08-07T13:23:59.040Z,"56 km S of Whites City, New Mexico",earthquake,1.52,1.885,0.055,68,reviewed,us,us
 2023-08-07T13:03:52.790Z,38.8326683,-122.8161697,1.71,0.7,md,12,54,0.01041,0.01,nc,nc73921426,2023-08-07T13:20:13.677Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.98,0.34,14,automatic,nc,nc
 2023-08-07T12:52:00.490Z,33.0535,-116.2965,10.14,0.66,ml,15,170,0.0988,0.15,ci,ci40531144,2023-08-07T12:55:35.835Z,"18 km WSW of Ocotillo Wells, CA",earthquake,0.56,0.79,0.262,5,automatic,ci,ci
 2023-08-07T12:47:05.031Z,59.6937,-153.2679,123.9,1.5,ml,,,,0.35,ak,ak023a2e4ag7,2023-08-07T12:49:02.891Z,"48 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T08:02:35.159Z,61.4442,-149.2855,30.5,1.2,ml,,,,0.41,ak,ak023a2bgz4r,2023-08-07T08:04:03.029Z,"14 km S of Gateway, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-07T07:48:39.620Z,37.8086662,-122.2371674,7.3,1.37,md,13,167,0.05517,0.03,nc,nc73921361,2023-08-07T10:09:15.561Z,"2 km NNW of Oakland, CA",earthquake,0.4,0.64,0.27,11,automatic,nc,nc
 2023-08-07T07:34:30.650Z,38.8223343,-122.7996674,2.78,0.47,md,7,99,0.008198,0.01,nc,nc73921356,2023-08-07T09:42:16.399Z,"6 km NW of The Geysers, CA",earthquake,0.48,0.98,0.25,8,automatic,nc,nc
-2023-08-07T07:32:53.110Z,33.722,-116.8393333,15.83,0.61,ml,16,163,0.07857,0.18,ci,ci40531104,2023-08-07T07:36:18.798Z,"6 km ESE of Valle Vista, CA",earthquake,0.52,0.62,0.148,14,automatic,ci,ci
+2023-08-07T07:32:53.110Z,33.722,-116.8393333,15.83,0.61,ml,16,163,0.07857,0.18,ci,ci40531104,2023-08-07T13:36:30.384Z,"6 km ESE of Valle Vista, CA",earthquake,0.52,0.62,0.148,14,reviewed,ci,ci
 2023-08-07T07:23:27.487Z,8.8732,93.8368,68.129,5.1,mww,49,98,4.758,0.82,us,us6000kye0,2023-08-07T07:43:05.040Z,"Nicobar Islands, India region",earthquake,12.51,7.488,0.098,10,reviewed,us,us
 2023-08-07T07:19:38.280Z,38.8154984,-122.8151703,2.78,1.02,md,27,48,0.008833,0.02,nc,nc73921351,2023-08-07T07:38:11.656Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.41,0.26,26,automatic,nc,nc
 2023-08-07T07:11:11.099Z,35.46183333,-98.0525,5.44,1.22,ml,59,66,0.04229170093,0.45,ok,ok2023pivx,2023-08-07T12:35:27.258Z,"11 km SW of El Reno, Oklahoma",earthquake,,0.9,0.3,5,reviewed,ok,ok
@@ -66,10 +68,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T01:13:47.934Z,59.4116,-152.5832,84.3,1.6,ml,,,,0.82,ak,ak023a27dbrd,2023-08-07T01:16:05.240Z,"38 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-07T01:06:09.739Z,57.4703,-153.5769,11.7,3.2,ml,,,,0.72,ak,ak023a27bqst,2023-08-07T01:08:23.186Z,"25 km ESE of Larsen Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T00:57:01.938Z,45.7375,148.9089,162.942,4.6,mb,73,162,4.429,1.04,us,us6000kyd8,2023-08-07T01:16:24.040Z,"98 km NE of Kuril’sk, Russia",earthquake,9.3,7.979,0.033,265,reviewed,us,us
-2023-08-07T00:53:23.970Z,32.8278333,-116.62,0.28,0.74,ml,13,127,0.1538,0.41,ci,ci40531024,2023-08-07T00:56:53.796Z,"8 km W of Pine Valley, CA",earthquake,1.54,31.61,0.337,5,automatic,ci,ci
 2023-08-07T00:30:05.020Z,40.6660004,-121.8868332,13.63,1.89,md,11,98,0.1718,0.14,nc,nc73921241,2023-08-07T03:25:14.203Z,"16 km SSE of Round Mountain, CA",earthquake,0.62,2.99,0.14,9,automatic,nc,nc
 2023-08-07T00:29:21.458Z,66.2079,-149.3391,18.2,1.4,ml,,,,0.58,ak,ak023a26v9kh,2023-08-07T00:31:12.611Z,"northern Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-07T00:26:15.470Z,32.979,-116.415,13.35,0.85,ml,9,204,0.3406,0.14,ci,ci40531016,2023-08-07T00:29:52.636Z,"20 km NNE of Pine Valley, CA",earthquake,1.76,4.22,0.178,5,automatic,ci,ci
 2023-08-07T00:20:46.890Z,69.6118,-145.1377,0,2.8,ml,,,,0.76,ak,ak023a26te35,2023-08-07T00:55:47.040Z,"82 km SW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-07T00:20:34.820Z,33.8955,-116.2891667,6.72,0.76,ml,14,78,0.1008,0.12,ci,ci40531008,2023-08-07T00:24:01.138Z,"13 km NE of Thousand Palms, CA",earthquake,0.24,0.84,0.108,13,automatic,ci,ci
 2023-08-07T00:18:55.450Z,35.7445,-117.5538333,11.32,1.25,ml,14,171,0.1323,0.19,ci,ci40531000,2023-08-07T00:22:41.100Z,"14 km W of Searles Valley, CA",earthquake,0.66,0.79,0.203,7,automatic,ci,ci
@@ -156,6 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T13:57:50.780Z,34.0211667,-116.7893333,15.14,1.16,ml,50,56,0.02072,0.2,ci,ci40530824,2023-08-06T15:56:24.941Z,"12 km N of Cabazon, CA",earthquake,0.21,0.49,0.142,27,reviewed,ci,ci
 2023-08-06T13:57:42.940Z,34.0273333,-116.7795,15.39,0.64,ml,25,89,0.02475,0.15,ci,ci37563164,2023-08-06T16:14:36.092Z,"12 km N of Cabazon, CA",earthquake,0.25,0.59,0.083,12,reviewed,ci,ci
 2023-08-06T13:55:33.767Z,61.3589,-151.3748,72.9,1.4,ml,,,,0.75,ak,ak023a0r85i8,2023-08-06T13:57:49.223Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-06T13:43:37.530Z,36.0308333,-117.8086667,0.43,1.01,ml,7,104,0.04824,0.15,ci,ci40530808,2023-08-06T13:47:04.641Z,"13 km E of Coso Junction, CA",earthquake,0.55,0.61,0.059,5,automatic,ci,ci
-2023-08-06T13:34:03.500Z,19.1518325805664,-155.362670898438,27.3199996948242,2.33,ml,50,182,,0.129999995,hv,hv73512397,2023-08-06T13:42:32.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.55,0.74000001,3.58,24,automatic,hv,hv
-2023-08-06T13:31:29.060Z,31.5281667,-115.6221667,8.9,2.12,ml,8,100,0.1942,0.27,ci,ci40530792,2023-08-06T13:34:56.286Z,"89 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.7,4.28,0.169,6,automatic,ci,ci
