@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-12T20:38:19.880Z,34.3151667,-119.3723333,0.34,1.71,ml,15,183,0.2114,0.24,ci,ci40535536,2023-08-12T20:42:02.770Z,"14 km WNW of Ventura, CA",earthquake,0.6,31.61,0.184,29,automatic,ci,ci
 2023-08-12T20:31:45.360Z,33.4716667,-116.5766667,11.59,0.81,ml,25,99,0.03135,0.13,ci,ci40535528,2023-08-12T20:35:22.919Z,"13 km SE of Anza, CA",earthquake,0.28,0.39,0.123,18,automatic,ci,ci
+2023-08-12T20:27:19.210Z,18.2508333333333,-67.8315,89.61,3.37,md,9,318,0.3601,0.41,pr,pr71421398,2023-08-12T20:50:14.850Z,"62 km W of Rincón, Puerto Rico",earthquake,2.99,2.15,0.0455557377032672,7,reviewed,pr,pr
 2023-08-12T20:17:42.552Z,62.0024,-148.7939,49.1,1.6,ml,,,,1.55,ak,ak023aase567,2023-08-12T20:20:11.361Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-12T19:38:40.130Z,47.460166666666666,-121.8465,22.3,1.31,ml,20,133,0.03831,0.17,uw,uw61940872,2023-08-12T20:25:16.120Z,"Washington",earthquake,0.92,0.51,0.19943113387239086,15,reviewed,uw,uw
 2023-08-12T18:49:49.261Z,53.4903,-163.7337,38.301,4.3,mb,28,171,1.162,0.64,us,us6000kzlb,2023-08-12T19:56:38.925Z,"152 km ESE of Akutan, Alaska",earthquake,6.79,9.522,0.133,16,reviewed,us,us
@@ -26,9 +27,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T15:21:47.100Z,38.8268333,-122.7878333,1.89,0.31,md,13,84,0.01172,0.01,nc,nc73923371,2023-08-12T18:37:15.891Z,"6 km W of Cobb, CA",earthquake,0.33,0.44,0.2,14,reviewed,nc,nc
 2023-08-12T15:20:39.389Z,35.48446655,-98.03052521,1.081605554,2.08,ml,13,64.79167175,0.06004053727,1.160603094,ok,ok2023pspo,2023-08-12T18:56:25.786Z,"Oklahoma",earthquake,3.497393775,3.000104469,0.26,11,automatic,ok,ok
 2023-08-12T15:20:36.987Z,61.4812,-151.0307,72.3,1.4,ml,,,,0.5,ak,ak023aapflv6,2023-08-12T15:22:02.858Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-12T15:15:27.499Z,50.0812,177.8004,32.7,3,ml,,,,0.79,ak,ak023aapek3d,2023-08-12T19:50:22.676Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,5.1,,,reviewed,ak,ak
+2023-08-12T15:15:25.470Z,50.0421,177.6147,35,3.3,ml,15,310,1.715,0.5,us,us6000kzle,2023-08-12T21:07:07.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,10.48,2.026,0.091,22,reviewed,us,us
 2023-08-12T15:15:09.172Z,61.3322,-152.22,0.1,1.3,ml,,,,0.92,ak,ak023aapeh51,2023-08-12T15:17:25.315Z,"64 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-12T15:14:13.280Z,19.1631660461426,-155.506332397461,32.1199989318848,2.41,ml,46,109,,0.129999995,hv,hv73521182,2023-08-12T15:22:30.393Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.49,0.75,3.02,24,automatic,hv,hv
+2023-08-12T15:14:13.280Z,19.1631660461426,-155.506332397461,32.1199989318848,2.41,ml,46,109,,0.129999995,hv,hv73521182,2023-08-12T21:04:47.040Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.49,0.75,3.02,24,automatic,hv,hv
 2023-08-12T15:03:38.890Z,34.3455,-119.3933333,0.15,1.29,ml,9,191,0.1922,0.27,ci,ci40535248,2023-08-12T15:07:13.161Z,"13 km ESE of Carpinteria, CA",earthquake,1.08,31.61,0.178,19,automatic,ci,ci
 2023-08-12T14:56:10.506Z,64.8385,-149.0587,18.6,0.8,ml,,,,0.11,ak,ak023aap1tzu,2023-08-12T14:58:37.981Z,"26 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-12T14:53:59.280Z,34.3221667,-119.3825,0.05,1.45,ml,14,183,0.2085,0.25,ci,ci40535232,2023-08-12T14:57:43.096Z,"15 km WNW of Ventura, CA",earthquake,0.78,31.61,0.129,20,automatic,ci,ci
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T01:43:33.590Z,38.7581673,-122.7040024,1.43,1.29,md,9,125,0.01066,0.03,nc,nc73923221,2023-08-12T04:06:17.949Z,"2 km SSW of Anderson Springs, CA",earthquake,0.51,0.49,0.09,9,automatic,nc,nc
 2023-08-12T01:37:05.180Z,33.3815,-116.5596667,14.85,0.63,ml,13,168,0.1184,0.21,ci,ci40534920,2023-08-12T01:40:38.237Z,"13 km NNE of Warner Springs, CA",earthquake,0.98,1.98,0.177,9,automatic,ci,ci
 2023-08-12T01:28:20.340Z,18.0788333333333,-66.8816666666667,21.39,2.26,md,8,132,0.1032,0.16,pr,pr71421348,2023-08-12T01:52:49.610Z,"5 km NNE of Lluveras, Puerto Rico",earthquake,0.67,1.48,0.081043214083766,5,reviewed,pr,pr
-2023-08-12T01:19:54.760Z,37.8676667,-121.7873333,13.85,2.64,md,104,117,0.05844,0.15,nc,nc73923216,2023-08-12T17:23:11.168Z,"8 km SW of Brentwood, CA",earthquake,0.2,0.33,0.148,114,reviewed,nc,nc
+2023-08-12T01:19:54.760Z,37.8676667,-121.7873333,13.85,2.64,md,104,117,0.05844,0.15,nc,nc73923216,2023-08-12T20:46:47.040Z,"8 km SW of Brentwood, CA",earthquake,0.2,0.33,0.148,114,reviewed,nc,nc
 2023-08-12T01:02:09.088Z,61.6033,-146.3619,32.5,2,ml,,,,0.73,ak,ak023aagzmcs,2023-08-12T01:03:39.580Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-12T00:44:45.490Z,33.0176667,-116.451,10.21,0.68,ml,16,137,0.05694,0.29,ci,ci40534904,2023-08-12T00:48:18.220Z,"16 km ESE of Julian, CA",earthquake,0.57,1,0.042,8,automatic,ci,ci
 2023-08-12T00:31:04.610Z,38.8271675,-122.8048325,2.45,0.77,md,15,81,0.005564,0.02,nc,nc73923211,2023-08-12T00:55:16.950Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.8,0.17,16,automatic,nc,nc
@@ -173,8 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T21:22:05.524Z,39.3433,-119.9966,8.4,1.2,ml,15,46.4,0.059,0.1563,nn,nn00864339,2023-08-11T22:41:59.290Z,"6 km SSE of Floriston, California",earthquake,,1.5,0.23,8,reviewed,nn,nn
 2023-08-11T21:20:32.350Z,58.2308333333333,-155.159833333333,3.63,0.04,ml,7,220,,0.14,av,av91997661,2023-08-12T03:51:56.400Z,"Alaska Peninsula",earthquake,0.6,0.86,0.153897220926978,7,reviewed,av,av
 2023-08-11T21:19:25.973Z,59.6081,-152.346,72.7,1.4,ml,,,,0.34,ak,ak023a95gmfp,2023-08-11T21:21:23.624Z,"34 km WSW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-08-11T21:07:22.462Z,63.0816,-149.8475,73.6,1.8,ml,,,,0.61,ak,ak023a95e1ih,2023-08-11T21:09:17.700Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-11T20:54:23.080Z,19.2888336181641,-155.356674194336,30.7900009155273,1.82000005,md,32,137,,0.129999995,hv,hv73520247,2023-08-11T20:57:26.220Z,"15 km NE of Pāhala, Hawaii",earthquake,0.62,0.689999998,1.79999995,10,automatic,hv,hv
-2023-08-11T20:53:22.360Z,35.1491667,-118.3986667,-0.84,1.2,ml,13,63,0.143,0.22,ci,ci40534680,2023-08-11T22:20:13.851Z,"5 km ENE of Tehachapi, CA",quarry blast,0.49,31.61,0.098,15,reviewed,ci,ci
-2023-08-11T20:51:37.590Z,37.2536667,-122.1431667,6.03,0.7,md,13,105,0.0609,0.14,nc,nc73923156,2023-08-11T22:19:17.052Z,"11 km W of Saratoga, CA",earthquake,0.39,0.92,0.188,9,reviewed,nc,nc
-2023-08-11T20:49:48.530Z,58.19,-155.3135,2.44,0.33,ml,11,99,,0.08,av,av91997636,2023-08-12T03:49:04.760Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.31,0.263098014550965,11,reviewed,av,av
