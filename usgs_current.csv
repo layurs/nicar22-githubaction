@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-14T22:28:26.860Z,40.1453323,-123.859169,19.29,2.03,md,16,132,0.0969,0.05,nc,nc73924166,2023-08-14T22:30:00.004Z,"4 km NW of Redway, CA",earthquake,0.47,0.41,0.05,7,automatic,nc,nc
+2023-08-14T22:28:26.860Z,40.1453323,-123.859169,19.29,2.03,md,16,132,0.0969,0.05,nc,nc73924166,2023-08-14T22:37:10.941Z,"4 km NW of Redway, CA",earthquake,0.47,0.41,0.05,7,automatic,nc,nc
 2023-08-14T22:14:36.155Z,57.258,-155.4118,143.1,3.7,ml,,,,0.84,ak,ak023ae4n1q7,2023-08-14T22:23:55.018Z,"67 km WSW of Karluk, Alaska",earthquake,,9.8,,,automatic,ak,ak
-2023-08-14T22:13:13.087Z,53.7482,-164.465,39.463,5,mww,108,139,0.761,0.58,us,us6000kzz0,2023-08-14T22:33:21.415Z,"Unimak Island region, Alaska",earthquake,5.75,5.536,0.047,43,reviewed,us,us
+2023-08-14T22:13:13.087Z,53.7482,-164.465,39.463,5,mww,108,139,0.761,0.58,us,us6000kzz0,2023-08-14T22:53:23.814Z,"Unimak Island region, Alaska",earthquake,5.75,5.536,0.047,43,reviewed,us,us
 2023-08-14T22:11:39.380Z,33.6598333,-116.7643333,8.21,1.17,ml,15,99,0.06597,0.34,ci,ci40536984,2023-08-14T22:15:20.496Z,"10 km SSW of Idyllwild, CA",earthquake,0.82,1.68,0.409,18,automatic,ci,ci
 2023-08-14T21:51:45.794Z,60.9911,-146.5264,20.9,1.6,ml,,,,0.68,ak,ak023ae49kcz,2023-08-14T22:01:10.763Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-14T21:47:32.910Z,58.2425,-155.1998,1.7,0.3,ml,,,,0.31,ak,ak023ae48oi3,2023-08-14T21:49:29.326Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T19:37:59.980Z,38.8313332,-122.8166656,1.79,1.42,md,25,47,0.009452,0.02,nc,nc73924111,2023-08-14T20:37:14.313Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.13,27,automatic,nc,nc
 2023-08-14T19:19:20.370Z,33.1768333,-116.4193333,10.61,0.83,ml,28,61,0.09114,0.24,ci,ci40536752,2023-08-14T19:23:03.876Z,"10 km SSW of Borrego Springs, CA",earthquake,0.41,0.78,0.207,15,automatic,ci,ci
 2023-08-14T19:17:49.450Z,33.8666667,-117.5071667,0.58,1.1,ml,34,42,0.07133,0.32,ci,ci40536744,2023-08-14T19:21:46.071Z,"2 km SE of Home Gardens, CA",quarry blast,0.49,31.61,0.209,19,automatic,ci,ci
-2023-08-14T19:03:33.670Z,34.8251667,-118.7781667,3.21,1.35,ml,14,60,0.04827,0.26,ci,ci40536720,2023-08-14T19:07:05.077Z,"8 km ENE of Gorman, CA",earthquake,0.63,1.3,0.156,24,automatic,ci,ci
+2023-08-14T19:03:33.440Z,34.8528333,-118.7825,-1.17,1.3,ml,12,64,0.07608,0.16,ci,ci40536720,2023-08-14T22:37:34.948Z,"8 km E of Lebec, CA",quarry blast,0.42,31.61,0.073,11,reviewed,ci,ci
 2023-08-14T18:46:54.353Z,36.7646,-116.2521,9.9,-0.2,ml,8,119.17,0.047,0.0518,nn,nn00864435,2023-08-14T18:48:40.171Z,"47 km ESE of Beatty, Nevada",earthquake,,1.3,0.09,4,automatic,nn,nn
 2023-08-14T18:31:56.910Z,19.1728324890137,-155.49983215332,32.0200004577637,2.05,ml,38,138,,0.150000006,hv,hv73525442,2023-08-14T18:37:27.930Z,"4 km SW of Pāhala, Hawaii",earthquake,0.5,0.810000002,3.97,9,automatic,hv,hv
 2023-08-14T18:30:26.090Z,33.7121667,-117.332,-0.45,1.36,ml,24,89,0.03748,0.18,ci,ci40536712,2023-08-14T22:32:40.765Z,"5 km N of Lake Elsinore, CA",quarry blast,0.47,31.61,0.14,24,reviewed,ci,ci
@@ -192,7 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T23:04:59.870Z,53.8486666666667,-166.795166666667,5.24,0.88,ml,7,86,,0.11,av,av92000426,2023-08-14T02:18:28.560Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.31,1.11,0.255312111665008,7,reviewed,av,av
 2023-08-13T23:01:21.840Z,35.8363333,-119.2591667,22.1,2.18,ml,28,90,0.1418,0.3,ci,ci40536144,2023-08-14T18:14:34.250Z,"8 km N of Delano, CA",earthquake,0.6,1.21,0.161,21,reviewed,ci,ci
 2023-08-13T22:54:33.750Z,53.8466666666667,-166.795833333333,5.9,0.63,ml,7,85,,0.13,av,av92000416,2023-08-14T02:14:49.660Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.36,1.14,0.25529951502411,7,reviewed,av,av
-2023-08-13T22:53:49.850Z,53.8511666666667,-166.797666666667,4.68,0.46,ml,7,87,,0.11,av,av92000411,2023-08-14T02:11:38.180Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.3,1,0.290177354524051,7,reviewed,av,av
-2023-08-13T22:49:31.700Z,33.6775,-116.7803333,17.23,0.6,ml,22,75,0.06773,0.12,ci,ci40536128,2023-08-14T17:59:42.460Z,"9 km SW of Idyllwild, CA",earthquake,0.28,0.47,0.066,14,reviewed,ci,ci
-2023-08-13T22:47:41.890Z,19.378833770752,-155.278167724609,1.61000001430511,2.59,ml,31,82,,0.230000004,hv,hv73523932,2023-08-14T04:10:45.903Z,"8 km SSW of Volcano, Hawaii",earthquake,0.37,0.330000013,0.34,18,automatic,hv,hv
-2023-08-13T22:38:06.120Z,58.1775,-155.291166666667,2.22,0.52,ml,9,98,,0.08,av,av92000391,2023-08-14T02:08:40.050Z,"Alaska Peninsula",earthquake,0.22,0.62,0.311677960216432,9,reviewed,av,av
