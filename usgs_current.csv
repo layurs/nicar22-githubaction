@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-24T03:36:26.810Z,35.9253349,-120.4736633,4.64,1.55,md,20,59,0.02138,0.06,nc,nc73927816,2023-08-24T03:47:12.045Z,"5 km NW of Parkfield, CA",earthquake,0.29,0.45,0.18,14,automatic,nc,nc
-2023-08-24T03:29:05.500Z,35.9251671,-120.4738312,4.51,1.41,md,18,74,0.02156,0.07,nc,nc73927811,2023-08-24T03:37:10.991Z,"5 km NW of Parkfield, CA",earthquake,0.31,0.54,0.15,8,automatic,nc,nc
-2023-08-24T03:28:38.360Z,35.9253349,-120.4746704,4.19,1.18,md,12,103,0.02146,0.07,nc,nc73927806,2023-08-24T03:30:15.112Z,"5 km NW of Parkfield, CA",earthquake,0.41,0.89,0.03,5,automatic,nc,nc
+2023-08-24T03:29:05.500Z,35.9251671,-120.4738312,4.51,1.41,md,18,74,0.02156,0.07,nc,nc73927811,2023-08-24T04:06:15.152Z,"5 km NW of Parkfield, CA",earthquake,0.31,0.54,0.15,8,automatic,nc,nc
+2023-08-24T03:28:38.360Z,35.9253349,-120.4746704,4.19,1.18,md,12,103,0.02146,0.07,nc,nc73927806,2023-08-24T03:56:13.096Z,"5 km NW of Parkfield, CA",earthquake,0.41,0.89,0.03,5,automatic,nc,nc
 2023-08-24T03:27:07.415Z,63.314,-149.5983,13.1,1.2,ml,,,,0.58,ak,ak023aucs09h,2023-08-24T03:29:02.181Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T03:17:37.300Z,35.7863333,-117.5801667,7.02,1.21,ml,13,178,0.1518,0.2,ci,ci39649154,2023-08-24T03:21:11.802Z,"16 km W of Searles Valley, CA",earthquake,0.65,1.2,0.154,8,automatic,ci,ci
 2023-08-24T03:04:28.360Z,38.8193321,-122.7988358,3.2,1.1,md,24,37,0.009671,0.02,nc,nc73927796,2023-08-24T03:37:09.992Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.46,0.12,23,automatic,nc,nc
@@ -131,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T18:31:05.760Z,19.3816666666667,-155.280833333333,1.14,1.04,md,12,163,,0.07,hv,hv73540287,2023-08-23T19:59:14.460Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.2,0.0895002038644912,2,reviewed,hv,hv
 2023-08-23T18:28:28.720Z,19.3955,-155.277,1.19,1.31,md,14,56,,0.1,hv,hv73540277,2023-08-23T20:09:35.170Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.25,0.13550171785727,2,reviewed,hv,hv
 2023-08-23T18:27:22.770Z,19.3883333333333,-155.28,1.47,0.66,md,11,85,,0.07,hv,hv73540272,2023-08-23T20:13:55.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.22,0.0121946170905392,2,reviewed,hv,hv
-2023-08-23T18:25:15.380Z,19.3995,-155.2735,11.56,1.05,md,25,97,,0.13,hv,hv73540262,2023-08-23T20:18:56.210Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.28,0.258687123190057,11,reviewed,hv,hv
+2023-08-23T18:25:15.380Z,19.3995,-155.2735,11.56,1.05,md,25,97,,0.13,hv,hv73540262,2023-08-23T20:18:56.210Z,"6 km SW of Volcano, Hawaii",earthquake,0.39,0.28,0.258687123190057,11,reviewed,hv,hv
 2023-08-23T18:22:28.717Z,59.8669,-139.34,0,1.5,ml,,,,0.97,ak,ak023asy552h,2023-08-23T18:29:20.285Z,"41 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T18:21:57.740Z,19.3993333333333,-155.284,1.37,0.92,md,12,56,,0.08,hv,hv73540257,2023-08-23T19:04:01.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.33,0.250359756020153,2,reviewed,hv,hv
 2023-08-23T18:18:31.610Z,19.4041666666667,-155.289833333333,1.33,0.42,md,12,71,,0.08,hv,hv73540252,2023-08-23T19:12:10.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.31,0.125267778184737,3,reviewed,hv,hv
@@ -366,8 +366,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T04:26:41.110Z,38.8163338,-122.8191681,2.46,1.1,md,19,85,0.01001,0.01,nc,nc73927311,2023-08-23T06:22:13.669Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.42,0.11,20,automatic,nc,nc
 2023-08-23T04:14:10.936Z,57.2038,-156.27,81.3,1.4,ml,,,,0.38,ak,ak023asprbc5,2023-08-23T04:16:33.401Z,"76 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-23T04:08:58.460Z,38.7944984,-122.7494965,2.09,0.79,md,18,92,0.01006,0.03,nc,nc73927301,2023-08-23T05:54:13.522Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.5,0.14,17,automatic,nc,nc
-2023-08-23T04:01:40.420Z,33.2511667,-116.2905,8.14,0.7,ml,16,160,0.06586,0.15,ci,ci39648082,2023-08-23T13:22:32.545Z,"8 km E of Borrego Springs, CA",earthquake,0.45,0.87,0.132,10,reviewed,ci,ci
-2023-08-23T04:00:00.931Z,58.9174,-151.3497,25.2,1.8,ml,,,,0.48,ak,ak023aspoakw,2023-08-23T04:03:04.061Z,"55 km SSE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-23T03:55:15.820Z,19.376,-155.2845,1.64,2.03,ml,26,94,,0.09,hv,hv73538532,2023-08-23T04:47:23.890Z,"9 km SW of Volcano, Hawaii",earthquake,0.16,0.18,0.244780119295656,14,reviewed,hv,hv
-2023-08-23T03:50:25.974Z,59.9055,-152.7143,109.1,1.5,ml,,,,0.19,ak,ak023aspdmmx,2023-08-23T03:52:11.039Z,"51 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-23T03:50:14.200Z,46.9048333333333,-112.525,12.39,1.33,ml,12,70,0.06527,0.11,mb,mb90025228,2023-08-23T18:13:33.910Z,"13 km ESE of Lincoln, Montana",earthquake,0.49,0.81,0.175922799065035,8,reviewed,mb,mb
