@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-30T05:45:04.184Z,39.3501,-120.0087,3.5,0.9,ml,9,131.98,0.061,0.2441,nn,nn00865263,2023-08-30T05:47:41.862Z,"Northern California",earthquake,,1,0.24,7,automatic,nn,nn
 2023-08-30T05:08:35.646Z,61.4894,-147.7744,20.8,1.2,ml,,,,0.58,ak,ak023b4b2y0c,2023-08-30T05:10:36.098Z,"36 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-30T04:55:53.980Z,38.7970009,-122.7388306,1.96,0.74,md,8,118,0.01384,0.01,nc,nc73930801,2023-08-30T04:57:29.081Z,"3 km NE of The Geysers, CA",earthquake,0.45,1.03,0.05,9,automatic,nc,nc
 2023-08-30T04:54:57.743Z,66.1213,-149.0597,2,1.1,ml,,,,1.63,ak,ak023b4arf1x,2023-08-30T04:57:51.707Z,"12 km N of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -160,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T08:08:52.930Z,33.0323333,-117.8685,5.8,1.59,ml,20,170,0.4289,0.21,ci,ci39653914,2023-08-29T19:39:53.379Z,"50 km SSW of San Clemente, CA",earthquake,0.63,31.61,0.062,13,reviewed,ci,ci
 2023-08-29T08:08:43.211Z,39.3739,78.0863,10,4.6,mb,35,71,2.362,1.25,us,us7000kru3,2023-08-29T08:51:27.040Z,"76 km NE of Dunbage, China",earthquake,7.69,1.915,0.137,16,reviewed,us,us
 2023-08-29T08:07:23.250Z,18.6481666666667,-65.0856666666667,30.8,3.21,md,13,256,0.6061,0.24,pr,pr71422468,2023-08-29T08:22:54.870Z,"37 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.76,7.4,0.0637371280197674,8,reviewed,pr,pr
-2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-30T04:56:56.550Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
+2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-30T05:46:53.352Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
 2023-08-29T07:58:22.440Z,36.742,-121.3925,10.64,0.59,md,12,196,0.04914,0.09,nc,nc73930451,2023-08-29T09:48:12.022Z,"8 km SSW of Ridgemark, CA",earthquake,0.75,0.57,0.359,10,reviewed,nc,nc
 2023-08-29T07:53:27.360Z,33.5161667,-116.5066667,13.77,0.27,ml,17,80,0.04596,0.1,ci,ci39653898,2023-08-29T19:29:04.382Z,"16 km ESE of Anza, CA",earthquake,0.29,0.39,0.122,8,reviewed,ci,ci
 2023-08-29T07:44:59.430Z,46.7765,-121.95833333333333,9.5,0.88,ml,37,45,0.03498,0.16,uw,uw61945622,2023-08-29T22:14:19.580Z,"5 km ENE of Ashford, Washington",earthquake,0.23,0.36,0.24521942448086392,22,reviewed,uw,uw
@@ -179,9 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T06:03:21.450Z,38.8390007,-122.8268356,1.99,0.36,md,7,186,0.01587,0.01,nc,nc73930436,2023-08-29T06:20:13.861Z,"9 km WNW of Cobb, CA",earthquake,0.61,1.78,0.3,9,automatic,nc,nc
 2023-08-29T05:54:32.040Z,46.717333333333336,-121.8905,4.52,0.81,ml,33,84,0.0262,0.13,uw,uw61945612,2023-08-29T21:39:55.450Z,"11 km ESE of Ashford, Washington",earthquake,0.19,0.38,0.14797059656276507,20,reviewed,uw,uw
 2023-08-29T05:52:27.040Z,58.2653333333333,-155.129166666667,31.26,0.29,ml,12,93,,0.12,av,av91114203,2023-08-29T19:18:34.170Z,"87 km NNW of Karluk, Alaska",earthquake,0.45,0.62,0.263956397410344,11,reviewed,av,av
-2023-08-29T05:49:48.530Z,46.775,-121.962,9.04,0.34,ml,26,83,0.03791,0.14,uw,uw61945607,2023-08-29T21:22:46.450Z,"5 km ENE of Ashford, Washington",earthquake,0.28,0.37,0.15192995328458103,10,reviewed,uw,uw
-2023-08-29T05:46:52.549Z,36.01766667,-97.91816667,5.75,1.61,ml,85,37,0.08548322528,0.17,ok,ok2023qwye,2023-08-29T14:37:47.848Z,"4 km N of Dover, Oklahoma",earthquake,,0.4,0.22,38,reviewed,ok,ok
-2023-08-29T05:45:26.007Z,31.66913009,-104.3423697,7.005639647999999,2.3,ml,32,68,0.06609063528,0.2,tx,tx2023qwyd,2023-08-29T11:27:07.275Z,"56 km S of Whites City, New Mexico",earthquake,0.6865394115,0.7339723077,0.2,24,reviewed,tx,tx
-2023-08-29T05:36:59.940Z,61.0978,-151.8657,90.4,0.9,ml,,,,0.31,ak,ak023b2npnfu,2023-08-29T05:38:28.691Z,"39 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-29T05:29:17.870Z,38.8273333,-122.8541667,3.07,0.4,md,19,85,0.002124,0.03,nc,nc73930431,2023-08-29T21:57:15.267Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.31,0.166,17,reviewed,nc,nc
-2023-08-29T05:25:49.600Z,46.78483333333333,-121.94783333333334,9.24,0.6,ml,28,53,0.0248,0.15,uw,uw61945602,2023-08-29T21:08:22.980Z,"6 km ENE of Ashford, Washington",earthquake,0.24,0.35,0.16703963583807546,11,reviewed,uw,uw
