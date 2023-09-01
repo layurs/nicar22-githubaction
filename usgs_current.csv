@@ -1,14 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-01T22:55:44.965Z,34.53382874,-97.2225647,2.690341711,1.74,ml,17,76.9848938,0.1186930761,0.7261291206,ok,ok2023rdsq,2023-09-01T22:58:10.135Z,"10 km WNW of Davis, Oklahoma",earthquake,2.928341717,2.546099794,0.32,9,automatic,ok,ok
+2023-09-01T22:55:45.231Z,34.53289032,-97.22438049,1.420225739,1.74,ml,21,76.93695068,0.1172951236,0.7541007833,ok,ok2023rdsq,2023-09-01T23:00:04.342Z,"10 km WNW of Davis, Oklahoma",earthquake,2.604443825,1.985063121,0.32,9,automatic,ok,ok
 2023-09-01T22:46:27.888Z,56.5207,-158.1394,32.6,2,ml,,,,1.14,ak,ak023b7wi4w4,2023-09-01T22:48:39.078Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-09-01T22:23:12.120Z,38.8343315,-122.8144989,1.58,1.03,md,15,57,0.01145,0.01,nc,nc73931876,2023-09-01T22:25:05.267Z,"8 km W of Cobb, CA",earthquake,0.29,0.64,0.13,18,automatic,nc,nc
 2023-09-01T22:20:51.550Z,38.795166,-122.80867,3.15,1.07,md,18,83,0.008112,0.03,nc,nc73931871,2023-09-01T22:48:11.175Z,"5 km WNW of The Geysers, CA",earthquake,0.33,0.66,0.25,18,automatic,nc,nc
 2023-09-01T22:19:32.400Z,38.8181648,-122.8308334,1.14,0.89,md,9,87,0.005932,0.02,nc,nc73931866,2023-09-01T22:37:13.115Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.91,0.39,12,automatic,nc,nc
-2023-09-01T22:16:59.060Z,33.5818333,-116.755,12.8,1.38,ml,44,40,0.01406,0.17,ci,ci39657114,2023-09-01T22:28:10.050Z,"8 km WNW of Anza, CA",earthquake,0.2,0.38,0.19,27,automatic,ci,ci
+2023-09-01T22:16:59.060Z,33.5818333,-116.755,12.8,1.38,ml,44,40,0.01406,0.17,ci,ci39657114,2023-09-01T23:00:47.710Z,"8 km WNW of Anza, CA",earthquake,0.2,0.38,0.19,27,reviewed,ci,ci
 2023-09-01T22:16:00.800Z,17.9476666666667,-66.926,16.31,2.02,md,6,209,0.05217,0.06,pr,pr71423083,2023-09-01T22:30:14.950Z,"3 km SW of Guánica, Puerto Rico",earthquake,1.64,0.58,0.131761513216208,4,reviewed,pr,pr
 2023-09-01T21:47:45.010Z,38.7944984,-122.8089981,3.22,1.53,md,32,75,0.00771,0.03,nc,nc73931861,2023-09-01T22:25:13.046Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.39,0.14,33,automatic,nc,nc
 2023-09-01T20:55:53.650Z,33.8371667,-116.7683333,16.64,1.07,ml,29,82,0.02443,0.11,ci,ci39657090,2023-09-01T22:33:01.981Z,"9 km S of Cabazon, CA",earthquake,0.18,0.4,0.173,20,reviewed,ci,ci
-2023-09-01T20:49:55.390Z,50.7116,156.2711,145.997,6.1,mww,286,18,2.558,0.53,us,us7000ksrl,2023-09-01T22:53:42.072Z,"Kuril Islands",earthquake,8.34,3.224,0.035,77,reviewed,us,us
+2023-09-01T20:49:55.390Z,50.7116,156.2711,145.997,6.1,mww,286,18,2.558,0.53,us,us7000ksrl,2023-09-01T22:57:41.656Z,"Kuril Islands",earthquake,8.34,3.224,0.035,77,reviewed,us,us
 2023-09-01T20:43:46.528Z,60.7127,-152.5196,12,2.1,ml,,,,0.22,ak,ak023b7vanz0,2023-09-01T20:45:14.344Z,"66 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-01T20:43:01.300Z,36.26766667,-97.26883333,5.56,2.65,ml,98,27,0,0.21,ok,ok2023rdog,2023-09-01T21:57:46.295Z,"2 km SE of Perry, Oklahoma",earthquake,,0.3,0.23,37,reviewed,ok,ok
 2023-09-01T20:27:50.970Z,33.5106667,-116.451,10.78,0.7,ml,16,103,0.02466,0.09,ci,ci39657082,2023-09-01T22:29:24.109Z,"21 km ESE of Anza, CA",earthquake,0.26,0.52,0.186,12,reviewed,ci,ci
@@ -171,7 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T23:29:35.698Z,62.1332,-147.5165,32,2,ml,,,,0.81,ak,ak023b69glfl,2023-08-31T23:31:37.477Z,"28 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-31T23:23:51.260Z,38.8408318,-122.8371658,1.67,1.07,md,20,87,0.002595,0.02,nc,nc73931486,2023-08-31T23:40:17.380Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.42,0.2,22,automatic,nc,nc
 2023-08-31T23:18:54.030Z,33.0181667,-117.9088333,5.71,1.98,ml,23,175,0.4761,0.22,ci,ci39656378,2023-09-01T18:21:06.464Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.64,31.61,0.101,18,reviewed,ci,ci
-2023-08-31T23:12:41.380Z,35.34833333,-97.945,10.66,1.24,ml,13,98,0.04769064147,0.09,ok,ok2023rbxr,2023-09-01T19:42:18.943Z,"3 km N of Minco, Oklahoma",earthquake,,0.7,0.34,3,reviewed,ok,ok
-2023-08-31T23:06:35.380Z,35.34283333,-97.94616667,5.93,1.13,ml,19,100,0.05308958201,0.23,ok,ok2023rbxm,2023-09-01T18:18:05.920Z,"3 km N of Minco, Oklahoma",earthquake,,0.8,0.2,4,reviewed,ok,ok
-2023-08-31T23:03:28.790Z,33.3495,-116.383,8.15,0.47,ml,13,119,0.02631,0.1,ci,ci39656370,2023-09-01T18:10:41.397Z,"10 km N of Borrego Springs, CA",earthquake,0.29,0.55,0.087,7,reviewed,ci,ci
-2023-08-31T23:02:11.980Z,35.34966667,-97.9345,10.89,0.85,ml,15,71,0.04319152435,0.16,ok,ok2023rbxi,2023-09-01T19:28:14.490Z,"4 km NNE of Minco, Oklahoma",earthquake,,0.8,0.28,3,reviewed,ok,ok
