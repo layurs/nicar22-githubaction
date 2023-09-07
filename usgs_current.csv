@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-07T22:42:49.497Z,61.2256,-151.2623,66,2.9,ml,,,,0.33,ak,ak023bhtpenv,2023-09-07T22:44:17.965Z,"13 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-07T22:30:48.900Z,38.8185005,-122.7789993,1.55,1.06,md,19,63,0.005397,0.06,nc,nc73934391,2023-09-07T22:32:21.828Z,"5 km W of Cobb, CA",earthquake,0.25,0.45,0.08,19,automatic,nc,nc
+2023-09-07T22:55:44.110Z,38.8318329,-122.8108368,1.89,0.97,md,14,95,0.008447,0.01,nc,nc73934411,2023-09-07T22:57:22.113Z,"8 km W of Cobb, CA",earthquake,0.3,0.52,0.27,15,automatic,nc,nc
+2023-09-07T22:42:49.497Z,61.2256,-151.2623,66,2.9,ml,,,,0.33,ak,ak023bhtpenv,2023-09-07T23:02:07.040Z,"13 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-07T22:30:48.900Z,38.8185005,-122.7789993,1.55,1.06,md,19,63,0.005397,0.06,nc,nc73934391,2023-09-07T22:55:13.205Z,"5 km W of Cobb, CA",earthquake,0.25,0.45,0.08,19,automatic,nc,nc
 2023-09-07T22:25:09.380Z,38.8180008,-122.7808304,1.83,1.08,md,18,58,0.004736,0.02,nc,nc73934386,2023-09-07T22:44:14.149Z,"5 km NNW of The Geysers, CA",earthquake,0.22,0.42,0.13,20,automatic,nc,nc
 2023-09-07T21:54:16.936Z,60.2662,-151.5453,52.3,1.3,ml,,,,0.49,ak,ak023bht6h4t,2023-09-07T21:56:34.812Z,"9 km WNW of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-07T21:51:21.656Z,62.1373,-148.682,41.7,1.2,ml,,,,0.19,ak,ak023bht5ucl,2023-09-07T21:52:50.354Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -33,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T17:06:51.560Z,38.308,-122.7356667,-0.15,0.38,md,5,100,0.08364,0.1,nc,nc73934266,2023-09-07T20:26:04.226Z,"3 km SW of Cotati, CA",quarry blast,0.71,31.61,0.186,5,reviewed,nc,nc
 2023-09-07T16:40:58.830Z,36.0173333,-117.8258333,1.73,0.91,ml,7,171,0.0374,0.16,ci,ci37570052,2023-09-07T18:20:26.206Z,"11 km ESE of Coso Junction, CA",earthquake,0.56,0.35,0.037,1,reviewed,ci,ci
 2023-09-07T16:40:26.580Z,36.0158333,-117.8123333,2.99,0.43,ml,6,193,0.03339,0.07,ci,ci39660514,2023-09-07T18:17:21.188Z,"12 km NE of Little Lake, CA",earthquake,0.27,0.58,0.267,2,reviewed,ci,ci
+2023-09-07T16:37:31.680Z,58.1876666666667,-155.278666666667,2.3,0.05,ml,8,90,,0.06,av,av92034201,2023-09-07T22:55:46.290Z,"Alaska Peninsula",earthquake,0.21,0.51,0.300696859578241,8,reviewed,av,av
 2023-09-07T16:32:50.737Z,12.6727,143.6597,57.132,4.5,mb,67,112,1.488,0.54,us,us7000ktzz,2023-09-07T19:11:42.040Z,"127 km WSW of Merizo Village, Guam",earthquake,11.62,7.596,0.074,59,reviewed,us,us
 2023-09-07T16:27:27.130Z,55.1405,165.9909,10,4.5,mb,212,95,4.814,0.57,us,us7000ktzn,2023-09-07T18:57:07.040Z,"Komandorskiye Ostrova, Russia region",earthquake,8.37,1.853,0.036,233,reviewed,us,us
 2023-09-07T16:24:21.700Z,38.4813333,-112.8501667,0.19,-0.49,md,9,102,0.009569,0.1,uu,uu60549442,2023-09-07T18:01:12.420Z,"16 km ENE of Milford, Utah",earthquake,0.33,1.06,0.08,3,reviewed,uu,uu
@@ -229,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T23:15:00.267Z,31.48431298,-103.9513339,4.486254883,2.4,ml,26,70,0.04627292839,0.2,tx,tx2023rmwu,2023-09-07T11:44:46.857Z,"24 km NW of Toyah, Texas",earthquake,0.7163047738,1.293800966,0.1,16,reviewed,tx,tx
 2023-09-06T23:11:31.410Z,-17.9261,-178.5194,580.727,4.3,mb,43,85,3.27,0.51,us,us7000ktt2,2023-09-06T23:30:10.040Z,"229 km E of Levuka, Fiji",earthquake,11.09,7.873,0.091,34,reviewed,us,us
 2023-09-06T23:04:42.678Z,61.3426,-147.0887,19.1,1.9,ml,,,,0.47,ak,ak023bg6jc17,2023-09-06T23:06:15.249Z,"46 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-06T22:59:15.018Z,63.9662,-149.5119,0,1.8,ml,,,,0.67,ak,ak023bg69mod,2023-09-06T23:00:52.958Z,"20 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-06T22:59:12.400Z,60.0195,-153.0955,1.57,-0.43,ml,5,118,,0.09,av,av92032916,2023-09-07T05:01:54.410Z,"Southern Alaska",earthquake,0.95,1.04,0.228048141920814,5,reviewed,av,av
