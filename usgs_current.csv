@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T22:32:07.064Z,60.3039,-143.1564,0,1.7,ml,,,,0.56,ak,ak023bl4pv6p,2023-09-09T22:34:42.339Z,"126 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-09T22:27:41.120Z,38.8428345,-122.8426666,1.75,0.51,md,9,109,0.007029,0.01,nc,nc73935221,2023-09-09T22:29:18.179Z,"10 km NW of The Geysers, CA",earthquake,0.55,0.69,0.33,9,automatic,nc,nc
 2023-09-09T22:16:15.590Z,19.3990001678467,-155.315338134766,2.78999996185303,1.72000003,md,7,287,,0.119999997,hv,hv73572732,2023-09-09T22:19:15.090Z,"9 km WSW of Volcano, Hawaii",earthquake,0.96,0.529999971,1.71000004,6,automatic,hv,hv
-2023-09-09T22:13:15.706Z,62.8546,-148.3688,51.7,2.6,ml,,,,0.57,ak,ak023bl4lt9e,2023-09-09T22:42:50.040Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-09T22:13:15.706Z,62.8546,-148.3688,51.7,2.6,ml,,,,0.57,ak,ak023bl4lt9e,2023-09-09T23:30:57.357Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-09T22:08:57.761Z,62.3543,-151.1402,74.6,1.7,ml,,,,0.35,ak,ak023bl4ktxs,2023-09-09T22:10:58.496Z,"25 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-09T21:48:32.530Z,19.175500869751,-155.47900390625,32.5299987792969,2.25,md,35,81,,0.119999997,hv,hv73572682,2023-09-09T21:51:43.680Z,"3 km S of Pāhala, Hawaii",earthquake,0.65,1.10000002,1.87,18,automatic,hv,hv
 2023-09-09T21:45:01.050Z,38.8256683,-122.8010025,2.72,0.7,md,11,84,0.007441,0.01,nc,nc73935191,2023-09-09T21:46:37.853Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.11,0.13,11,automatic,nc,nc
@@ -18,8 +18,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T20:34:46.370Z,19.3911666870117,-155.274505615234,1.58000004291534,2.17,ml,23,59,,0.159999996,hv,hv73572507,2023-09-09T20:40:19.780Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.3,10,automatic,hv,hv
 2023-09-09T20:24:13.860Z,19.3336658477783,-155.191665649414,1.70000004768372,1.91,ml,41,108,,0.159999996,hv,hv73572482,2023-09-09T20:29:44.890Z,"12 km SSE of Volcano, Hawaii",earthquake,0.32,0.49000001,2.12,18,automatic,hv,hv
 2023-09-09T20:16:04.740Z,17.9758333333333,-66.8478333333333,13.14,2.5,md,8,194,0.05799,0.14,pr,pr71424313,2023-09-09T20:26:57.570Z,"3 km SW of Indios, Puerto Rico",earthquake,0.78,0.56,0.0293251225645985,5,reviewed,pr,pr
-2023-09-09T20:14:07.625Z,57.9351,-154.8575,16.3,0.9,ml,,,,0.24,ak,ak023bl3f55m,2023-09-09T20:21:02.657Z,"47 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-09-09T20:13:37.029Z,58.1842,-155.2708,1.1,0.5,ml,,,,0.22,ak,ak023bl3ezpi,2023-09-09T20:15:16.337Z,"83 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
+2023-09-09T20:14:07.625Z,57.9351,-154.8575,16.3,0.9,ml,,,,0.24,ak,ak023bl3f55m,2023-09-09T20:21:02.657Z,"Kodiak Island region, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-09-09T20:13:37.029Z,58.1842,-155.2708,1.1,0.5,ml,,,,0.22,ak,ak023bl3ezpi,2023-09-09T20:15:16.337Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
 2023-09-09T20:03:14.066Z,-33.9453,-71.3086,48.728,4,mb,32,62,0.094,0.34,us,us7000kunh,2023-09-09T23:12:53.997Z,"near the coast of central Chile",earthquake,3.23,3.831,0.26,4,reviewed,us,us
 2023-09-09T20:02:59.930Z,33.856,-116.8213333,14.16,1.11,ml,34,43,0.02996,0.23,ci,ci39662034,2023-09-09T20:06:34.341Z,"8 km SSW of Cabazon, CA",earthquake,0.32,0.62,0.195,28,automatic,ci,ci
 2023-09-09T20:00:25.970Z,34.8296661,-118.9240036,8.02,0.91,ml,9,147,0.05124,0.18,ci,ci39662026,2023-09-09T20:03:59.325Z,"2 km ENE of Frazier Park, CA",earthquake,0.96,1.38,0.656,4,automatic,ci,ci
@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T01:57:41.920Z,40.9681667,-121.5641667,13.16,2.22,md,34,36,0.09329,0.13,nc,nc73934901,2023-09-09T12:32:12.294Z,"11 km WSW of Fall River Mills, CA",earthquake,0.22,0.43,0.21,42,reviewed,nc,nc
 2023-09-09T01:56:43.931Z,61.753,-149.9965,44.9,1.1,ml,,,,0.59,ak,ak023bksczjd,2023-09-09T01:58:22.257Z,"2 km ENE of Willow, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-09T01:37:09.770Z,38.824501,-122.7906647,0.73,1.06,md,16,54,0.01367,0.03,nc,nc73934896,2023-09-09T01:38:43.546Z,"6 km W of Cobb, CA",earthquake,0.22,0.41,0.2,19,automatic,nc,nc
-2023-09-09T01:35:37.828Z,58.2547,-155.1401,0.5,2.2,ml,,,,0.45,ak,ak023bks8h12,2023-09-09T02:16:45.040Z,"86 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-09T01:35:37.828Z,58.2547,-155.1401,0.5,2.2,ml,,,,0.45,ak,ak023bks8h12,2023-09-09T23:30:53.770Z,"86 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-09T01:34:32.620Z,38.2393333,-122.4806667,18.1,1.33,md,23,69,0.05975,0.06,nc,nc73934891,2023-09-09T10:50:11.673Z,"3 km SSE of Temelec, CA",earthquake,0.27,0.29,0.262,24,reviewed,nc,nc
 2023-09-09T01:32:50.253Z,58.2172,-155.1268,3.7,1,ml,,,,0.84,ak,ak023bks7uu9,2023-09-09T22:34:25.420Z,"82 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-09T01:32:44.040Z,19.1548328399658,-155.512329101562,31.5200004577637,2.26,ml,39,184,,0.129999995,hv,hv73570747,2023-09-09T01:38:14.820Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.82,0.99000001,0.23,3,automatic,hv,hv
@@ -197,9 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T23:40:28.210Z,34.0328333,-116.9541667,6.9,3.06,ml,138,19,0.06244,0.16,ci,ci39661746,2023-09-09T18:04:52.302Z,"8 km E of Yucaipa, CA",earthquake,0.08,0.36,0.17,217,reviewed,ci,ci
 2023-09-08T23:35:04.819Z,58.2541,-155.1164,1.2,3.1,ml,,,,0.65,ak,ak023bjhsl5l,2023-09-09T04:00:38.643Z,"85 km NNW of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-09-08T23:31:14.380Z,19.3871669769287,-155.274169921875,-0.219999998807907,1.88,ml,18,69,,0.280000001,hv,hv73570507,2023-09-08T23:36:45.210Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.300000012,0.26,8,automatic,hv,hv
-2023-09-08T23:21:57.820Z,46.1845,-123.041,-0.5,1.37,ml,15,70,0.1038,0.34,uw,uw61949502,2023-09-08T23:53:17.160Z,"3 km WNW of West Longview, Washington",explosion,0.55,31.61,0.1748373790522355,7,reviewed,uw,uw
-2023-09-08T23:21:52.860Z,58.1685,-155.348,0.34,0.28,ml,7,82,,0.09,av,av92036161,2023-09-09T03:49:02.670Z,"85 km NW of Karluk, Alaska",earthquake,0.22,1.96,0.204400885637535,8,reviewed,av,av
-2023-09-08T23:19:20.465Z,61.3103,-146.8629,22.2,2.2,ml,,,,0.5,ak,ak023bjhp71q,2023-09-08T23:21:18.728Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-08T23:17:17.090Z,46.97966666666667,-122.243,-0.54,1.48,ml,20,256,0.01791,0.24,uw,uw61949497,2023-09-09T00:28:01.250Z,"1 km WSW of Kapowsin, Washington",explosion,0.92,31.61,0.18620881986619842,11,reviewed,uw,uw
-2023-09-08T23:15:26.744Z,60.2223,-151.0335,59.8,1.9,ml,,,,0.26,ak,ak023bjhoco2,2023-09-08T23:17:00.898Z,"18 km SE of Kasilof, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-09-08T23:15:15.941Z,65.0171,-147.0407,26.5,1.5,ml,,,,0.79,ak,ak023bjhobu2,2023-09-08T23:16:43.756Z,"16 km N of Two Rivers, Alaska",earthquake,,0.8,,,automatic,ak,ak
