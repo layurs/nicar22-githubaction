@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-13T12:02:19.627Z,61.6495,-146.594,29.9,1.9,ml,,,,0.53,ak,ak023brkqimi,2023-09-13T12:04:13.660Z,"39 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T11:57:45.870Z,33.3805,-116.8676667,6.17,0.7,ml,17,72,0.02714,0.17,ci,ci39663914,2023-09-13T12:01:29.620Z,"3 km N of Palomar Observatory, CA",earthquake,0.26,0.69,0.219,15,automatic,ci,ci
-2023-09-13T11:36:54.934Z,-9.6448,159.8583,45.615,5.2,mww,107,78,0.223,0.46,us,us7000kvhq,2023-09-13T12:00:44.514Z,"16 km ENE of Malango, Solomon Islands",earthquake,8.6,5.422,0.086,13,reviewed,us,us
+2023-09-13T11:49:15.926Z,-36.2201,-97.9378,10,6.1,mww,117,37,13.309,0.65,us,us7000kvhu,2023-09-13T12:11:31.316Z,"West Chile Rise",earthquake,10.28,1.86,0.05,39,reviewed,us,us
+2023-09-13T11:36:54.934Z,-9.6448,159.8583,45.615,5.2,mww,107,78,0.223,0.46,us,us7000kvhq,2023-09-13T12:22:52.248Z,"16 km ENE of Malango, Solomon Islands",earthquake,8.6,5.422,0.086,13,reviewed,us,us
 2023-09-13T11:30:53.160Z,36.1526667,-118.1795,2.73,1.1,ml,14,149,0.2651,0.14,ci,ci39663898,2023-09-13T11:34:30.313Z,"21 km SW of Olancha, CA",earthquake,0.4,1.46,0.136,7,automatic,ci,ci
 2023-09-13T11:22:16.860Z,39.270668,-123.1388321,7.72,1.39,md,9,116,0.1031,0.04,nc,nc73936306,2023-09-13T11:56:11.866Z,"6 km E of Redwood Valley, CA",earthquake,0.36,1.45,0.18,4,automatic,nc,nc
 2023-09-13T11:13:46.446Z,63.061,-150.9533,132.6,2.1,ml,,,,0.26,ak,ak023brk7hy6,2023-09-13T11:15:53.190Z,"63 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -85,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T00:32:16.422Z,62.4364,-148.9777,0.1,1.4,ml,,,,0.91,ak,ak023brdrqlm,2023-09-13T00:34:13.070Z,"54 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-13T00:12:30.390Z,37.3918333,-118.5091667,11.89,2.39,md,32,69,0.05786,0.06,nc,nc73936176,2023-09-13T08:23:13.739Z,"6 km NW of West Bishop, CA",earthquake,0.34,0.79,0.226,37,reviewed,nc,nc
 2023-09-13T00:06:29.308Z,70.4019,-14.7757,10,4.9,mb,82,54,6.204,0.85,us,us7000kveb,2023-09-13T00:35:09.040Z,"231 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.48,1.293,0.041,184,reviewed,us,us
-2023-09-13T00:05:37.043Z,70.5769,-14.6492,10,4.6,mb,52,50,2.448,0.82,us,us7000kve9,2023-09-13T00:25:52.040Z,"221 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.9,1.884,0.059,87,reviewed,us,us
+2023-09-13T00:05:37.043Z,70.5769,-14.6492,10,4.6,mb,52,50,2.448,0.82,us,us7000kve9,2023-09-13T00:25:52.040Z,"Jan Mayen Island region",earthquake,7.9,1.884,0.059,87,reviewed,us,us
 2023-09-13T00:00:37.540Z,36.5301667,-121.8775,8.25,1.29,md,21,162,0.06508,0.08,nc,nc73936171,2023-09-13T05:35:13.781Z,"5 km SE of Carmel By The Sea, CA",earthquake,0.26,0.51,0.093,15,reviewed,nc,nc
 2023-09-12T23:53:38.373Z,70.4794,-14.5573,10,4.2,mb,17,88,2.483,0.91,us,us7000kve8,2023-09-13T00:10:21.040Z,"220 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.08,1.914,0.186,8,reviewed,us,us
 2023-09-12T23:50:54.926Z,60.0288,-153.1011,119.5,1.8,ml,,,,0.68,ak,ak023bq41avo,2023-09-12T23:53:44.684Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T13:34:44.144Z,58.1695,-155.3833,0.1,0.3,ml,,,,0.42,ak,ak023bpxziji,2023-09-12T13:37:09.813Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-12T12:42:27.770Z,36.01,-117.8131667,1.72,1.47,ml,20,122,0.06059,0.14,ci,ci39663290,2023-09-12T16:13:35.005Z,"12 km NE of Little Lake, CA",earthquake,0.18,0.3,0.123,9,reviewed,ci,ci
 2023-09-12T12:27:43.860Z,38.8395004,-122.8235016,1.43,0.66,md,6,95,0.009404,0,nc,nc73936046,2023-09-12T12:29:17.895Z,"9 km WNW of Cobb, CA",earthquake,0.58,2.44,0.45,7,automatic,nc,nc
-2023-09-12T12:09:56.160Z,47.6805,-120.1875,1.88,0.66,ml,11,107,0.03112,0.08,uw,uw61950287,2023-09-12T16:37:17.400Z,"1 km ENE of Entiat, Washington",earthquake,0.27,0.68,0.10483097974681099,8,reviewed,uw,uw
