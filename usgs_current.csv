@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-21T07:01:47.130Z,33.9705009,-117.2093353,12.54,1.2,ml,20,107,0.03814,0.16,ci,ci39670058,2023-09-21T07:03:51.041Z,"5 km NNE of Moreno Valley, CA",earthquake,0.36,0.81,0.165,3,automatic,ci,ci
+2023-09-21T06:52:49.020Z,33.1341667,-116.4300003,4.14,1.56,ml,14,209,0.3998,0.21,ci,ci39670050,2023-09-21T06:56:14.565Z,"14 km SSW of Borrego Springs, CA",earthquake,0.99,3.92,0.543,20,automatic,ci,ci
 2023-09-21T06:38:52.157Z,59.8812,-152.6476,83.6,1.4,ml,,,,0.11,ak,ak023c4poh8f,2023-09-21T06:40:00.713Z,"47 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-21T06:33:31.601Z,63.5404,-147.7029,6,1.7,ml,,,,0.78,ak,ak023c4pncpw,2023-09-21T06:36:02.678Z,"63 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T06:26:21.610Z,38.8353348,-122.7896652,1.71,1,md,15,64,0.003115,0.02,nc,nc73939696,2023-09-21T06:27:57.179Z,"6 km WNW of Cobb, CA",earthquake,0.39,0.83,0.27,16,automatic,nc,nc
@@ -74,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T20:16:13.510Z,37.4641685,-118.7750015,11.28,1.35,md,13,155,0.1328,0.03,nc,nc73939526,2023-09-20T20:17:50.219Z,"14 km SW of Toms Place, CA",earthquake,0.69,1.71,0.14,10,automatic,nc,nc
 2023-09-20T20:14:52.517Z,38.1333,-117.9897,3.3,1.6,ml,8,107.45,0.066,0.1173,nn,nn00866153,2023-09-20T22:31:57.044Z,"30 km SSE of Mina, Nevada",earthquake,,2.2,0.31,5,reviewed,nn,nn
 2023-09-20T20:08:23.108Z,60.0146,-153.4667,160.8,2,ml,,,,0.38,ak,ak023c3aaphi,2023-09-20T20:16:55.222Z,"43 km NE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-20T19:47:11.750Z,17.9533333333333,-67.077,6.94,1.38,md,6,247,0.03507,0.07,pr,pr71425378,2023-09-20T20:08:34.170Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.47,0.69,0.0741959158938247,2,reviewed,pr,pr
+2023-09-20T19:47:11.750Z,17.9533333333333,-67.077,6.94,1.38,md,6,247,0.03507,0.07,pr,pr71425378,2023-09-20T20:08:34.170Z,"Puerto Rico region",earthquake,0.47,0.69,0.0741959158938247,2,reviewed,pr,pr
 2023-09-20T19:46:19.090Z,17.9525,-67.0808333333333,7.4,2.13,md,15,230,0.0387,0.08,pr,pr71425358,2023-09-20T19:56:44.430Z,"Puerto Rico region",earthquake,0.37,0.13,0.117024628529108,4,reviewed,pr,pr
 2023-09-20T19:26:10.290Z,38.8284988,-122.854332,1.78,0.66,md,12,71,0.002201,0.01,nc,nc73939496,2023-09-20T19:27:45.592Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.52,0.32,12,automatic,nc,nc
 2023-09-20T19:22:32.588Z,-44.8387,35.2805,7.56,5.8,mww,43,44,16.779,0.99,us,us7000kwz5,2023-09-20T21:25:39.463Z,"Prince Edward Islands region",earthquake,11.32,4.438,0.083,14,reviewed,us,us
@@ -189,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T07:25:55.410Z,58.174,-155.39,2.85,0.36,ml,8,105,,0.08,av,av92051526,2023-09-21T02:02:25.940Z,"87 km NW of Karluk, Alaska",earthquake,0.22,0.63,0.19464966171929,8,reviewed,av,av
 2023-09-20T07:13:49.070Z,53.5463333333333,-167.007666666667,8.33,1.28,ml,16,206,,0.19,av,av92051521,2023-09-21T01:59:13.230Z,"48 km SW of Unalaska, Alaska",earthquake,0.92,0.51,0.258628142068861,16,reviewed,av,av
 2023-09-20T07:12:50.750Z,36.33466667,-96.959,4.13,0.8,ml,30,94,0.07108605049,0.3092809828,ok,ok2023slgb,2023-09-20T16:04:52.555Z,"6 km NE of Morrison, Oklahoma",earthquake,,0.7,0.02,4,reviewed,ok,ok
-2023-09-20T07:00:42.181Z,19.6001,-70.8867,23.477,4.4,mb,54,100,0.127,1.18,us,us7000kwum,2023-09-21T01:57:48.622Z,"4 km NNW of Villa Bisonó, Dominican Republic",earthquake,5.11,5.44,0.051,112,reviewed,us,us
-2023-09-20T06:58:33.680Z,38.8268318,-122.8021698,2.85,0.76,md,10,80,0.007064,0.02,nc,nc73939266,2023-09-20T07:00:07.575Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.16,0.15,10,automatic,nc,nc
-2023-09-20T06:45:23.350Z,35.7718333,-117.5911667,8.1,1.15,ml,24,95,0.1459,0.15,ci,ci39669410,2023-09-20T14:54:14.993Z,"17 km W of Searles Valley, CA",earthquake,0.24,0.86,0.084,8,reviewed,ci,ci
