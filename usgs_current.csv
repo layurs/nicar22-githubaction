@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-22T09:50:13.890Z,40.4166679,-124.5608368,21.38,2.43,md,9,302,0.1803,0.1,nc,nc73940216,2023-09-22T09:51:48.795Z,"26 km WNW of Petrolia, CA",earthquake,3.95,0.76,0.12,7,automatic,nc,nc
-2023-09-22T09:48:22.760Z,33.2701667,-116.781,11.29,1.72,ml,50,49,0.03886,0.2,ci,ci40570272,2023-09-22T09:51:59.413Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.72,0.11,26,automatic,ci,ci
+2023-09-22T10:10:49.662Z,57.7308,-155.8214,249.9,0.3,ml,,,,0.96,ak,ak023c6ffpcx,2023-09-22T10:13:28.800Z,"83 km WNW of Karluk, Alaska",earthquake,,8.7,,,automatic,ak,ak
+2023-09-22T09:52:14.357Z,58.1644,-154.1649,75.2,2.3,ml,,,,0.23,ak,ak023c6f31nf,2023-09-22T09:53:52.557Z,"68 km NNE of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-22T09:50:35.786Z,61.5879,-141.053,4.5,1.7,ml,,,,0.42,ak,ak023c6f2nve,2023-09-22T09:52:58.338Z,"100 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-22T09:50:13.890Z,40.4166679,-124.5608368,21.38,2.43,md,9,302,0.1803,0.1,nc,nc73940216,2023-09-22T09:57:16.528Z,"26 km WNW of Petrolia, CA",earthquake,3.95,0.76,0.12,7,automatic,nc,nc
+2023-09-22T09:49:09.820Z,17.9988333333333,-66.9526666666667,13.73,2.41,md,9,144,0.07376,0.22,pr,pr71425518,2023-09-22T10:09:12.470Z,"Puerto Rico region",earthquake,0.81,0.88,0.0411173151779605,4,reviewed,pr,pr
+2023-09-22T09:48:22.760Z,33.2701667,-116.781,11.29,1.72,ml,50,49,0.03886,0.2,ci,ci40570272,2023-09-22T10:00:26.255Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.72,0.11,26,automatic,ci,ci
 2023-09-22T09:48:18.640Z,33.3773333,-116.7358333,15.71,0.73,ml,20,65,0.1087,0.29,ci,ci40570264,2023-09-22T09:51:51.532Z,"12 km ENE of Palomar Observatory, CA",earthquake,0.6,1.25,0.205,2,automatic,ci,ci
 2023-09-22T09:33:10.617Z,62.5851,-151.2982,0,1.6,ml,,,,0.47,ak,ak023c6eyyr9,2023-09-22T09:35:23.979Z,"29 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T09:31:28.480Z,37.3171654,-122.0736694,5.35,1.77,md,20,82,0.02227,0.09,nc,nc73940206,2023-09-22T09:33:04.678Z,"4 km W of Cupertino, CA",earthquake,0.23,0.39,0.12,17,automatic,nc,nc
@@ -199,10 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T10:35:05.310Z,33.4913333,-116.5856667,9.83,0.51,ml,22,73,0.01422,0.12,ci,ci39670138,2023-09-21T14:30:10.503Z,"11 km SE of Anza, CA",earthquake,0.2,0.38,0.226,7,reviewed,ci,ci
 2023-09-21T10:29:52.830Z,56.8765,-158.094833333333,3.99,1.07,ml,4,218,,0.08,av,av92052586,2023-09-21T20:48:45.760Z,"67 km NNE of Chignik, Alaska",earthquake,0.62,1.01,0.231521004820526,4,reviewed,av,av
 2023-09-21T10:22:25.969Z,36.14516667,-98.09733333,6.91,1.3,ml,45,44,0.2051597407,0.17,ok,ok2023snhv,2023-09-21T20:22:27.708Z,"13 km SE of Ames, Oklahoma",earthquake,,0.4,0.23,6,reviewed,ok,ok
-2023-09-21T10:15:49.160Z,58.2165,-155.1145,4.08,0.21,ml,6,93,,0.13,av,av92052571,2023-09-21T20:46:30.160Z,"82 km NNW of Karluk, Alaska",earthquake,0.32,1.29,0.238362325698514,7,reviewed,av,av
-2023-09-21T10:11:05.100Z,33.6348333,-116.686,13.42,0.33,ml,18,66,0.03547,0.1,ci,ci39670130,2023-09-21T14:25:19.472Z,"9 km N of Anza, CA",earthquake,0.24,0.43,0.109,6,reviewed,ci,ci
-2023-09-21T10:09:24.493Z,-23.2426,-66.7283,204.544,4.5,mb,56,34,1.367,1.16,us,us7000kx27,2023-09-21T10:39:35.040Z,"107 km W of El Aguilar, Argentina",earthquake,7.87,7.616,0.065,70,reviewed,us,us
-2023-09-21T10:07:45.150Z,44.4545,-111.0051667,6.7,0.83,ml,9,130,0.1213,0.25,uu,uu60550547,2023-09-21T13:22:02.980Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.48,7.02,0.251,2,reviewed,uu,uu
-2023-09-21T10:05:57.170Z,34.0368333,-116.9148333,15.1,1.2,ml,61,35,0.05921,0.15,ci,ci39670122,2023-09-21T14:22:16.990Z,"12 km E of Yucaipa, CA",earthquake,0.12,0.32,0.139,36,reviewed,ci,ci
-2023-09-21T10:01:48.980Z,46.214,-122.29883333333333,8.95,-0.01,ml,9,114,0.04067,0.17,uw,uw61961176,2023-09-21T17:28:37.780Z,"Washington",earthquake,0.74,1.33,0.16426825703419898,4,reviewed,uw,uw
-2023-09-21T10:01:28.770Z,32.7725,-116.581,16.99,0.77,ml,17,81,0.06648,0.08,ci,ci39670114,2023-09-21T17:00:54.517Z,"7 km SW of Pine Valley, CA",earthquake,0.22,0.38,0.147,6,reviewed,ci,ci
