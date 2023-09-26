@@ -37,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T12:25:41.570Z,34.0516667,-116.9641667,15.72,0.81,ml,33,34,0.04792,0.13,ci,ci40572728,2023-09-26T16:00:24.525Z,"8 km ENE of Yucaipa, CA",earthquake,0.17,0.42,0.104,17,reviewed,ci,ci
 2023-09-26T12:21:45.970Z,43.6046666666667,-110.499833333333,1.78,0.57,ml,7,272,0.07591,0.06,mb,mb90028258,2023-09-26T16:59:28.760Z,"10 km ESE of Kelly, Wyoming",earthquake,0.78,0.67,0.137472831418359,5,reviewed,mb,mb
 2023-09-26T12:20:26.620Z,38.8520012,-122.7768326,1.22,0.39,md,8,162,0.009392,0.03,nc,nc73942096,2023-09-26T12:22:00.673Z,"6 km NW of Cobb, CA",earthquake,0.4,0.52,0.29,8,automatic,nc,nc
+2023-09-26T12:15:28.568Z,36.7283,-116.1501,2.4,0,ml,6,138.37,0.018,0.0813,nn,nn00866370,2023-09-26T17:11:40.269Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.8,0.02,3,reviewed,nn,nn
 2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T12:10:14.491Z,61.4856,-149.9816,19.7,1.7,ml,,,,0.75,ak,ak023cd2rqej,2023-09-26T12:11:42.401Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-26T11:56:40.230Z,37.8321648,-121.8024979,0.87,2,md,18,77,0.1126,0.22,nc,nc73942086,2023-09-26T11:58:15.880Z,"9 km E of Blackhawk, CA",earthquake,0.49,2.74,0.16,11,automatic,nc,nc
@@ -46,12 +47,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T11:28:34.790Z,19.4139995574951,-155.31266784668,3.22000002861023,1.8,ml,31,68,,0.180000007,hv,hv73585767,2023-09-26T11:34:05.120Z,"8 km WSW of Volcano, Hawaii",earthquake,0.32,0.529999971,0.15,5,automatic,hv,hv
 2023-09-26T11:21:01.110Z,33.2725,-116.7781667,13.38,0.74,ml,36,34,0.03989,0.15,ci,ci40572696,2023-09-26T17:01:05.232Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.19,0.48,0.097,17,reviewed,ci,ci
 2023-09-26T11:16:31.050Z,33.2725,-116.7766667,12.37,0.43,ml,26,52,0.03939,0.14,ci,ci40572688,2023-09-26T17:05:24.643Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.27,0.51,0.102,6,reviewed,ci,ci
-2023-09-26T11:15:05.280Z,33.2746667,-116.7738333,12.04,1.26,ml,31,41,0.0406,0.13,ci,ci40572680,2023-09-26T11:25:40.820Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.24,0.56,0.156,25,automatic,ci,ci
+2023-09-26T11:15:06.950Z,33.2711667,-116.776,13.63,1.26,ml,43,34,0.03795,0.16,ci,ci37573884,2023-09-26T17:25:29.102Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.2,0.53,0.153,32,reviewed,ci,ci
+2023-09-26T11:15:05.190Z,33.273,-116.778,13.09,0.86,ml,42,34,0.04029,0.14,ci,ci40572680,2023-09-26T17:18:15.710Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.17,0.46,0.136,22,reviewed,ci,ci
 2023-09-26T11:07:44.680Z,19.361665725708,-155.276672363281,28.5699996948242,1.77,ml,47,87,,0.140000001,hv,hv73585752,2023-09-26T11:13:16.180Z,"10 km SSW of Volcano, Hawaii",earthquake,0.38,0.479999989,3,15,automatic,hv,hv
 2023-09-26T10:57:40.355Z,62.9489,-150.7156,110.4,1.9,ml,,,,0.25,ak,ak023cd1uzsp,2023-09-26T10:59:22.033Z,"50 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-26T10:53:40.030Z,35.665,-117.4841667,7.38,1.26,ml,19,72,0.04923,0.12,ci,ci40572672,2023-09-26T17:06:39.347Z,"14 km SSW of Searles Valley, CA",earthquake,0.27,0.7,0.115,9,reviewed,ci,ci
 2023-09-26T10:51:27.940Z,34.0013333,-117.007,13.2,0.99,ml,36,46,0.1093,0.21,ci,ci40572664,2023-09-26T10:54:54.949Z,"4 km ENE of Calimesa, CA",earthquake,0.27,0.86,0.178,28,automatic,ci,ci
-2023-09-26T10:41:45.870Z,33.2698333,-116.4278333,3.26,0.76,ml,25,72,0.009089,0.24,ci,ci40572656,2023-09-26T10:45:17.889Z,"5 km WNW of Borrego Springs, CA",earthquake,0.37,0.58,0.097,17,automatic,ci,ci
+2023-09-26T10:41:45.820Z,33.266,-116.4253333,4.46,0.8,ml,36,61,0.007191,0.19,ci,ci40572656,2023-09-26T17:21:23.321Z,"5 km WNW of Borrego Springs, CA",earthquake,0.21,0.38,0.059,14,reviewed,ci,ci
 2023-09-26T10:28:38.064Z,62.4952,-148.4708,28.8,0.9,ml,,,,0.75,ak,ak023cd1orvi,2023-09-26T10:30:43.984Z,"77 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-26T10:13:54.434Z,63.3592,-145.534,1,1.2,ml,,,,0.68,ak,ak023cd1lleb,2023-09-26T10:23:36.583Z,"30 km N of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-26T10:09:57.060Z,63.469,-151.1533,0,1.2,ml,,,,0.8,ak,ak023cd1kqqi,2023-09-26T10:11:45.788Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -188,9 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T17:46:10.160Z,34.753,-98.45316667,0,1.41,ml,20,117,0.2672475569,0.48,ok,ok2023svem,2023-09-25T17:57:44.099Z,"5 km ENE of Medicine Park, Oklahoma",quarry blast,,1,0.23,9,reviewed,ok,ok
 2023-09-25T17:43:14.290Z,54.7596666666667,-163.9485,-2.97,2.13,ml,5,121,,0.33,av,av91116658,2023-09-26T02:33:00.640Z,"36 km WSW of False Pass, Alaska",earthquake,0.99,1.61,0.126307721556979,5,reviewed,av,av
 2023-09-25T17:38:17.320Z,33.0221667,-116.3436667,11.13,0.81,ml,16,90,0.07541,0.11,ci,ci40572248,2023-09-25T20:39:51.728Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.29,0.218,7,reviewed,ci,ci
-2023-09-25T17:28:09.099Z,34.06483333,-97.43133333,1.6,1.11,ml,27,130,0.1772652145,0.29,ok,ok2023svdx,2023-09-26T15:14:33.154Z,"Oklahoma",earthquake,,1.3,0.31,3,reviewed,ok,ok
-2023-09-25T17:27:34.149Z,61.0599,-151.061,64,1.4,ml,,,,0.52,ak,ak023cbib8li,2023-09-25T17:29:23.117Z,"4 km ESE of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-09-25T17:27:00.840Z,38.8143349,-122.814003,2.95,1.03,md,14,53,0.009553,0.02,nc,nc73941826,2023-09-25T17:28:35.561Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.87,0.21,16,automatic,nc,nc
-2023-09-25T17:17:25.519Z,65.2985,-157.9759,0.3,2.2,ml,,,,0.37,ak,ak023cbi92rr,2023-09-25T17:20:15.249Z,"48 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-25T17:17:19.065Z,28.791,-98.443,1.2472,2.4,ml(texnet),16,82,0,0.2,tx,tx2023svdn,2023-09-25T17:31:52.438Z,"5 km E of Christine, Texas",earthquake,1.541328907,2.562085718,0.1,10,reviewed,tx,tx
-2023-09-25T17:15:18.710Z,35.1956667,-118.1265,7.71,1.02,ml,15,60,0.0737,0.1,ci,ci40572240,2023-09-25T20:37:05.569Z,"15 km WNW of California City, CA",earthquake,0.2,0.57,0.089,12,reviewed,ci,ci
