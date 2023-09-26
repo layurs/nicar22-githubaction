@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-26T08:37:16.090Z,33.659,-116.7616667,14.68,0.96,ml,34,54,0.06886,0.23,ci,ci40572624,2023-09-26T08:40:54.653Z,"10 km SSW of Idyllwild, CA",earthquake,0.3,0.49,0.208,26,automatic,ci,ci
+2023-09-26T08:29:08.500Z,33.67,-116.7406667,15.68,0.48,ml,13,94,0.0501,0.16,ci,ci40572616,2023-09-26T08:32:36.919Z,"8 km SSW of Idyllwild, CA",earthquake,0.41,0.81,0.057,11,automatic,ci,ci
+2023-09-26T08:24:33.460Z,35.8726667,-117.661,6.82,0.92,ml,12,164,0.1059,0.21,ci,ci40572608,2023-09-26T08:28:01.355Z,"23 km ESE of Little Lake, CA",earthquake,0.56,1.64,0.08,8,automatic,ci,ci
+2023-09-26T08:18:00.108Z,-28.7581,-71.4165,28.239,4.1,mwr,21,143,0.677,0.63,us,us7000ky58,2023-09-26T08:40:55.040Z,"67 km WSW of Vallenar, Chile",earthquake,6.58,4.242,0.071,19,reviewed,us,us
 2023-09-26T08:06:39.100Z,38.8223343,-122.8513336,2.2,0.43,md,12,121,0.006767,0.01,nc,nc73942056,2023-09-26T08:08:15.252Z,"10 km WNW of The Geysers, CA",earthquake,0.31,0.68,0.3,13,automatic,nc,nc
+2023-09-26T08:04:07.548Z,13.1834,145.0452,45.79,4.8,mb,58,61,0.439,0.59,us,us7000ky57,2023-09-26T08:37:30.720Z,"Guam region",earthquake,7.34,6.265,0.085,43,reviewed,us,us
 2023-09-26T07:58:55.953Z,59.8798,-152.047,38.7,1.2,ml,,,,0.32,ak,ak023cd02xvf,2023-09-26T08:07:15.276Z,"16 km NW of Anchor Point, Alaska",earthquake,,7.6,,,automatic,ak,ak
 2023-09-26T07:54:22.045Z,62.7128,-151.6401,220.2,1.6,ml,,,,0.92,ak,ak023cd020fw,2023-09-26T07:57:10.416Z,"50 km WNW of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-26T07:53:49.130Z,36.0001678,-120.5638351,1.78,1.49,md,18,78,0.02393,0.08,nc,nc73942046,2023-09-26T07:55:25.085Z,"16 km NW of Parkfield, CA",earthquake,0.29,0.59,0.26,9,automatic,nc,nc
@@ -16,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T06:37:20.080Z,33.2725,-116.7801667,12.34,0.52,ml,17,100,0.0406,0.16,ci,ci40572592,2023-09-26T06:40:47.760Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.35,0.79,0.092,10,automatic,ci,ci
 2023-09-26T06:32:19.900Z,18.4893333333333,-66.1171666666667,103.14,3.22,md,18,187,0.1821,0.14,pr,pr71425993,2023-09-26T07:59:23.078Z,"Puerto Rico region",earthquake,1.23,0.67,0.0841071786146323,8,reviewed,pr,pr
 2023-09-26T06:28:45.660Z,38.7773323,-122.7229996,2,0.96,md,7,76,0.01224,0.01,nc,nc73942036,2023-09-26T06:30:23.569Z,"3 km W of Anderson Springs, CA",earthquake,0.99,2.24,0.33,8,automatic,nc,nc
-2023-09-26T06:21:39.065Z,15.0589,-104.4707,10,5.4,mww,103,181,5.514,0.68,us,us7000ky4p,2023-09-26T06:43:35.637Z,"off the coast of Michoacan, Mexico",earthquake,11.31,1.938,0.075,17,reviewed,us,us
+2023-09-26T06:21:39.065Z,15.0589,-104.4707,10,5.4,mww,103,181,5.514,0.68,us,us7000ky4p,2023-09-26T08:23:35.301Z,"off the coast of Michoacan, Mexico",earthquake,11.31,1.938,0.075,17,reviewed,us,us
 2023-09-26T06:00:18.100Z,33.5155,-116.502,13.66,0.66,ml,18,81,0.06423,0.16,ci,ci40572584,2023-09-26T06:03:48.423Z,"16 km ESE of Anza, CA",earthquake,0.29,0.69,0.233,14,automatic,ci,ci
 2023-09-26T05:54:15.556Z,60.3269,-143.099,13.5,2,ml,,,,0.47,ak,ak023ccyv4qb,2023-09-26T05:55:32.871Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-09-26T05:53:30.020Z,33.2756667,-116.7781667,11.93,0.53,ml,16,66,0.1051,0.14,ci,ci40572576,2023-09-26T05:57:02.381Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.32,0.82,0.162,10,automatic,ci,ci
@@ -189,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T09:02:20.516Z,28.915,-97.963,4.1818,3.1,ml(texnet),15,71,0,0.2,tx,tx2023sunf,2023-09-25T22:52:29.505Z,"6 km WNW of Karnes City, Texas",earthquake,1.274075914,2.064350881,0.2,9,reviewed,tx,tx
 2023-09-25T08:53:43.090Z,38.7798347,-122.7085037,2.13,1.09,md,9,118,0.01369,0.02,nc,nc73941681,2023-09-25T08:55:16.099Z,"2 km WNW of Anderson Springs, CA",earthquake,0.54,0.9,0.07,8,automatic,nc,nc
 2023-09-25T08:48:32.981Z,68.8932,-147.3165,0.1,1.7,ml,,,,0.79,ak,ak023cbd2u2c,2023-09-25T08:51:07.107Z,"112 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-25T08:23:43.379Z,64.447,-146.8299,9.4,0.5,ml,,,,0.16,ak,ak023cbcxhvu,2023-09-25T08:26:49.049Z,"9 km SSE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
