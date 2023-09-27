@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-27T11:04:21.028Z,61.0311,-151.0809,20.6,1.5,ml,,,,0.13,ak,ak023cepodgo,2023-09-27T11:06:37.438Z,"5 km SE of Tyonek, Alaska",earthquake,,5.8,,,automatic,ak,ak
+2023-09-27T10:56:41.829Z,-40.776,172.7532,10,4.2,mb,12,184,0.177,1.02,us,us6000lb2h,2023-09-27T11:14:37.040Z,"9 km NNW of Takaka, New Zealand",earthquake,3.05,1.861,0.236,5,reviewed,us,us
 2023-09-27T10:48:19.690Z,32.6591667,-115.7215,5.33,1.27,ml,17,68,0.01064,0.17,ci,ci40573312,2023-09-27T10:52:00.951Z,"16 km NW of Progreso, B.C., MX",earthquake,0.32,0.4,0.271,10,automatic,ci,ci
 2023-09-27T10:25:41.420Z,38.8321648,-122.8143311,1.3,0.99,md,15,56,0.009367,0.02,nc,nc73942526,2023-09-27T10:27:14.429Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.6,0.36,15,automatic,nc,nc
 2023-09-27T10:22:26.890Z,18.3233333333333,-66.2261666666667,17.92,2.32,md,9,133,0.1102,0.27,pr,pr71426108,2023-09-27T10:54:44.770Z,"Puerto Rico region",earthquake,0.73,1.12,0.00452274217422088,5,reviewed,pr,pr
@@ -14,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T09:07:23.624Z,-6.9851,126.2832,465.843,4.2,mb,24,81,4.355,0.68,us,us6000lb28,2023-09-27T09:28:09.040Z,"165 km N of Baukau, Timor Leste",earthquake,12.9,8.021,0.147,13,reviewed,us,us
 2023-09-27T09:03:28.220Z,65.8831,-147.653,8.1,1.3,ml,,,,0.91,ak,ak023ceohb3k,2023-09-27T09:06:26.005Z,"54 km SSW of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-27T08:39:01.458Z,56.207,-158.7709,95.8,2.1,ml,,,,0.15,ak,ak023ceo3j7l,2023-09-27T08:40:15.344Z,"Alaska Peninsula",earthquake,,2.3,,,automatic,ak,ak
+2023-09-27T08:38:43.023Z,-18.8247,169.2845,111.712,4.6,mb,21,159,4.143,0.45,us,us6000lb27,2023-09-27T11:15:28.040Z,"79 km N of Isangel, Vanuatu",earthquake,6.05,8.459,0.132,17,reviewed,us,us
 2023-09-27T08:34:15.721Z,62.3754,-149.1653,9.7,1.7,ml,,,,0.26,ak,ak023ceo2hqc,2023-09-27T08:36:10.218Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-27T08:33:22.440Z,38.8438339,-122.8150024,0.88,0.79,md,15,65,0.01262,0.02,nc,nc73942511,2023-09-27T08:34:59.466Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.46,0.1,14,automatic,nc,nc
 2023-09-27T08:28:21.190Z,19.1998329162598,-155.485168457031,31.4799995422363,2,md,40,84,,0.150000006,hv,hv73586352,2023-09-27T08:31:43.180Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.54,0.930000007,0.779999971,19,automatic,hv,hv
@@ -191,10 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T11:50:35.160Z,35.7211667,-117.559,2.29,0.86,ml,12,83,0.1235,0.14,ci,ci40572712,2023-09-26T13:02:15.783Z,"15 km WSW of Searles Valley, CA",earthquake,0.37,0.65,0.104,8,reviewed,ci,ci
 2023-09-26T11:44:47.010Z,35.7795,-117.6016667,7.18,2.45,ml,32,92,0.1358,0.13,ci,ci40572704,2023-09-26T16:53:48.930Z,"18 km W of Searles Valley, CA",earthquake,0.16,0.48,0.139,61,reviewed,ci,ci
 2023-09-26T11:43:30.514Z,61.7013,-151.9561,94,1.4,ml,,,,0.14,ak,ak023cd2demz,2023-09-26T11:44:50.971Z,"43 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-26T11:28:34.790Z,19.4139995574951,-155.31266784668,3.22000002861023,1.8,ml,31,68,,0.180000007,hv,hv73585767,2023-09-26T11:34:05.120Z,"8 km WSW of Volcano, Hawaii",earthquake,0.32,0.529999971,0.15,5,automatic,hv,hv
-2023-09-26T11:23:53.510Z,19.7683333333333,-156.226333333333,40.03,2.14,md,45,250,,0.15,hv,hv73585762,2023-09-27T03:34:19.310Z,"26 km W of Kalaoa, Hawaii",earthquake,0.7,0.98,0.100847476664035,17,reviewed,hv,hv
-2023-09-26T11:21:01.110Z,33.2725,-116.7781667,13.38,0.74,ml,36,34,0.03989,0.15,ci,ci40572696,2023-09-26T17:01:05.232Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.19,0.48,0.097,17,reviewed,ci,ci
-2023-09-26T11:16:31.050Z,33.2725,-116.7766667,12.37,0.43,ml,26,52,0.03939,0.14,ci,ci40572688,2023-09-26T17:05:24.643Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.27,0.51,0.102,6,reviewed,ci,ci
-2023-09-26T11:15:06.950Z,33.2711667,-116.776,13.63,1.26,ml,43,34,0.03795,0.16,ci,ci37573884,2023-09-26T17:25:29.102Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.2,0.53,0.153,32,reviewed,ci,ci
-2023-09-26T11:15:05.190Z,33.273,-116.778,13.09,0.86,ml,42,34,0.04029,0.14,ci,ci40572680,2023-09-26T17:18:15.710Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.17,0.46,0.136,22,reviewed,ci,ci
-2023-09-26T11:07:44.680Z,19.361665725708,-155.276672363281,28.5699996948242,1.77,ml,47,87,,0.140000001,hv,hv73585752,2023-09-26T11:13:16.180Z,"10 km SSW of Volcano, Hawaii",earthquake,0.38,0.479999989,3,15,automatic,hv,hv
