@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T15:52:57.350Z,38.8433342,-122.7683334,0.79,1.09,md,15,156,0.00634,0.03,nc,nc73944186,2023-10-01T15:54:32.740Z,"5 km WNW of Cobb, CA",earthquake,0.32,0.38,0.13,16,automatic,nc,nc
 2023-10-01T15:52:13.740Z,38.7878342,-122.7463303,0.91,1.58,md,22,84,0.01651,0.04,nc,nc73944181,2023-10-01T15:53:47.740Z,"2 km NE of The Geysers, CA",earthquake,0.22,0.4,0.18,24,automatic,nc,nc
 2023-10-01T15:43:56.930Z,36.6298332,-121.286499,8.18,1.8,md,26,88,0.02953,0.22,nc,nc73944171,2023-10-01T15:45:47.693Z,"17 km NW of Pinnacles, CA",earthquake,0.43,1.01,0.22,23,automatic,nc,nc
-2023-10-01T15:41:29.610Z,40.2996674,-124.2866669,9.14,3.93,mw,25,120,0.04422,0.14,nc,nc73944166,2023-10-01T16:33:08.993Z,"3 km S of Petrolia, CA",earthquake,0.56,0.46,,4,reviewed,nc,nc
+2023-10-01T15:41:29.610Z,40.2996674,-124.2866669,9.14,4.09,mw,25,120,0.04422,0.14,nc,nc73944166,2023-10-01T16:53:54.579Z,"3 km S of Petrolia, CA",earthquake,0.56,0.46,,4,reviewed,nc,nc
 2023-10-01T15:26:39.670Z,38.8153343,-122.8251648,2.19,1.26,md,25,52,0.007178,0.03,nc,nc73944161,2023-10-01T15:28:13.202Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.33,0.21,28,automatic,nc,nc
 2023-10-01T15:26:06.305Z,60.9439,-147.4168,26.1,1.6,ml,,,,0.37,ak,ak023clec6hi,2023-10-01T15:28:06.221Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-01T15:20:01.380Z,38.8343315,-122.7858353,1.82,1.04,md,19,64,0.005383,0.02,nc,nc73944156,2023-10-01T15:21:38.323Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.38,0.09,20,automatic,nc,nc
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T08:04:50.520Z,33.6736667,-116.7436667,14.44,0.84,ml,24,92,0.04825,0.18,ci,ci40575040,2023-10-01T08:08:26.533Z,"8 km SSW of Idyllwild, CA",earthquake,0.27,0.47,0.112,25,automatic,ci,ci
 2023-10-01T07:34:16.140Z,17.9206666666667,-66.2893333333333,9.63,2.68,md,11,217,0.1793,0.1,pr,pr71426998,2023-10-01T07:42:53.980Z,"Puerto Rico region",earthquake,0.4,0.67,0.118880278319263,9,reviewed,pr,pr
 2023-10-01T07:32:14.070Z,32.921,-116.234,11.86,1.27,ml,28,73,0.06728,0.2,ci,ci40575032,2023-10-01T07:35:44.408Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.29,1.06,0.199,24,automatic,ci,ci
-2023-10-01T07:22:35.648Z,59.1883,-136.8971,7,3.6,ml,,,,0.62,ak,ak023cl9jwzj,2023-10-01T15:55:22.645Z,"Southeastern Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-10-01T07:22:35.648Z,59.1883,-136.8971,7,3.6,ml,,,,0.62,ak,ak023cl9jwzj,2023-10-01T16:48:53.096Z,"Southeastern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-10-01T07:09:15.840Z,18.154,-66.4103333333333,10.02,2.1,md,11,88,0.08598,0.24,pr,pr71426993,2023-10-01T07:28:16.290Z,"Puerto Rico region",earthquake,0.49,0.84,0.132811056829321,3,reviewed,pr,pr
 2023-10-01T07:05:51.020Z,17.9111666666667,-66.8531666666667,13.01,2.41,md,11,228,0.06822,0.07,pr,pr71426983,2023-10-01T07:19:33.610Z,"Puerto Rico region",earthquake,0.58,0.35,0.126319651842052,5,reviewed,pr,pr
 2023-10-01T06:59:47.999Z,37.1957,-115.1855,5.5,1.1,ml,12,202.7,0.236,0.3497,nn,nn00866605,2023-10-01T07:02:02.756Z,"18 km S of Alamo, Nevada",earthquake,,69.6,0.23,8,automatic,nn,nn
@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T17:25:19.000Z,40.5123329,-124.4618301,30.79,2.1,md,11,244,0.1834,0.1,nc,nc73943851,2023-09-30T20:45:37.011Z,"18 km WSW of Ferndale, CA",earthquake,2.02,3.47,0.04,5,automatic,nc,nc
 2023-09-30T17:20:15.400Z,19.4981670379639,-155.322174072266,10.6000003814697,2.28999996,md,18,151,,0.140000001,hv,hv73588697,2023-09-30T17:23:12.130Z,"11 km WNW of Volcano, Hawaii",earthquake,0.52,0.620000005,1.71000004,5,automatic,hv,hv
 2023-09-30T17:16:47.830Z,40.501,-124.4385,29.09,4.22,mw,40,221,0.08112,0.14,nc,nc73943846,2023-10-01T16:17:48.176Z,"17 km WSW of Ferndale, CA",earthquake,0.66,0.51,,6,reviewed,nc,nc
-2023-09-30T16:42:57.700Z,35.8885,-117.7041667,2.32,1.62,ml,17,98,0.09379,0.22,ci,ci40574904,2023-09-30T16:46:27.250Z,"19 km ESE of Little Lake, CA",earthquake,0.57,0.58,0.122,14,automatic,ci,ci
