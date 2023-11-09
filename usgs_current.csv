@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-09T06:00:56.659Z,38.8915,-118.5823,2.1,1.5,ml,11,72.63,0.406,0.1733,nn,nn00868639,2023-11-09T06:03:21.425Z,"20 km ESE of Schurz, Nevada",earthquake,,2.1,0.14,5,automatic,nn,nn
 2023-11-09T05:48:04.316Z,38.9074,-118.6134,0.7,2.1,ml,14,58.45,0.422,0.3471,nn,nn00868636,2023-11-09T05:50:32.030Z,"17 km ESE of Schurz, Nevada",earthquake,,4.1,0.18,8,automatic,nn,nn
+2023-11-09T05:42:52.919Z,31.621,-104.001,3.8232,2,ml(texnet),12,97,0,0.4,tx,tx2023vyme,2023-11-09T06:22:01.373Z,"western Texas",earthquake,0,1.664188004,0.3,9,automatic,tx,tx
 2023-11-09T05:42:09.316Z,31.6591,-104.1739,5,2.6,mb_lg,35,64,0.279,0.59,us,us7000l9sb,2023-11-09T06:06:29.040Z,"52 km NW of Toyah, Texas",earthquake,0.73,1.8,0.12,22,reviewed,us,us
+2023-11-09T05:35:04.952Z,31.634,-104.025,4.5579,1.5,ml(texnet),14,74,0,0.2,tx,tx2023vyma,2023-11-09T06:21:57.532Z,"41 km W of Mentone, Texas",earthquake,0,1.315168076,0.2,12,automatic,tx,tx
 2023-11-09T05:32:59.670Z,38.8390007,-122.8235016,1.59,0.72,md,7,214,0.009369,0,nc,nc73960316,2023-11-09T05:59:11.417Z,"9 km WNW of Cobb, CA",earthquake,0.76,1.46,0.1,9,automatic,nc,nc
-2023-11-09T05:24:40.190Z,38.7981682,-122.7288361,0.45,0.55,md,7,110,0.01613,0.04,nc,nc73960311,2023-11-09T05:49:10.234Z,"3 km S of Cobb, CA",earthquake,0.31,1.65,0.13,7,automatic,nc,nc
+2023-11-09T05:24:40.190Z,38.7981682,-122.7288361,0.45,0.55,md,7,110,0.01613,0.04,nc,nc73960311,2023-11-09T06:28:14.465Z,"3 km S of Cobb, CA",earthquake,0.31,1.65,0.13,7,automatic,nc,nc
 2023-11-09T05:22:02.890Z,38.7988319,-122.7298355,0.47,0.73,md,8,106,0.01648,0.03,nc,nc73960296,2023-11-09T05:55:12.267Z,"3 km SSW of Cobb, CA",earthquake,0.3,1.33,0.04,8,automatic,nc,nc
 2023-11-09T05:17:16.979Z,58.6447,-153.979,95.5,2.1,ml,,,,0.15,ak,ak023edqah2p,2023-11-09T05:19:34.812Z,"Kodiak Island region, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-09T05:03:45.157Z,31.663,-104.191,4.4283,2.1,ml(texnet),18,69,0.1,0.2,tx,tx2023vylc,2023-11-09T05:41:30.429Z,"54 km NW of Toyah, Texas",earthquake,0,1.289172359,0.2,13,automatic,tx,tx
@@ -240,10 +242,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T10:38:34.691Z,31.634,-103.987,4.4477,2.2,ml(texnet),12,83,0,0.1,tx,tx2023vxaq,2023-11-08T18:43:45.539Z,"37 km WSW of Mentone, Texas",earthquake,0.4126463377,0.7022341611,0.1,8,reviewed,tx,tx
 2023-11-08T10:35:15.082Z,31.611,-103.977,6.8514,2.6,ml(texnet),15,57,0,0.1,tx,tx2023vxan,2023-11-08T11:25:00.998Z,"37 km NNW of Toyah, Texas",earthquake,0.8443247686,0.9499642018,0.1,19,reviewed,tx,tx
 2023-11-08T10:33:31.513Z,31.731,-104.146,3.0143,2.1,ml(texnet),7,145,0,0.8,tx,tx2023vxam,2023-11-08T11:18:24.488Z,"51 km W of Mentone, Texas",earthquake,0,3.105644403,0.6,6,automatic,tx,tx
-2023-11-08T10:31:07.555Z,31.622,-103.98,7.0828,2.8,ml(texnet),14,58,0,0.2,tx,tx2023vxak,2023-11-08T23:29:22.090Z,"37 km WSW of Mentone, Texas",earthquake,0.7314280183,1.031653294,0.3,7,reviewed,tx,tx
+2023-11-08T10:31:07.555Z,31.622,-103.98,7.0828,2.8,ml(texnet),14,58,0,0.2,tx,tx2023vxak,2023-11-09T06:29:22.040Z,"37 km WSW of Mentone, Texas",earthquake,0.7314280183,1.031653294,0.3,7,reviewed,tx,tx
 2023-11-08T10:30:06.871Z,31.613,-103.994,7.5841,3.2,ml(texnet),15,58,0,0.1,tx,tx2023vxai,2023-11-09T06:18:20.040Z,"38 km NNW of Toyah, Texas",earthquake,0.4682446831,0.6219120053,0.2,13,reviewed,tx,tx
 2023-11-08T10:29:41.440Z,33.8011667,-116.2021667,8.73,1.22,ml,43,74,0.0167,0.14,ci,ci39710298,2023-11-08T17:59:34.950Z,"9 km N of Indio, CA",earthquake,0.19,0.35,0.143,23,reviewed,ci,ci
-2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-09T05:52:22.681Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
+2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-09T06:25:27.265Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
 2023-11-08T10:27:24.722Z,31.626,-104.517,7.1856,0.4,ml(texnet),6,276,0,0.1,tx,tx2023vxad,2023-11-08T16:53:53.560Z,"62 km SSW of Whites City, New Mexico",earthquake,2.020156741,1.552113787,0.1,6,reviewed,tx,tx
 2023-11-08T10:23:52.340Z,19.2544994354248,-155.404663085938,30.3500003814697,2.2,ml,45,126,,0.119999997,hv,hv73641452,2023-11-08T10:29:22.780Z,"9 km NE of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.17,3,automatic,hv,hv
 2023-11-08T10:02:02.233Z,63.0999,-150.885,131.1,2.4,ml,,,,0.3,ak,ak023ec5n1ql,2023-11-08T10:17:31.040Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -273,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T07:09:03.982Z,39.2475,48.2431,49.604,4.4,mb,57,53,0.762,1.24,us,us7000l9ib,2023-11-08T08:38:23.040Z,"17 km SSW of Bīleh Savār, Iran",earthquake,5.64,2.822,0.087,38,reviewed,us,us
 2023-11-08T07:00:18.126Z,38.1485,-117.9843,10.7,0.9,ml,9,104.96,0.051,0.1418,nn,nn00868584,2023-11-08T17:57:50.647Z,"28 km SSE of Mina, Nevada",earthquake,,2.3,0,1,reviewed,nn,nn
 2023-11-08T06:57:48.405Z,-6.5339,129.5949,10,4.6,mb,26,133,7.59,0.62,us,us7000l9ia,2023-11-08T07:23:31.040Z,"Banda Sea",earthquake,7.09,1.922,0.128,18,reviewed,us,us
-2023-11-08T06:30:02.400Z,38.8470001,-122.814003,1.26,0.26,md,6,95,0.01057,0.01,nc,nc73957645,2023-11-08T06:54:14.571Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.47,0.13,7,automatic,nc,nc
