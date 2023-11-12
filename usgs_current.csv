@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-12T16:39:53.640Z,35.7316666,-121.112999,6.73,1.22,md,7,173,0.05936,0.03,nc,nc73962111,2023-11-12T16:41:30.669Z,"12 km NE of San Simeon, CA",earthquake,1.05,1.53,0.13,4,automatic,nc,nc
+2023-11-12T16:46:20.940Z,38.8274994,-122.7991638,-0.52,0.38,md,8,122,0.009456,0.01,nc,nc73962116,2023-11-12T16:57:11.010Z,"7 km W of Cobb, CA",earthquake,0.32,1.03,0.32,8,automatic,nc,nc
+2023-11-12T16:44:46.440Z,19.3776664733887,-155.281661987305,0.939999997615814,2.89,ml,39,75,,0.300000012,hv,hv73645212,2023-11-12T16:50:18.480Z,"8 km SW of Volcano, Hawaii",earthquake,0.26,0.300000012,2.2,19,automatic,hv,hv
+2023-11-12T16:40:02.220Z,33.2328333,-116.4068333,2.11,0.87,ml,45,58,0.09937,0.19,ci,ci39712138,2023-11-12T16:46:08.731Z,"4 km SW of Borrego Springs, CA",earthquake,0.19,0.35,0.117,15,automatic,ci,ci
+2023-11-12T16:39:53.640Z,35.7316666,-121.112999,6.73,1.22,md,7,173,0.05936,0.03,nc,nc73962111,2023-11-12T16:51:10.980Z,"12 km NE of San Simeon, CA",earthquake,1.05,1.53,0.13,4,automatic,nc,nc
 2023-11-12T16:38:20.692Z,61.615,-146.357,33.8,1.5,ml,,,,0.83,ak,ak023eivksj9,2023-11-12T16:39:58.196Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-12T16:36:21.440Z,63.4536,-145.9624,12.3,1.1,ml,,,,0.35,ak,ak023eivkd55,2023-11-12T16:38:44.876Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-12T16:25:13.619Z,63.5327,-147.695,16.1,1.3,ml,,,,0.72,ak,ak023eivhzp0,2023-11-12T16:27:33.452Z,"64 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-12T16:23:06.730Z,35.6038333,-117.4786667,8.51,1.05,ml,25,47,0.02189,0.17,ci,ci39712130,2023-11-12T16:28:58.618Z,"18 km E of Ridgecrest, CA",earthquake,0.22,0.4,0.173,9,automatic,ci,ci
-2023-11-12T16:20:19.734Z,31.648,-104.014,6.4614,2.7,ml(texnet),16,44,0,0.5,tx,tx2023wetw,2023-11-12T16:41:01.422Z,"39 km W of Mentone, Texas",earthquake,0,2.167722616,0.2,13,automatic,tx,tx
+2023-11-12T16:20:19.846Z,31.637,-104.051,3.3713,2.6,ml(texnet),20,98,0,0.7,tx,tx2023wetw,2023-11-12T16:42:31.986Z,"western Texas",earthquake,0,1.244307239,0.3,15,automatic,tx,tx
 2023-11-12T16:17:18.180Z,38.8286667,-122.8526688,1.62,1.08,md,18,81,0.00347,0.02,nc,nc73962106,2023-11-12T16:27:11.853Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.38,0.21,19,automatic,nc,nc
 2023-11-12T16:05:17.477Z,63.1963,-147.7672,250,1.9,ml,,,,0.81,ak,ak023eivdpnn,2023-11-12T16:07:56.831Z,"63 km ESE of Cantwell, Alaska",earthquake,,5.6,,,automatic,ak,ak
 2023-11-12T16:00:19.040Z,39.4056664,-120.2060013,7.12,1.71,md,7,170,0.1732,0.07,nc,nc73962101,2023-11-12T16:13:10.784Z,"9 km NNW of Truckee, CA",earthquake,0.67,2.34,0.24,6,automatic,nc,nc
@@ -100,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T04:05:31.280Z,34.1178322,-116.9785004,8.65,1.29,ml,57,52,0.04286,0.16,ci,ci39711970,2023-11-12T04:31:49.559Z,"11 km NNE of Yucaipa, CA",earthquake,0.21,0.49,0.229,7,automatic,ci,ci
 2023-11-12T03:52:16.594Z,35.10557175,-95.53878784,5,2.32,ml,49,85.22066879,0.111921899,0.9781072999,ok,ok2023wdvd,2023-11-12T03:57:24.480Z,"12 km E of Crowder, Oklahoma",earthquake,2.309120464,,0.3,14,automatic,ok,ok
 2023-11-12T03:48:18.720Z,51.8673333333333,-177.931833333333,5.46,2,ml,5,172,,0.1,av,av92115911,2023-11-12T05:25:39.900Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,0.96,0.208921488531943,5,reviewed,av,av
-2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"western Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
+2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"38 km W of Mentone, Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
 2023-11-12T03:39:39.780Z,38.828167,-122.8554993,2.49,1.29,md,23,61,0.00124,0.02,nc,nc73961921,2023-11-12T05:11:11.125Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,26,automatic,nc,nc
 2023-11-12T03:33:15.420Z,19.3770008087158,-155.281494140625,1.70000004768372,2.1,ml,27,91,,0.189999998,hv,hv73644637,2023-11-12T03:38:52.810Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.310000002,0.3,9,automatic,hv,hv
 2023-11-12T03:29:02.390Z,51.8673333333333,-177.930166666667,6.32,1.18,ml,4,217,,0.12,av,av92115881,2023-11-12T06:25:55.250Z,"89 km W of Adak, Alaska",earthquake,0.65,1.3,0.178719475091409,4,reviewed,av,av
@@ -177,8 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T17:04:18.180Z,40.3720016,-124.5569992,20.04,2,md,10,302,0.1796,0.13,nc,nc73961656,2023-11-11T20:15:11.700Z,"24 km WNW of Petrolia, CA",earthquake,4.83,0.84,0.03,5,automatic,nc,nc
 2023-11-11T16:59:09.460Z,33.7631667,-116.9336667,13.97,0.91,ml,36,82,0.07633,0.12,ci,ci39711738,2023-11-12T14:56:08.031Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.32,0.162,28,reviewed,ci,ci
 2023-11-11T16:58:38.520Z,36.5358315,-121.1526642,2.58,1.35,md,8,90,0.04446,0.36,nc,nc73961651,2023-11-11T20:00:10.850Z,"1 km WNW of Pinnacles, CA",earthquake,1.44,2.84,0.47,6,automatic,nc,nc
-2023-11-11T16:54:33.400Z,38.8358345,-122.8118362,1.84,0.78,md,13,76,0.0125,0.01,nc,nc73961646,2023-11-11T17:05:11.728Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.73,0.17,13,automatic,nc,nc
-2023-11-11T16:51:58.070Z,54.6436,-159.6487,32.03,4.5,mwr,89,156,0.853,0.92,us,us7000lad4,2023-11-11T17:49:32.053Z,"94 km SE of Sand Point, Alaska",earthquake,6.15,5.719,0.071,19,reviewed,us,us
-2023-11-11T16:51:21.130Z,33.5048333,-116.505,10.01,0.46,ml,22,116,0.05684,0.12,ci,ci39711730,2023-11-11T16:57:23.623Z,"17 km ESE of Anza, CA",earthquake,0.27,0.32,0.168,8,automatic,ci,ci
-2023-11-11T16:43:29.240Z,38.8320007,-122.8176651,1.71,0.71,md,9,135,0.01044,0.02,nc,nc73961641,2023-11-11T16:58:10.695Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.23,0.33,9,automatic,nc,nc
-2023-11-11T16:43:13.780Z,38.7840004,-122.7431641,0.44,1.3,md,13,81,0.00509,0.02,nc,nc73961636,2023-11-11T19:32:10.480Z,"1 km ENE of The Geysers, CA",earthquake,0.21,0.64,0.32,12,automatic,nc,nc
