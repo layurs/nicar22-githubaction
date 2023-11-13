@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T09:32:32.720Z,19.3605003356934,-155.284164428711,1.87999999523163,1.92,ml,24,120,,0.170000002,hv,hv73646422,2023-11-13T09:38:01.310Z,"10 km SSW of Volcano, Hawaii",earthquake,0.34,0.439999998,2.46,6,automatic,hv,hv
+2023-11-13T09:31:12.523Z,61.5664,-150.3661,49.4,2,ml,,,,0.39,ak,ak023ekewl5g,2023-11-13T09:33:00.074Z,"8 km ENE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-13T09:16:16.190Z,38.9889984,-123.3098297,7.13,1.5,md,6,122,0.1036,0.01,nc,nc73962371,2023-11-13T09:26:10.655Z,"5 km ESE of Boonville, CA",earthquake,0.53,2.25,0.15,4,automatic,nc,nc
 2023-11-13T09:14:06.817Z,60.1811,-140.0347,2.7,1.8,ml,,,,1.01,ak,ak023ekesx5o,2023-11-13T09:16:41.232Z,"72 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-13T09:02:35.114Z,59.9172,-140.7674,5.9,1.9,ml,,,,0.92,ak,ak023ekeqf4n,2023-11-13T09:05:12.857Z,"71 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -10,8 +12,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T08:27:14.916Z,31.619,-104.011,4.8673,1.6,ml(texnet),15,44,0,0.2,tx,tx2023wfzt,2023-11-13T09:05:20.789Z,"western Texas",earthquake,0,1.273090385,0.2,13,automatic,tx,tx
 2023-11-13T08:26:37.874Z,31.64,-103.955,2.4961,2,mlv,7,213,0.1,0.5,tx,tx2023wgad,2023-11-13T09:04:29.703Z,"34 km WSW of Mentone, Texas",earthquake,0,2.274829766,0.2,7,automatic,tx,tx
 2023-11-13T07:48:02.853Z,59.4162,-152.6093,76.8,2.1,ml,,,,0.33,ak,ak023ekdtcd9,2023-11-13T07:50:01.715Z,"39 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-13T07:43:32.757Z,-3.9206,150.971,10,6.1,mww,89,47,1.22,0.49,us,us7000lali,2023-11-13T09:05:40.191Z,"135 km WNW of Rabaul, Papua New Guinea",earthquake,5.25,1.835,0.059,28,reviewed,us,us
-2023-11-13T07:37:20.150Z,37.4176674,-121.8186646,0.55,1.63,md,8,94,0.03365,0.04,nc,nc73962356,2023-11-13T07:50:10.101Z,"6 km N of Alum Rock, CA",earthquake,0.55,1.7,0.06,6,automatic,nc,nc
+2023-11-13T07:43:32.757Z,-3.9206,150.971,10,6.1,mww,89,47,1.22,0.49,us,us7000lali,2023-11-13T09:50:14.083Z,"135 km WNW of Rabaul, Papua New Guinea",earthquake,5.25,1.835,0.059,28,reviewed,us,us
+2023-11-13T07:37:20.150Z,37.4176674,-121.8186646,0.55,1.63,md,8,94,0.03365,0.04,nc,nc73962356,2023-11-13T09:54:10.817Z,"6 km N of Alum Rock, CA",earthquake,0.55,1.7,0.06,6,automatic,nc,nc
 2023-11-13T07:36:01.020Z,19.3444995880127,-155.299499511719,0.219999998807907,2.31999993,md,30,58,,0.219999999,hv,hv73646292,2023-11-13T07:39:16.830Z,"12 km SSW of Volcano, Hawaii",earthquake,0.31,0.449999988,0.209999993,13,automatic,hv,hv
 2023-11-13T07:22:46.460Z,35.674,-117.513,9.34,1.11,ml,27,59,0.07324,0.14,ci,ci39712394,2023-11-13T07:29:19.617Z,"14 km SW of Searles Valley, CA",earthquake,0.23,0.43,0.144,11,automatic,ci,ci
 2023-11-13T07:08:13.800Z,38.8351669,-122.7904968,1.78,0.77,md,14,54,0.00324,0.01,nc,nc73962346,2023-11-13T09:26:10.772Z,"6 km WNW of Cobb, CA",earthquake,0.42,0.92,0.34,14,automatic,nc,nc
@@ -180,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T10:34:39.381Z,31.614,-104.004,8.3296,2.9,ml(texnet),19,54,0,0.1,tx,tx2023wein,2023-11-12T10:59:11.534Z,"western Texas",earthquake,0.5328573214,0.4647210712,0.1,13,reviewed,tx,tx
 2023-11-12T10:25:22.463Z,61.7399,-151.6358,84.3,1.4,ml,,,,0.46,ak,ak023eirxeqe,2023-11-12T10:27:43.756Z,"30 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-12T10:16:36.150Z,19.3854999542236,-155.27766418457,1.30999994277954,2.12,ml,22,62,,0.150000006,hv,hv73644862,2023-11-12T10:22:05.980Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.209999993,0.25,9,automatic,hv,hv
-2023-11-12T09:48:47.631Z,31.651,-104.013,4.6668,1.5,ml(texnet),15,44,0,0.3,tx,tx2023wegx,2023-11-12T10:25:34.081Z,"39 km W of Mentone, Texas",earthquake,0,1.311456538,0.1,12,automatic,tx,tx
-2023-11-12T09:48:42.596Z,-3.7382,151.0322,10,5.2,mww,68,85,1.215,0.84,us,us7000lagg,2023-11-12T10:08:07.040Z,"131 km SSE of Kavieng, Papua New Guinea",earthquake,7.72,1.862,0.083,14,reviewed,us,us
