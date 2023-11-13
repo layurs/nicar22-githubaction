@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T10:09:25.839Z,62.4371,-150.8559,86.6,1.3,ml,,,,0.45,ak,ak023ekfdc4c,2023-11-13T10:11:55.938Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-13T10:09:18.190Z,38.7820015,-122.7434998,-0.06,0.96,md,11,77,0.005437,0.03,nc,nc73962381,2023-11-13T10:19:10.945Z,"1 km ENE of The Geysers, CA",earthquake,0.23,0.78,0.19,10,automatic,nc,nc
+2023-11-13T10:00:16.670Z,38.8013344,-122.7468338,0.31,1.11,md,17,104,0.01972,0.03,nc,nc73962376,2023-11-13T10:09:10.894Z,"3 km NNE of The Geysers, CA",earthquake,0.23,0.56,0.08,16,automatic,nc,nc
 2023-11-13T09:32:32.720Z,19.3605003356934,-155.284164428711,1.87999999523163,1.92,ml,24,120,,0.170000002,hv,hv73646422,2023-11-13T09:38:01.310Z,"10 km SSW of Volcano, Hawaii",earthquake,0.34,0.439999998,2.46,6,automatic,hv,hv
 2023-11-13T09:31:12.523Z,61.5664,-150.3661,49.4,2,ml,,,,0.39,ak,ak023ekewl5g,2023-11-13T09:33:00.074Z,"8 km ENE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-13T09:16:16.190Z,38.9889984,-123.3098297,7.13,1.5,md,6,122,0.1036,0.01,nc,nc73962371,2023-11-13T09:26:10.655Z,"5 km ESE of Boonville, CA",earthquake,0.53,2.25,0.15,4,automatic,nc,nc
@@ -17,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T07:36:01.020Z,19.3444995880127,-155.299499511719,0.219999998807907,2.31999993,md,30,58,,0.219999999,hv,hv73646292,2023-11-13T07:39:16.830Z,"12 km SSW of Volcano, Hawaii",earthquake,0.31,0.449999988,0.209999993,13,automatic,hv,hv
 2023-11-13T07:22:46.460Z,35.674,-117.513,9.34,1.11,ml,27,59,0.07324,0.14,ci,ci39712394,2023-11-13T07:29:19.617Z,"14 km SW of Searles Valley, CA",earthquake,0.23,0.43,0.144,11,automatic,ci,ci
 2023-11-13T07:08:13.800Z,38.8351669,-122.7904968,1.78,0.77,md,14,54,0.00324,0.01,nc,nc73962346,2023-11-13T09:26:10.772Z,"6 km WNW of Cobb, CA",earthquake,0.42,0.92,0.34,14,automatic,nc,nc
+2023-11-13T07:07:44.199Z,25.9198,-110.2141,10,4.4,mb,77,134,2.238,0.64,us,us7000lale,2023-11-13T10:09:34.040Z,"87 km W of Las Grullas Margen Derecha, Mexico",earthquake,9.4,1.963,0.061,78,reviewed,us,us
 2023-11-13T07:06:26.956Z,61.1453,-147.639,2.1,1.4,ml,,,,0.95,ak,ak023ekdke5j,2023-11-13T07:08:14.033Z,"60 km WNW of Tatitlek, Alaska",earthquake,,9,,,automatic,ak,ak
 2023-11-13T07:06:18.120Z,18.5013333333333,-67.4515,15.08,2.81,md,11,263,0.1192,0.16,pr,pr71431328,2023-11-13T07:53:58.540Z,"Mona Passage",earthquake,0.85,0.67,0.118382489832844,6,reviewed,pr,pr
 2023-11-13T07:00:18.230Z,19.3608341217041,-155.296997070312,1.9099999666214,1.77999997,md,14,110,,0.100000001,hv,hv73646272,2023-11-13T07:25:10.030Z,"11 km SW of Volcano, Hawaii",earthquake,0.32,0.479999989,0.589999974,13,automatic,hv,hv
@@ -178,7 +182,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T11:02:57.397Z,41.6909,144.1266,37.022,4.5,mb,34,169,0.793,0.77,us,us7000lags,2023-11-12T11:20:02.040Z,"95 km SE of Hiroo, Japan",earthquake,8.32,8.635,0.124,19,reviewed,us,us
 2023-11-12T10:41:50.300Z,19.2688331604004,-155.38166809082,29.8600006103516,1.80999994,md,31,129,,0.170000002,hv,hv73644867,2023-11-12T10:44:54.830Z,"12 km NE of Pāhala, Hawaii",earthquake,0.59,0.829999983,0.810000002,7,automatic,hv,hv
 2023-11-12T10:39:34.174Z,31.617,-104.006,8.2268,3,ml(texnet),17,56,0,0.1,tx,tx2023weiq,2023-11-13T08:00:25.397Z,"western Texas",earthquake,0.5454148043,0.448203587,0.1,11,reviewed,tx,tx
-2023-11-12T10:35:15.590Z,38.5475,-119.4915,5.81,2.24,md,13,115,0.03411,0.05,nc,nc73962006,2023-11-13T08:08:10.207Z,"4 km NNW of Walker, CA",earthquake,0.28,0.41,0.307,35,reviewed,nc,nc
+2023-11-12T10:35:15.590Z,38.5475,-119.4915,5.81,2.24,md,13,115,0.03411,0.05,nc,nc73962006,2023-11-13T10:09:11.080Z,"4 km NNW of Walker, CA",earthquake,0.28,0.41,0.307,35,reviewed,nc,nc
 2023-11-12T10:34:39.381Z,31.614,-104.004,8.3296,2.9,ml(texnet),19,54,0,0.1,tx,tx2023wein,2023-11-12T10:59:11.534Z,"western Texas",earthquake,0.5328573214,0.4647210712,0.1,13,reviewed,tx,tx
 2023-11-12T10:25:22.463Z,61.7399,-151.6358,84.3,1.4,ml,,,,0.46,ak,ak023eirxeqe,2023-11-12T10:27:43.756Z,"30 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-11-12T10:16:36.150Z,19.3854999542236,-155.27766418457,1.30999994277954,2.12,ml,22,62,,0.150000006,hv,hv73644862,2023-11-12T10:22:05.980Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.209999993,0.25,9,automatic,hv,hv
