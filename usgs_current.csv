@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-15T10:58:33.253Z,31.0851,-103.2491,8.991,3.5,ml,30,52,0.177,0.32,us,us6000lni0,2023-11-15T11:03:42.040Z,"western Texas",earthquake,1.54,8.341,0.061,63,reviewed,us,us
+2023-11-15T10:41:55.840Z,41.241,-89.1766,4.589,3.6,mb_lg,64,28,0.69,0.39,us,us6000lnhy,2023-11-15T11:04:54.472Z,"1 km SSE of Standard, Illinois",earthquake,2.98,7.222,0.038,178,reviewed,us,us
 2023-11-15T10:39:31.210Z,33.013,-116.428,5.89,1.01,ml,54,40,0.04359,0.18,ci,ci39713386,2023-11-15T10:45:43.288Z,"18 km ESE of Julian, CA",earthquake,0.16,0.35,0.16,19,automatic,ci,ci
 2023-11-15T10:35:34.980Z,38.8256683,-122.8058319,1.32,0.28,md,11,73,0.004017,0.02,nc,nc73963121,2023-11-15T10:45:11.069Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.8,0.11,11,automatic,nc,nc
 2023-11-15T10:25:34.520Z,19.4009990692139,-155.276840209961,1.22000002861023,1.71000004,md,8,89,,0.100000001,hv,hv73648687,2023-11-15T10:28:38.080Z,"6 km SW of Volcano, Hawaii",earthquake,0.3,0.310000002,0.850000024,3,automatic,hv,hv
@@ -159,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T17:15:31.848Z,5.6511,125.2946,227.568,4.4,mb,85,109,1.437,0.84,us,us6000lne4,2023-11-14T20:11:13.040Z,"5 km SSE of Pangyan, Philippines",earthquake,9.28,6.285,0.064,75,reviewed,us,us
 2023-11-14T17:15:25.643Z,31.636,-103.98,4.7773,2.8,mlv,10,117,0,0.2,tx,tx2023wimu,2023-11-14T17:31:08.232Z,"western Texas",earthquake,0,1.678280334,0.2,8,automatic,tx,tx
 2023-11-14T17:07:30.087Z,31.635,-103.982,4.9026,1.6,ml(texnet),12,75,0,0.1,tx,tx2023wimj,2023-11-14T17:32:25.501Z,"37 km WSW of Mentone, Texas",earthquake,0,1.410097665,0.1,10,automatic,tx,tx
-2023-11-14T17:06:17.059Z,31.641,-103.983,4.3052,2.6,ml(texnet),20,58,0,0.5,tx,tx2023wimi,2023-11-14T17:47:16.986Z,"37 km W of Mentone, Texas",earthquake,0,1.136912693,0.3,15,automatic,tx,tx
+2023-11-14T17:06:17.027Z,31.633,-103.977,4.859,2.7,ml(texnet),16,52,0,0.1,tx,tx2023wimi,2023-11-15T11:01:44.260Z,"western Texas",earthquake,0.4922961715,0.5985816707,0.2,14,reviewed,tx,tx
 2023-11-14T17:03:34.440Z,44.3496666666667,-115.177666666667,5.51,1.79,ml,11,69,0.3404,0.14,mb,mb90032823,2023-11-14T22:54:55.370Z,"24 km NW of Stanley, Idaho",earthquake,0.34,1.92,0.119655142213708,11,reviewed,mb,mb
 2023-11-14T17:02:01.350Z,60.0301,-151.7136,72.2,3.4,ml,,,,0.63,ak,ak023em715sv,2023-11-15T06:53:25.995Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-11-14T16:53:49.920Z,45.5286666666667,-111.7385,0.26,1.91,ml,18,50,0.2578,0.1,mb,mb90032803,2023-11-14T18:49:48.100Z,"18 km SE of Pony, Montana",earthquake,0.24,0.99,0.172902903395489,18,reviewed,mb,mb
@@ -214,8 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T11:39:10.502Z,37.6402,-115.5977,10.1,1.2,ml,11,206.1,0.119,0.1902,nn,nn00868871,2023-11-14T18:01:44.080Z,"12 km E of Rachel, Nevada",earthquake,,6.8,0.2,4,reviewed,nn,nn
 2023-11-14T11:21:23.230Z,60.0346666666667,-153.075666666667,0.01,-0.56,ml,4,160,,0.12,av,av92118386,2023-11-14T20:47:51.720Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,1.88,0.310640999335145,4,reviewed,av,av
 2023-11-14T11:20:50.050Z,38.8231659,-122.8026657,2.54,1.08,md,18,73,0.005791,0.02,nc,nc73962786,2023-11-14T13:53:11.103Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.54,0.23,20,automatic,nc,nc
-2023-11-14T11:05:17.880Z,19.1983337402344,-155.477340698242,12.710000038147,1.75,md,23,107,,0.150000006,hv,hv73647462,2023-11-14T11:08:34.450Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.379999995,1.55999994,6,automatic,hv,hv
-2023-11-14T11:01:29.278Z,36.6548,-116.2708,6.3,-0.1,ml,10,111.68,0.055,0.0729,nn,nn00868877,2023-11-14T16:00:45.044Z,"51 km ESE of Beatty, Nevada",earthquake,,1.9,0.48,5,reviewed,nn,nn
-2023-11-14T11:00:39.100Z,61.6784,-151.9562,83.1,2,ml,,,,0.83,ak,ak023em3g7pi,2023-11-14T11:03:06.513Z,"45 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-14T10:59:57.350Z,37.5778351,-118.9045029,1.5,0.74,md,8,213,0.03527,0.01,nc,nc73962781,2023-11-14T13:27:09.951Z,"9 km SE of Mammoth Lakes, CA",earthquake,0.8,2.63,0.06,9,automatic,nc,nc
-2023-11-14T10:55:47.930Z,19.1963329315186,-155.475494384766,36.2299995422363,1.86000001,md,33,159,,0.109999999,hv,hv73647452,2023-11-14T10:59:00.000Z,"0 km SSE of Pāhala, Hawaii",earthquake,0.7,1.01999998,1.61000001,6,automatic,hv,hv
