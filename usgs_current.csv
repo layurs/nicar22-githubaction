@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-20T05:56:53.280Z,38.399334,-122.7128296,6.2,1.91,md,20,167,0.04046,0.06,nc,nc73964851,2023-11-20T05:58:29.562Z,"3 km SSE of Roseland, CA",earthquake,0.31,0.64,0.08,21,automatic,nc,nc
+2023-11-20T06:24:19.862Z,61.6012,-149.8362,42.2,1.7,ml,,,,0.22,ak,ak023evxu8ci,2023-11-20T06:25:49.050Z,"3 km SSW of Houston, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-11-20T06:24:10.730Z,35.6823333,-117.4881667,5.68,0.64,ml,16,162,0.05522,0.12,ci,ci39715522,2023-11-20T06:30:19.516Z,"12 km SW of Searles Valley, CA",earthquake,0.29,0.54,0.047,4,automatic,ci,ci
+2023-11-20T06:15:25.320Z,31.648,-104.609,2.421,1.5,ml(texnet),15,194,0.1,0.4,tx,tx2023wspw,2023-11-20T06:33:42.927Z,"62 km SSW of Whites City, New Mexico",earthquake,0,1.929106158,0.1,13,automatic,tx,tx
+2023-11-20T06:11:56.644Z,31.613,-104.102,4.2978,1.5,ml(texnet),16,156,0,0.3,tx,tx2023wspt,2023-11-20T06:33:36.487Z,"44 km NW of Toyah, Texas",earthquake,0,1.242910019,0.2,12,automatic,tx,tx
+2023-11-20T06:05:11.629Z,62.2602,-151.0294,77.3,1.9,ml,,,,0.67,ak,ak023evxq53u,2023-11-20T06:07:21.743Z,"29 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-20T05:56:53.280Z,38.399334,-122.7128296,6.2,1.91,md,20,167,0.04046,0.06,nc,nc73964851,2023-11-20T06:21:14.163Z,"3 km SSE of Roseland, CA",earthquake,0.31,0.64,0.08,21,automatic,nc,nc
 2023-11-20T05:55:08.756Z,63.5319,-147.7328,17.1,1.8,ml,,,,0.12,ak,ak023evxf9s5,2023-11-20T05:57:14.596Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-20T05:40:38.510Z,38.8306656,-122.8151703,2.45,0.72,md,12,55,0.00828,0.03,nc,nc73964846,2023-11-20T05:57:16.908Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.95,0.13,13,automatic,nc,nc
 2023-11-20T05:14:42.470Z,62.8216,-149.6519,73.2,1.7,ml,,,,0.49,ak,ak023evx6pbr,2023-11-20T05:16:33.880Z,"47 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -15,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T03:23:35.511Z,31.671,-104.414,4.0486,1.8,ml(texnet),18,70,0,0.5,tx,tx2023wskf,2023-11-20T03:46:02.805Z,"56 km S of Whites City, New Mexico",earthquake,0,1.339468411,0.2,13,automatic,tx,tx
 2023-11-20T03:20:32.100Z,19.3611660003662,-155.304672241211,0.430000007152557,1.85,ml,15,100,,0.209999993,hv,hv73653212,2023-11-20T03:26:04.120Z,"11 km SW of Volcano, Hawaii",earthquake,0.34,0.569999993,0.23,5,automatic,hv,hv
 2023-11-20T03:09:36.092Z,61.7388,-146.494,20.1,1.8,ml,,,,0.78,ak,ak023evvyr1l,2023-11-20T03:11:47.549Z,"31 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-20T02:59:35.720Z,38.7981682,-122.8013306,19.11,1.36,md,7,211,0.01086,0.05,nc,nc73964816,2023-11-20T03:16:12.890Z,"4 km WNW of The Geysers, CA",earthquake,2.73,6.55,0.41,2,automatic,nc,nc
+2023-11-20T02:59:35.720Z,38.7981682,-122.8013306,19.11,1.36,md,7,211,0.01086,0.05,nc,nc73964816,2023-11-20T06:21:14.025Z,"4 km WNW of The Geysers, CA",earthquake,2.73,6.55,0.41,2,automatic,nc,nc
 2023-11-20T02:57:01.385Z,40.9015,-127.1133,10,4.4,mb,38,209,2.23,0.43,us,us6000lpjc,2023-11-20T05:54:14.894Z,"243 km W of Ferndale, California",earthquake,7.29,1.966,0.062,76,reviewed,us,us
 2023-11-20T02:38:43.260Z,38.7799988,-122.7576675,1.19,1.08,md,13,82,0.01121,0.03,nc,nc73964806,2023-11-20T03:05:19.816Z,"0 km NNW of The Geysers, CA",earthquake,0.25,0.61,0.23,15,automatic,nc,nc
 2023-11-20T02:34:41.280Z,38.8271675,-122.8531647,2.29,0.74,md,8,102,0.01473,0.01,nc,nc73964801,2023-11-20T02:55:15.759Z,"10 km WNW of The Geysers, CA",earthquake,0.37,1.32,0.3,10,automatic,nc,nc
@@ -50,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T23:28:28.320Z,36.0061667,-117.8958333,2.15,1.18,ml,22,82,0.004677,0.12,ci,ci39715442,2023-11-19T23:34:20.448Z,"6 km SE of Coso Junction, CA",earthquake,0.14,0.12,0.168,10,automatic,ci,ci
 2023-11-19T23:28:20.780Z,-5.6675,153.699,35,4.6,mb,33,119,2.119,0.5,us,us6000lpim,2023-11-19T23:53:02.040Z,"210 km WNW of Panguna, Papua New Guinea",earthquake,10.63,1.94,0.102,29,reviewed,us,us
 2023-11-19T23:23:12.190Z,38.7876663,-122.7498322,0.62,2.1,md,38,42,0.01116,0.04,nc,nc73964731,2023-11-20T03:47:11.118Z,"1 km NNE of The Geysers, CA",earthquake,0.15,0.3,0.15,38,automatic,nc,nc
+2023-11-19T23:22:49.798Z,65.7395,-163.3026,5.108,2.6,ml,23,96,0.557,0.56,us,us6000lpjb,2023-11-20T06:12:09.040Z,"45 km SW of Deering, Alaska",earthquake,1.55,6.744,0.051,50,reviewed,us,us
 2023-11-19T23:22:11.843Z,11.5711,-86.5862,63.285,4.1,mb,23,178,0.663,0.66,us,us6000lpik,2023-11-19T23:42:18.040Z,"25 km SSW of Masachapa, Nicaragua",earthquake,4.56,10.664,0.185,8,reviewed,us,us
 2023-11-19T23:15:48.244Z,-17.787,-175.1302,244.007,5.1,mb,68,48,3.366,0.93,us,us6000lpii,2023-11-19T23:33:36.040Z,"154 km NW of Neiafu, Tonga",earthquake,8.87,6.916,0.057,100,reviewed,us,us
 2023-11-19T23:12:15.270Z,61.4697,-146.5947,20.1,1.7,ml,,,,0.66,ak,ak023eukco6v,2023-11-19T23:13:53.900Z,"40 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -179,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T07:17:10.590Z,33.8668333,-118.2538333,8.42,1.36,ml,24,68,0.006662,0.31,ci,ci39715114,2023-11-19T07:24:11.929Z,"4 km SW of Compton, CA",earthquake,0.47,0.81,0.246,24,automatic,ci,ci
 2023-11-19T06:58:02.400Z,38.8185005,-122.7935028,3.26,1.03,md,19,60,0.01061,0.02,nc,nc73964461,2023-11-19T09:36:13.443Z,"6 km NW of The Geysers, CA",earthquake,0.31,0.72,0.27,19,automatic,nc,nc
 2023-11-19T06:57:34.750Z,19.154167175293,-155.477005004883,31.3199996948242,2.04999995,md,45,141,,0.140000001,hv,hv73652277,2023-11-19T07:00:57.670Z,"5 km S of Pāhala, Hawaii",earthquake,0.55,0.709999979,0.25,21,automatic,hv,hv
-2023-11-19T06:35:37.188Z,30.7728,142.1095,10,4.8,mb,65,122,3.043,0.6,us,us6000lper,2023-11-19T07:10:53.040Z,"Izu Islands, Japan region",earthquake,8.28,1.843,0.064,77,reviewed,us,us
-2023-11-19T06:13:34.060Z,38.8343315,-122.8153305,1.95,0.69,md,8,91,0.01167,0.01,nc,nc73964456,2023-11-19T06:46:13.409Z,"8 km W of Cobb, CA",earthquake,0.39,1.18,0.1,8,automatic,nc,nc
