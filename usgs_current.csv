@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-23T13:36:34.910Z,32.827,-115.6048333,11.87,2.16,ml,55,40,0.06302,0.24,ci,ci39717058,2023-11-23T13:43:21.168Z,"4 km SW of Imperial, CA",earthquake,0.22,0.33,0.263,27,automatic,ci,ci
-2023-11-23T13:35:15.390Z,38.7886658,-122.7556686,2.28,0.81,md,13,79,0.01235,0.02,nc,nc73966351,2023-11-23T13:44:10.293Z,"1 km N of The Geysers, CA",earthquake,0.3,0.69,0.29,13,automatic,nc,nc
-2023-11-23T13:34:32.310Z,38.7888336,-122.7565002,1.77,0.85,md,16,128,0.01643,0.03,nc,nc73966346,2023-11-23T13:36:10.222Z,"1 km N of The Geysers, CA",earthquake,0.29,0.54,0.22,16,automatic,nc,nc
+2023-11-23T13:36:34.910Z,32.827,-115.6048333,11.87,2.16,ml,55,40,0.06302,0.24,ci,ci39717058,2023-11-23T13:47:19.510Z,"4 km SW of Imperial, CA",earthquake,0.22,0.33,0.263,27,automatic,ci,ci
+2023-11-23T13:35:15.390Z,38.7886658,-122.7556686,2.28,0.81,md,13,79,0.01235,0.02,nc,nc73966351,2023-11-23T14:05:13.417Z,"1 km N of The Geysers, CA",earthquake,0.3,0.69,0.29,13,automatic,nc,nc
+2023-11-23T13:34:32.310Z,38.7888336,-122.7565002,1.77,0.85,md,16,128,0.01643,0.03,nc,nc73966346,2023-11-23T13:53:14.346Z,"1 km N of The Geysers, CA",earthquake,0.29,0.54,0.22,16,automatic,nc,nc
 2023-11-23T13:16:41.700Z,19.3150005340576,-155.356170654297,1.36000001430511,1.73000002,md,21,133,,0.109999999,hv,hv73658887,2023-11-23T13:19:52.860Z,"17 km NE of Pāhala, Hawaii",earthquake,0.55,0.670000017,0.629999995,6,automatic,hv,hv
 2023-11-23T13:11:13.570Z,62.9794,-149.3365,74.1,1.9,ml,,,,0.29,ak,ak023f10ji9p,2023-11-23T13:12:57.173Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-23T13:06:13.336Z,35.14231491,-97.55987549,3.675229073,1.72,ml,16,92.28140259,0.07581011951,0.389708952,ok,ok2023wypy,2023-11-23T13:39:33.030Z,"4 km NNE of Cole, Oklahoma",earthquake,2.916413997,2.266883923,0.3,9,automatic,ok,ok
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T09:12:47.660Z,38.7599983,-122.708168,1.33,1.29,md,8,179,0.01072,0.03,nc,nc73966311,2023-11-23T11:56:11.680Z,"2 km SW of Anderson Springs, CA",earthquake,0.49,0.6,0.22,11,automatic,nc,nc
 2023-11-23T09:08:45.400Z,33.4873333,-116.4518333,14.05,1.7,ml,92,30,0.04208,0.17,ci,ci39717002,2023-11-23T09:20:03.150Z,"22 km ESE of Anza, CA",earthquake,0.12,0.21,0.152,27,automatic,ci,ci
 2023-11-23T08:24:11.440Z,37.8901672,-122.6746674,9.53,1.3,md,8,126,0.0464,0.03,nc,nc73966301,2023-11-23T11:14:12.410Z,"2 km SSE of Bolinas, CA",earthquake,0.57,0.56,0.25,6,automatic,nc,nc
-2023-11-23T08:18:36.041Z,62.204,-150.2128,14.6,1.7,ml,,,,0.55,ak,ak023f0xlvzo,2023-11-23T08:20:26.331Z,"12 km S of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-23T08:18:36.041Z,62.204,-150.2128,14.6,1.7,ml,,,,0.55,ak,ak023f0xlvzo,2023-11-23T08:20:26.331Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-23T08:15:35.950Z,33.6571667,-116.6803333,15.93,0.71,ml,48,50,0.01291,0.16,ci,ci39716994,2023-11-23T08:21:41.446Z,"10 km SSE of Idyllwild, CA",earthquake,0.17,0.31,0.141,21,automatic,ci,ci
 2023-11-23T07:37:26.633Z,27.7718,56.7217,10,4.3,mb,21,144,2.853,0.4,us,us6000lq8g,2023-11-23T08:02:38.040Z,"southern Iran",earthquake,12.05,1.957,0.147,13,reviewed,us,us
 2023-11-23T07:32:54.820Z,19.2558326721191,-155.364669799805,31.4799995422363,1.83000004,md,34,144,,0.119999997,hv,hv73658677,2023-11-23T07:36:06.310Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.98,0.730000019,0.910000026,3,automatic,hv,hv
@@ -167,6 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T14:28:54.239Z,38.8847,-118.5853,8.4,1.4,ml,8,96.67,0.411,0.1358,nn,nn00869207,2023-11-23T00:26:15.947Z,"Nevada",earthquake,,2.9,0.16,3,reviewed,nn,nn
 2023-11-22T14:23:46.970Z,36.7633324,-121.283165,8.23,1.44,md,7,162,0.0258,0.04,nc,nc73965941,2023-11-22T16:35:11.825Z,"4 km SE of Tres Pinos, CA",earthquake,0.54,0.86,0.15,6,automatic,nc,nc
 2023-11-22T14:15:09.254Z,32.376,-102.119,7.9478,2,ml(texnet),31,82,0,0.2,tx,tx2023wwws,2023-11-22T15:30:13.042Z,"39 km ENE of McKinney Acres, Texas",earthquake,0.7143115136,0.9377029566,0.1,23,reviewed,tx,tx
-2023-11-22T13:53:41.180Z,40.2739983,-124.2921677,14.9,1.64,md,8,160,0.04118,0.07,nc,nc73965931,2023-11-22T16:08:12.678Z,"6 km S of Petrolia, CA",earthquake,0.81,1.16,0.22,4,automatic,nc,nc
-2023-11-22T13:49:17.984Z,63.365,-150.3442,111.6,1.8,ml,,,,0.28,ak,ak023ezd8bbq,2023-11-22T13:51:33.389Z,"69 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-11-22T13:47:57.120Z,19.3050003051758,-155.379333496094,2.94000005722046,2.25,ml,42,109,,0.180000007,hv,hv73657772,2023-11-22T13:53:27.410Z,"15 km NE of Pāhala, Hawaii",earthquake,0.34,0.889999986,3.02,6,automatic,hv,hv
