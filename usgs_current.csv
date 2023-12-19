@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-19T18:12:54.780Z,36.9305,-121.3948364,8.64,1.58,md,21,104,0.08162,0.05,nc,nc73978236,2023-12-19T18:14:30.350Z,"9 km N of Hollister, CA",earthquake,0.25,0.72,0.2,16,automatic,nc,nc
+2023-12-19T18:25:54.528Z,60.9059,-149.5279,27.1,1.7,ml,,,,0.49,ak,ak023g83ksbg,2023-12-19T18:29:44.838Z,"5 km WNW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-12-19T18:25:14.180Z,38.8414993,-122.8781662,2.27,0.64,md,8,95,0.005268,0.02,nc,nc73978241,2023-12-19T18:34:10.513Z,"13 km ENE of Cloverdale, CA",earthquake,0.5,0.85,0.14,9,automatic,nc,nc
+2023-12-19T18:13:54.650Z,34.0173333,-116.7351667,14.64,0.8,ml,22,138,0.07545,0.09,ci,ci40447903,2023-12-19T18:46:52.450Z,"12 km NNE of Cabazon, CA",earthquake,0.18,0.32,0.119,9,reviewed,ci,ci
+2023-12-19T18:12:54.780Z,36.9305,-121.3948364,8.64,1.58,md,21,104,0.08162,0.05,nc,nc73978236,2023-12-19T18:40:11.540Z,"9 km N of Hollister, CA",earthquake,0.25,0.72,0.2,16,automatic,nc,nc
 2023-12-19T18:02:44.450Z,38.8206673,-122.7766647,14.17,1.2,md,8,229,0.01931,0.09,nc,nc73978226,2023-12-19T18:19:11.432Z,"5 km W of Cobb, CA",earthquake,2.81,10.49,,1,automatic,nc,nc
 2023-12-19T17:32:18.211Z,61.6468,-148.0302,10.3,2,ml,,,,0.49,ak,ak023g830rx9,2023-12-19T17:33:45.197Z,"26 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-19T17:25:37.150Z,44.6891667,-110.989,6.27,0.6,md,10,96,0.02671,0.16,uu,uu60556762,2023-12-19T18:02:55.800Z,"9 km ENE of West Yellowstone, Montana",earthquake,0.48,0.84,0.386,7,reviewed,uu,uu
@@ -14,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T16:02:23.813Z,67.4074,-168.8552,6.907,3.4,mb_lg,13,213,1.893,0.73,us,us7000lk40,2023-12-19T16:44:30.040Z,"137 km SW of Point Hope, Alaska",earthquake,8.2,7.597,0.18,8,reviewed,us,us
 2023-12-19T16:01:07.982Z,39.6231,-119.6351,6.3,2.7,ml,31,73.17,0.059,0.16,nn,nn00870310,2023-12-19T18:04:32.172Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1,0.28,10,reviewed,nn,nn
 2023-12-19T15:34:26.020Z,33.5936667,-116.6288333,13.43,1.04,ml,41,48,0.02696,0.1,ci,ci40447775,2023-12-19T18:15:30.723Z,"6 km NE of Anza, CA",earthquake,0.12,0.2,0.183,21,reviewed,ci,ci
-2023-12-19T15:32:14.721Z,31.597,-103.985,7.1728,2.4,ml,16,59,0,0.3,tx,tx2023yuhw,2023-12-19T16:07:25.524Z,"36 km NNW of Toyah, Texas",earthquake,0,2.379967063,0.2,12,automatic,tx,tx
+2023-12-19T15:32:14.990Z,31.61,-103.98,7.2499,2.4,ml,16,43,0,0.1,tx,tx2023yuhw,2023-12-19T18:35:55.464Z,"37 km NNW of Toyah, Texas",earthquake,0.3659355187,0.4236511521,0.2,12,reviewed,tx,tx
 2023-12-19T15:30:57.041Z,-21.4034,-177.0453,253.979,4.7,mb,36,95,1.733,0.71,us,us7000lk3z,2023-12-19T16:25:26.040Z,"182 km W of Houma, Tonga",earthquake,15.77,9.019,0.086,41,reviewed,us,us
 2023-12-19T15:30:52.980Z,38.8131676,-122.828331,2.17,0.75,md,10,81,0.004344,0.02,nc,nc73978206,2023-12-19T15:47:14.387Z,"7 km WNW of The Geysers, CA",earthquake,0.42,0.95,0.18,11,automatic,nc,nc
 2023-12-19T15:25:57.900Z,62.938,-150.7364,124.9,1.9,ml,,,,0.46,ak,ak023g81shri,2023-12-19T15:28:27.401Z,"49 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -22,13 +25,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T15:18:22.001Z,31.551,-104.174,3.0344,1.5,ml,14,81,0,0.6,tx,tx2023yuhm,2023-12-19T15:36:04.347Z,"44 km NW of Toyah, Texas",earthquake,0,1.900175955,0.2,9,automatic,tx,tx
 2023-12-19T15:15:56.524Z,31.536,-104.164,4.1662,1.9,ml,6,250,0.1,0.1,tx,tx2023yuhh,2023-12-19T15:35:59.344Z,"42 km NW of Toyah, Texas",earthquake,0,5.028111966,0.2,5,automatic,tx,tx
 2023-12-19T15:14:52.859Z,31.538,-104.146,9.5507,3.4,ml,17,70,0,0.2,tx,tx2023yuhg,2023-12-19T16:19:44.593Z,"41 km NW of Toyah, Texas",earthquake,1.390017182,1.119625452,0.2,13,reviewed,tx,tx
-2023-12-19T15:13:37.080Z,33.5913333,-116.6346667,12.51,1.95,ml,4,199,0.03299,0.04,ci,ci37532397,2023-12-19T18:07:04.767Z,"5 km NE of Anza, CA",earthquake,0.43,0.34,0.031,2,reviewed,ci,ci
+2023-12-19T15:13:36.970Z,33.5931667,-116.6286667,13.44,0.13,ml,19,101,0.02772,0.08,ci,ci37532397,2023-12-19T18:40:13.727Z,"6 km NE of Anza, CA",earthquake,0.2,0.31,0.212,9,reviewed,ci,ci
+2023-12-19T15:13:07.550Z,33.5948333,-116.631,13.6,0.43,ml,19,100,0.02809,0.13,ci,ci40447759,2023-12-19T18:28:20.272Z,"6 km NE of Anza, CA",earthquake,0.3,0.5,0.178,6,reviewed,ci,ci
 2023-12-19T14:57:45.960Z,38.8133316,-122.8166656,2.69,1.05,md,14,57,0.01074,0.01,nc,nc73978191,2023-12-19T15:23:14.257Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.73,0.21,16,automatic,nc,nc
 2023-12-19T14:52:36.820Z,36.5756683,-121.1740036,6.01,0.99,md,8,159,0.009994,0.02,nc,nc73978186,2023-12-19T15:13:13.200Z,"6 km NNW of Pinnacles, CA",earthquake,0.37,0.69,0.33,3,automatic,nc,nc
 2023-12-19T14:21:26.136Z,63.4732,-145.4956,5,1.3,ml,,,,0.36,ak,ak023g8164ud,2023-12-19T14:23:05.217Z,"43 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-19T14:17:36.720Z,33.621,-116.787,11.48,0.42,ml,15,112,0.03327,0.08,ci,ci40447751,2023-12-19T18:05:30.561Z,"13 km NW of Anza, CA",earthquake,0.26,0.35,0.168,8,reviewed,ci,ci
-2023-12-19T14:10:28.264Z,31.662,-104.19,4.675,2.1,ml,18,69,0.1,0.2,tx,tx2023yufd,2023-12-19T14:27:56.945Z,"53 km NW of Toyah, Texas",earthquake,0,1.217031882,0.2,14,automatic,tx,tx
-2023-12-19T14:05:06.850Z,38.7804985,-122.7183304,1.93,1.27,md,12,90,0.01932,0.02,nc,nc73978176,2023-12-19T15:02:14.143Z,"2 km WNW of Anderson Springs, CA",earthquake,0.38,0.81,0.11,12,automatic,nc,nc
+2023-12-19T14:10:28.198Z,31.664,-104.185,6.183,2.1,ml,18,72,0.1,0.2,tx,tx2023yufd,2023-12-19T18:31:01.433Z,"53 km NW of Toyah, Texas",earthquake,0.6861532777,0.7435205308,0.2,14,reviewed,tx,tx
+2023-12-19T14:05:06.850Z,38.7804985,-122.7183304,1.93,1.27,md,12,90,0.01932,0.02,nc,nc73978176,2023-12-19T18:34:10.744Z,"2 km WNW of Anderson Springs, CA",earthquake,0.38,0.81,0.11,12,automatic,nc,nc
 2023-12-19T14:04:11.590Z,24.1069,125.9471,10,4.5,mb,42,131,1.586,1.17,us,us7000lk46,2023-12-19T17:29:39.040Z,"99 km SE of Miyakojima, Japan",earthquake,6.12,1.851,0.1,29,reviewed,us,us
 2023-12-19T13:56:34.520Z,38.8443336,-122.8743362,2.52,0.79,md,7,164,0.006219,0.02,nc,nc73978171,2023-12-19T14:22:10.916Z,"13 km NW of The Geysers, CA",earthquake,0.63,0.97,0.17,10,automatic,nc,nc
 2023-12-19T13:52:24.630Z,38.8406677,-122.8779984,2.07,0.78,md,12,113,0.007353,0.02,nc,nc73978161,2023-12-19T14:40:11.014Z,"13 km NW of The Geysers, CA",earthquake,0.32,0.66,0.28,14,automatic,nc,nc
@@ -37,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T13:48:24.830Z,38.841835,-122.8781662,2.12,0.79,md,11,112,0.007676,0.05,nc,nc73978146,2023-12-19T14:27:12.951Z,"13 km ENE of Cloverdale, CA",earthquake,0.4,0.61,0.1,11,automatic,nc,nc
 2023-12-19T13:46:15.070Z,33.5985,-116.6251667,13.43,0.17,ml,13,108,0.02434,0.08,ci,ci40447735,2023-12-19T18:23:05.786Z,"7 km NE of Anza, CA",earthquake,0.27,0.42,0.063,3,reviewed,ci,ci
 2023-12-19T13:45:28.121Z,62.427,-149.9476,17.4,1.4,ml,,,,0.5,ak,ak023g80puks,2023-12-19T13:47:05.379Z,"8 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-19T13:43:36.720Z,33.5903333,-116.6366667,13.32,1.78,ml,86,20,0.02415,0.19,ci,ci40447727,2023-12-19T13:54:10.440Z,"5 km NE of Anza, CA",earthquake,0.13,0.24,0.21,25,automatic,ci,ci
+2023-12-19T13:43:36.610Z,33.5916667,-116.6355,14.04,1.83,ml,75,21,0.02527,0.15,ci,ci40447727,2023-12-19T18:43:02.600Z,"5 km NE of Anza, CA",earthquake,0.11,0.2,0.246,24,reviewed,ci,ci
 2023-12-19T13:38:06.815Z,36.741,-116.2838,7,-0.2,ml,6,155.35,0.009,0.0755,nn,nn00870309,2023-12-19T15:10:12.375Z,"46 km ESE of Beatty, Nevada",earthquake,,3.1,0.03,2,reviewed,nn,nn
 2023-12-19T13:29:22.937Z,62.9534,-151.1298,122.6,2,ml,,,,0.5,ak,ak023g80mepx,2023-12-19T13:32:05.386Z,"54 km NNW of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-12-19T13:25:32.840Z,61.233,-145.046,34.8,1,ml,,,,0.21,ak,ak023g80lkmc,2023-12-19T13:26:51.781Z,"45 km SW of Chitina, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -72,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T09:47:51.473Z,31.643,-104.469,6.6971,1.6,ml,13,106,0,0.2,tx,tx2023ytwm,2023-12-19T17:23:05.934Z,"59 km S of Whites City, New Mexico",earthquake,1.445608813,0.7511637592,0.2,9,reviewed,tx,tx
 2023-12-19T09:39:35.730Z,38.793335,-122.7698364,1.9,1.79,md,27,75,0.01075,0.03,nc,nc73978061,2023-12-19T11:59:11.241Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.41,0.21,28,automatic,nc,nc
 2023-12-19T09:33:11.489Z,61.1316,-152.106,102.1,1.8,ml,,,,0.56,ak,ak023g7y9ia4,2023-12-19T09:42:32.564Z,"52 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-12-19T09:31:41.043Z,39.6184,-119.6312,7,3.4,ml,34,71.91,0.063,0.1648,nn,nn00870301,2023-12-19T17:33:24.076Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,0.9,0.27,10,reviewed,nn,nn
+2023-12-19T09:31:41.043Z,39.6184,-119.6312,7,3.4,ml,34,71.91,0.063,0.1648,nn,nn00870301,2023-12-19T18:42:52.622Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,0.9,0.27,10,reviewed,nn,nn
 2023-12-19T09:30:38.494Z,60.0738,-152.3539,76.8,2.2,ml,,,,0.27,ak,ak023g7y8xe3,2023-12-19T09:34:08.470Z,"37 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-12-19T09:26:30.868Z,60.2806,-140.8282,4,2.5,ml,,,,0.53,ak,ak023g7y81ri,2023-12-19T10:24:09.040Z,"102 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-19T09:26:04.230Z,38.1731667,-112.619,-0.86,1.7,ml,17,144,0.306,0.21,uu,uu60556747,2023-12-19T14:33:42.100Z,"11 km S of Beaver, Utah",earthquake,0.67,2.31,0.104,7,reviewed,uu,uu
@@ -91,10 +95,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T07:47:54.100Z,38.7779999,-122.7801666,1.94,0.47,md,5,153,0.01341,0,nc,nc73978031,2023-12-19T08:10:13.728Z,"2 km W of The Geysers, CA",earthquake,1.06,0.65,0.23,5,automatic,nc,nc
 2023-12-19T07:47:28.630Z,33.6221667,-116.7923333,11.74,0.53,ml,27,116,0.0369,0.12,ci,ci40447639,2023-12-19T16:32:40.998Z,"13 km NW of Anza, CA",earthquake,0.23,0.37,0.146,7,reviewed,ci,ci
 2023-12-19T07:41:50.410Z,38.7859993,-122.7734985,0.73,1.93,md,31,78,0.01336,0.05,nc,nc73978026,2023-12-19T10:02:11.379Z,"2 km WNW of The Geysers, CA",earthquake,0.19,0.32,0.11,30,automatic,nc,nc
-2023-12-19T07:38:04.630Z,37.8639,-116.1921,0,1.4,ml,8,242.68,0.661,0.4314,nn,nn00870300,2023-12-19T07:41:06.654Z,"46 km WNW of Rachel, Nevada",earthquake,,71.1,0.21,4,automatic,nn,nn
+2023-12-19T07:38:06.262Z,37.8204,-116.1645,20.2,1.4,ml,7,190.65,0.374,0.1622,nn,nn00870300,2023-12-19T18:47:29.602Z,"41 km WNW of Rachel, Nevada",earthquake,,3.3,0.14,5,reviewed,nn,nn
 2023-12-19T07:36:15.170Z,19.3125,-155.412994384766,26.7800006866455,1.76999998,md,24,98,,0.109999999,hv,hv73691082,2023-12-19T07:39:29.210Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.67,1.51999998,0.879999995,3,automatic,hv,hv
 2023-12-19T07:33:21.430Z,45.4136666666667,-111.539833333333,3.97,0.68,ml,4,262,0.1939,0.03,mb,mb90036618,2023-12-19T16:08:11.870Z,"16 km ENE of Ennis, Montana",earthquake,1.46,6.3,0.345873227857244,4,reviewed,mb,mb
-2023-12-19T07:19:56.585Z,31.664,-104.58,2.8269,1.6,ml,14,190,0.1,0.4,tx,tx2023ytrp,2023-12-19T07:58:02.353Z,"59 km SSW of Whites City, New Mexico",earthquake,0,1.999349906,0.2,12,automatic,tx,tx
+2023-12-19T07:19:56.971Z,31.681,-104.521,6.093,1.5,ml,15,79,0,0.1,tx,tx2023ytrp,2023-12-19T18:46:00.510Z,"56 km SSW of Whites City, New Mexico",earthquake,0.7859115506,0.4004229113,0.2,11,reviewed,tx,tx
 2023-12-19T07:16:15.901Z,8.3131,126.4292,10,4.9,mb,49,105,1.495,0.81,us,us7000ljzy,2023-12-19T07:41:09.006Z,"10 km E of Tidman, Philippines",earthquake,10.35,1.873,0.062,82,reviewed,us,us
 2023-12-19T07:02:31.590Z,38.829834,-122.8130035,2.01,1.26,md,21,58,0.006825,0.02,nc,nc73978011,2023-12-19T09:36:11.232Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.47,0.2,21,automatic,nc,nc
 2023-12-19T07:01:27.864Z,25.1447,122.2828,183.622,4.4,mb,58,44,0.733,0.66,us,us7000lk01,2023-12-19T09:38:01.711Z,"44 km E of Jiufen, Taiwan",earthquake,7.9,5.789,0.082,43,reviewed,us,us
@@ -131,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T03:24:19.242Z,63.04,-151.084,123.6,2.2,ml,,,,0.46,ak,ak023g7umzt0,2023-12-19T03:26:25.956Z,"62 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-19T03:02:00.864Z,65.4009,-144.7709,0,1.7,ml,,,,0.6,ak,ak023g7ui8m0,2023-12-19T03:08:58.166Z,"19 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-19T02:47:13.780Z,35.042,-117.6491667,1.74,0.75,ml,17,67,0.1141,0.11,ci,ci40447503,2023-12-19T15:52:52.521Z,"5 km N of Boron, CA",earthquake,0.22,0.34,0.151,6,reviewed,ci,ci
-2023-12-19T02:44:21.857Z,38.1074,-117.8966,9.5,1.3,ml,8,138.76,0.115,0.3327,nn,nn00870299,2023-12-19T02:47:05.186Z,"36 km SSE of Mina, Nevada",earthquake,,0.6,0.57,6,automatic,nn,nn
+2023-12-19T02:44:21.284Z,38.1612,-117.8906,12.9,1.3,ml,9,96.1,0.083,0.1475,nn,nn00870299,2023-12-19T18:28:47.670Z,"31 km SE of Mina, Nevada",earthquake,,1.1,0.51,4,reviewed,nn,nn
 2023-12-19T02:43:11.121Z,-7.248,119.1755,595.364,5.2,mb,37,43,2.093,0.97,us,us7000ljz0,2023-12-19T02:53:35.040Z,"142 km NNE of Bima, Indonesia",earthquake,11.94,11.521,0.135,18,reviewed,us,us
 2023-12-19T02:42:30.962Z,-22.8699,172.3021,10,5.1,mww,32,120,4.49,0.63,us,us7000ljz1,2023-12-19T03:03:25.040Z,"southeast of the Loyalty Islands",earthquake,9.23,1.889,0.098,10,reviewed,us,us
 2023-12-19T02:39:21.180Z,33.1113333,-115.6248333,9.51,1.34,ml,32,93,0.06641,0.19,ci,ci40447495,2023-12-19T15:49:01.616Z,"8 km N of Westmorland, CA",earthquake,0.21,0.52,0.214,20,reviewed,ci,ci
