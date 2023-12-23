@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-23T18:33:11.440Z,33.8671684,-117.668335,9.33,0.98,ml,20,84,0.03421,0.14,ci,ci40450063,2023-12-23T18:35:24.106Z,"9 km W of Corona, CA",earthquake,0.41,0.91,0.141,8,automatic,ci,ci
 2023-12-23T18:01:28.480Z,40.2521667,-121.4976654,6.21,2.16,md,7,226,0.1557,0.1,nc,nc73980006,2023-12-23T18:08:14.498Z,"13 km SSE of Mineral, CA",earthquake,1.8,3.65,0.11,6,automatic,nc,nc
-2023-12-23T17:56:50.570Z,40.4853325,-112.2323303,-0.59,2.67,ml,9,186,0.1069,0.2,uu,uu60557002,2023-12-23T17:59:35.220Z,"7 km SE of Tooele, Utah",earthquake,2.07,12.5,0.52,10,automatic,uu,uu
 2023-12-23T17:51:40.040Z,38.8221664,-122.8280029,1.75,1.27,md,25,51,0.00557,0.02,nc,nc73979996,2023-12-23T18:08:14.376Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.33,0.17,25,automatic,nc,nc
-2023-12-23T17:48:06.787Z,52.0472,158.973,53.201,5.7,mww,164,45,0.997,0.75,us,us7000ll46,2023-12-23T18:12:53.454Z,"105 km SSE of Vilyuchinsk, Russia",earthquake,7.2,6.015,0.055,32,reviewed,us,us
+2023-12-23T17:48:06.787Z,52.0472,158.973,53.201,5.7,mww,164,45,0.997,0.75,us,us7000ll46,2023-12-23T18:23:19.676Z,"105 km SSE of Vilyuchinsk, Russia",earthquake,7.2,6.015,0.055,32,reviewed,us,us
 2023-12-23T17:46:36.380Z,17.9751666666667,-66.8171666666667,12.87,2.7,md,6,203,0.0591,0.15,pr,pr71435068,2023-12-23T18:11:52.120Z,"2 km S of Indios, Puerto Rico",earthquake,0.86,0.91,0.123715643017686,5,reviewed,pr,pr
 2023-12-23T17:45:22.842Z,59.7582,-152.0848,92.1,2.8,ml,,,,0.57,ak,ak023gep8ykn,2023-12-23T17:48:12.559Z,"14 km W of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-23T17:39:01.271Z,31.604,-103.951,5.3169,1.5,ml,15,75,0,0.3,tx,tx2023zbub,2023-12-23T18:04:28.022Z,"35 km WSW of Mentone, Texas",earthquake,0,2.042336361,0.3,12,automatic,tx,tx
@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T15:49:57.710Z,38.7823334,-122.7559967,1.4,0.81,md,8,76,0.01388,0.01,nc,nc73979951,2023-12-23T16:06:13.609Z,"1 km N of The Geysers, CA",earthquake,0.35,0.7,0.29,8,automatic,nc,nc
 2023-12-23T15:49:09.500Z,33.486,-116.502,9.55,0.8,ml,42,59,0.07386,0.17,ci,ci40449943,2023-12-23T16:05:04.940Z,"18 km ESE of Anza, CA",earthquake,0.17,0.39,0.177,15,reviewed,ci,ci
 2023-12-23T15:45:42.900Z,33.4828333,-116.5015,8.6,0.74,ml,36,58,0.07516,0.16,ci,ci40449935,2023-12-23T16:05:08.450Z,"18 km ESE of Anza, CA",earthquake,0.18,0.49,0.122,16,reviewed,ci,ci
-2023-12-23T15:42:07.690Z,34.0121651,-116.3440018,2.41,3.11,ml,115,23,0.06858,0.17,ci,ci40449927,2023-12-23T17:57:26.363Z,"14 km SSW of Joshua Tree, CA",earthquake,0.15,0.4,0.235,17,reviewed,ci,ci
+2023-12-23T15:42:07.690Z,34.0121651,-116.3440018,2.41,3.11,ml,115,23,0.06858,0.17,ci,ci40449927,2023-12-23T18:33:28.260Z,"14 km SSW of Joshua Tree, CA",earthquake,0.15,0.4,0.235,17,reviewed,ci,ci
 2023-12-23T15:38:06.640Z,38.8263321,-122.8103333,1.42,0.27,md,8,95,0.00294,0.02,nc,nc73979941,2023-12-23T15:55:13.673Z,"7 km NW of The Geysers, CA",earthquake,0.37,1,0.16,8,automatic,nc,nc
 2023-12-23T15:37:00.520Z,37.7561684,-122.5636673,8.67,2.01,md,17,189,0.08041,0.02,nc,nc73979936,2023-12-23T17:44:10.238Z,"6 km WNW of San Francisco Zoo, CA",earthquake,0.62,0.85,0.19,12,automatic,nc,nc
 2023-12-23T15:31:03.763Z,53.9165,168.8183,30.67,4.9,mb,75,97,6.139,0.62,us,us7000ll3j,2023-12-23T15:59:10.040Z,"Komandorskiye Ostrova, Russia region",earthquake,8.97,3.442,0.043,180,reviewed,us,us
@@ -117,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T06:05:58.740Z,17.9108333333333,-66.8505,14.27,2.19,md,9,215,0.06949,0.09,pr,pr71434968,2023-12-23T06:46:30.342Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.76,0.6,0.138494666982835,7,reviewed,pr,pr
 2023-12-23T06:05:30.738Z,39.5474,-119.8013,5.9,1,ml,15,80.46,0.021,0.1888,nn,nn00870552,2023-12-23T16:02:42.639Z,"2 km NNE of Reno, Nevada",earthquake,,1.1,0.35,5,reviewed,nn,nn
 2023-12-23T05:57:34.981Z,31.561,-104.186,4.7021,1.8,ml,18,71,0.1,0.3,tx,tx2023zaww,2023-12-23T06:40:17.773Z,"46 km NW of Toyah, Texas",earthquake,0,1.394780882,0.3,14,automatic,tx,tx
-2023-12-23T05:52:22.380Z,33.677166,-117.9731674,12.45,3.39,ml,122,99,0.02616,0.28,ci,ci40449799,2023-12-23T18:08:58.358Z,"3 km SE of Huntington Beach, CA",earthquake,0.31,0.54,0.4,20,reviewed,ci,ci
+2023-12-23T05:52:22.380Z,33.677166,-117.9731674,12.45,3.39,ml,122,99,0.02616,0.28,ci,ci40449799,2023-12-23T18:35:14.966Z,"3 km SE of Huntington Beach, CA",earthquake,0.31,0.54,0.4,20,reviewed,ci,ci
 2023-12-23T05:46:10.620Z,19.6423,-68.8905,53,3.64,md,7,343,0.4614,0.29,pr,pr2023357001,2023-12-23T06:07:56.704Z,"67 km NE of Samaná, Dominican Republic",earthquake,4.24,22.96,0.08,4,reviewed,pr,pr
 2023-12-23T05:41:46.330Z,37.472168,-118.8300018,0.17,1.83,md,13,233,0.1177,0.04,nc,nc73979751,2023-12-23T08:37:09.945Z,"17 km SW of Toms Place, CA",earthquake,1.17,5.67,0.13,14,automatic,nc,nc
 2023-12-23T05:34:51.200Z,19.2506675720215,-155.39533996582,29.7600002288818,1.98000002,md,41,132,,0.129999995,hv,hv73694257,2023-12-23T05:38:06.910Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.55,0.730000019,1.64999998,18,automatic,hv,hv
@@ -135,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T04:39:00.202Z,63.4803,-148.4206,0,1.9,ml,,,,0.66,ak,ak023gehgzno,2023-12-23T04:40:58.010Z,"28 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-23T04:26:18.439Z,31.473,-103.913,5.126,2.3,ml,14,124,0.1,0.4,tx,tx2023zatw,2023-12-23T05:01:27.558Z,"20 km NNW of Toyah, Texas",earthquake,0,2.850022326,0.2,12,automatic,tx,tx
 2023-12-23T04:24:37.590Z,34.0126667,-116.3431667,2.94,0.88,ml,39,36,0.06856,0.17,ci,ci40449783,2023-12-23T04:30:44.524Z,"14 km SSW of Joshua Tree, CA",earthquake,0.17,0.29,0.171,15,automatic,ci,ci
-2023-12-23T04:15:31.339Z,43.2201,-71.4804,5,2.7,mb_lg,28,115,0.662,0.47,us,us7000ll0w,2023-12-23T18:10:49.680Z,"4 km ENE of Concord, New Hampshire",earthquake,0.88,1.943,0.142,13,reviewed,us,us
+2023-12-23T04:15:31.339Z,43.2201,-71.4804,5,2.7,mb_lg,28,115,0.662,0.47,us,us7000ll0w,2023-12-23T18:34:23.920Z,"4 km ENE of Concord, New Hampshire",earthquake,0.88,1.943,0.142,13,reviewed,us,us
 2023-12-23T04:05:20.371Z,39.6197,-119.6308,7.9,2.6,ml,33,72.22,0.063,0.1563,nn,nn00870545,2023-12-23T18:02:21.533Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,1,0.27,10,reviewed,nn,nn
 2023-12-23T03:48:39.770Z,19.6983,-68.7468,10,3.87,md,18,252,0.6014,0.58,pr,pr2023357000,2023-12-23T04:34:47.272Z,"82 km NE of Samaná, Dominican Republic",earthquake,2.94,31.61,0.09,12,reviewed,pr,pr
 2023-12-23T03:48:37.179Z,-6.3622,129.6973,10,4.9,mb,40,88,1.839,0.89,us,us7000ll0u,2023-12-23T04:08:59.040Z,"Banda Sea",earthquake,7.12,1.879,0.102,31,reviewed,us,us
@@ -221,9 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-22T18:47:59.210Z,57.06,-135.703,7.02,0.33,ml,4,129,,0.18,av,av91125488,2023-12-23T00:43:42.240Z,"22 km W of Sitka, Alaska",earthquake,2.04,0.8,0.199462001952124,4,reviewed,av,av
 2023-12-22T18:38:02.807Z,31.642,-104.454,7.4976,1.8,ml,15,96,0,0.3,tx,tx2023zaam,2023-12-22T19:01:35.841Z,"59 km S of Whites City, New Mexico",earthquake,0,3.799765785,0.1,13,automatic,tx,tx
 2023-12-22T18:36:51.580Z,19.5363,-68.7321,5,3.65,md,17,234,0.5184,0.66,pr,pr2023356001,2023-12-22T20:31:16.475Z,"69 km NNE of Miches, Dominican Republic",earthquake,3.36,31.61,0.21,16,reviewed,pr,pr
-2023-12-22T18:30:13.480Z,19.5388,-68.8215,10,5.25,mwp,20,224,0.4432,0.46,pr,pr2023356000,2023-12-23T15:28:34.640Z,"65 km NE of Samaná, Dominican Republic",earthquake,2.23,31.61,0,0,reviewed,pr,pr
-2023-12-22T18:29:28.939Z,60.2421,-150.9644,64.3,1.6,ml,,,,0.48,ak,ak023gd27mot,2023-12-22T18:31:21.649Z,"20 km ESE of Kasilof, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-12-22T18:26:44.888Z,32.125,-101.05,8.926,2.4,ml,19,69,0.2,0.1,tx,tx2023zaac,2023-12-22T20:25:46.261Z,"25 km S of Westbrook, Texas",earthquake,0.9049438805,2.595311622,0.1,13,reviewed,tx,tx
-2023-12-22T18:15:09.718Z,38.2649,-118.7898,11.2,1.4,ml,7,130.62,0.224,0.1208,nn,nn00870489,2023-12-22T18:34:27.007Z,"32 km SSW of Hawthorne, Nevada",earthquake,,3.6,0.34,5,reviewed,nn,nn
-2023-12-22T18:14:40.824Z,32.125,-101.052,9.464,2.6,ml,12,69,0.2,0.1,tx,tx2023yzzs,2023-12-22T20:53:10.422Z,"25 km S of Westbrook, Texas",earthquake,1.145091678,2.542563978,0.1,10,reviewed,tx,tx
-2023-12-22T18:14:09.550Z,36.7055,-91.3221666666667,12.39,2.09,md,15,139,0.4293,0.22,nm,nm60501458,2023-12-23T16:46:23.810Z,"7 km E of Alton, Missouri",earthquake,0.53,1.09,0.129583695423377,8,reviewed,nm,nm
