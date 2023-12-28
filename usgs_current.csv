@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-28T10:47:39.670Z,57.9218,-155.6053,6.9,1.7,ml,,,,0.36,ak,ak023gmus4j3,2023-12-28T10:49:35.806Z,"78 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-12-28T10:42:49.270Z,33.2695,-116.787,9.97,1.91,ml,97,12,0.04096,0.22,ci,ci40452063,2023-12-28T10:49:36.363Z,"4 km NW of Lake Henshaw, CA",earthquake,0.14,0.37,0.169,26,automatic,ci,ci
+2023-12-28T10:41:05.280Z,61.3166,-147.6379,11.8,2,ml,,,,1.36,ak,ak023gmuqrkw,2023-12-28T10:43:27.223Z,"54 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-28T10:11:46.250Z,32.9635,-115.5405,8.12,1.37,ml,32,76,0.06415,0.22,ci,ci40452055,2023-12-28T10:18:06.410Z,"2 km SSW of Brawley, CA",earthquake,0.25,0.73,0.251,19,automatic,ci,ci
 2023-12-28T10:08:36.089Z,-61.1301,-54.1191,10,5.1,mb,65,61,2.434,0.78,us,us6000m05y,2023-12-28T10:25:05.040Z,"South Shetland Islands",earthquake,8.3,1.871,0.066,75,reviewed,us,us
+2023-12-28T10:07:44.527Z,44.4657,149.0921,44.562,4.5,mb,55,137,4.679,0.94,us,us6000m05x,2023-12-28T10:43:35.040Z,"127 km SE of Kuril’sk, Russia",earthquake,10.19,4.717,0.06,82,reviewed,us,us
 2023-12-28T10:03:18.940Z,38.8328323,-122.7796631,0.2,1.02,md,12,89,0.007972,0.02,nc,nc73982031,2023-12-28T10:29:13.433Z,"5 km WNW of Cobb, CA",earthquake,0.25,0.42,0.11,12,automatic,nc,nc
 2023-12-28T09:56:41.121Z,31.608,-104.12,4.4315,1.6,ml,18,58,0,0.2,tx,tx2023zkih,2023-12-28T10:18:52.881Z,"44 km NW of Toyah, Texas",earthquake,0,1.296543309,0.2,14,automatic,tx,tx
 2023-12-28T09:51:50.525Z,36.6663,-116.274,6,1.5,ml,30,80.2,0.056,0.2599,nn,nn00870794,2023-12-28T09:54:03.364Z,"50 km ESE of Beatty, Nevada",earthquake,,0.5,0.23,19,automatic,nn,nn
@@ -33,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T07:41:11.140Z,19.1604995727539,-155.481002807617,32.3300018310547,2.43,ml,52,116,,0.109999999,hv,hv73699027,2023-12-28T08:44:34.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.560000002,3.79,10,automatic,hv,hv
 2023-12-28T07:40:27.271Z,62.2326,-148.2066,5,1.9,ml,,,,1.02,ak,ak023gmsyaqv,2023-12-28T07:42:19.606Z,"50 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-28T07:03:51.156Z,-6.8929,125.761,514.425,4.4,mb,21,80,6.262,0.42,us,us6000m04y,2023-12-28T07:25:52.040Z,"181 km N of Metinaro, Timor Leste",earthquake,13.69,11.869,0.149,15,reviewed,us,us
-2023-12-28T07:00:41.890Z,40.415,-125.2471667,10,3.75,ml,179,236,0.6969,0.27,nc,nc73981981,2023-12-28T09:32:13.086Z,"82 km W of Petrolia, CA",earthquake,0.92,31.61,0.18,90,reviewed,nc,nc
+2023-12-28T07:00:41.890Z,40.415,-125.2471667,10,3.75,ml,179,236,0.6969,0.27,nc,nc73981981,2023-12-28T10:41:11.510Z,"82 km W of Petrolia, CA",earthquake,0.92,31.61,0.18,90,reviewed,nc,nc
 2023-12-28T06:58:50.340Z,19.2019996643066,-155.371337890625,32.5800018310547,1.97000003,md,35,167,,0.189999998,hv,hv73699012,2023-12-28T07:01:50.780Z,"11 km E of Pāhala, Hawaii",earthquake,0.6,0.819999993,1.38,10,automatic,hv,hv
 2023-12-28T06:52:50.330Z,35.924,-117.6861667,2.55,1.27,ml,31,63,0.1097,0.17,ci,ci40452007,2023-12-28T06:59:09.612Z,"20 km E of Little Lake, CA",earthquake,0.23,0.45,0.157,13,automatic,ci,ci
 2023-12-28T06:51:59.008Z,10.9262,-70.4706,18.009,4.4,mb,25,136,1.68,0.6,us,us6000m04v,2023-12-28T08:37:29.040Z,"25 km ESE of Dabajuro, Venezuela",earthquake,6.28,6.733,0.179,11,reviewed,us,us
@@ -214,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T11:13:53.420Z,52.2633333333333,-174.180166666667,9.06,0.94,ml,5,158,,0.03,av,av92166251,2023-12-27T23:34:32.700Z,"7 km N of Atka, Alaska",earthquake,0.44,0.6,0.311254420293334,5,reviewed,av,av
 2023-12-27T11:01:01.363Z,64.9703,-164.2119,7.653,3,ml,37,76,0.643,0.76,us,us6000m000,2023-12-27T11:44:41.040Z,"47 km NNE of Solomon, Alaska",earthquake,1.52,6.841,0.056,42,reviewed,us,us
 2023-12-27T10:58:44.302Z,63.0375,-149.0946,77.2,2,ml,,,,0.28,ak,ak023gl7b59q,2023-12-27T11:00:31.117Z,"40 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-27T10:52:18.062Z,61.1399,-151.5364,66.4,2.2,ml,,,,0.55,ak,ak023gl79sy6,2023-12-27T10:55:11.357Z,"22 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
