@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T16:11:13.399Z,63.2674,-150.4804,120.5,2.2,ml,,,,0.26,ak,ak023gmy4ymp,2023-12-28T16:13:51.311Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-28T15:48:33.253Z,8.5714,126.5064,54.004,5,mb,84,103,1.752,1.14,us,us6000m087,2023-12-28T16:20:48.330Z,"29 km NE of Hinatuan, Philippines",earthquake,9.42,1.619,0.051,124,reviewed,us,us
 2023-12-28T15:44:10.871Z,29.312,-97.456,0.0245,2.6,ml,19,62,0.1,0.3,tx,tx2023zktw,2023-12-28T16:23:59.040Z,"18 km ENE of Smiley, Texas",earthquake,1.299260308,1.674869089,0.1,13,reviewed,tx,tx
-2023-12-28T15:39:54.660Z,38.7809982,-122.7659988,1.57,1.1,md,17,86,0.01026,0.04,nc,nc73982101,2023-12-28T16:05:17.538Z,"1 km WNW of The Geysers, CA",earthquake,0.27,0.54,0.24,19,automatic,nc,nc
+2023-12-28T15:39:54.660Z,38.7809982,-122.7659988,1.57,1.1,md,17,86,0.01026,0.04,nc,nc73982101,2023-12-28T17:27:10.994Z,"1 km WNW of The Geysers, CA",earthquake,0.27,0.54,0.24,19,automatic,nc,nc
 2023-12-28T15:38:52.476Z,63.313,-149.8802,113,1.5,ml,,,,4.63,ak,ak023gmxpe3j,2023-12-28T15:41:06.002Z,"47 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-12-28T15:34:26.751Z,31.616,-103.963,7.417,2.3,ml,30,51,0.1,0.1,tx,tx2023zktl,2023-12-28T15:51:33.556Z,"35 km WSW of Mentone, Texas",earthquake,0.5817038959,0.9982948277,0.1,28,reviewed,tx,tx
 2023-12-28T15:26:46.200Z,38.8255005,-122.8048325,2.36,1.24,md,25,35,0.004603,0.02,nc,nc73982096,2023-12-28T17:01:10.854Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.4,0.18,28,automatic,nc,nc
@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T10:07:44.527Z,44.4657,149.0921,44.562,4.5,mb,55,137,4.679,0.94,us,us6000m05x,2023-12-28T10:43:35.040Z,"127 km SE of Kuril’sk, Russia",earthquake,10.19,4.717,0.06,82,reviewed,us,us
 2023-12-28T10:03:18.940Z,38.8328323,-122.7796631,0.2,1.02,md,12,89,0.007972,0.02,nc,nc73982031,2023-12-28T10:29:13.433Z,"5 km WNW of Cobb, CA",earthquake,0.25,0.42,0.11,12,automatic,nc,nc
 2023-12-28T09:56:40.845Z,31.615,-104.104,7.6355,1.8,ml,30,56,0,0.1,tx,tx2023zkih,2023-12-28T15:01:29.278Z,"44 km NW of Toyah, Texas",earthquake,0.444212431,0.4016585859,0.2,24,reviewed,tx,tx
-2023-12-28T09:51:50.990Z,36.65,-116.2714,6.3,1.8,ml,10,81.35,0.054,0.0601,nn,nn00870794,2023-12-28T17:16:08.672Z,"52 km ESE of Beatty, Nevada",earthquake,,1.6,0.04,2,reviewed,nn,nn
+2023-12-28T09:51:50.890Z,36.6535,-116.273,7.3,1.4,ml,22,81.05,0.054,0.0906,nn,nn00870794,2023-12-28T17:28:57.925Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.37,8,reviewed,nn,nn
 2023-12-28T09:41:30.580Z,19.3888339996338,-155.277328491211,1.42999994754791,1.70000005,md,17,71,,0.119999997,hv,hv73699097,2023-12-28T09:47:01.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.219999999,0.209999993,13,automatic,hv,hv
 2023-12-28T09:37:26.918Z,44.4565,149.0769,40.054,5,mb,85,135,4.668,0.79,us,us6000m05n,2023-12-28T09:56:50.040Z,"127 km SE of Kuril’sk, Russia",earthquake,9.47,6.716,0.038,223,reviewed,us,us
 2023-12-28T09:34:07.007Z,38.2026,38.0774,10,4.5,mb,52,37,0.912,0.75,us,us6000m05l,2023-12-28T13:33:23.046Z,"17 km SSE of Akçadağ, Turkey",earthquake,5.08,1.936,0.121,20,reviewed,us,us
@@ -232,9 +232,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T17:56:24.100Z,51.9316666666667,-177.1745,8.59,0.46,ml,4,256,,0.2,av,av92166456,2023-12-28T01:08:47.350Z,"37 km W of Adak, Alaska",earthquake,1.95,1.03,0.430773849266916,4,reviewed,av,av
 2023-12-27T17:56:04.103Z,61.1931,-146.8367,7.2,1.8,ml,,,,0.47,ak,ak023glbgnyy,2023-12-27T17:58:33.060Z,"27 km WNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-27T17:54:16.580Z,51.9465,-177.196333333333,7.02,0.81,ml,4,304,,0.05,av,av92166451,2023-12-28T00:46:04.550Z,"39 km WNW of Adak, Alaska",earthquake,0.95,0.53,0.450418638270896,4,reviewed,av,av
-2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T15:59:10.548Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
+2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T17:31:47.040Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
 2023-12-27T17:41:46.768Z,61.377,-150.2192,44,1.9,ml,,,,0.3,ak,ak023glbdjis,2023-12-27T17:43:26.871Z,"13 km W of Point MacKenzie, Alaska",earthquake,,4.6,,,automatic,ak,ak
-2023-12-27T17:31:15.350Z,19.3881664276123,-155.487503051758,5.63000011444092,1.88,md,42,55,,0.209999993,hv,hv73698357,2023-12-27T17:34:18.580Z,"20 km N of Pāhala, Hawaii",earthquake,0.32,0.829999983,0.74000001,17,automatic,hv,hv
-2023-12-27T17:26:37.500Z,58.4138333333333,-154.770166666667,6.28,0.75,ml,14,147,,0.29,av,av92166436,2023-12-28T00:42:29.530Z,"95 km NNW of Karluk, Alaska",earthquake,0.67,1.08,0.180951111037007,14,reviewed,av,av
-2023-12-27T17:25:29.390Z,35.9269981,-117.6825027,2.18,3.22,ml,50,61,0.112,0.18,ci,ci40451791,2023-12-28T10:02:20.409Z,"20 km E of Little Lake, CA",earthquake,0.21,0.44,0.28,23,reviewed,ci,ci
-2023-12-27T17:22:35.315Z,2.6567,128.6047,224.723,4.4,mb,39,79,2.244,0.84,us,us6000m00z,2023-12-27T18:32:52.040Z,"122 km NNE of Tobelo, Indonesia",earthquake,9.98,7.518,0.1,29,reviewed,us,us
