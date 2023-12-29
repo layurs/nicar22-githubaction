@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-29T20:00:17.485Z,62.2972,-150.1458,18.3,1.6,ml,,,,0.54,ak,ak023gonzopg,2023-12-29T20:01:54.325Z,"3 km SSW of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-29T19:33:03.335Z,60.1342,-152.7866,89.2,1.9,ml,,,,0.33,ak,ak023gonlan1,2023-12-29T19:35:10.435Z,"62 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-29T19:14:27.680Z,38.6928329,-122.9189987,39.41,1.6,md,11,212,0.1248,0.17,nc,nc73982771,2023-12-29T19:27:11.530Z,"10 km NNW of Healdsburg, CA",earthquake,8.38,13.36,0.3,10,automatic,nc,nc
+2023-12-29T19:14:27.680Z,38.6928329,-122.9189987,39.41,1.6,md,11,212,0.1248,0.17,nc,nc73982771,2023-12-29T19:53:17.683Z,"10 km NNW of Healdsburg, CA",earthquake,8.38,13.36,0.3,10,automatic,nc,nc
+2023-12-29T19:14:15.800Z,69.9257,-142.6704,10,2.5,ml,12,255,0.471,0.7,us,us6000m0fr,2023-12-29T19:56:22.040Z,"43 km ESE of Kaktovik, Alaska",earthquake,5.2,1.993,0.097,14,reviewed,us,us
 2023-12-29T19:10:56.862Z,60.6222,-150.352,41,2,ml,,,,0.73,ak,ak023gonghau,2023-12-29T19:13:02.739Z,"24 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-29T19:05:00.867Z,58.613,-154.5686,61.7,0.8,ml,,,,0.96,ak,ak023gonfaxl,2023-12-29T19:07:44.702Z,"92 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-29T19:00:57.540Z,37.140667,-121.5403366,0.75,0.8,md,4,105,0.07578,0,nc,nc73982766,2023-12-29T19:42:15.620Z,"9 km NE of San Martin, CA",earthquake,0.46,7.16,,1,automatic,nc,nc
@@ -13,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T17:50:50.930Z,48.359,-122.3075,19.77,1.33,ml,12,76,0.02078,0.24,uw,uw61978271,2023-12-29T18:12:34.330Z,"3 km NE of Conway, Washington",earthquake,0.53,0.85,0.1197339078826456,5,reviewed,uw,uw
 2023-12-29T17:49:35.715Z,37.8215,-114.2836,0.4,2.7,ml,10,179.01,0.736,0.147,nn,nn00870915,2023-12-29T18:26:28.203Z,"9 km ENE of Panaca, Nevada",earthquake,,3,0.53,6,reviewed,nn,nn
 2023-12-29T17:42:31.150Z,19.4120006561279,-155.285995483398,1.21000003814697,2.24,ml,30,41,,0.170000002,hv,hv73700537,2023-12-29T17:48:02.730Z,"6 km WSW of Volcano, Hawaii",earthquake,0.27,0.219999999,2.25,10,automatic,hv,hv
-2023-12-29T17:21:40.300Z,38.8258324,-122.8113327,1.07,1.4,md,24,38,0.002625,0.03,nc,nc73982751,2023-12-29T17:42:11.899Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.34,0.24,23,automatic,nc,nc
+2023-12-29T17:21:40.300Z,38.8258324,-122.8113327,1.07,1.4,md,24,38,0.002625,0.03,nc,nc73982751,2023-12-29T20:07:10.751Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.34,0.24,23,automatic,nc,nc
 2023-12-29T17:19:57.110Z,51.7055,-178.743166666667,17.3,1.42,ml,6,199,,0.1,av,av92168246,2023-12-29T18:29:15.760Z,"146 km W of Adak, Alaska",earthquake,1.57,0.9,0.164305191969994,6,reviewed,av,av
 2023-12-29T16:50:21.820Z,38.8371658,-122.8003311,2.04,1.32,md,20,66,0.007898,0.02,nc,nc73982746,2023-12-29T19:12:10.439Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.65,0.26,22,automatic,nc,nc
 2023-12-29T16:49:19.580Z,39.0429993,-123.2748337,8.76,2.36,md,6,207,0.4813,0.38,nc,nc73982741,2023-12-29T18:47:11.307Z,"9 km ENE of Boonville, CA",earthquake,18.87,28.99,0.74,2,automatic,nc,nc
@@ -59,10 +61,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T12:02:36.000Z,38.8001671,-122.7956696,3.7,0.78,md,14,66,0.007795,0.03,nc,nc73982636,2023-12-29T12:14:10.810Z,"4 km NW of The Geysers, CA",earthquake,0.42,0.91,0.37,14,automatic,nc,nc
 2023-12-29T11:57:00.460Z,38.8274994,-122.8048325,2.91,1.11,md,10,173,0.02088,0.01,nc,nc73982631,2023-12-29T12:44:15.005Z,"7 km NW of The Geysers, CA",earthquake,0.5,1.6,0.06,10,automatic,nc,nc
 2023-12-29T11:44:28.034Z,62.1008,-149.6995,45.6,2.1,ml,,,,0.23,ak,ak023goiw8kz,2023-12-29T11:45:53.366Z,"10 km SE of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-12-29T11:44:05.694Z,39.5516,-119.7979,3.9,1.1,ml,9,79.02,0.027,0.1388,nn,nn00870927,2023-12-29T20:06:40.542Z,"2 km NNE of Reno, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
+2023-12-29T11:43:49.695Z,39.5559,-119.7977,4.5,1.1,ml,10,79.75,0.012,0.1253,nn,nn00870926,2023-12-29T20:00:24.977Z,"3 km NNE of Reno, Nevada",earthquake,,1.2,0.58,3,reviewed,nn,nn
 2023-12-29T11:41:22.509Z,63.487,-148.7515,12.5,1.4,ml,,,,0.37,ak,ak023goivl0e,2023-12-29T11:43:45.179Z,"14 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-29T11:38:32.810Z,36.216,-91.2666666666667,4.43,1.79,md,3,261,0.05385,0.03,nm,nm60501478,2023-12-29T17:00:12.420Z,"2 km SW of Ravenden, Arkansas",earthquake,1.13,0.82,0.0189606415655315,3,reviewed,nm,nm
 2023-12-29T11:37:55.960Z,63.5013,-148.7674,5.9,1.8,ml,,,,0.47,ak,ak023goiusq4,2023-12-29T11:39:40.774Z,"15 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-29T11:28:33.540Z,38.8136673,-122.8268356,1.92,1.08,md,17,57,0.00513,0.02,nc,nc73982621,2023-12-29T12:22:13.848Z,"7 km WNW of The Geysers, CA",earthquake,0.23,0.51,0.12,18,automatic,nc,nc
+2023-12-29T11:26:47.677Z,39.5596,-119.8013,4.6,-0.2,ml,10,83.03,0.01,0.1989,nn,nn00870925,2023-12-29T20:00:23.796Z,"3 km NNE of Reno, Nevada",earthquake,,1.1,0,1,reviewed,nn,nn
 2023-12-29T11:24:47.720Z,38.8133316,-122.8256683,1.73,1.67,md,26,49,0.005233,0.04,nc,nc73982616,2023-12-29T15:32:10.096Z,"7 km WNW of The Geysers, CA",earthquake,0.19,0.33,0.19,27,automatic,nc,nc
 2023-12-29T11:22:02.033Z,60.9376,-150.5524,51.6,1.7,ml,,,,0.3,ak,ak023goirgtn,2023-12-29T11:25:13.089Z,"7 km ENE of Point Possession, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-29T11:20:32.890Z,19.0381666666667,-66.4971666666667,12.1,3.21,md,13,291,0.8093,0.37,pr,pr71435678,2023-12-29T14:04:36.308Z,"63 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,6.4,8.9,0.0752500524598578,7,reviewed,pr,pr
@@ -72,6 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T11:07:54.040Z,38.8199997,-122.7973328,3.13,1.65,md,32,29,0.01051,0.02,nc,nc73982606,2023-12-29T15:05:10.919Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.39,0.19,31,automatic,nc,nc
 2023-12-29T11:06:39.420Z,17.9345,-66.2795,13.01,2.22,md,13,180,0.1032,0.25,pr,pr71435668,2023-12-29T11:29:00.820Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.8,0.57,0.193202768635201,7,reviewed,pr,pr
 2023-12-29T11:02:48.679Z,-19.1602,169.0428,153.264,4.7,mb,40,61,3.746,0.82,us,us6000m0e5,2023-12-29T11:22:46.040Z,"49 km NNW of Isangel, Vanuatu",earthquake,8.52,7.433,0.081,46,reviewed,us,us
+2023-12-29T10:54:48.563Z,39.548,-119.7981,5.4,-0.4,ml,7,113.31,0.02,0.1427,nn,nn00870924,2023-12-29T19:54:03.094Z,"2 km NNE of Reno, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
 2023-12-29T10:49:53.920Z,40.7956657,-121.9873352,15.13,1.95,md,7,163,0.0392,0.02,nc,nc73982601,2023-12-29T14:38:10.751Z,"4 km W of Round Mountain, CA",earthquake,0.63,0.74,0.1,5,automatic,nc,nc
 2023-12-29T10:49:29.620Z,46.9745,-113.009166666667,19.33,1.71,ml,24,72,0.1769,0.14,mb,mb90037473,2023-12-29T14:52:42.351Z,"10 km ESE of Ovando, Montana",earthquake,0.4,1,0.164492873470872,7,reviewed,mb,mb
 2023-12-29T10:47:00.940Z,39.1296654,-122.9398346,0.39,1.91,md,8,108,0.09054,0.14,nc,nc73982596,2023-12-29T14:12:10.575Z,"5 km SSW of Upper Lake, CA",earthquake,0.51,14.05,0.37,5,automatic,nc,nc
@@ -91,7 +97,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T09:34:12.520Z,38.8126678,-122.8235016,2.49,0.35,md,8,157,0.005836,0.01,nc,nc73982561,2023-12-29T10:22:14.141Z,"7 km NW of The Geysers, CA",earthquake,0.69,1.2,0.1,7,automatic,nc,nc
 2023-12-29T09:25:55.140Z,38.8199997,-122.7973328,3.22,0.7,md,7,117,0.01051,0.01,nc,nc73982556,2023-12-29T10:11:19.068Z,"6 km NW of The Geysers, CA",earthquake,1.14,2.27,0.06,8,automatic,nc,nc
 2023-12-29T09:21:43.389Z,36.7377,-115.9372,11.9,0.3,ml,14,199.39,0.04,0.1333,nn,nn00870904,2023-12-29T16:54:49.658Z,"30 km NW of Indian Springs, Nevada",earthquake,,1.2,0.4,6,reviewed,nn,nn
+2023-12-29T09:21:26.415Z,39.5502,-119.8024,5.1,1,ml,13,79.96,0.019,0.1502,nn,nn00870923,2023-12-29T19:50:53.345Z,"2 km NNE of Reno, Nevada",earthquake,,0.9,0.57,4,reviewed,nn,nn
 2023-12-29T09:10:18.430Z,44.793,-114.3815,5.01,1.49,ml,11,99,0.4549,0.25,mb,mb90037488,2023-12-29T15:43:40.440Z,"34 km NNW of Challis, Idaho",earthquake,0.81,1.59,0.150440929545729,14,reviewed,mb,mb
+2023-12-29T09:05:23.732Z,39.5606,-119.7959,4.5,-0.2,ml,8,78.96,0.008,0.1551,nn,nn00870922,2023-12-29T19:47:41.801Z,"3 km NNE of Reno, Nevada",earthquake,,1.3,0,1,reviewed,nn,nn
 2023-12-29T08:48:35.450Z,38.8146667,-122.7861633,1.96,1.87,md,30,42,0.004505,0.03,nc,nc73982536,2023-12-29T12:11:10.792Z,"5 km NNW of The Geysers, CA",earthquake,0.17,0.28,0.17,31,automatic,nc,nc
 2023-12-29T08:45:42.768Z,61.671,-150.6898,50,2.4,ml,,,,0.18,ak,ak023goh46mc,2023-12-29T08:47:10.014Z,"17 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-29T08:43:04.460Z,38.8180008,-122.7959976,2.48,1.04,md,18,38,0.01003,0.01,nc,nc73982531,2023-12-29T09:27:14.785Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.57,0.1,19,automatic,nc,nc
@@ -265,6 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T20:37:03.340Z,38.8246651,-122.7898331,1.36,1.28,md,24,39,0.01345,0.03,nc,nc73982156,2023-12-28T22:58:10.999Z,"6 km W of Cobb, CA",earthquake,0.19,0.34,0.07,24,automatic,nc,nc
 2023-12-28T20:27:49.960Z,38.8175011,-122.8125,2.78,0.96,md,17,44,0.01562,0.01,nc,nc73982151,2023-12-28T20:44:13.146Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.72,0.32,18,automatic,nc,nc
 2023-12-28T20:09:02.036Z,62.9459,-150.9591,115.2,1.9,ml,,,,0.25,ak,ak023gn0i8gr,2023-12-28T20:11:45.354Z,"51 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-12-28T20:01:56.129Z,62.0281,-150.2968,26.1,1.5,ml,,,,0.69,ak,ak023gn0gmws,2023-12-28T20:03:50.538Z,"27 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-28T20:01:25.880Z,34.987,-118.1876667,-0.92,1.29,ml,33,37,0.113,0.25,ci,ci40452159,2023-12-28T21:35:40.532Z,"7 km S of Mojave, CA",quarry blast,0.28,0.66,0.125,16,automatic,ci,ci
-2023-12-28T19:48:13.878Z,36.652,-116.2711,6.8,0.1,ml,11,190.73,0.055,0.0607,nn,nn00870872,2023-12-29T05:08:23.476Z,"52 km ESE of Beatty, Nevada",earthquake,,1.6,0.16,5,reviewed,nn,nn
