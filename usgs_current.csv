@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-29T09:47:31.170Z,35.7588348,-117.5778351,5.88,1.5,ml,22,91,0.1554,0.15,ci,ci40452383,2023-12-29T09:49:52.659Z,"16 km W of Searles Valley, CA",earthquake,0.37,1.54,0.101,5,automatic,ci,ci
-2023-12-29T09:42:26.300Z,38.8033333,-122.822998,2.3,0.48,md,8,75,0.01325,0.01,nc,nc73982571,2023-12-29T09:44:01.490Z,"6 km WNW of The Geysers, CA",earthquake,0.44,2.38,0.24,9,automatic,nc,nc
+2023-12-29T09:57:11.490Z,36.6904,-115.8724,8.1,0.6,ml,14,260.3,0.078,0.2664,nn,nn00870891,2023-12-29T09:58:48.361Z,"22 km NW of Indian Springs, Nevada",earthquake,,1,0.25,7,automatic,nn,nn
+2023-12-29T09:47:31.040Z,35.7596667,-117.5816667,2.74,1.49,ml,33,66,0.1282,0.13,ci,ci40452383,2023-12-29T09:58:07.960Z,"16 km W of Searles Valley, CA",earthquake,0.18,0.4,0.181,18,automatic,ci,ci
+2023-12-29T09:42:26.300Z,38.8033333,-122.822998,2.3,0.48,md,8,75,0.01325,0.01,nc,nc73982571,2023-12-29T09:57:11.965Z,"6 km WNW of The Geysers, CA",earthquake,0.44,2.38,0.24,9,automatic,nc,nc
 2023-12-29T09:38:31.480Z,38.8216667,-122.7979965,2.94,0.78,md,12,56,0.009591,0.02,nc,nc73982566,2023-12-29T09:51:10.929Z,"6 km NW of The Geysers, CA",earthquake,0.59,1.71,0.16,15,automatic,nc,nc
 2023-12-29T09:34:12.520Z,38.8126678,-122.8235016,2.49,0.35,md,8,157,0.005836,0.01,nc,nc73982561,2023-12-29T09:46:09.895Z,"7 km NW of The Geysers, CA",earthquake,0.69,1.2,0.1,7,automatic,nc,nc
-2023-12-29T09:25:55.140Z,38.8199997,-122.7973328,3.22,0.7,md,7,117,0.01051,0.01,nc,nc73982556,2023-12-29T09:37:10.831Z,"6 km NW of The Geysers, CA",earthquake,1.14,2.27,0.06,8,automatic,nc,nc
+2023-12-29T09:25:55.140Z,38.8199997,-122.7973328,3.22,0.7,md,7,117,0.01051,0.01,nc,nc73982556,2023-12-29T10:11:19.068Z,"6 km NW of The Geysers, CA",earthquake,1.14,2.27,0.06,8,automatic,nc,nc
 2023-12-29T08:48:35.450Z,38.8146667,-122.7861633,1.96,1.87,md,30,42,0.004505,0.03,nc,nc73982536,2023-12-29T09:38:13.836Z,"5 km NNW of The Geysers, CA",earthquake,0.17,0.28,0.17,31,automatic,nc,nc
 2023-12-29T08:45:42.768Z,61.671,-150.6898,50,2.4,ml,,,,0.18,ak,ak023goh46mc,2023-12-29T08:47:10.014Z,"17 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-29T08:43:04.460Z,38.8180008,-122.7959976,2.48,1.04,md,18,38,0.01003,0.01,nc,nc73982531,2023-12-29T09:27:14.785Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.57,0.1,19,automatic,nc,nc
@@ -287,8 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T10:40:34.862Z,36.3145,28.3733,69.409,4.3,mb,51,106,0.227,0.65,us,us6000m063,2023-12-28T12:22:51.040Z,"15 km E of Faliraki, Greece",earthquake,5.43,8.137,0.108,24,reviewed,us,us
 2023-12-28T10:31:29.356Z,36.6629,-116.2658,5,0.3,ml,4,281.28,0.075,0.0357,nn,nn00870842,2023-12-29T01:15:29.464Z,"51 km ESE of Beatty, Nevada",earthquake,,15.4,0.03,2,reviewed,nn,nn
 2023-12-28T10:27:51.380Z,44.245,-114.975666666667,6.05,1.65,ml,12,68,0.167,0.12,mb,mb90037418,2023-12-28T15:57:06.800Z,"4 km NW of Stanley, Idaho",earthquake,0.35,0.84,0.220528693976857,13,reviewed,mb,mb
-2023-12-28T10:11:46.250Z,32.9635,-115.5405,8.12,1.37,ml,32,76,0.06415,0.22,ci,ci40452055,2023-12-28T10:18:06.410Z,"2 km SSW of Brawley, CA",earthquake,0.25,0.73,0.251,19,automatic,ci,ci
-2023-12-28T10:08:36.089Z,-61.1301,-54.1191,10,5.1,mb,65,61,2.434,0.78,us,us6000m05y,2023-12-28T10:25:05.040Z,"South Shetland Islands",earthquake,8.3,1.871,0.066,75,reviewed,us,us
-2023-12-28T10:07:44.527Z,44.4657,149.0921,44.562,4.5,mb,55,137,4.679,0.94,us,us6000m05x,2023-12-28T10:43:35.040Z,"127 km SE of Kuril’sk, Russia",earthquake,10.19,4.717,0.06,82,reviewed,us,us
-2023-12-28T10:03:18.940Z,38.8328323,-122.7796631,0.2,1.02,md,12,89,0.007972,0.02,nc,nc73982031,2023-12-28T10:29:13.433Z,"5 km WNW of Cobb, CA",earthquake,0.25,0.42,0.11,12,automatic,nc,nc
-2023-12-28T09:56:40.845Z,31.615,-104.104,7.6355,1.8,ml,30,56,0,0.1,tx,tx2023zkih,2023-12-28T15:01:29.278Z,"44 km NW of Toyah, Texas",earthquake,0.444212431,0.4016585859,0.2,24,reviewed,tx,tx
