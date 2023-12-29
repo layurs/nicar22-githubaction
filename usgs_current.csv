@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-29T17:21:40.300Z,38.8258324,-122.8113327,1.07,1.4,md,24,38,0.002625,0.03,nc,nc73982751,2023-12-29T17:23:17.371Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.34,0.24,23,automatic,nc,nc
+2023-12-29T17:21:40.300Z,38.8258324,-122.8113327,1.07,1.4,md,24,38,0.002625,0.03,nc,nc73982751,2023-12-29T17:33:10.846Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.34,0.24,23,automatic,nc,nc
 2023-12-29T16:50:21.820Z,38.8371658,-122.8003311,2.04,1.32,md,20,66,0.007898,0.02,nc,nc73982746,2023-12-29T17:07:11.687Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.65,0.26,22,automatic,nc,nc
 2023-12-29T16:49:19.580Z,39.0429993,-123.2748337,8.76,2.36,md,6,207,0.4813,0.38,nc,nc73982741,2023-12-29T16:55:11.615Z,"9 km ENE of Boonville, CA",earthquake,18.87,28.99,0.74,2,automatic,nc,nc
 2023-12-29T16:47:25.020Z,35.9326667,-117.6955,2.76,1.26,ml,25,63,0.1006,0.19,ci,ci40452463,2023-12-29T17:02:18.197Z,"19 km E of Little Lake, CA",earthquake,0.26,1.05,0.147,12,reviewed,ci,ci
@@ -88,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T08:14:29.142Z,63.0045,-149.0608,79.1,1.4,ml,,,,0.27,ak,ak023gogxifp,2023-12-29T08:16:37.214Z,"43 km S of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-29T08:01:02.420Z,38.8283348,-122.8006668,4.64,0.74,md,7,115,0.00885,0.02,nc,nc73982516,2023-12-29T08:34:10.483Z,"7 km W of Cobb, CA",earthquake,0.88,2.14,0.37,8,automatic,nc,nc
 2023-12-29T07:57:30.140Z,38.8213348,-122.795166,2.81,0.66,md,12,60,0.01183,0.01,nc,nc73982511,2023-12-29T08:29:11.457Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.17,0.4,14,automatic,nc,nc
+2023-12-29T07:53:16.380Z,36.7348333,-121.416,8.15,0.78,md,16,104,0.03844,0.13,nc,nc73982506,2023-12-29T17:35:54.897Z,"10 km SSW of Ridgemark, CA",earthquake,0.4,0.68,0.222,17,reviewed,nc,nc
 2023-12-29T07:48:01.690Z,38.8181648,-122.7991638,3.36,0.86,md,19,59,0.009996,0.01,nc,nc73982496,2023-12-29T07:49:37.249Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.79,0.22,20,automatic,nc,nc
 2023-12-29T07:47:31.480Z,38.8173332,-122.7994995,3.31,1.08,md,21,32,0.00991,0.02,nc,nc73982491,2023-12-29T08:18:10.389Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.59,0.16,22,automatic,nc,nc
 2023-12-29T07:41:52.630Z,38.8204994,-122.796669,2.75,1.11,md,24,46,0.01086,0.02,nc,nc73982476,2023-12-29T11:18:10.611Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.43,0.32,26,automatic,nc,nc
@@ -119,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T07:11:38.290Z,38.8166656,-122.8011703,3.45,1.35,md,7,147,0.009671,0.01,nc,nc73982341,2023-12-29T10:25:10.159Z,"6 km NW of The Geysers, CA",earthquake,2.08,5.69,0.07,9,automatic,nc,nc
 2023-12-29T07:11:20.370Z,38.8226662,-122.7978363,3.26,0.64,md,8,104,0.01481,0.01,nc,nc73982336,2023-12-29T07:48:14.216Z,"6 km NW of The Geysers, CA",earthquake,0.61,2.94,0.17,6,automatic,nc,nc
 2023-12-29T07:11:03.390Z,38.8196678,-122.793335,3.32,2.39,md,29,34,0.01177,0.02,nc,nc73982326,2023-12-29T12:32:01.040Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.42,0.17,29,automatic,nc,nc
-2023-12-29T07:10:11.880Z,38.814,-122.7988333,2.08,3.41,ml,106,27,0.006625,0.06,nc,nc73982331,2023-12-29T16:58:50.985Z,"6 km NW of The Geysers, CA",earthquake,0.08,0.12,0.145,138,reviewed,nc,nc
+2023-12-29T07:10:11.880Z,38.814,-122.7988333,2.08,3.41,ml,106,27,0.006625,0.06,nc,nc73982331,2023-12-29T17:25:44.544Z,"6 km NW of The Geysers, CA",earthquake,0.08,0.12,0.145,138,reviewed,nc,nc
 2023-12-29T07:09:29.790Z,38.8255005,-122.8105011,1.34,0.93,md,11,69,0.002129,0.01,nc,nc73982316,2023-12-29T09:00:09.630Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.64,0.26,12,automatic,nc,nc
 2023-12-29T07:06:15.920Z,46.7701666666667,-112.615666666667,0.09,2.14,ml,18,56,0.1407,0.15,mb,mb90037468,2023-12-29T15:45:38.734Z,"19 km N of Avon, Montana",earthquake,0.23,0.89,0.183970576147064,12,reviewed,mb,mb
 2023-12-29T06:58:59.203Z,65.1167,-148.6611,7.7,1.4,ml,,,,0.64,ak,ak023gog04zk,2023-12-29T07:00:34.985Z,"32 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -153,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T04:16:42.830Z,32.4171667,-115.5521667,-0.06,2.16,ml,28,67,0.1228,0.24,ci,ci40452303,2023-12-29T17:05:59.403Z,"18 km S of Progreso, B.C., MX",earthquake,0.33,0.94,0.215,27,reviewed,ci,ci
 2023-12-29T04:12:50.700Z,19.5556659698486,-155.232833862305,23.1599998474121,2.38,ml,45,86,,0.170000002,hv,hv73700147,2023-12-29T04:20:40.167Z,"12 km N of Volcano, Hawaii",earthquake,0.41,0.920000017,4.07,5,automatic,hv,hv
 2023-12-29T04:09:57.498Z,31.661,-104.384,3.5719,1.8,ml,17,70,0,0.4,tx,tx2023zlsj,2023-12-29T04:49:47.537Z,"57 km S of Whites City, New Mexico",earthquake,0,1.440623415,0.1,13,automatic,tx,tx
+2023-12-29T04:00:54.100Z,34.3075,-81.3038333333333,1.57,1.82,md,6,102,0.02947,0.24,se,se60501488,2023-12-29T17:34:20.340Z,"4 km NNW of Jenkinsville, South Carolina",earthquake,1.76,3.39,0.0348751213710607,4,reviewed,se,se
 2023-12-29T03:58:14.250Z,44.5855,-111.096,8.37,0.9,md,8,162,0.02062,0.11,uu,uu60034229,2023-12-29T15:52:36.090Z,"8 km S of West Yellowstone, Montana",earthquake,0.71,0.67,0.234,8,reviewed,uu,uu
 2023-12-29T03:57:57.640Z,44.5878333,-111.0993333,9.11,0.06,md,8,168,0.01803,0.11,uu,uu60557147,2023-12-29T15:50:00.570Z,"8 km S of West Yellowstone, Montana",earthquake,1.1,0.7,0.14,6,reviewed,uu,uu
 2023-12-29T03:57:53.560Z,32.377,-115.5388333,0.01,2.72,ml,28,206,0.1643,0.25,ci,ci40452295,2023-12-29T17:06:02.649Z,"23 km S of Progreso, B.C., MX",earthquake,0.59,0.79,0.216,27,reviewed,ci,ci
@@ -276,5 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T17:49:33.220Z,19.3925,-155.28,1.59,1.93,ml,19,41,,0.09,hv,hv73699372,2023-12-28T18:31:52.410Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.18,0.134196919887938,7,reviewed,hv,hv
 2023-12-28T17:47:28.350Z,60.495,-152.6705,6.72,-0.67,ml,6,157,,0.02,av,av91125958,2023-12-29T00:14:23.980Z,"74 km NW of Ninilchik, Alaska",earthquake,0.32,0.52,0.287350995859104,6,reviewed,av,av
 2023-12-28T17:44:18.016Z,61.4931,-150.3685,64.2,1.8,ml,,,,0.44,ak,ak023gmyxgy1,2023-12-28T17:46:28.977Z,"9 km SE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-12-28T17:40:41.550Z,38.8221664,-122.7634964,2.1,1.13,md,17,122,0.009689,0.02,nc,nc73982116,2023-12-28T20:05:10.936Z,"4 km W of Cobb, CA",earthquake,0.28,0.49,0.12,18,automatic,nc,nc
-2023-12-28T17:32:23.134Z,39.6151,-119.643,10.2,1.4,ml,10,112.13,0.114,0.1779,nn,nn00870863,2023-12-29T04:49:41.396Z,"6 km SE of Spanish Springs, Nevada",earthquake,,2,0.35,4,reviewed,nn,nn
