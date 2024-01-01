@@ -1,10 +1,18 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-01T04:15:47.930Z,19.2573337554932,-155.391326904297,30.4899997711182,2.22000003,md,45,131,,0.140000001,hv,hv73706022,2024-01-01T04:19:04.270Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.55,0.569999993,0.219999999,9,automatic,hv,hv
+2024-01-01T04:06:59.040Z,65.9735,-149.5391,0.9,1.7,ml,,,,1.08,ak,ak0241pyl9e,2024-01-01T04:18:17.061Z,"20 km W of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-01-01T03:53:36.090Z,19.2963333129883,-155.382995605469,3.95000004768372,1.75999999,md,24,152,,0.119999997,hv,hv73706012,2024-01-01T03:56:32.930Z,"14 km NE of Pāhala, Hawaii",earthquake,0.46,0.879999995,0.400000006,5,automatic,hv,hv
 2024-01-01T03:48:02.633Z,60.056,-153.1662,135.1,2.2,ml,,,,0.5,ak,ak0241plxvr,2024-01-01T03:51:02.847Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-01-01T03:39:26.783Z,29.32,-97.442,9.2684,3.1,ml,19,74,0.1,0.2,tx,tx2024aahh,2024-01-01T03:57:01.040Z,"19 km ENE of Smiley, Texas",earthquake,1.35924806,2.195019488,0.1,22,reviewed,tx,tx
 2024-01-01T03:32:38.500Z,33.4793333,-116.569,-1.27,0.4,ml,11,256,0.0317,0.17,ci,ci40453327,2024-01-01T03:38:33.750Z,"13 km SE of Anza, CA",earthquake,1.58,14.85,0.416,9,automatic,ci,ci
 2024-01-01T03:26:20.614Z,12.6068,-88.9705,35,4.4,mb,27,145,1.064,0.77,us,us6000m0wp,2024-01-01T03:44:09.040Z,"87 km SSW of Puerto El Triunfo, El Salvador",earthquake,6.37,1.972,0.069,60,reviewed,us,us
+2024-01-01T03:26:20.549Z,31.561,-104.149,4.1485,1.5,ml,16,68,0,0.4,tx,tx2024aagu,2024-01-01T04:08:30.412Z,"43 km NW of Toyah, Texas",earthquake,0,1.389092447,0.2,13,automatic,tx,tx
 2024-01-01T03:18:21.980Z,33.7183333,-116.7763333,15.17,0.75,ml,29,78,0.05231,0.16,ci,ci40453319,2024-01-01T03:24:35.586Z,"6 km WSW of Idyllwild, CA",earthquake,0.22,0.42,0.19,14,automatic,ci,ci
+2024-01-01T03:18:09.700Z,31.58,-104.539,3.4577,2.4,ml,17,158,0.1,0.2,tx,tx2024aagn,2024-01-01T04:08:25.460Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.763430624,0.1,13,automatic,tx,tx
 2024-01-01T03:14:09.580Z,35.697,-118.4008333,4.92,1.36,ml,34,27,0.03993,0.13,ci,ci40453311,2024-01-01T03:25:22.390Z,"5 km ESE of Wofford Heights, CA",earthquake,0.15,0.24,0.143,16,automatic,ci,ci
-2024-01-01T03:08:58.660Z,38.8241653,-122.7786636,0.84,1.05,md,15,50,0.009293,0.04,nc,nc73983606,2024-01-01T03:26:10.499Z,"5 km W of Cobb, CA",earthquake,0.25,0.45,0.17,15,automatic,nc,nc
+2024-01-01T03:13:59.475Z,39.5595,-119.8052,5,0.2,ml,11,77.94,0.011,0.17,nn,nn00871081,2024-01-01T04:11:18.614Z,"3 km NNE of Reno, Nevada",earthquake,,1.1,0.44,2,reviewed,nn,nn
+2024-01-01T03:11:16.903Z,39.5634,-119.807,5,0.8,ml,16,77.09,0.01,0.1662,nn,nn00871080,2024-01-01T04:08:11.262Z,"3 km N of Reno, Nevada",earthquake,,0.9,0.26,3,reviewed,nn,nn
+2024-01-01T03:08:58.660Z,38.8241653,-122.7786636,0.84,1.05,md,15,50,0.009293,0.04,nc,nc73983606,2024-01-01T04:12:11.767Z,"5 km W of Cobb, CA",earthquake,0.25,0.45,0.17,15,automatic,nc,nc
 2024-01-01T03:03:59.936Z,76.1079,17.6769,10,4.4,mb,24,89,2.105,0.74,us,us6000m0wm,2024-01-01T03:15:44.040Z,"241 km S of Longyearbyen, Svalbard and Jan Mayen",earthquake,5.54,1.956,0.123,19,reviewed,us,us
 2024-01-01T03:02:05.196Z,31.56,-104.145,4.6344,1.9,ml,18,68,0,0.3,tx,tx2024aaga,2024-01-01T03:29:42.220Z,"43 km NW of Toyah, Texas",earthquake,0,1.653355354,0.2,14,automatic,tx,tx
 2024-01-01T02:52:46.120Z,38.831501,-122.8130035,1.95,0.7,md,8,128,0.008411,0.01,nc,nc73983601,2024-01-01T03:45:11.616Z,"8 km NW of The Geysers, CA",earthquake,0.66,1.92,0.13,9,automatic,nc,nc
@@ -14,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-01T02:47:27.886Z,57.1245,-155.0381,13.3,3.8,ml,,,,0.49,ak,ak0241p0cnv,2024-01-01T02:58:46.040Z,"56 km WNW of Akhiok, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-01-01T02:31:34.747Z,62.5811,-151.2715,86.8,1.7,ml,,,,0.58,ak,ak0241owxic,2024-01-01T02:40:07.937Z,"27 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-01T02:27:47.260Z,35.7726667,-117.5858333,3.28,1.25,ml,30,66,0.138,0.13,ci,ci40453287,2024-01-01T02:33:38.010Z,"16 km W of Searles Valley, CA",earthquake,0.18,0.78,0.158,8,automatic,ci,ci
+2024-01-01T02:20:57.230Z,39.5517,-119.8002,5,0.3,ml,9,112.32,0.017,0.1733,nn,nn00871079,2024-01-01T04:01:57.935Z,"2 km NNE of Reno, Nevada",earthquake,,1.6,0.52,2,reviewed,nn,nn
 2024-01-01T02:19:57.805Z,37.219,-117.8841,0,1.4,ml,19,198.43,0.165,0.1622,nn,nn00871074,2024-01-01T02:22:36.270Z,"36 km E of Big Pine, California",earthquake,,5.3,0.44,9,automatic,nn,nn
 2024-01-01T02:10:44.188Z,61.2346,-152.1929,18.9,2.1,ml,,,,0.44,ak,ak0241osfcx,2024-01-01T02:13:14.081Z,"59 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-01T01:58:55.400Z,19.1723327636719,-155.497329711914,31.4200000762939,2.01999998,md,39,95,,0.170000002,hv,hv73705942,2024-01-01T02:02:17.030Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,1.09000003,0.660000026,9,automatic,hv,hv
@@ -60,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T20:31:08.120Z,33.6826667,-116.7935,15.92,0.82,ml,40,41,0.06936,0.16,ci,ci40453191,2023-12-31T20:37:23.072Z,"9 km SW of Idyllwild, CA",earthquake,0.19,0.34,0.254,18,automatic,ci,ci
 2023-12-31T20:28:15.180Z,33.6773333,-116.7986667,15.63,2.52,ml,121,11,0.06252,0.2,ci,ci40453183,2023-12-31T20:44:03.888Z,"10 km SW of Idyllwild, CA",earthquake,0.11,0.26,0.207,25,automatic,ci,ci
 2023-12-31T20:24:01.040Z,33.6841667,-116.7915,15.46,0.74,ml,30,67,0.06987,0.16,ci,ci40453175,2023-12-31T20:30:34.832Z,"9 km SW of Idyllwild, CA",earthquake,0.27,0.42,0.088,11,automatic,ci,ci
-2023-12-31T20:17:44.060Z,39.010334,-123.3069992,3.68,2.99,md,36,52,0.03965,0.06,nc,nc73983491,2024-01-01T03:28:08.708Z,"5 km E of Boonville, CA",earthquake,0.18,0.63,0.12,46,automatic,nc,nc
+2023-12-31T20:17:44.060Z,39.010334,-123.3069992,3.68,2.99,md,36,52,0.03965,0.06,nc,nc73983491,2024-01-01T03:53:00.461Z,"5 km E of Boonville, CA",earthquake,0.18,0.63,0.12,46,automatic,nc,nc
 2023-12-31T20:08:10.640Z,38.7898331,-122.7698364,1.68,0.25,md,8,115,0.01337,0.01,nc,nc73983481,2023-12-31T21:43:10.559Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.81,0.03,8,automatic,nc,nc
 2023-12-31T20:02:05.450Z,48.45916666666667,-121.9275,11.36,1.35,ml,10,92,0.1188,0.1,uw,uw61978491,2023-12-31T23:49:14.690Z,"8 km SSE of Hamilton, Washington",earthquake,0.36,1.02,0.0789913494681338,4,reviewed,uw,uw
 2023-12-31T19:59:56.060Z,38.8261681,-122.8113327,1.29,0.97,md,7,109,0.002938,0.01,nc,nc73983471,2023-12-31T20:50:11.271Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.77,0.15,8,automatic,nc,nc
@@ -240,8 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T04:48:45.886Z,39.5549,-119.8057,6,1.1,ml,13,79.43,0.015,0.1779,nn,nn00871027,2023-12-31T20:51:18.364Z,"2 km NNE of Reno, Nevada",earthquake,,1,0.46,4,reviewed,nn,nn
 2023-12-31T04:41:56.654Z,62.0804,-149.4484,33,1.9,ml,,,,0.4,ak,ak023grpsbe9,2023-12-31T04:43:31.440Z,"22 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-31T04:38:36.439Z,39.5607,-119.8013,5.1,0.7,ml,11,76.61,0.009,0.1716,nn,nn00871026,2023-12-31T16:27:55.248Z,"3 km NNE of Reno, Nevada",earthquake,,1,0.3,2,reviewed,nn,nn
-2023-12-31T04:19:27.768Z,44.408,149.1422,54.04,4.4,mb,39,183,4.713,0.5,us,us6000m0rx,2023-12-31T05:16:30.040Z,"135 km SE of Kuril’sk, Russia",earthquake,10.83,6.29,0.105,26,reviewed,us,us
-2023-12-31T03:57:43.837Z,39.5613,-119.7998,5.3,0.8,ml,12,76.1,0.008,0.1777,nn,nn00871025,2023-12-31T16:24:44.967Z,"3 km NNE of Reno, Nevada",earthquake,,1,0.34,2,reviewed,nn,nn
-2023-12-31T03:55:30.480Z,38.7869987,-122.751503,3.36,0.33,md,7,87,0.01215,0.01,nc,nc73983261,2023-12-31T06:23:14.282Z,"1 km NNE of The Geysers, CA",earthquake,0.5,1.46,0.14,9,automatic,nc,nc
-2023-12-31T03:55:02.105Z,39.5475,-119.7953,4.4,0.8,ml,10,76.33,0.021,0.1641,nn,nn00871024,2023-12-31T16:18:29.807Z,"2 km NE of Reno, Nevada",earthquake,,1.3,0.69,4,reviewed,nn,nn
-2023-12-31T03:53:07.983Z,58.1707,-155.4133,1.1,0.5,ml,,,,0.18,ak,ak023grp9cmm,2023-12-31T03:54:15.793Z,"87 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
