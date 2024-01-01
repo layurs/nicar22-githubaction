@@ -1,10 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-01T08:36:33.367Z,31.5753,-104.5624,5,2.9,ml,31,75,0.107,0.39,us,us6000m0y2,2024-01-01T08:43:19.040Z,"64 km NNE of Van Horn, Texas",earthquake,2.05,1.768,0.081,72,reviewed,us,us
+2024-01-01T09:21:36.550Z,36.7363,-116.1259,5.9,0.3,ml,12,59.97,0.015,0.0945,nn,nn00871120,2024-01-01T09:23:41.283Z,"44 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.14,6,automatic,nn,nn
+2024-01-01T09:08:17.854Z,37.5249,137.4079,10,5.6,mb,116,50,0.847,0.88,us,us6000m0ya,2024-01-01T09:23:26.040Z,"55 km NE of Anamizu, Japan",earthquake,4.41,1.772,0.022,722,reviewed,us,us
+2024-01-01T09:03:49.190Z,37.5575,137.3836,10,5.5,mb,104,88,0.843,0.78,us,us6000m0y9,2024-01-01T09:22:16.040Z,"55 km NE of Anamizu, Japan",earthquake,5.5,1.845,0.024,618,reviewed,us,us
+2024-01-01T08:59:01.810Z,38.8043327,-122.7791672,1.3,1.3,md,23,67,0.008992,0.03,nc,nc73983701,2024-01-01T09:14:13.651Z,"4 km NNW of The Geysers, CA",earthquake,0.2,0.31,0.17,24,automatic,nc,nc
+2024-01-01T08:54:03.679Z,12.5034,-88.9976,41.91,4.5,mb,46,159,1.163,0.71,us,us6000m0y4,2024-01-01T09:23:56.040Z,"99 km SSW of Puerto El Triunfo, El Salvador",earthquake,6.76,8.432,0.059,84,reviewed,us,us
+2024-01-01T08:36:34.189Z,31.617,-104.505,7.0313,3.1,ml,34,76,0.1,0.2,tx,tx2024aara,2024-01-01T08:58:30.177Z,"63 km S of Whites City, New Mexico",earthquake,1.250519135,0.7090267446,0.1,32,reviewed,tx,tx
+2024-01-01T08:30:40.690Z,17.9386,-66.2663,12,2.84,md,12,179,0.1617,0.3,pr,pr2024001001,2024-01-01T08:59:46.352Z,"4 km WSW of Central Aguirre, Puerto Rico",earthquake,0.97,0.71,0.27,12,reviewed,pr,pr
 2024-01-01T08:30:36.683Z,62.9689,-149.771,240.3,2.2,ml,,,,0.91,ak,ak0241shc6o,2024-01-01T08:43:08.146Z,"60 km NNE of Chase, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2024-01-01T08:29:03.393Z,37.4782,137.5275,10,4.8,mb,46,98,0.806,0.81,us,us6000m0y1,2024-01-01T08:47:33.040Z,"57 km NNW of Itoigawa, Japan",earthquake,4.4,1.865,0.101,30,reviewed,us,us
 2024-01-01T08:28:10.460Z,33.1766667,-115.617,3.31,1.01,ml,5,225,0.001394,0.05,ci,ci40453447,2024-01-01T08:35:09.551Z,"11 km WNW of Calipatria, CA",earthquake,0.93,0.32,0.296,6,automatic,ci,ci
 2024-01-01T08:22:11.402Z,37.4122,137.2656,10,4.9,mb,53,86,1.005,1.03,us,us6000m0xy,2024-01-01T08:38:44.040Z,"38 km ENE of Anamizu, Japan",earthquake,3.47,1.789,0.069,66,reviewed,us,us
-2024-01-01T08:20:38.310Z,38.8156662,-122.8203354,2.71,0.33,md,10,73,0.009685,0.01,nc,nc73983696,2024-01-01T08:38:13.296Z,"7 km NW of The Geysers, CA",earthquake,0.48,0.93,0.25,10,automatic,nc,nc
+2024-01-01T08:20:38.310Z,38.8156662,-122.8203354,2.71,0.33,md,10,73,0.009685,0.01,nc,nc73983696,2024-01-01T09:14:12.494Z,"7 km NW of The Geysers, CA",earthquake,0.48,0.93,0.25,10,automatic,nc,nc
 2024-01-01T08:17:47.180Z,37.4888,137.2466,10,4.8,mb,50,85,0.972,0.76,us,us6000m0xx,2024-01-01T08:44:12.040Z,"41 km NE of Anamizu, Japan",earthquake,5.92,1.865,0.074,56,reviewed,us,us
 2024-01-01T08:07:11.635Z,37.1111,136.6676,10,5.1,mb,67,60,1.356,1.02,us,us6000m0xw,2024-01-01T08:23:49.040Z,"24 km WSW of Anamizu, Japan",earthquake,3.97,1.809,0.038,230,reviewed,us,us
 2024-01-01T08:02:45.362Z,37.5198,137.4592,10,5,mb,49,93,0.818,0.79,us,us6000m0xu,2024-01-01T08:17:49.040Z,"58 km ENE of Anamizu, Japan",earthquake,4.49,1.867,0.054,109,reviewed,us,us
@@ -21,14 +27,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-01T07:21:01.102Z,31.564,-104.135,3.921,1.8,ml,17,93,0,0.3,tx,tx2024aaoo,2024-01-01T08:08:26.854Z,"42 km NW of Toyah, Texas",earthquake,0,1.300941435,0.2,13,automatic,tx,tx
 2024-01-01T07:20:25.000Z,34.2921667,-117.9301667,9.65,1.18,ml,29,83,0.08925,0.16,ci,ci40453423,2024-01-01T07:26:26.065Z,"17 km NNE of Bradbury, CA",earthquake,0.2,0.46,0.417,21,automatic,ci,ci
 2024-01-01T07:19:03.307Z,31.554,-104.143,4.3078,1.7,ml,18,69,0,0.2,tx,tx2024aaom,2024-01-01T08:08:18.924Z,"42 km NW of Toyah, Texas",earthquake,0,1.27863953,0.2,14,automatic,tx,tx
-2024-01-01T07:18:42.037Z,37.1959,136.8697,10,6.2,mb,94,33,1.251,0.85,us,us6000m0xm,2024-01-01T08:13:11.922Z,"4 km SSW of Anamizu, Japan",earthquake,3.53,1.8,0.025,631,reviewed,us,us
-2024-01-01T07:10:09.692Z,37.4976,137.2416,10,7.5,mww,120,39,0.97,1.01,us,us6000m0xl,2024-01-01T08:55:04.843Z,"42 km NE of Anamizu, Japan",earthquake,5.43,1.831,0.047,43,reviewed,us,us
-2024-01-01T07:06:05.619Z,37.5067,137.2389,10,5.5,mww,119,53,0.967,0.82,us,us6000m0xj,2024-01-01T08:00:43.578Z,"42 km NE of Anamizu, Japan",earthquake,3.77,1.827,0.093,11,reviewed,us,us
+2024-01-01T07:18:42.037Z,37.1959,136.8697,10,6.2,mb,94,33,1.251,0.85,us,us6000m0xm,2024-01-01T09:22:48.359Z,"4 km SSW of Anamizu, Japan",earthquake,3.53,1.8,0.025,631,reviewed,us,us
+2024-01-01T07:10:09.692Z,37.4976,137.2416,10,7.5,mww,120,39,0.97,1.01,us,us6000m0xl,2024-01-01T09:23:35.155Z,"42 km NE of Anamizu, Japan",earthquake,5.43,1.831,0.047,43,reviewed,us,us
+2024-01-01T07:06:05.619Z,37.5067,137.2389,10,5.5,mww,119,53,0.967,0.82,us,us6000m0xj,2024-01-01T09:13:17.054Z,"42 km NE of Anamizu, Japan",earthquake,3.77,1.827,0.093,11,reviewed,us,us
 2024-01-01T07:04:46.100Z,34.5395,-119.7768333,1.94,1.36,ml,31,85,0.06544,0.22,ci,ci40453415,2024-01-01T07:10:55.962Z,"12 km NNE of Goleta, CA",earthquake,0.21,0.34,0.169,14,automatic,ci,ci
 2024-01-01T06:57:38.886Z,39.5501,-119.8175,8.5,0.8,ml,8,95.73,0.044,0.1049,nn,nn00871087,2024-01-01T07:00:17.536Z,"2 km N of Reno, Nevada",earthquake,,0.9,0.27,4,automatic,nn,nn
 2024-01-01T06:55:13.363Z,39.5478,-119.8077,7,1.5,ml,15,74.04,0.045,0.0907,nn,nn00871085,2024-01-01T07:08:24.267Z,"2 km NNE of Reno, Nevada",earthquake,,0.5,0.15,8,automatic,nn,nn
 2024-01-01T06:35:33.370Z,34.3011667,-119.3675,7.54,1.74,ml,40,128,0.07059,0.26,ci,ci40453407,2024-01-01T06:49:01.334Z,"13 km WNW of Ventura, CA",earthquake,0.56,0.71,0.218,28,automatic,ci,ci
-2024-01-01T06:24:02.520Z,35.3088341,-120.8878326,5.44,2.84,md,37,149,0.04797,0.13,nc,nc73983666,2024-01-01T08:37:06.330Z,"5 km W of Baywood-Los Osos, CA",earthquake,0.33,0.63,0.11,57,automatic,nc,nc
+2024-01-01T06:24:02.520Z,35.3088341,-120.8878326,5.44,2.84,md,37,149,0.04797,0.13,nc,nc73983666,2024-01-01T09:21:05.001Z,"5 km W of Baywood-Los Osos, CA",earthquake,0.33,0.63,0.11,57,automatic,nc,nc
 2024-01-01T06:22:28.670Z,39.3585014,-123.1208344,3.64,1.55,md,8,191,0.01601,0.02,nc,nc73983661,2024-01-01T08:16:10.183Z,"13 km NE of Redwood Valley, CA",earthquake,0.67,0.78,0.25,5,automatic,nc,nc
 2024-01-01T06:18:22.605Z,62.1335,-149.7257,34.2,2,ml,,,,0.54,ak,ak0241r7ur8,2024-01-01T06:20:19.568Z,"7 km ESE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-01T06:10:58.210Z,38.8320007,-122.8130035,1.78,0.94,md,18,68,0.008893,0.05,nc,nc73983656,2024-01-01T07:40:13.996Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.55,0.24,18,automatic,nc,nc
@@ -225,10 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T09:43:29.670Z,31.672,-104.464,4.6941,1.8,ml,16,70,0,0.3,tx,tx2023zpuj,2023-12-31T10:09:27.955Z,"56 km S of Whites City, New Mexico",earthquake,0,1.380651348,0.1,12,automatic,tx,tx
 2023-12-31T09:42:54.810Z,38.8308334,-122.8133316,1.76,0.76,md,16,47,0.007851,0.01,nc,nc73983341,2023-12-31T10:56:10.762Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.47,0.2,17,automatic,nc,nc
 2023-12-31T09:36:21.787Z,39.5609,-119.8051,5.2,0.9,ml,14,77.44,0.01,0.1632,nn,nn00871058,2023-12-31T20:19:37.434Z,"3 km NNE of Reno, Nevada",earthquake,,0.9,0.42,4,reviewed,nn,nn
-2023-12-31T09:23:26.751Z,39.5509,-119.8024,4.7,0.5,ml,11,79.79,0.028,0.148,nn,nn00871057,2023-12-31T20:16:25.331Z,"2 km NNE of Reno, Nevada",earthquake,,1.3,0.57,2,reviewed,nn,nn
-2023-12-31T09:18:14.972Z,63.134,-150.3406,32.7,1.4,ml,,,,1.05,ak,ak023grsmg5k,2023-12-31T09:20:53.936Z,"74 km NNE of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-12-31T09:12:24.508Z,39.5606,-119.8053,5.3,1,ml,15,77.59,0.011,0.1774,nn,nn00871056,2023-12-31T20:13:14.714Z,"3 km NNE of Reno, Nevada",earthquake,,0.9,0.38,3,reviewed,nn,nn
-2023-12-31T09:02:33.131Z,39.5634,-119.8079,5.6,1,ml,15,77.29,0.011,0.2087,nn,nn00871055,2023-12-31T20:06:57.311Z,"3 km N of Reno, Nevada",earthquake,,1,0.46,4,reviewed,nn,nn
-2023-12-31T09:02:12.192Z,39.5603,-119.8054,5.2,0.8,ml,11,77.71,0.011,0.175,nn,nn00871054,2023-12-31T20:03:45.322Z,"3 km NNE of Reno, Nevada",earthquake,,1,0.77,4,reviewed,nn,nn
-2023-12-31T09:01:21.512Z,61.5013,-149.9834,48.4,1.4,ml,,,,0.33,ak,ak023grsiu2f,2023-12-31T09:03:38.311Z,"2 km SW of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-12-31T09:00:47.935Z,39.5635,-119.8038,5.3,1.1,ml,15,76.34,0.008,0.1993,nn,nn00871053,2023-12-31T20:00:34.925Z,"3 km NNE of Reno, Nevada",earthquake,,0.9,0.38,3,reviewed,nn,nn
