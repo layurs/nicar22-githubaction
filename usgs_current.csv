@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-02T20:27:45.640Z,36.3401667,-120.7378333,8.95,1.22,md,22,136,0.07323,0.05,nc,nc73984551,2024-01-03T00:23:17.034Z,"10 km SW of New Idria, CA",earthquake,0.25,0.27,0.143,14,reviewed,nc,nc
 2024-01-02T20:23:08.830Z,36.3428333,-120.749,9.52,2.04,md,57,116,0.064,0.18,nc,nc73984546,2024-01-02T23:56:13.846Z,"11 km SW of New Idria, CA",earthquake,0.29,0.25,0.2,43,reviewed,nc,nc
 2024-01-02T20:11:52.730Z,33.3083333,-116.2405,5.09,1.09,ml,44,38,0.07906,0.22,ci,ci40454255,2024-01-02T20:17:46.651Z,"14 km ENE of Borrego Springs, CA",earthquake,0.27,0.61,0.197,2,automatic,ci,ci
-2024-01-02T19:59:31.542Z,17.1203,120.1314,42.41,5,mb,150,82,5.738,0.78,us,us6000m18z,2024-01-02T21:30:25.522Z,"31 km WSW of Darapidap, Philippines",earthquake,9.61,5.711,0.051,122,reviewed,us,us
+2024-01-02T19:59:31.542Z,17.1203,120.1314,42.41,5,mb,150,82,5.738,0.78,us,us6000m18z,2024-01-03T05:51:20.204Z,"31 km WSW of Darapidap, Philippines",earthquake,9.61,5.711,0.051,122,reviewed,us,us
 2024-01-02T19:59:31.316Z,60.7204,-147.4301,13.3,1.8,ml,,,,0.29,ak,ak0243mqn57,2024-01-02T20:00:59.261Z,"43 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-02T19:59:18.260Z,34.975,-118.2083333,4.83,1.68,ml,14,89,0.09739,0.04,ci,ci40454247,2024-01-02T20:05:48.629Z,"9 km SSW of Mojave, CA",earthquake,0.33,0.78,0.248,32,automatic,ci,ci
 2024-01-02T19:44:59.455Z,64.831,-147.406,9.7,1.4,ml,,,,0.22,ak,ak0243mnhkp,2024-01-02T19:47:03.891Z,"6 km ENE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -150,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-02T11:14:54.300Z,46.8466666666667,-113.904333333333,0.82,1.14,ml,12,93,0.03042,0.15,mb,mb90037858,2024-01-03T01:00:50.490Z,"3 km WSW of Piltzville, Montana",earthquake,2.74,5.52,0.122132600303595,7,reviewed,mb,mb
 2024-01-02T11:09:25.540Z,45.8458333333333,-111.788833333333,8.97,1.39,ml,14,71,0.06282,0.09,mb,mb90037853,2024-01-03T00:49:50.250Z,"11 km WNW of Willow Creek, Montana",earthquake,0.28,0.72,0.313356485449363,13,reviewed,mb,mb
 2024-01-02T11:00:25.910Z,33.5333333,-116.7236667,2.94,0.42,ml,38,31,0.03395,0.14,ci,ci40453975,2024-01-02T11:06:26.284Z,"5 km WSW of Anza, CA",earthquake,0.13,0.42,0.09,9,automatic,ci,ci
-2024-01-02T10:45:53.972Z,40.7767,-73.9215,5,1.7,ml,14,168,0.088,0.38,us,us6000m14e,2024-01-03T05:23:27.331Z,"0 km NE of Astoria, New York",earthquake,1.44,1.834,0.105,12,reviewed,us,us
+2024-01-02T10:45:53.972Z,40.7767,-73.9215,5,1.7,ml,14,168,0.088,0.38,us,us6000m14e,2024-01-03T05:46:16.870Z,"0 km NE of Astoria, New York",earthquake,1.44,1.834,0.105,12,reviewed,us,us
 2024-01-02T10:42:58.600Z,44.5686666666667,-110.749166666667,8.65,0.45,md,8,80,0.08414,0.1,uu,uu80033996,2024-01-02T18:01:47.420Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.56,1.8,0.224335983805539,5,reviewed,uu,uu
 2024-01-02T10:39:26.340Z,35.6173333,-117.4651667,3.16,0.91,ml,26,65,0.03086,0.14,ci,ci40453967,2024-01-02T10:45:16.306Z,"18 km SSW of Searles Valley, CA",earthquake,0.16,0.19,0.103,5,automatic,ci,ci
 2024-01-02T10:38:55.220Z,44.5631666666667,-110.759,8.93,1.27,ml,10,99,0.09289,0.18,uu,uu80033991,2024-01-02T18:15:47.330Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.53,2.02,0.401225310204106,4,reviewed,uu,uu
@@ -200,10 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-02T06:26:26.540Z,38.838665,-122.7925034,2.35,0.79,md,7,210,0.001706,0.01,nc,nc73984301,2024-01-02T06:44:11.948Z,"6 km WNW of Cobb, CA",earthquake,1.01,1.04,0.14,11,automatic,nc,nc
 2024-01-02T06:11:32.360Z,38.0159988,-122.1221695,11.61,1.3,md,10,113,0.08456,0.05,nc,nc73984296,2024-01-02T08:55:12.202Z,"1 km ESE of Martinez, CA",earthquake,0.35,0.68,0.25,8,automatic,nc,nc
 2024-01-02T06:06:26.980Z,33.057,-116.2021667,3.42,1.61,ml,79,30,0.1025,0.21,ci,ci40453871,2024-01-02T06:17:23.060Z,"12 km SW of Ocotillo Wells, CA",earthquake,0.14,0.43,0.159,27,automatic,ci,ci
-2024-01-02T05:55:43.641Z,61.2935,-146.8458,19.7,3.6,ml,,,,0.66,ak,ak0243edqm4,2024-01-03T02:34:24.987Z,"32 km NW of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2024-01-02T05:53:30.760Z,38.8061667,-122.7783333,2.45,0.2,md,14,68,0.007316,0.02,nc,nc73984291,2024-01-02T23:31:10.693Z,"4 km NNW of The Geysers, CA",earthquake,0.21,0.36,0.304,14,reviewed,nc,nc
-2024-01-02T05:53:12.460Z,46.7748333333333,-112.601833333333,3.87,1.11,ml,16,66,0.1305,0.32,mb,mb90037763,2024-01-02T22:30:34.040Z,"19 km N of Avon, Montana",earthquake,0.49,17.64,0.187673959878346,9,reviewed,mb,mb
-2024-01-02T05:52:45.760Z,62.866,-150.5692,77.4,1.9,ml,,,,0.75,ak,ak0243ed3s0,2024-01-02T06:06:26.040Z,"42 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-02T05:51:04.779Z,39.0861,-77.1938,15.318,2.3,mb_lg,21,117,0.424,0.48,us,us6000m135,2024-01-03T05:37:28.793Z,"3 km W of Rockville, Maryland",earthquake,3.9,8.346,0.193,7,reviewed,us,us
-2024-01-02T05:48:41.970Z,19.2000007629395,-155.375671386719,30.4799995422363,1.76999998,md,28,173,,0.140000001,hv,hv73707257,2024-01-02T05:51:44.470Z,"10 km E of Pāhala, Hawaii",earthquake,0.67,1.07000005,0.589999974,3,automatic,hv,hv
-2024-01-02T05:45:48.521Z,39.5577,-119.8048,5.8,0.2,ml,12,78.36,0.013,0.127,nn,nn00871199,2024-01-03T01:37:03.650Z,"3 km NNE of Reno, Nevada",earthquake,,1,0.36,2,reviewed,nn,nn
