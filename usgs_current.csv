@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-06T14:23:07.100Z,38.8236656,-122.80233,2.67,0.76,md,9,86,0.006055,0.01,nc,nc73985741,2024-01-06T14:24:43.840Z,"6 km NW of The Geysers, CA",earthquake,0.48,1.13,0.28,10,automatic,nc,nc
+2024-01-06T14:23:07.100Z,38.8236656,-122.80233,2.67,0.76,md,9,86,0.006055,0.01,nc,nc73985741,2024-01-06T14:40:13.287Z,"6 km NW of The Geysers, CA",earthquake,0.48,1.13,0.28,10,automatic,nc,nc
 2024-01-06T14:10:05.274Z,61.0505,-148.2798,20,1.3,ml,,,,1.05,ak,ak024a5mb0m,2024-01-06T14:12:26.421Z,"37 km NE of Whittier, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-01-06T14:04:38.440Z,35.6233333,-117.4683333,6.39,1.15,ml,28,54,0.03709,0.12,ci,ci40456207,2024-01-06T14:10:41.204Z,"17 km SSW of Searles Valley, CA",earthquake,0.16,0.3,0.076,9,automatic,ci,ci
 2024-01-06T14:03:10.464Z,38.7897,-119.2688,0.1,1.7,ml,12,96.48,0.395,0.2415,nn,nn00871379,2024-01-06T14:05:42.064Z,"5 km ESE of Smith, Nevada",earthquake,,35.1,0.33,6,automatic,nn,nn
@@ -150,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T19:26:30.610Z,19.195333480835,-155.505996704102,34.2400016784668,2.27999997,md,46,141,,0.150000006,hv,hv73710552,2024-01-05T19:31:59.490Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.55,0.850000024,1.57000005,19,automatic,hv,hv
 2024-01-05T19:00:12.926Z,31.588,-104.562,1.6926,1.8,mlv,14,168,0.1,0.4,tx,tx2024aitq,2024-01-05T19:17:10.454Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.909436299,0.2,10,automatic,tx,tx
 2024-01-05T18:58:37.065Z,31.567,-104.261,3.9927,2.3,ml,18,78,0.1,0.2,tx,tx2024aito,2024-01-05T19:17:06.465Z,"52 km WNW of Toyah, Texas",earthquake,0,1.493872605,0.3,13,automatic,tx,tx
-2024-01-05T18:55:54.870Z,34.2585,-117.5086667,9.16,4.15,mw,206,14,0.1257,0.23,ci,ci40455759,2024-01-06T14:14:14.421Z,"1 km W of Lytle Creek, CA",earthquake,0.1,0.32,,6,reviewed,ci,ci
+2024-01-05T18:55:54.870Z,34.2585,-117.5086667,9.16,4.15,mw,206,14,0.1257,0.23,ci,ci40455759,2024-01-06T14:39:23.603Z,"1 km W of Lytle Creek, CA",earthquake,0.1,0.32,,6,reviewed,ci,ci
 2024-01-05T18:41:42.343Z,36.732,-116.301,8.3,-0.1,ml,12,109.21,0.019,0.0689,nn,nn00871362,2024-01-05T21:39:10.436Z,"45 km ESE of Beatty, Nevada",earthquake,,1.3,0.17,4,reviewed,nn,nn
 2024-01-05T18:38:35.670Z,37.2898331,-119.8860016,15.96,2.86,md,11,110,0.1721,0.37,nc,nc73985486,2024-01-06T07:20:04.867Z,"15 km NW of Yosemite Lakes, CA",earthquake,1.03,1.83,0.15,8,automatic,nc,nc
 2024-01-05T18:35:57.330Z,38.8359985,-122.8003311,2.13,0.75,md,7,73,0.008163,0.01,nc,nc73985476,2024-01-05T19:27:14.190Z,"7 km WNW of Cobb, CA",earthquake,0.54,1.98,0.32,11,automatic,nc,nc
@@ -197,9 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T14:54:36.290Z,17.8408333333333,-66.7936666666667,7.35,2.16,md,5,258,0.1564,0.32,pr,pr71436338,2024-01-05T15:16:11.950Z,"17 km S of Indios, Puerto Rico",earthquake,2.22,0.95,0.128390089603815,3,reviewed,pr,pr
 2024-01-05T14:53:52.510Z,17.912,-66.2796666666667,14.88,2.21,md,7,192,0.124,0.25,pr,pr71436323,2024-01-05T15:06:29.990Z,"7 km SSE of Salinas, Puerto Rico",earthquake,1.28,1.78,0.191813509163932,5,reviewed,pr,pr
 2024-01-05T14:52:48.750Z,33.8711667,-116.8605,15.14,1.2,ml,47,57,0.06454,0.13,ci,ci40455647,2024-01-05T22:48:02.830Z,"6 km SSE of Banning, CA",earthquake,0.14,0.36,0.154,28,reviewed,ci,ci
-2024-01-05T14:47:57.240Z,38.8263321,-122.854332,2.18,0.86,md,13,93,0.01542,0.02,nc,nc73985381,2024-01-05T15:14:11.676Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.54,0.25,13,automatic,nc,nc
-2024-01-05T14:47:30.540Z,35.0691667,-118.3563333,3.87,1.31,ml,36,38,0.07932,0.15,ci,ci40455631,2024-01-05T22:53:53.643Z,"11 km SE of Tehachapi, CA",earthquake,0.18,0.48,0.149,19,reviewed,ci,ci
-2024-01-05T14:46:02.720Z,38.8388329,-122.786499,2.54,0.57,md,9,90,0.003033,0.04,nc,nc73985376,2024-01-05T17:09:16.351Z,"6 km WNW of Cobb, CA",earthquake,0.58,1.14,0.44,9,automatic,nc,nc
-2024-01-05T14:42:38.800Z,37.9561667,-122.039,13.67,2,md,80,49,0.01652,0.15,nc,nc73985371,2024-01-06T03:19:12.602Z,"2 km ENE of Pleasant Hill, CA",earthquake,0.16,0.24,0.155,69,reviewed,nc,nc
-2024-01-05T14:33:42.420Z,52.0186666666667,-174.318166666667,11.1,1.96,ml,5,339,,0.08,av,av91126518,2024-01-05T21:58:10.060Z,"21 km SSW of Atka, Alaska",earthquake,1.34,2.64,0.143335396544781,6,reviewed,av,av
-2024-01-05T14:31:07.400Z,38.8318329,-122.8801651,2.12,1.07,md,18,128,0.006878,0.02,nc,nc73985366,2024-01-05T16:50:11.241Z,"12 km ENE of Cloverdale, CA",earthquake,0.29,0.45,0.14,19,automatic,nc,nc
