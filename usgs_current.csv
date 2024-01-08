@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-08T14:34:52.780Z,32.7861671,-115.8126678,3.08,1.46,ml,15,104,0.09568,0.25,ci,ci40456823,2024-01-08T14:37:22.020Z,"18 km ENE of Ocotillo, CA",earthquake,0.76,1.82,0.379,6,automatic,ci,ci
 2024-01-08T14:13:40.251Z,61.4958,-146.4244,17.5,1.9,ml,,,,0.74,ak,ak024dgppu1,2024-01-08T14:16:40.569Z,"40 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-08T14:12:21.696Z,60.3529,-141.2768,7.3,2,ml,,,,0.44,ak,ak024dgpgop,2024-01-08T14:14:13.661Z,"124 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-08T14:08:00.620Z,19.359167098999,-155.041839599609,-0.579999983310699,2.25,ml,43,202,,0.330000013,hv,hv73712862,2024-01-08T14:13:31.570Z,"15 km SE of Fern Forest, Hawaii",earthquake,0.7,0.270000011,0.36,10,automatic,hv,hv
@@ -36,7 +37,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T10:15:59.210Z,19.2701663970947,-155.406494140625,28.4799995422363,2.46,ml,50,119,,0.180000007,hv,hv73712762,2024-01-08T13:27:00.040Z,"10 km NE of Pāhala, Hawaii",earthquake,0.4,0.689999998,3.48,25,automatic,hv,hv
 2024-01-08T10:07:08.750Z,38.8204994,-122.8181686,2.72,0.59,md,7,86,0.006953,0.01,nc,nc73986461,2024-01-08T12:35:18.836Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.73,0.18,9,automatic,nc,nc
 2024-01-08T09:51:30.450Z,-2.2857,99.6606,18.731,5.2,mb,70,143,3.882,1.01,us,us6000m2fs,2024-01-08T10:10:56.040Z,"29 km SSE of Tuapejat, Indonesia",earthquake,8.95,5.032,0.063,82,reviewed,us,us
-2024-01-08T09:47:37.748Z,31.641,-104.076,6.647,1.5,mlv,13,84,0,0.8,tx,tx2024anny,2024-01-08T10:28:24.631Z,"45 km NW of Toyah, Texas",earthquake,0,2.842143685,0.3,10,automatic,tx,tx
 2024-01-08T09:46:51.870Z,38.822834,-122.8103333,1.8,1.08,md,15,88,0.0005957,0.02,nc,nc73986456,2024-01-08T12:33:10.819Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.52,0.22,16,automatic,nc,nc
 2024-01-08T09:35:59.160Z,38.8185005,-122.817337,2.35,1.07,md,23,46,0.007488,0.02,nc,nc73986451,2024-01-08T10:22:15.045Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.53,0.19,23,automatic,nc,nc
 2024-01-08T09:31:57.380Z,38.8233337,-122.8113327,1.67,0.66,md,12,52,0.0009851,0.01,nc,nc73986446,2024-01-08T10:11:17.980Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.76,0.36,13,automatic,nc,nc
@@ -72,7 +72,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T05:13:47.430Z,38.7576675,-122.7340012,2.42,1.59,md,23,65,0.00815,0.04,nc,nc73986346,2024-01-08T07:07:11.073Z,"3 km SE of The Geysers, CA",earthquake,0.24,0.45,0.18,23,automatic,nc,nc
 2024-01-08T05:05:32.644Z,11.8069,92.7976,58.168,4.6,mb,39,82,6.676,0.7,us,us6000m2f9,2024-01-08T06:22:54.040Z,"14 km NE of Bamboo Flat, India",earthquake,9.7,7.891,0.11,25,reviewed,us,us
 2024-01-08T04:45:16.580Z,46.206,-122.34033333333333,11.84,1.28,ml,23,159,0.01248,0.13,uw,uw61979171,2024-01-08T04:54:57.790Z,"33 km NNE of Amboy, Washington",earthquake,0.55,0.64,0.11086498950107027,15,reviewed,uw,uw
-2024-01-08T04:40:26.729Z,31.661,-104.322,5.6341,1.5,mlv,13,87,0,0.4,tx,tx2024andu,2024-01-08T05:03:40.810Z,"57 km S of Whites City, New Mexico",earthquake,0,3.096282539,0.2,10,automatic,tx,tx
 2024-01-08T04:29:55.920Z,35.9826667,-118.3365,2.54,2.1,ml,33,44,0.1701,0.18,ci,ci40456735,2024-01-08T04:40:42.980Z,"27 km NNE of Kernville, CA",earthquake,0.17,0.73,0.201,22,automatic,ci,ci
 2024-01-08T04:27:07.831Z,39.385,-119.8955,5.6,1.5,ml,14,93.75,0.101,0.1501,nn,nn00871427,2024-01-08T04:29:07.929Z,"10 km E of Floriston, California",earthquake,,0.8,0.15,7,automatic,nn,nn
 2024-01-08T04:25:24.070Z,33.6421667,-116.722,13.97,1.25,ml,61,36,0.04824,0.18,ci,ci40456727,2024-01-08T14:12:58.580Z,"11 km NNW of Anza, CA",earthquake,0.15,0.26,0.172,27,reviewed,ci,ci
@@ -110,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T01:20:53.718Z,63.5051,-147.3186,0,2.2,ml,,,,0.52,ak,ak024d90m0r,2024-01-08T01:23:27.210Z,"82 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-08T01:10:30.756Z,60.4407,-150.9425,36.2,2,ml,,,,1.43,ak,ak024d8yf1r,2024-01-08T01:13:59.691Z,"8 km SE of Soldotna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-01-08T00:58:43.010Z,33.8253333,-117.6723333,4.39,1.14,ml,12,171,0.0606,0.15,ci,ci40456679,2024-01-08T01:05:12.653Z,"11 km WSW of Corona, CA",earthquake,0.68,0.44,0.148,16,automatic,ci,ci
+2024-01-08T00:54:58.140Z,44.7713333333333,-110.881166666667,7.5,1.56,ml,18,107,0.02767,0.12,uu,uu80034751,2024-01-08T14:35:22.630Z,"21 km NE of West Yellowstone, Montana",earthquake,0.33,0.61,0.355250683680266,4,reviewed,uu,uu
 2024-01-08T00:38:11.990Z,35.3153333333333,-84.4428333333333,14.91,2.36,md,16,87,0.01457,0.1,se,se60564231,2024-01-08T12:58:10.940Z,"7 km E of Etowah, Tennessee",earthquake,0.39,0.44,0.0700794287210362,13,reviewed,se,se
 2024-01-08T00:36:50.460Z,38.8318329,-122.8160019,1.58,0.46,md,8,89,0.009614,0.01,nc,nc73986271,2024-01-08T02:37:14.318Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.03,0.33,9,automatic,nc,nc
 2024-01-08T00:07:26.067Z,63.0096,-150.6658,107.5,2.1,ml,,,,0.21,ak,ak024d8cbz2,2024-01-08T00:10:10.128Z,"57 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -169,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-07T15:43:33.031Z,61.6653,-149.7177,27.2,1.6,ml,,,,0.72,ak,ak024bty7vb,2024-01-07T15:46:08.309Z,"6 km NE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-07T15:37:27.350Z,38.8353348,-122.7910004,2.05,0.7,md,10,82,0.003112,0.01,nc,nc73986086,2024-01-07T16:10:10.343Z,"6 km WNW of Cobb, CA",earthquake,0.37,0.43,0.14,11,automatic,nc,nc
 2024-01-07T14:43:47.439Z,31.677,-104.412,5.8441,1.6,ml,15,69,0,0.4,tx,tx2024amce,2024-01-07T15:32:18.483Z,"55 km S of Whites City, New Mexico",earthquake,0,2.476741074,0.2,12,automatic,tx,tx
-2024-01-07T14:28:32.988Z,28.1094,86.4029,10,4.5,mb,30,106,1.041,0.52,us,us6000m2cb,2024-01-07T16:43:14.040Z,"43 km WNW of Lobuche, Nepal",earthquake,5.95,1.903,0.088,38,reviewed,us,us
-2024-01-07T14:25:08.360Z,32.7376667,-117.3978333,14.18,1.64,ml,25,258,0.132,0.13,ci,ci40456615,2024-01-07T14:31:39.047Z,"17 km SW of La Jolla, CA",earthquake,0.39,0.49,0.258,12,automatic,ci,ci
