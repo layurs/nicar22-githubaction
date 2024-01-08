@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T21:50:58.870Z,38.8250008,-122.765831,1.47,2.05,md,38,57,0.006325,0.05,nc,nc73986711,2024-01-08T21:58:10.317Z,"4 km W of Cobb, CA",earthquake,0.17,0.25,0.17,39,automatic,nc,nc
 2024-01-08T21:44:08.240Z,38.7806664,-122.7535019,0.64,0.74,md,8,94,0.01336,0.04,nc,nc73986701,2024-01-08T21:58:10.159Z,"0 km NE of The Geysers, CA",earthquake,0.31,0.72,0.16,8,automatic,nc,nc
 2024-01-08T21:30:12.095Z,31.712,-104.598,3.3869,1.6,ml,6,212,0.1,0.1,tx,tx2024aolc,2024-01-08T21:46:39.739Z,"55 km SSW of Whites City, New Mexico",earthquake,0,3.231080815,0.3,6,automatic,tx,tx
-2024-01-08T21:03:55.190Z,38.8256667,-122.7651667,2.67,0.46,md,19,108,0.006063,0.02,nc,nc73986681,2024-01-08T21:56:13.142Z,"4 km W of Cobb, CA",earthquake,0.39,0.28,0.169,16,reviewed,nc,nc
+2024-01-08T21:03:55.190Z,38.8256667,-122.7651667,2.67,0.46,md,19,108,0.006063,0.02,nc,nc73986681,2024-01-08T22:18:13.271Z,"4 km W of Cobb, CA",earthquake,0.39,0.28,0.169,16,reviewed,nc,nc
 2024-01-08T20:48:42.916Z,4.8606,126.1861,68.017,6.7,mww,129,27,2.276,1.08,us,us6000m2jp,2024-01-08T21:58:38.661Z,"100 km SE of Sarangani, Philippines",earthquake,7.46,3.911,0.06,27,reviewed,us,us
 2024-01-08T20:47:35.761Z,31.61,-104.12,3.4492,1.7,ml,15,58,0,0.4,tx,tx2024aojr,2024-01-08T21:34:56.688Z,"45 km NW of Toyah, Texas",earthquake,0,1.436230555,0.3,13,automatic,tx,tx
 2024-01-08T20:40:01.290Z,40.3968315,-123.7301636,25.04,1.94,md,16,121,0.07515,0.09,nc,nc73986676,2024-01-08T21:11:18.866Z,"32 km NNE of Redway, CA",earthquake,0.61,1,0.15,9,automatic,nc,nc
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T18:50:45.490Z,38.8356667,-122.810997,1.98,1.34,md,24,55,0.01228,0.02,nc,nc73986626,2024-01-08T19:41:15.468Z,"8 km W of Cobb, CA",earthquake,0.18,0.34,0.13,25,automatic,nc,nc
 2024-01-08T18:31:53.130Z,46.8495,-121.98733333333334,7.56,0.77,ml,20,175,0.02753,0.11,uw,uw61979216,2024-01-08T18:48:41.740Z,"10 km NNE of Ashford, Washington",earthquake,0.37,0.45,0.1277276913093714,11,reviewed,uw,uw
 2024-01-08T18:30:01.252Z,31.609,-104.079,9.0034,2.1,ml,10,155,0,0.4,tx,tx2024aofd,2024-01-08T18:46:57.851Z,"42 km NW of Toyah, Texas",earthquake,0,3.715654896,0.1,7,automatic,tx,tx
-2024-01-08T18:29:41.810Z,38.7953339,-122.7491684,2.18,1.16,md,15,93,0.009787,0.02,nc,nc73986621,2024-01-08T19:08:11.170Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.58,0.15,14,automatic,nc,nc
+2024-01-08T18:29:41.810Z,38.7953339,-122.7491684,2.18,1.16,md,15,93,0.009787,0.02,nc,nc73986621,2024-01-08T22:12:10.377Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.58,0.15,14,automatic,nc,nc
 2024-01-08T18:27:42.090Z,34.1251666666667,-80.7276666666667,3.47,1.89,md,10,114,0.03008,0.34,se,se60501553,2024-01-08T22:00:25.418Z,"7 km SE of Elgin, South Carolina",earthquake,0.76,0.96,0.0330142076991371,6,reviewed,se,se
 2024-01-08T18:23:13.670Z,33.2101667,-116.0563333,9.14,1.54,ml,57,53,0.07537,0.22,ci,ci40456975,2024-01-08T21:43:34.840Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.21,0.62,0.11,34,reviewed,ci,ci
 2024-01-08T18:23:11.845Z,31.663,-104.19,6.8903,2.2,ml,14,108,0.1,0.4,tx,tx2024aoex,2024-01-08T18:54:03.881Z,"53 km NW of Toyah, Texas",earthquake,0,2.885185939,0.3,9,automatic,tx,tx
@@ -150,6 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T05:13:47.430Z,38.7576675,-122.7340012,2.42,1.59,md,23,65,0.00815,0.04,nc,nc73986346,2024-01-08T07:07:11.073Z,"3 km SE of The Geysers, CA",earthquake,0.24,0.45,0.18,23,automatic,nc,nc
 2024-01-08T05:05:32.644Z,11.8069,92.7976,58.168,4.6,mb,39,82,6.676,0.7,us,us6000m2f9,2024-01-08T17:12:26.591Z,"14 km NE of Bamboo Flat, India",earthquake,9.7,7.891,0.11,25,reviewed,us,us
 2024-01-08T04:45:16.580Z,46.203,-122.333,11.72,1.3,ml,23,74,0.01452,0.19,uw,uw61979171,2024-01-08T17:32:41.160Z,"33 km NNE of Amboy, Washington",earthquake,0.49,0.72,0.1261609201405005,14,reviewed,uw,uw
+2024-01-08T04:45:05.050Z,31.615,-104.101,6.3886,1.8,ml,17,82,0,0.1,tx,tx2024andy,2024-01-08T22:10:30.524Z,"44 km NW of Toyah, Texas",earthquake,0.9227153649,0.6996919364,0.2,13,reviewed,tx,tx
 2024-01-08T04:29:55.900Z,35.9825,-118.3363333,2.06,2.1,ml,37,44,0.1703,0.2,ci,ci40456735,2024-01-08T21:12:17.530Z,"27 km NNE of Kernville, CA",earthquake,0.18,0.89,0.199,21,reviewed,ci,ci
 2024-01-08T04:27:08.552Z,39.3821,-119.8861,6.3,1.6,ml,30,45.87,0.068,0.1706,nn,nn00871427,2024-01-08T18:24:43.805Z,"11 km E of Floriston, California",earthquake,,0.9,0.26,9,reviewed,nn,nn
 2024-01-08T04:25:24.070Z,33.6421667,-116.722,13.97,1.25,ml,61,36,0.04824,0.18,ci,ci40456727,2024-01-08T14:12:58.580Z,"11 km NNW of Anza, CA",earthquake,0.15,0.26,0.172,27,reviewed,ci,ci
@@ -198,6 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T00:07:26.067Z,63.0096,-150.6658,107.5,2.1,ml,,,,0.21,ak,ak024d8cbz2,2024-01-08T00:10:10.128Z,"57 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-08T00:03:18.540Z,38.6591682,-122.6839981,4.39,1.07,md,4,202,0.1722,0.07,nc,nc73986266,2024-01-08T00:30:14.575Z,"12 km SSW of Middletown, CA",earthquake,4.71,9.89,0.04,2,automatic,nc,nc
 2024-01-07T23:46:23.845Z,60.582,-151.1862,61.9,1.8,ml,,,,0.88,ak,ak024byqb5a,2024-01-07T23:50:43.399Z,"5 km NE of Kenai, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-01-07T23:44:16.210Z,33.5675,-116.8981667,8,0.78,ml,10,115,0.07519,0.08,ci,ci40456671,2024-01-08T22:07:01.429Z,"14 km NNW of Aguanga, CA",earthquake,0.27,0.62,,1,reviewed,ci,ci
 2024-01-07T23:43:13.670Z,38.8395004,-122.8368301,1.28,0.6,md,11,115,0.001389,0.01,nc,nc73986246,2024-01-08T00:18:13.509Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.61,0.36,11,automatic,nc,nc
 2024-01-07T23:43:00.970Z,38.8393326,-122.8376694,1.01,1.1,md,22,113,0.001859,0.03,nc,nc73986241,2024-01-08T02:12:14.184Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.34,0.16,21,automatic,nc,nc
 2024-01-07T23:28:02.430Z,38.8393326,-122.8219986,1.43,0.89,md,16,98,0.01844,0.03,nc,nc73986236,2024-01-08T01:39:10.985Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.47,0.3,18,automatic,nc,nc
@@ -207,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-07T22:46:46.430Z,40.2196655,-121.1685028,0.47,2.79,md,22,52,0.2499,0.18,nc,nc73986226,2024-01-08T01:12:10.822Z,"1 km ENE of Almanor, CA",earthquake,0.42,7.85,0.05,18,automatic,nc,nc
 2024-01-07T22:39:15.930Z,35.9806667,-118.3331667,2.67,1.78,ml,31,43,0.1718,0.18,ci,ci40456655,2024-01-08T22:03:22.196Z,"26 km NNE of Kernville, CA",earthquake,0.2,0.81,0.198,16,reviewed,ci,ci
 2024-01-07T22:33:36.480Z,63.0083,-149.4006,67,2.1,ml,,,,0.78,ak,ak024by247k,2024-01-07T22:35:28.078Z,"48 km SSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-01-07T22:19:02.670Z,38.8346672,-122.8081665,2.16,0.58,md,13,62,0.01135,0.01,nc,nc73986216,2024-01-08T00:42:10.662Z,"8 km W of Cobb, CA",earthquake,0.31,0.84,0.38,13,automatic,nc,nc
