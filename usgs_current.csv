@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-15T10:44:11.436Z,32.5317,-118.2319,8,4.2,mw,44,,,,ew,ew1705315470,2024-01-15T10:44:39.423Z,"90 km S of Avalon, California",earthquake,7.307,5,0.2,44,automatic,ew,ew
-2024-01-15T10:34:47.080Z,33.825,-117.0041667,12.61,1.14,ml,70,33,0.03463,0.18,ci,ci40460007,2024-01-15T10:41:11.161Z,"6 km NW of San Jacinto, CA",earthquake,0.13,0.43,0.195,26,automatic,ci,ci
+2024-01-15T10:44:10.330Z,32.4510002,-118.307663,22.62,4.45,mw,65,245,0.5647,0.22,ci,ci40460015,2024-01-15T11:05:58.027Z,"41 km S of San Clemente Is. (SE tip), CA",earthquake,1.12,0.51,,6,reviewed,ci,ci
+2024-01-15T10:34:47.080Z,33.825,-117.0041667,12.61,1.14,ml,70,33,0.03463,0.18,ci,ci40460007,2024-01-15T10:45:43.340Z,"6 km NW of San Jacinto, CA",earthquake,0.13,0.43,0.195,26,automatic,ci,ci
 2024-01-15T10:21:31.860Z,38.8336678,-122.7926636,1.77,0.71,md,9,86,0.005069,0.01,nc,nc73989471,2024-01-15T10:39:13.041Z,"6 km WNW of Cobb, CA",earthquake,0.41,1.26,0.43,10,automatic,nc,nc
 2024-01-15T10:07:40.990Z,33.8258333,-117.0021667,12.88,0.84,ml,54,46,0.1566,0.17,ci,ci40459999,2024-01-15T10:13:57.419Z,"6 km NW of San Jacinto, CA",earthquake,0.16,0.59,0.163,17,automatic,ci,ci
 2024-01-15T10:06:42.465Z,63.0925,-151.476,0,1.6,ml,,,,0.49,ak,ak024oz1x12,2024-01-15T10:08:19.888Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T09:00:25.410Z,38.8330002,-122.7911682,1.79,0.71,md,13,55,0.005439,0.01,nc,nc73989441,2024-01-15T09:34:11.645Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.5,0.18,14,automatic,nc,nc
 2024-01-15T09:00:02.010Z,38.8303337,-122.7908325,1.62,1.26,md,18,54,0.008073,0.02,nc,nc73989436,2024-01-15T09:22:12.591Z,"6 km W of Cobb, CA",earthquake,0.24,0.44,0.15,20,automatic,nc,nc
 2024-01-15T08:52:44.130Z,38.8328323,-122.7906647,1.83,1.89,md,35,44,0.005574,0.03,nc,nc73989431,2024-01-15T10:44:11.072Z,"6 km WNW of Cobb, CA",earthquake,0.17,0.27,0.18,35,automatic,nc,nc
-2024-01-15T08:32:04.980Z,38.8333321,-122.807663,2.03,1.09,md,21,48,0.0101,0.04,nc,nc73989426,2024-01-15T10:18:10.918Z,"7 km W of Cobb, CA",earthquake,0.21,0.47,0.28,20,automatic,nc,nc
+2024-01-15T08:32:04.980Z,38.8333321,-122.807663,2.03,1.09,md,21,48,0.0101,0.04,nc,nc73989426,2024-01-15T10:51:13.112Z,"7 km W of Cobb, CA",earthquake,0.21,0.47,0.28,20,automatic,nc,nc
 2024-01-15T08:26:08.942Z,64.2927,-148.0497,12,1.3,ml,,,,0.48,ak,ak024oxz9jy,2024-01-15T08:28:05.107Z,"55 km E of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-15T08:23:04.293Z,61.7622,-151.6823,91.9,2.1,ml,,,,0.51,ak,ak024oxym1p,2024-01-15T08:25:20.050Z,"29 km SSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-15T08:16:16.487Z,55.7586,-158.1637,57.5,4.4,ml,,,,0.33,ak,ak024oxx4xg,2024-01-15T09:35:51.040Z,"61 km SSE of Chignik, Alaska",earthquake,,0.9,,,reviewed,ak,ak
@@ -200,6 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-14T11:20:31.390Z,33.7123333,-116.7681667,16.26,0.99,ml,54,40,0.04503,0.16,ci,ci40459647,2024-01-14T11:31:22.080Z,"6 km SW of Idyllwild, CA",earthquake,0.17,0.31,0.187,26,automatic,ci,ci
 2024-01-14T11:20:08.500Z,19.2383327484131,-155.401840209961,29.5100002288818,1.75999999,md,16,211,,0.100000001,hv,hv73716572,2024-01-14T11:23:25.490Z,"8 km ENE of Pāhala, Hawaii",earthquake,1.12,1.25999999,0.5,5,automatic,hv,hv
 2024-01-14T11:16:18.670Z,38.8166656,-122.8156662,2.85,0.84,md,12,69,0.008015,0.01,nc,nc73988996,2024-01-14T11:52:11.979Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.83,0.27,14,automatic,nc,nc
-2024-01-14T11:04:41.472Z,31.657,-104.335,4.2682,1.5,ml,16,69,0.1,0.2,tx,tx2024aypm,2024-01-14T11:34:02.416Z,"57 km S of Whites City, New Mexico",earthquake,0,1.349011522,0.2,12,automatic,tx,tx
-2024-01-14T11:00:38.386Z,-20.4552,-178.3182,518.554,4.5,mb,24,79,2.999,0.53,us,us6000m3lk,2024-01-14T13:02:10.040Z,"Fiji region",earthquake,13.59,8.091,0.128,18,reviewed,us,us
-2024-01-14T10:56:20.801Z,4.8196,126.2319,92.129,4.6,mb,35,88,2.328,0.65,us,us6000m3lj,2024-01-14T12:40:20.040Z,"106 km SE of Sarangani, Philippines",earthquake,7.25,8.306,0.109,25,reviewed,us,us
