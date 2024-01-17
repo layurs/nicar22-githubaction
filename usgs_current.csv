@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-17T21:15:02.160Z,19.2426662445068,-155.458160400391,30.2199993133545,2.11999989,md,38,101,,0.0799999982,hv,hv73720207,2024-01-17T21:18:20.990Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.57,0.75,0.939999998,13,automatic,hv,hv
 2024-01-17T21:14:13.790Z,36.0833321,-117.7916641,6.72,0.97,ml,8,195,0.06154,0.06,ci,ci40461727,2024-01-17T21:16:19.148Z,"15 km ENE of Coso Junction, CA",earthquake,0.61,0.94,0.297,3,automatic,ci,ci
-2024-01-17T21:07:00.770Z,38.7809982,-122.7639999,0.93,1.28,md,18,73,0.01035,0.04,nc,nc73990751,2024-01-17T21:19:10.290Z,"1 km WNW of The Geysers, CA",earthquake,0.24,0.42,0.19,17,automatic,nc,nc
+2024-01-17T21:07:00.770Z,38.7809982,-122.7639999,0.93,1.28,md,18,73,0.01035,0.04,nc,nc73990751,2024-01-17T21:27:14.351Z,"1 km WNW of The Geysers, CA",earthquake,0.24,0.42,0.19,17,automatic,nc,nc
 2024-01-17T20:43:55.350Z,61.8876,-149.2469,19.3,1.5,ml,,,,0.43,ak,ak024sgawjz,2024-01-17T20:46:26.090Z,"16 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-17T20:43:37.030Z,19.2600002288818,-155.397506713867,29.5799999237061,2.31999993,md,37,127,,0.119999997,hv,hv73720192,2024-01-17T20:46:55.560Z,"10 km NE of Pāhala, Hawaii",earthquake,0.51,0.670000017,1.46000004,18,automatic,hv,hv
 2024-01-17T20:43:09.370Z,17.893,-66.9795,12.79,2.46,md,9,246,0.09785,0.09,pr,pr71437133,2024-01-17T20:55:18.070Z,"11 km SE of La Parguera, Puerto Rico",earthquake,0.6,0.35,0.0474023028914017,5,reviewed,pr,pr
@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T20:26:32.330Z,38.8321648,-122.8153305,1.34,1.51,md,23,45,0.009672,0.02,nc,nc73990741,2024-01-17T21:04:13.211Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.34,0.17,26,automatic,nc,nc
 2024-01-17T20:24:05.860Z,38.8334999,-122.8191681,1.6,1.02,md,14,105,0.01234,0.02,nc,nc73990731,2024-01-17T20:41:17.084Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.56,0.27,16,automatic,nc,nc
 2024-01-17T20:18:37.860Z,38.8313332,-122.8166656,1.49,2.27,md,44,35,0.009452,0.06,nc,nc73990726,2024-01-17T20:25:15.987Z,"8 km NW of The Geysers, CA",earthquake,0.15,0.24,0.12,46,automatic,nc,nc
+2024-01-17T20:16:39.097Z,2.0813,92.3916,17.74,4.2,mb,20,173,5.239,0.65,us,us6000m4a6,2024-01-17T21:25:17.040Z,"off the west coast of northern Sumatra",earthquake,9.01,4.586,0.199,8,reviewed,us,us
 2024-01-17T19:50:45.120Z,17.9035,-66.9665,13.37,2.02,md,5,258,0.09886,0.07,pr,pr71437128,2024-01-17T20:16:46.430Z,"9 km SW of Guánica, Puerto Rico",earthquake,1.05,0.45,0.0485318372264034,3,reviewed,pr,pr
 2024-01-17T19:47:46.990Z,35.0306667,-117.677,-0.81,1.39,ml,25,51,0.09735,0.23,ci,ci40461647,2024-01-17T19:54:15.799Z,"4 km NW of Boron, CA",earthquake,0.48,0.85,0.123,18,automatic,ci,ci
 2024-01-17T19:39:12.720Z,19.2948341369629,-155.265670776367,1.78999996185303,1.79999995,md,33,173,,0.140000001,hv,hv73720172,2024-01-17T19:42:23.000Z,"16 km SSW of Volcano, Hawaii",earthquake,0.42,0.50999999,0.460000008,21,automatic,hv,hv
@@ -46,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T15:27:33.023Z,31.577,-103.96,4.5655,1.7,ml,15,65,0,0.4,tx,tx2024bekt,2024-01-17T16:14:06.886Z,"33 km NNW of Toyah, Texas",earthquake,0,1.242915006,0.1,13,automatic,tx,tx
 2024-01-17T15:21:40.766Z,31.667,-104.187,6.0287,2,ml,18,61,0.1,0.2,tx,tx2024bekm,2024-01-17T19:31:59.416Z,"54 km NW of Toyah, Texas",earthquake,1.022498727,1.419899336,0.2,11,reviewed,tx,tx
 2024-01-17T15:18:06.463Z,3.9487,95.8768,56.105,4.8,mb,44,71,1.66,0.95,us,us6000m47u,2024-01-17T17:36:32.040Z,"35 km SW of Meulaboh, Indonesia",earthquake,7.18,6.112,0.077,52,reviewed,us,us
+2024-01-17T15:10:16.190Z,37.9118333,-121.9951667,9.95,0.94,md,13,140,0.05294,0.05,nc,nc73990636,2024-01-17T21:41:56.723Z,"6 km WSW of Clayton, CA",earthquake,0.28,0.44,0.317,9,reviewed,nc,nc
 2024-01-17T15:10:05.100Z,18.3275,-66.6635,119.23,3.12,md,17,159,0.09178,0.15,pr,pr71437088,2024-01-17T19:04:28.831Z,"7 km NNE of Utuado, Puerto Rico",earthquake,1.58,0.81,0.0380875602475494,10,reviewed,pr,pr
 2024-01-17T14:51:11.230Z,38.8353348,-122.8161697,1.61,0.85,md,11,61,0.01543,0.01,nc,nc73990626,2024-01-17T17:07:14.752Z,"8 km W of Cobb, CA",earthquake,0.27,1.18,0.24,13,automatic,nc,nc
 2024-01-17T14:48:42.270Z,35.64,-117.458,5.67,0.83,ml,18,74,0.03752,0.17,ci,ci40461455,2024-01-17T19:57:37.922Z,"15 km SSW of Searles Valley, CA",earthquake,0.3,0.5,0.144,5,reviewed,ci,ci
@@ -91,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T09:52:15.620Z,17.9241666666667,-66.9701666666667,12.13,1.94,md,4,234,0.08364,0.02,pr,pr71437063,2024-01-17T10:42:33.530Z,"8 km SW of Guánica, Puerto Rico",earthquake,1.67,0.6,0.0350433841774602,3,reviewed,pr,pr
 2024-01-17T09:52:01.760Z,34.9978333,-119.2351667,-0.73,1.69,ml,40,53,0.1415,0.25,ci,ci40461391,2024-01-17T18:55:42.558Z,"16 km ESE of Maricopa, CA",earthquake,0.24,0.53,0.163,13,reviewed,ci,ci
 2024-01-17T09:47:36.871Z,58.3569,-154.5452,39.3,1.2,ml,,,,1.32,ak,ak024s9ryc7,2024-01-17T09:49:48.970Z,"87 km N of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-01-17T09:38:17.050Z,36.6455,-121.263,5.24,0.77,md,19,157,0.05406,0.07,nc,nc73990551,2024-01-17T21:36:11.399Z,"17 km NW of Pinnacles, CA",earthquake,0.32,0.66,0.133,15,reviewed,nc,nc
 2024-01-17T09:22:57.766Z,36.9649,-116.1318,7,0.3,ml,32,48.13,0.046,0.1323,nn,nn00871763,2024-01-17T18:44:38.203Z,"56 km E of Beatty, Nevada",earthquake,,0.7,0.25,20,reviewed,nn,nn
 2024-01-17T09:22:35.300Z,33.3213333,-116.8851667,19.8,0.46,ml,36,29,0.0373,0.18,ci,ci40461383,2024-01-17T18:49:46.020Z,"4 km SSW of Palomar Observatory, CA",earthquake,0.21,0.55,0.126,11,reviewed,ci,ci
 2024-01-17T09:21:51.858Z,31.7,-104.411,1.9412,2.7,ml,17,72,0,0.2,tx,tx2024bdyp,2024-01-17T10:21:03.405Z,"52 km S of Whites City, New Mexico",earthquake,0.9953285514,1.807484828,0.2,13,reviewed,tx,tx
@@ -184,10 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-16T23:08:28.521Z,60.7309,-151.9651,83.7,1.1,ml,,,,0.96,ak,ak024qucaqs,2024-01-16T23:10:24.782Z,"37 km W of Nikiski, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-01-16T23:07:00.880Z,33.2953333,-116.2311667,6.76,1.5,ml,72,37,0.09371,0.19,ci,ci40461191,2024-01-16T23:17:47.050Z,"14 km ENE of Borrego Springs, CA",earthquake,0.13,0.5,0.145,27,automatic,ci,ci
 2024-01-16T22:49:52.661Z,62.4561,-149.282,9,1.3,ml,,,,0.67,ak,ak024qtzpcy,2024-01-16T22:52:07.674Z,"42 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-16T22:29:29.140Z,37.4056667,-121.3368333,-0.45,1.71,md,36,118,0.04724,0.14,nc,nc73990356,2024-01-17T21:20:25.320Z,"20 km WSW of Patterson, CA",earthquake,0.24,0.34,0.273,40,reviewed,nc,nc
+2024-01-16T22:29:29.140Z,37.4056667,-121.3368333,-0.45,1.71,md,36,118,0.04724,0.14,nc,nc73990356,2024-01-17T21:38:14.408Z,"20 km WSW of Patterson, CA",earthquake,0.24,0.34,0.273,40,reviewed,nc,nc
 2024-01-16T22:28:16.735Z,-8.6065,118.312,136.479,4.5,mb,23,79,0.573,0.54,us,us6000m43k,2024-01-16T23:13:12.040Z,"18 km WSW of Dompu, Indonesia",earthquake,5.47,5.86,0.15,13,reviewed,us,us
 2024-01-16T22:24:01.650Z,48.2365,-124.948,-0.21,3.24,ml,18,201,0.2026,0.63,uw,uw61980156,2024-01-17T14:47:38.851Z,"28 km WSW of Neah Bay, Washington",earthquake,1.45,2.51,0.11953365282162576,11,reviewed,uw,uw
 2024-01-16T22:09:27.830Z,38.8325005,-122.8776703,2.8,1.04,md,14,125,0.007283,0.02,nc,nc73990346,2024-01-16T23:23:17.248Z,"12 km WNW of The Geysers, CA",earthquake,0.4,0.64,0.1,16,automatic,nc,nc
-2024-01-16T21:45:03.092Z,61.8448,-149.8393,19.6,2.3,ml,,,,0.45,ak,ak024qtdb2d,2024-01-17T00:27:26.040Z,"15 km NE of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-01-16T21:45:02.537Z,60.6634,-149.5301,31.2,2.1,ml,,,,0.58,ak,ak024qtdb0t,2024-01-16T21:46:38.874Z,"21 km NNW of Moose Pass, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-16T21:26:04.010Z,37.2363333,-121.6183333,5.12,0.82,md,14,52,0.04922,0.04,nc,nc73990331,2024-01-16T23:34:14.312Z,"12 km NNE of Morgan Hill, CA",earthquake,0.26,0.6,0.319,14,reviewed,nc,nc
