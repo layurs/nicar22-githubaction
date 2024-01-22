@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-22T07:42:50.310Z,19.158332824707,-155.487503051758,30.6700000762939,2.76999998,md,39,123,,0.159999996,hv,hv73724462,2024-01-22T07:46:11.180Z,"5 km S of Pāhala, Hawaii",earthquake,0.43,0.720000029,1.04999995,28,automatic,hv,hv
+2024-01-22T08:04:04.370Z,33.0055008,-116.3623352,11.92,1.08,ml,15,126,0.0527,0.12,ci,ci40463967,2024-01-22T08:06:06.773Z,"24 km ESE of Julian, CA",earthquake,0.41,0.6,0.698,3,automatic,ci,ci
+2024-01-22T07:59:05.608Z,64.4983,-146.9003,6.9,1.1,ml,,,,0.38,ak,ak02410icbs0,2024-01-22T08:00:32.741Z,"2 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-22T07:58:36.300Z,38.8146667,-122.817337,1.21,1.33,md,20,52,0.0104,0.02,nc,nc73992426,2024-01-22T08:00:10.706Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.32,0.14,21,automatic,nc,nc
+2024-01-22T07:55:37.521Z,31.673,-104.419,8.1716,1.8,ml,16,70,0,0.3,tx,tx2024bmzg,2024-01-22T08:07:01.235Z,"55 km S of Whites City, New Mexico",earthquake,0,2.600552199,0.2,12,automatic,tx,tx
+2024-01-22T07:51:14.710Z,31.643,-104.306,4.6773,1.6,ml,17,69,0,0.3,tx,tx2024bmzc,2024-01-22T08:06:56.278Z,"59 km S of Whites City, New Mexico",earthquake,0,1.405672336,0.2,13,automatic,tx,tx
+2024-01-22T07:42:50.310Z,19.158332824707,-155.487503051758,30.6700000762939,2.44,ml,39,123,,0.159999996,hv,hv73724462,2024-01-22T07:48:21.320Z,"5 km S of Pāhala, Hawaii",earthquake,0.43,0.720000029,3.9,13,automatic,hv,hv
 2024-01-22T07:35:29.293Z,63.2739,-151.2858,6,1.4,ml,,,,0.67,ak,ak02410i78ec,2024-01-22T07:39:42.027Z,"36 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-22T07:35:10.796Z,63.2038,-146.2543,71.2,1.8,ml,,,,1.39,ak,ak02410i76zr,2024-01-22T07:37:23.666Z,"34 km WNW of Paxson, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-01-22T07:31:17.580Z,35.7396667,-117.5618333,2.07,0.69,ml,25,77,0.1217,0.15,ci,ci40463959,2024-01-22T07:37:13.716Z,"15 km WSW of Searles Valley, CA",earthquake,0.21,0.34,0.07,5,automatic,ci,ci
@@ -17,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T06:27:11.580Z,32.9651667,-115.5481667,7.79,1.36,ml,35,75,0.06439,0.28,ci,ci40463927,2024-01-22T06:33:17.541Z,"2 km SW of Brawley, CA",earthquake,0.29,0.68,0.22,21,automatic,ci,ci
 2024-01-22T06:16:22.860Z,33.6408333,-116.7058333,16.01,0.55,ml,18,220,0.09705,0.15,ci,ci40463919,2024-01-22T06:22:23.840Z,"10 km NNW of Anza, CA",earthquake,0.49,0.46,0.131,4,automatic,ci,ci
 2024-01-22T05:42:12.355Z,61.9554,-149.5514,55.4,3.2,ml,,,,0.48,ak,ak02410h1tlw,2024-01-22T07:10:10.666Z,"27 km SE of Susitna North, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2024-01-22T05:37:35.470Z,36.2588348,-120.340332,8.31,2.43,md,20,101,0.00993,0.12,nc,nc73992416,2024-01-22T07:46:11.023Z,"13 km N of Coalinga, CA",earthquake,0.48,0.34,0.16,21,automatic,nc,nc
+2024-01-22T05:37:35.470Z,36.2588348,-120.340332,8.31,2.43,md,20,101,0.00993,0.12,nc,nc73992416,2024-01-22T07:58:12.959Z,"13 km N of Coalinga, CA",earthquake,0.48,0.34,0.16,21,automatic,nc,nc
 2024-01-22T05:23:05.926Z,62.1774,-145.589,23.8,1.4,ml,,,,0.52,ak,ak02410gxqtc,2024-01-22T05:24:49.853Z,"7 km NNW of Glennallen, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-22T04:59:02.570Z,35.5483322,-120.2689972,14.52,1.74,md,13,190,0.06462,0.19,nc,nc73992411,2024-01-22T07:43:11.852Z,"15 km SE of Shandon, CA",earthquake,1.72,1.28,0.11,5,automatic,nc,nc
 2024-01-22T04:50:21.840Z,37.2680016,-121.6653366,0.44,0.85,md,7,191,0.01093,0.03,nc,nc73992406,2024-01-22T07:16:11.702Z,"15 km N of Morgan Hill, CA",earthquake,1.3,7.11,0.3,2,automatic,nc,nc
@@ -210,9 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T08:40:00.257Z,34.49031067,-97.81445312,1.691481471,2.21,ml,8,109.4213104,0.1114493981,1.48766319,ok,ok2024blff,2024-01-21T08:46:20.344Z,"13 km E of Duncan, Oklahoma",earthquake,3.979390883,3.456096584,0.32,6,automatic,ok,ok
 2024-01-21T08:19:08.469Z,64.3133,-146.6784,24.8,1.5,ml,,,,0.67,ak,ak024yv5ugu,2024-01-21T08:20:18.232Z,"7 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-21T08:13:41.912Z,59.3264,-153.2903,109.7,1.8,ml,,,,0.2,ak,ak024yv4mqy,2024-01-21T08:17:21.183Z,"69 km SE of Pedro Bay, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2024-01-21T08:07:42.280Z,35.9428333,-117.6693333,2.71,0.98,ml,20,67,0.01619,0.1,ci,ci40463591,2024-01-21T16:11:54.354Z,"21 km E of Little Lake, CA",earthquake,0.17,0.19,0.05,2,reviewed,ci,ci
-2024-01-21T08:04:45.278Z,64.4776,-146.9593,8,1.5,ml,,,,0.42,ak,ak024yv2pkf,2024-01-21T08:05:59.130Z,"5 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-21T08:03:47.680Z,61.4249,-149.698,34.8,1.6,ml,,,,0.07,ak,ak024yv2i1c,2024-01-21T08:05:15.180Z,"4 km SSE of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-21T07:57:44.832Z,64.4843,-146.9052,7.4,1.2,ml,,,,0.29,ak,ak024yusmvn,2024-01-21T08:04:21.694Z,"4 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-21T07:55:04.174Z,64.4783,-146.9017,0,2,ml,,,,0.83,ak,ak024yus4b5,2024-01-21T08:00:42.793Z,"5 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-21T07:53:39.378Z,36.6144,-116.2779,5.1,-0.2,ml,8,247.81,0.058,0.0314,nn,nn00872050,2024-01-21T19:01:03.039Z,"52 km NNW of Pahrump, Nevada",earthquake,,3.1,0.22,3,reviewed,nn,nn
