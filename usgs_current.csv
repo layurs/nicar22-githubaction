@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-24T12:39:26.230Z,32.6383333,-115.7895,8.19,1.7,ml,43,74,0.05437,0.21,ci,ci39755890,2024-01-24T12:45:42.082Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.24,0.57,0.175,25,automatic,ci,ci
+2024-01-24T13:02:47.922Z,64.4176,-146.708,26,0.6,ml,,,,0.91,ak,ak02413wngll,2024-01-24T13:06:19.761Z,"7 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-01-24T12:39:26.230Z,32.6383333,-115.7895,8.19,1.7,ml,43,74,0.05437,0.21,ci,ci39755890,2024-01-24T12:50:25.470Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.24,0.57,0.175,25,automatic,ci,ci
 2024-01-24T12:21:22.184Z,64.3228,-147.6191,0,1.1,ml,,,,0.92,ak,ak02413w62ue,2024-01-24T12:23:31.935Z,"41 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-24T12:21:21.280Z,36.9616661,-121.5991669,5.4,1.23,md,7,73,0.01511,0.05,nc,nc73993261,2024-01-24T12:36:09.709Z,"6 km SSW of Gilroy, CA",earthquake,0.4,0.83,0.19,7,automatic,nc,nc
+2024-01-24T12:21:21.280Z,36.9616661,-121.5991669,5.4,1.23,md,7,73,0.01511,0.05,nc,nc73993261,2024-01-24T12:50:14.786Z,"6 km SSW of Gilroy, CA",earthquake,0.4,0.83,0.19,7,automatic,nc,nc
 2024-01-24T12:13:33.308Z,34.37468719,-97.80644989,25.33526611,2,ml,9,136.7705994,0.2734577656,1.489059543,ok,ok2024bqyu,2024-01-24T12:16:49.367Z,"12 km WNW of Loco, Oklahoma",earthquake,8.740005054,7.448234598,0.21,4,automatic,ok,ok
+2024-01-24T12:12:28.776Z,31.8915,131.8759,34.063,4.4,mb,32,114,1.271,0.39,us,us7000ltgh,2024-01-24T13:01:31.040Z,"43 km E of Miyazaki, Japan",earthquake,7.58,6.04,0.126,18,reviewed,us,us
 2024-01-24T12:11:04.838Z,57.1659,-150.9754,34.7,2.9,ml,,,,0.62,ak,ak02413w3w7v,2024-01-24T12:14:46.143Z,"92 km ESE of Chiniak, Alaska",earthquake,,494.7,,,automatic,ak,ak
 2024-01-24T11:56:15.121Z,61.6352,-151.1904,0,1.5,ml,,,,0.96,ak,ak02413vs4rs,2024-01-24T11:58:10.651Z,"37 km WNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-24T11:30:19.521Z,62.1229,-149.5882,34.8,2.5,ml,,,,0.8,ak,ak02413vmkg1,2024-01-24T11:31:53.167Z,"14 km ESE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -43,20 +45,25 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-24T07:45:36.450Z,34.1195,-116.9348333,7.55,0.66,ml,20,92,0.0259,0.12,ci,ci39755810,2024-01-24T07:51:34.899Z,"14 km NE of Yucaipa, CA",earthquake,0.2,0.41,0.052,3,automatic,ci,ci
 2024-01-24T07:43:07.380Z,33.1655,-115.6423333,1.93,2.57,ml,53,38,0.02416,0.22,ci,ci39755802,2024-01-24T07:49:43.807Z,"13 km WNW of Calipatria, CA",earthquake,0.2,0.44,0.161,26,automatic,ci,ci
 2024-01-24T07:40:00.110Z,38.7618332,-122.7376633,2.58,1.28,md,13,184,0.01001,0.03,nc,nc73993191,2024-01-24T10:12:15.983Z,"2 km SE of The Geysers, CA",earthquake,0.58,0.68,0.24,14,automatic,nc,nc
+2024-01-24T07:32:13.709Z,36.6728,-116.2691,5,-0.2,ml,10,163.07,0.062,0.064,nn,nn00872234,2024-01-24T13:04:15.413Z,"50 km ESE of Beatty, Nevada",earthquake,,1.9,0.28,5,reviewed,nn,nn
 2024-01-24T07:29:24.061Z,34.50394058,-97.7662735,4.556712151,1.92,ml,6,101.6689606,0.1112308353,0.6704288393,ok,ok2024bqpk,2024-01-24T07:32:27.932Z,"9 km WNW of Velma, Oklahoma",earthquake,4.647359662,3.619393945,0.26,4,automatic,ok,ok
 2024-01-24T07:29:20.960Z,18.0268333333333,-66.786,13.71,2.15,md,10,168,0.1718,0.09,pr,pr71437628,2024-01-24T08:00:51.780Z,"1 km NE of Guayanilla, Puerto Rico",earthquake,0.36,0.43,0.038122117323343,5,reviewed,pr,pr
 2024-01-24T07:23:50.280Z,17.9285,-66.2841666666667,7.63,2.71,md,14,183,0.1105,0.32,pr,pr71437623,2024-01-24T07:52:29.630Z,"5 km SSE of Salinas, Puerto Rico",earthquake,1.14,0.62,0.170443646926812,10,reviewed,pr,pr
 2024-01-24T07:22:16.560Z,17.9453333333333,-66.292,7.97,2.79,md,15,173,0.09949,0.34,pr,pr71437613,2024-01-24T07:53:01.550Z,"3 km S of Salinas, Puerto Rico",earthquake,1.03,1.83,0.183012104901145,10,reviewed,pr,pr
+2024-01-24T07:21:31.592Z,39.72,-119.7733,12,0.4,ml,6,101.7,0.184,0.0888,nn,nn00872233,2024-01-24T13:00:57.030Z,"9 km NW of Spanish Springs, Nevada",earthquake,,3.1,0.18,3,reviewed,nn,nn
 2024-01-24T07:16:50.197Z,60.3335,-141.8964,16.3,2.1,ml,,,,0.38,ak,ak02413t5wez,2024-01-24T07:18:17.775Z,"134 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-24T07:05:28.789Z,36.36591339,-97.35752869,2.863230705,1.78,ml,27,91.64968872,0.07835962623,0.5634966103,ok,ok2024bqop,2024-01-24T07:10:22.400Z,"10 km NW of Perry, Oklahoma",earthquake,2.267853797,1.738444968,0.22,10,automatic,ok,ok
 2024-01-24T07:05:00.363Z,66.2991,-154.7075,0,2.6,ml,,,,0.79,ak,ak02413t3fp0,2024-01-24T07:46:57.881Z,"34 km NW of Hughes, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-01-24T06:57:25.293Z,34.52632523,-97.7686615,4.085479736,1.86,ml,12,65.28656006,0.09128632396,0.803297746,ok,ok2024bqoi,2024-01-24T07:02:12.581Z,"11 km NW of Velma, Oklahoma",earthquake,4.953836031,3.68229351,0.27,5,automatic,ok,ok
+2024-01-24T06:56:25.960Z,39.4139,-119.9359,10.4,0.1,ml,6,141.52,0.122,0.1428,nn,nn00872232,2024-01-24T12:57:49.302Z,"7 km ENE of Floriston, California",earthquake,,3.1,0.02,2,reviewed,nn,nn
+2024-01-24T06:56:16.785Z,39.415,-119.9293,10.3,0.1,ml,4,138.57,0.118,0.0713,nn,nn00872231,2024-01-24T12:54:42.046Z,"8 km ENE of Floriston, California",earthquake,,6.7,0.01,2,reviewed,nn,nn
 2024-01-24T06:54:38.870Z,64.4821,-146.9581,1.5,1.7,ml,,,,0.39,ak,ak02413ssl5b,2024-01-24T07:31:16.100Z,"5 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-24T06:52:17.759Z,31.723,-104.369,3.7061,1.6,ml,17,78,0,0.3,tx,tx2024bqoe,2024-01-24T07:03:34.104Z,"50 km S of Whites City, New Mexico",earthquake,0,1.307253707,0.1,13,automatic,tx,tx
 2024-01-24T06:51:50.917Z,26.1594,-110.7216,10,4.5,mb,47,146,1.784,0.96,us,us7000ltei,2024-01-24T07:15:18.040Z,"64 km ENE of Loreto, Mexico",earthquake,7.61,1.932,0.077,51,reviewed,us,us
 2024-01-24T06:45:41.813Z,65.9622,-148.0592,14.5,1.4,ml,,,,0.83,ak,ak02413sqnxd,2024-01-24T06:50:02.548Z,"47 km E of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-24T06:38:21.351Z,64.4993,-146.9099,10.5,2.4,ml,,,,0.33,ak,ak02413sp4c7,2024-01-24T06:59:10.338Z,"2 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-24T06:27:16.034Z,-22.9281,-174.5807,10,5.1,mb,34,115,1.843,1.15,us,us7000ltec,2024-01-24T06:46:32.040Z,"179 km SSE of ‘Ohonua, Tonga",earthquake,8.16,1.926,0.106,29,reviewed,us,us
+2024-01-24T06:19:24.688Z,37.3781,-117.1079,8.6,0.6,ml,5,221.35,0.144,0.047,nn,nn00872230,2024-01-24T12:51:35.416Z,"38 km SSE of Goldfield, Nevada",earthquake,,6.7,0.3,4,reviewed,nn,nn
 2024-01-24T06:14:19.867Z,-20.6879,-177.5214,392.671,4.3,mb,54,79,2.219,0.75,us,us7000lte8,2024-01-24T06:37:11.040Z,"236 km WNW of Houma, Tonga",earthquake,10.81,6.906,0.05,115,reviewed,us,us
 2024-01-24T06:10:41.090Z,63.5761,-147.3312,1.2,3.4,ml,,,,0.62,ak,ak02413sj5tf,2024-01-24T08:24:58.466Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-24T06:06:49.240Z,18.7106666666667,-66.4018333333333,55.27,3.01,md,12,228,0.5465,0.23,pr,pr71437608,2024-01-24T06:26:33.700Z,"27 km NNW of Brenas, Puerto Rico",earthquake,2.86,5,0.179088754715977,9,reviewed,pr,pr
@@ -252,7 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T13:23:14.120Z,38.7919998,-122.7689972,2.06,1.54,md,30,75,0.01126,0.03,nc,nc73992821,2024-01-23T14:39:14.735Z,"2 km NNW of The Geysers, CA",earthquake,0.19,0.36,0.18,32,automatic,nc,nc
 2024-01-23T13:14:13.463Z,61.7891,-146.8586,76.1,1.7,ml,,,,1.04,ak,ak0241296naa,2024-01-23T13:16:33.017Z,"23 km SSW of Nelchina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-23T13:14:11.967Z,64.48,-146.9067,0.2,1.5,ml,,,,0.78,ak,ak0241296n64,2024-01-23T13:15:53.736Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-23T12:58:21.838Z,36.7104,-116.1297,3.9,-0.5,ml,5,242.99,0.011,0.0267,nn,nn00872168,2024-01-23T18:18:01.348Z,"43 km WNW of Indian Springs, Nevada",earthquake,,4.1,0.04,2,reviewed,nn,nn
-2024-01-23T12:54:27.572Z,64.4858,-146.951,4.8,1.2,ml,,,,0.73,ak,ak024128ttet,2024-01-23T12:56:39.839Z,"4 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-23T12:51:52.546Z,-16.7611,-69.8567,167.51,4.4,mb,26,128,0.899,0.74,us,us7000lt6j,2024-01-24T10:23:47.040Z,"15 km W of Mazo Cruz, Peru",earthquake,6.78,6.016,0.126,18,reviewed,us,us
-2024-01-23T12:50:54.520Z,38.5823333333333,-112.584,-0.53,0.96,ml,12,138,0.1106,0.08,uu,uu80035591,2024-01-23T15:04:06.820Z,"27 km SSW of Kanosh, Utah",earthquake,0.66,0.87,0.277135529359019,3,reviewed,uu,uu
