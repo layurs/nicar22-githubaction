@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-14T17:22:18.250Z,37.4020004,-118.5441666,6.33,1.86,md,13,125,0.05107,0.05,nc,nc74000615,2024-02-14T17:23:50.070Z,"5 km ESE of Round Valley, CA",earthquake,1.24,2.48,0.12,10,automatic,nc,nc
+2024-02-14T17:40:01.590Z,38.850666,-122.7963333,6.49,0.7,md,7,228,0.0131,0.03,nc,nc74000625,2024-02-14T17:42:06.671Z,"7 km WNW of Cobb, CA",earthquake,2.6,6.56,0.07,3,automatic,nc,nc
+2024-02-14T17:32:38.769Z,61.3981,-146.2402,17.8,1.9,ml,,,,0.86,ak,ak02422phxes,2024-02-14T17:34:32.477Z,"30 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-02-14T17:24:50.920Z,33.6891667,-116.7691667,16.09,0.68,ml,13,209,0.08823,0.05,ci,ci40670032,2024-02-14T17:31:00.859Z,"7 km SW of Idyllwild, CA",earthquake,0.51,0.4,0.28,16,automatic,ci,ci
+2024-02-14T17:24:09.740Z,37.247,-116.0974,1,1.2,ml,9,179.8,0.047,0.2449,nn,nn00873483,2024-02-14T17:26:19.999Z,"54 km SW of Rachel, Nevada",earthquake,,2.9,0.18,7,automatic,nn,nn
+2024-02-14T17:22:18.250Z,37.4020004,-118.5441666,6.33,1.86,md,13,125,0.05107,0.05,nc,nc74000615,2024-02-14T17:24:21.491Z,"5 km ESE of Round Valley, CA",earthquake,1.24,2.48,0.12,10,automatic,nc,nc
 2024-02-14T17:20:18.680Z,38.8390007,-122.836998,1.74,0.72,md,13,84,0.00125,0.01,nc,nc74000610,2024-02-14T17:22:21.443Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.56,0.22,13,automatic,nc,nc
 2024-02-14T17:14:47.210Z,32.7796667,-115.8321667,2.93,0.72,ml,16,94,0.1124,0.23,ci,ci40670016,2024-02-14T17:21:25.590Z,"16 km ENE of Ocotillo, CA",earthquake,0.28,0.8,0.075,8,automatic,ci,ci
 2024-02-14T17:11:29.580Z,38.8388329,-122.8373337,1.56,1.07,md,14,112,0.0158,0.03,nc,nc74000605,2024-02-14T17:13:36.336Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.41,0.28,15,automatic,nc,nc
@@ -40,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T12:13:38.911Z,31.642,-104.449,6.3372,1.7,ml,18,93,0,0.1,tx,tx2024ddii,2024-02-14T15:32:47.388Z,"59 km S of Whites City, New Mexico",earthquake,0.8165878731,0.7685458578,0.1,14,reviewed,tx,tx
 2024-02-14T11:59:53.014Z,38.1623,-118.1657,1.5,1.2,ml,11,119.53,0.147,0.2697,nn,nn00873446,2024-02-14T12:02:23.392Z,"25 km S of Mina, Nevada",earthquake,,2.4,0.13,7,automatic,nn,nn
 2024-02-14T11:49:26.397Z,39.4,-119.7207,6.2,1.2,ml,12,65.47,0.035,0.1133,nn,nn00873441,2024-02-14T11:51:14.039Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.7,0.35,6,automatic,nn,nn
-2024-02-14T11:40:21.389Z,10.996,138.6099,10,6,mww,108,50,6.637,1.27,us,us7000lz5f,2024-02-14T13:46:59.609Z,"172 km NNE of Colonia, Micronesia",earthquake,8.9,1.846,0.041,57,reviewed,us,us
+2024-02-14T11:40:21.389Z,10.996,138.6099,10,6,mww,108,50,6.637,1.27,us,us7000lz5f,2024-02-14T17:39:37.040Z,"172 km NNE of Colonia, Micronesia",earthquake,8.9,1.846,0.041,57,reviewed,us,us
 2024-02-14T11:39:22.820Z,38.8339996,-122.8174973,1.8,1.05,md,22,59,0.01207,0.02,nc,nc74002686,2024-02-14T13:02:13.113Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.45,0.11,22,automatic,nc,nc
 2024-02-14T11:36:36.426Z,39.3947,-119.7248,7.7,1.1,ml,8,141.93,0.031,0.1023,nn,nn00873440,2024-02-14T11:39:02.771Z,"11 km NW of Virginia City, Nevada",earthquake,,0.7,0.27,4,automatic,nn,nn
 2024-02-14T11:33:37.613Z,31.677,-104.396,6.3372,1.7,ml,16,69,0,0.2,tx,tx2024ddgx,2024-02-14T15:04:10.229Z,"55 km S of Whites City, New Mexico",earthquake,0.7503198728,0.7275660031,0.1,13,reviewed,tx,tx
@@ -64,8 +68,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T09:43:46.330Z,33.1191667,-115.634,0.06,1.06,ml,7,106,0.04522,0.18,ci,ci40669752,2024-02-14T09:49:37.961Z,"9 km N of Westmorland, CA",earthquake,0.56,15.74,0.241,17,automatic,ci,ci
 2024-02-14T09:43:11.741Z,31.683,-104.409,5.8745,1.7,ml,18,73,0,0.2,tx,tx2024dddj,2024-02-14T16:46:45.999Z,"54 km S of Whites City, New Mexico",earthquake,0.7064878428,0.8833739319,0.2,21,reviewed,tx,tx
 2024-02-14T09:40:21.202Z,31.68,-104.411,4.9233,1.6,ml,14,65,0,0.2,tx,tx2024dddh,2024-02-14T17:14:25.499Z,"55 km S of Whites City, New Mexico",earthquake,0.8070782277,0.942621786,0.2,11,reviewed,tx,tx
+2024-02-14T09:39:47.830Z,46.85466666666667,-121.764,0.94,0.04,ml,18,73,0.0271,0.07,uw,uw61983071,2024-02-14T17:46:11.460Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.56,0.14429552244945537,7,reviewed,uw,uw
 2024-02-14T09:39:07.739Z,39.3978,-119.7195,5,0.4,ml,10,123.88,0.036,0.1416,nn,nn00873475,2024-02-14T15:55:10.269Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.6,0.3,4,reviewed,nn,nn
 2024-02-14T09:32:31.629Z,39.3984,-119.7171,5.3,0.6,ml,12,124.37,0.038,0.1352,nn,nn00873474,2024-02-14T15:52:00.557Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.4,0.21,5,reviewed,nn,nn
+2024-02-14T09:28:33.810Z,46.198,-122.18366666666667,2.63,0.14,ml,13,136,0.005302,0.09,uw,uw61983066,2024-02-14T17:42:34.770Z,"37 km NNE of Amboy, Washington",earthquake,0.34,0.52,0.2210052599470583,7,reviewed,uw,uw
 2024-02-14T09:28:19.240Z,19.2801666259766,-155.412338256836,32.3899993896484,1.99000001,md,47,112,0.05864,0.140000001,hv,hv74109897,2024-02-14T09:30:04.380Z,"11 km NE of Pāhala, Hawaii",earthquake,0.48,0.589999974,0.600000024,7,automatic,hv,hv
 2024-02-14T09:26:44.170Z,33.1328333,-115.6161667,9.74,1.22,ml,36,82,0.03239,0.17,ci,ci40669744,2024-02-14T09:32:46.866Z,"10 km W of Calipatria, CA",earthquake,0.18,0.4,0.272,27,automatic,ci,ci
 2024-02-14T09:25:26.956Z,0.0018,123.353,132.967,4.4,mb,52,44,1.188,0.73,us,us7000lz55,2024-02-14T09:53:29.040Z,"67 km SSE of Gorontalo, Indonesia",earthquake,6.84,3.114,0.084,42,reviewed,us,us
@@ -77,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T08:58:42.929Z,65.552,-151.6763,15.4,3.9,ml,,,,0.79,ak,ak02422kaly9,2024-02-14T09:18:18.688Z,"46 km NNE of Tanana, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-02-14T08:54:29.365Z,39.3967,-119.716,5.4,0.4,ml,9,124.68,0.038,0.124,nn,nn00873472,2024-02-14T15:45:38.585Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.6,0.09,2,reviewed,nn,nn
 2024-02-14T08:52:49.710Z,33.1308333,-115.6225,7.72,2.13,ml,52,41,0.03683,0.21,ci,ci40669728,2024-02-14T17:06:58.532Z,"10 km W of Calipatria, CA",earthquake,0.17,0.39,0.224,24,reviewed,ci,ci
+2024-02-14T08:47:29.370Z,33.188,-115.5993333,17.6,1.93,ml,9,250,0.01724,0.25,ci,ci37624604,2024-02-14T17:28:12.069Z,"10 km SW of Niland, CA",earthquake,1.42,1.27,0.197,8,reviewed,ci,ci
 2024-02-14T08:46:45.880Z,33.1358333,-115.6168333,9.06,2.17,ml,54,83,0.03409,0.21,ci,ci40669712,2024-02-14T17:16:11.490Z,"10 km W of Calipatria, CA",earthquake,0.18,0.4,0.201,78,reviewed,ci,ci
 2024-02-14T08:41:03.740Z,62.0819,-149.5173,19.5,2,ml,,,,0.74,ak,ak02422k6vpi,2024-02-14T08:43:33.953Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-02-14T08:39:16.815Z,60.0806,-152.997,112.2,2.1,ml,,,,1.29,ak,ak02422k6ha9,2024-02-14T08:41:32.599Z,"70 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -86,10 +93,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T08:17:11.690Z,33.134,-115.6185,7.77,1.25,ml,34,82,0.03464,0.18,ci,ci40669688,2024-02-14T08:24:30.832Z,"10 km W of Calipatria, CA",earthquake,0.19,0.35,0.194,30,automatic,ci,ci
 2024-02-14T08:15:30.460Z,33.1366667,-115.6155,7.24,1.19,ml,35,83,0.03346,0.17,ci,ci40669680,2024-02-14T08:21:42.428Z,"10 km W of Calipatria, CA",earthquake,0.19,0.34,0.303,23,automatic,ci,ci
 2024-02-14T08:11:39.440Z,19.1846675872803,-155.488006591797,35.0900001525879,2.29999995,md,36,152,0.06422,0.129999995,hv,hv74109827,2024-02-14T08:13:16.440Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.74,0.699999988,0.239999995,3,automatic,hv,hv
-2024-02-14T08:09:30.150Z,33.1338333,-115.623,7.61,2.09,ml,55,41,0.03812,0.22,ci,ci40669672,2024-02-14T08:20:30.480Z,"10 km W of Calipatria, CA",earthquake,0.17,0.35,0.218,26,automatic,ci,ci
+2024-02-14T08:09:30.090Z,33.1326667,-115.622,8.49,2.15,ml,50,41,0.03695,0.22,ci,ci40669672,2024-02-14T17:50:58.851Z,"10 km W of Calipatria, CA",earthquake,0.18,0.4,0.182,74,reviewed,ci,ci
 2024-02-14T08:05:51.450Z,33.1333333,-115.619,7.55,1.66,ml,50,82,0.03479,0.2,ci,ci40669664,2024-02-14T08:14:39.994Z,"10 km W of Calipatria, CA",earthquake,0.17,0.35,0.253,27,automatic,ci,ci
 2024-02-14T08:04:26.440Z,33.3081667,-116.243,5.16,0.87,ml,50,42,0.07766,0.22,ci,ci40669656,2024-02-14T14:22:13.180Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,0.5,0.078,17,reviewed,ci,ci
-2024-02-14T08:02:01.042Z,39.3966,-119.7283,7.5,1.5,ml,13,57.32,0.029,0.1267,nn,nn00873434,2024-02-14T08:04:32.167Z,"11 km NW of Virginia City, Nevada",earthquake,,0.6,0.37,6,automatic,nn,nn
+2024-02-14T08:02:01.669Z,39.393,-119.7103,5.8,1.4,ml,15,39.55,0.042,0.1262,nn,nn00873434,2024-02-14T17:38:10.134Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.6,0.26,7,reviewed,nn,nn
 2024-02-14T08:01:33.740Z,33.1328333,-115.6208333,8.76,1.9,ml,46,41,0.03607,0.22,ci,ci40669648,2024-02-14T08:16:55.056Z,"10 km W of Calipatria, CA",earthquake,0.2,0.44,0.292,28,automatic,ci,ci
 2024-02-14T07:59:36.697Z,8.4297,126.6365,70.762,4.8,mb,52,126,1.71,0.84,us,us7000lz4c,2024-02-14T11:51:05.707Z,"33 km E of Hinatuan, Philippines",earthquake,9.26,7.088,0.06,86,reviewed,us,us
 2024-02-14T07:56:21.310Z,33.1371667,-115.62,7.75,2.58,ml,53,42,0.03706,0.23,ci,ci40669640,2024-02-14T16:56:52.130Z,"10 km W of Calipatria, CA",earthquake,0.19,0.36,0.158,22,reviewed,ci,ci
@@ -119,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T07:10:03.860Z,38.8243332,-122.8544998,3.29,1.06,md,22,94,0.01526,0.03,nc,nc74002616,2024-02-14T09:11:11.729Z,"10 km WNW of The Geysers, CA",earthquake,0.26,0.6,0.27,23,automatic,nc,nc
 2024-02-14T07:09:58.190Z,44.5725,-114.275666666667,7.23,2.69,ml,45,67,0.6206,0.28,mb,mb90040708,2024-02-14T15:26:28.273Z,"8 km NNW of Challis, Idaho",earthquake,0.47,0.97,0.203985089434246,42,reviewed,mb,mb
 2024-02-14T07:08:33.550Z,36.9838333,-121.6318359,6.92,0.76,md,8,80,0.049,0.02,nc,nc74002606,2024-02-14T09:00:11.666Z,"6 km WSW of Gilroy, CA",earthquake,0.42,0.78,0.14,6,automatic,nc,nc
-2024-02-14T07:06:30.000Z,39.396,-119.7146,6.4,3,ml,33,35.13,0.039,0.157,nn,nn00873424,2024-02-14T17:22:38.948Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.7,0.24,8,reviewed,nn,nn
+2024-02-14T07:06:30.000Z,39.396,-119.7146,6.4,3,ml,33,35.13,0.039,0.157,nn,nn00873424,2024-02-14T17:33:41.393Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.7,0.24,8,reviewed,nn,nn
 2024-02-14T07:02:59.630Z,19.1380004882812,-155.461334228516,32.1599998474121,2.05999994,md,28,177,0.09952,0.140000001,hv,hv74109747,2024-02-14T07:05:44.720Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.85,1.02999997,0.360000014,5,automatic,hv,hv
 2024-02-14T06:53:58.762Z,31.8385,138.0299,372.061,5.2,mww,110,65,1.973,0.69,us,us7000lz3s,2024-02-14T15:06:42.778Z,"277 km SE of Kushimoto, Japan",earthquake,8.78,6.698,0.098,10,reviewed,us,us
 2024-02-14T06:30:10.577Z,59.8611,-150.4193,32,2.1,ml,,,,0.21,ak,ak02422ixo5d,2024-02-14T06:33:38.164Z,"30 km E of Fox River, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -285,6 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T18:00:10.109Z,34.4975,-97.7,14.94,1.94,ml,79,49,0.1502705118,0.4,ok,ok2024dbyg,2024-02-13T18:13:47.263Z,"4 km NNW of Velma, Oklahoma",earthquake,,1.4,0.21,23,reviewed,ok,ok
 2024-02-13T17:55:28.080Z,38.8358345,-122.8121643,1.87,1.04,md,17,57,0.01253,0.01,nc,nc74002291,2024-02-13T19:24:13.126Z,"8 km W of Cobb, CA",earthquake,0.24,0.59,0.15,17,automatic,nc,nc
 2024-02-13T17:52:02.340Z,38.8240013,-122.8075027,2.61,1.08,md,26,35,0.002098,0.01,nc,nc74002286,2024-02-13T18:56:13.991Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.39,0.15,26,automatic,nc,nc
-2024-02-13T17:43:07.045Z,9.1475,126.2605,16.924,4.8,mb,55,125,2.172,0.97,us,us7000lyz7,2024-02-13T20:51:03.080Z,"10 km NE of Tandag, Philippines",earthquake,11.33,4.46,0.063,77,reviewed,us,us
-2024-02-13T17:37:18.344Z,31.521,-104.021,6.6971,1.6,ml,15,63,0.1,0.1,tx,tx2024dbxn,2024-02-13T17:55:38.108Z,"31 km NW of Toyah, Texas",earthquake,0.8263726185,0.7911701939,0.2,14,reviewed,tx,tx
-2024-02-13T17:33:53.971Z,31.525,-104.016,7.3013,2.6,ml,26,58,0,0.2,tx,tx2024dbxi,2024-02-14T14:32:31.592Z,"31 km NW of Toyah, Texas",earthquake,0.6216100695,0.4609416829,0.2,20,reviewed,tx,tx
