@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-15T09:38:03.900Z,35.9066667,-117.694,9.16,0.81,ml,17,97,0.05428,0.1,ci,ci40670544,2024-02-15T09:43:41.078Z,"19 km E of Little Lake, CA",earthquake,0.18,0.36,0.122,9,automatic,ci,ci
 2024-02-15T09:35:46.000Z,17.9151666666667,-66.9801666666667,12.89,2.02,md,3,249,0.08143,0.09,pr,pr71439993,2024-02-15T09:52:10.540Z,"9 km SE of La Parguera, Puerto Rico",earthquake,2.47,1.21,0.218049001682798,2,reviewed,pr,pr
-2024-02-15T09:33:57.760Z,38.2249985,-122.8521652,4.29,0.95,md,10,197,0.1874,0.28,nc,nc74003076,2024-02-15T09:50:10.508Z,"5 km ESE of Tomales, CA",earthquake,4.83,24.06,0.56,2,automatic,nc,nc
+2024-02-15T09:33:57.760Z,38.2249985,-122.8521652,4.29,0.95,md,10,197,0.1874,0.28,nc,nc74003076,2024-02-15T10:18:11.686Z,"5 km ESE of Tomales, CA",earthquake,4.83,24.06,0.56,2,automatic,nc,nc
 2024-02-15T09:32:39.430Z,18.8561668395996,-155.233993530273,10.3400001525879,2.72000003,md,35,263,0.3677,0.119999997,hv,hv74112491,2024-02-15T09:34:31.160Z,"43 km ESE of Naalehu, Hawaii",earthquake,0.62,0.730000019,0.180000007,13,automatic,hv,hv
 2024-02-15T09:25:06.690Z,38.8451653,-122.8376694,2.09,0.24,md,10,132,0.006784,0.02,nc,nc74003066,2024-02-15T09:45:12.483Z,"10 km WNW of Cobb, CA",earthquake,0.37,0.79,0.14,9,automatic,nc,nc
 2024-02-15T08:49:56.580Z,38.8328323,-122.8161697,1.85,1.08,md,16,70,0.01056,0.02,nc,nc74003056,2024-02-15T09:06:11.218Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.71,0.28,17,automatic,nc,nc
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-15T08:03:25.020Z,19.3950004577637,-155.411499023438,5.96000003814697,2.18000007,md,10,102,0.04883,0.25,hv,hv74112396,2024-02-15T08:05:04.300Z,"19 km WSW of Volcano, Hawaii",earthquake,1.06,2.44000006,0.100000001,3,automatic,hv,hv
 2024-02-15T08:02:26.780Z,38.8349991,-122.7906647,1.63,0.84,md,7,112,0.003414,0.02,nc,nc74003051,2024-02-15T08:40:11.042Z,"6 km WNW of Cobb, CA",earthquake,0.78,1.93,0.14,9,automatic,nc,nc
 2024-02-15T08:01:59.680Z,38.7584991,-122.7214966,1.19,1.78,md,24,47,0.01988,0.05,nc,nc74003046,2024-02-15T08:29:12.977Z,"3 km SW of Anderson Springs, CA",earthquake,0.2,0.37,0.11,28,automatic,nc,nc
-2024-02-15T07:55:08.780Z,40.2946663,-124.3508301,10.4,1.94,md,12,243,0.008855,0.08,nc,nc74003041,2024-02-15T08:16:13.906Z,"6 km WSW of Petrolia, CA",earthquake,1.21,0.87,0.05,7,automatic,nc,nc
+2024-02-15T07:55:08.780Z,40.2946663,-124.3508301,10.4,1.94,md,12,243,0.008855,0.08,nc,nc74003041,2024-02-15T10:26:11.735Z,"6 km WSW of Petrolia, CA",earthquake,1.21,0.87,0.05,7,automatic,nc,nc
 2024-02-15T07:50:39.990Z,19.4253330230713,-155.464340209961,5.59000015258789,2.31,ml,52,38,0.05341,0.180000007,hv,hv74112386,2024-02-15T07:53:18.930Z,"24 km W of Volcano, Hawaii",earthquake,0.23,0.569999993,0.3,20,automatic,hv,hv
 2024-02-15T07:50:12.310Z,19.4286670684814,-155.454498291016,23.9300003051758,2.27,ml,9,233,0.09106,0.319999993,hv,hv74112381,2024-02-15T07:52:52.320Z,"23 km W of Volcano, Hawaii",earthquake,3.85,2.50999999,0.25,19,automatic,hv,hv
 2024-02-15T07:45:38.340Z,36.4165,-120.0355,19.98,1.76,md,34,117,0.1044,0.25,nc,nc74003036,2024-02-15T10:07:10.610Z,"10 km WSW of Lanare, CA",earthquake,0.8,0.54,0.184,25,reviewed,nc,nc
@@ -223,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T10:47:03.913Z,64.4924,-146.9433,8.9,1.4,ml,,,,0.78,ak,ak02422lf187,2024-02-14T10:49:30.852Z,"4 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-14T10:45:05.271Z,39.3939,-119.716,5.1,0.5,ml,6,260.61,0.038,0.0268,nn,nn00873506,2024-02-15T01:20:45.088Z,"10 km NNW of Virginia City, Nevada",earthquake,,2.3,0.01,2,reviewed,nn,nn
 2024-02-14T10:41:59.310Z,33.1336667,-115.6156667,7.88,1.44,ml,38,82,0.03232,0.18,ci,ci40669768,2024-02-14T10:48:04.609Z,"10 km W of Calipatria, CA",earthquake,0.19,0.32,0.255,28,automatic,ci,ci
-2024-02-14T10:34:06.184Z,39.3954,-119.7179,5.1,0.6,ml,10,124.3,0.037,0.1465,nn,nn00873477,2024-02-14T16:04:35.731Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.6,0,1,reviewed,nn,nn
-2024-02-14T10:18:50.600Z,63.5083,-150.8961,0,1.8,ml,,,,1.08,ak,ak02422l8x2c,2024-02-14T10:20:49.497Z,"41 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-02-14T10:15:35.175Z,39.3976,-119.7178,5.6,0.7,ml,10,124.23,0.037,0.1467,nn,nn00873476,2024-02-14T16:01:25.484Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.5,0.13,4,reviewed,nn,nn
