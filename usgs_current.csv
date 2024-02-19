@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-19T21:47:09.010Z,38.815834,-122.7941666,2.08,1.23,md,14,66,0.007905,0.03,nc,nc74004886,2024-02-19T21:58:11.286Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.92,0.12,15,automatic,nc,nc
+2024-02-19T21:47:09.010Z,38.815834,-122.7941666,2.08,1.23,md,14,66,0.007905,0.03,nc,nc74004886,2024-02-19T22:15:13.268Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.92,0.12,15,automatic,nc,nc
 2024-02-19T21:46:57.910Z,38.8156662,-122.7953339,2.16,2.29,md,28,28,0.007687,0.03,nc,nc74004881,2024-02-19T22:04:13.345Z,"5 km NW of The Geysers, CA",earthquake,0.2,0.35,0.34,26,automatic,nc,nc
 2024-02-19T21:27:40.110Z,37.597168,-118.8401642,7.17,0.93,md,8,148,0.01131,0.02,nc,nc74004876,2024-02-19T21:53:17.136Z,"13 km ESE of Mammoth Lakes, CA",earthquake,1.32,2.24,0.19,9,automatic,nc,nc
 2024-02-19T21:19:28.091Z,30.976,-103.56,6.1044,1.9,ml,11,81,0.1,0.7,tx,tx2024dndw,2024-02-19T21:57:19.130Z,"17 km E of Balmorhea, Texas",earthquake,0,3.00819485698773,0.2,7,automatic,tx,tx
@@ -58,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T13:39:50.098Z,65.2677,-148.9592,10.5,1.1,ml,,,,0.75,ak,ak0242awugch,2024-02-19T13:42:36.985Z,"22 km NE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-19T13:19:04.750Z,33.0978333,-116.0661667,9.27,1.45,ml,60,35,0.103,0.24,ci,ci40672856,2024-02-19T13:25:27.589Z,"8 km SE of Ocotillo Wells, CA",earthquake,0.19,0.66,0.14,29,automatic,ci,ci
 2024-02-19T13:12:42.140Z,37.4348335,-118.8696671,9.48,1.75,md,13,153,0.1582,0.12,nc,nc74004791,2024-02-19T15:31:13.178Z,"22 km SW of Toms Place, CA",earthquake,0.69,2.82,0.16,11,automatic,nc,nc
+2024-02-19T12:56:12.060Z,46.19766666666666,-122.1835,2.6,0.54,ml,13,89,0.00289,0.08,uw,uw61983601,2024-02-19T22:18:51.920Z,"37 km NNE of Amboy, Washington",earthquake,0.3,0.34,0.11531695926407415,11,reviewed,uw,uw
 2024-02-19T12:50:32.600Z,38.8096657,-122.8008347,3.51,0.77,md,11,76,0.004642,0.02,nc,nc74004786,2024-02-19T15:01:14.014Z,"5 km NW of The Geysers, CA",earthquake,0.44,1.16,0.14,11,automatic,nc,nc
 2024-02-19T12:48:47.715Z,63.488,-150.9905,6.6,1.6,ml,,,,0.56,ak,ak0242away03,2024-02-19T12:51:25.571Z,"36 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-19T12:37:04.250Z,38.8333321,-122.815834,1.59,1.23,md,22,55,0.01089,0.03,nc,nc74004781,2024-02-19T14:34:13.861Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.39,0.19,23,automatic,nc,nc
@@ -129,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T03:37:00.660Z,35.6793333,-117.4766667,6.44,0.92,ml,23,116,0.04539,0.11,ci,ci40672704,2024-02-19T03:42:56.793Z,"12 km SW of Searles Valley, CA",earthquake,0.22,0.42,0.067,3,automatic,ci,ci
 2024-02-19T03:29:04.040Z,19.3840007781982,-155.280670166016,1.02999997138977,1.96,ml,20,117,0.002704,0.189999998,hv,hv74116031,2024-02-19T03:38:48.656Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.200000003,0.27,11,automatic,hv,hv
 2024-02-19T03:24:40.354Z,39.3954,-119.7124,6.2,0.9,ml,6,125.51,0.041,0.1071,nn,nn00873654,2024-02-19T15:51:05.582Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.7,0.42,3,reviewed,nn,nn
-2024-02-19T03:21:43.940Z,33.6675,-116.7625,14.79,0.23,ml,19,72,0.05934,0.12,ci,ci40672696,2024-02-19T03:28:06.099Z,"9 km SSW of Idyllwild, CA",earthquake,0.29,0.44,0.173,3,automatic,ci,ci
+2024-02-19T03:21:44.020Z,33.6636667,-116.7615,14.2,0.11,ml,21,68,0.06166,0.11,ci,ci40672696,2024-02-19T22:22:11.477Z,"9 km SSW of Idyllwild, CA",earthquake,0.23,0.42,0.088,7,reviewed,ci,ci
 2024-02-19T03:08:15.759Z,42.0172,84.1379,10,4.4,mb,36,124,3.672,0.6,us,us7000m03m,2024-02-19T03:20:26.040Z,"105 km ENE of Kuqa, China",earthquake,8.62,1.964,0.117,21,reviewed,us,us
 2024-02-19T03:06:55.304Z,66.259,-152.9868,0,1.8,ml,,,,0.59,ak,ak0242aqp235,2024-02-19T03:17:53.614Z,"35 km SSW of New Allakaket, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-19T02:30:35.625Z,61.4055,-152.016,84.5,1.8,ml,,,,0.61,ak,ak0242aq8q4q,2024-02-19T02:32:28.757Z,"58 km WNW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -163,6 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-18T22:36:09.741Z,64.4927,-146.7031,11.3,1.2,ml,,,,1.41,ak,ak02429ena1a,2024-02-18T22:38:09.817Z,"10 km ESE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-18T22:29:58.790Z,48.121833333333335,-121.61333333333333,12.81,0.8300000000000001,md,6,91,0.1218,0.2,uw,uw61983541,2024-02-19T03:43:23.320Z,"12 km ENE of Verlot, Washington",earthquake,0.5,2.11,0.1595707296101998,6,reviewed,uw,uw
 2024-02-18T22:28:38.960Z,65.2695,-148.9416,3.3,0.8,ml,,,,0.84,ak,ak02429elmfe,2024-02-19T03:43:59.488Z,"23 km NE of Minto, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2024-02-18T22:23:52.500Z,33.269,-116.4311667,3.79,0.99,ml,41,45,0.01176,0.22,ci,ci40672624,2024-02-18T22:30:21.413Z,"5 km WNW of Borrego Springs, CA",earthquake,0.21,0.41,0.136,24,automatic,ci,ci
-2024-02-18T22:22:02.660Z,33.4715,-116.5011667,11.23,1.17,ml,57,28,0.08755,0.2,ci,ci40672616,2024-02-18T22:28:17.646Z,"18 km ESE of Anza, CA",earthquake,0.18,0.43,0.142,26,automatic,ci,ci
-2024-02-18T22:18:32.680Z,19.259,-155.112833333333,40.1,3.1,ml,61,195,0.03082,0.12,hv,hv74115821,2024-02-19T07:32:41.560Z,"22 km S of Fern Forest, Hawaii",earthquake,0.47,0.43,0.29088080715561,36,reviewed,hv,hv
