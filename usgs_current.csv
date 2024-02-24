@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-24T09:41:23.390Z,38.8013344,-122.7789993,1.22,1.53,md,29,67,0.01072,0.03,nc,nc74006966,2024-02-24T09:43:00.169Z,"3 km NW of The Geysers, CA",earthquake,0.18,0.3,0.13,27,automatic,nc,nc
+2024-02-24T09:30:16.620Z,19.1586666107178,-155.470993041992,31.8299999237061,2.33999991,md,46,116,0.008998,0.159999996,hv,hv74120161,2024-02-24T09:31:52.910Z,"4 km S of Pāhala, Hawaii",earthquake,0.52,0.75999999,0.280000001,10,automatic,hv,hv
+2024-02-24T09:27:10.824Z,65.9639,-147.9381,20.4,1.4,ml,,,,0.82,ak,ak0242j42sru,2024-02-24T09:30:07.467Z,"50 km SSW of Beaver, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-02-24T09:20:49.939Z,18.9306,-67.5929,35,2.7,ml,12,192,0.649,0.43,us,us7000m1ax,2024-02-24T09:37:42.040Z,"71 km NW of San Antonio, Puerto Rico",earthquake,4.97,2.01,0.077,22,reviewed,us,us
 2024-02-24T09:17:19.870Z,33.498,-116.4346667,7.65,0.46,ml,32,76,0.02642,0.17,ci,ci40675512,2024-02-24T09:23:45.097Z,"22 km SSW of La Quinta, CA",earthquake,0.18,0.48,0.068,8,automatic,ci,ci
 2024-02-24T09:10:16.563Z,62.3216,-151.3325,64.2,1.8,ml,,,,0.92,ak,ak0242j3z61k,2024-02-24T09:12:54.221Z,"35 km SW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-02-24T09:09:11.595Z,-7.2718,127.158,271.87,4.6,mb,63,39,3.777,0.61,us,us7000m1aw,2024-02-24T09:32:00.040Z,"139 km N of Lospalos, Timor Leste",earthquake,8.73,7.725,0.075,55,reviewed,us,us
 2024-02-24T09:04:48.527Z,62.7981,-149.4185,62.7,1.6,ml,,,,0.44,ak,ak0242j3xy7o,2024-02-24T09:06:45.171Z,"52 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-24T09:02:23.790Z,38.8216667,-122.847168,1.68,0.71,md,6,227,0.009591,0.02,nc,nc74006956,2024-02-24T09:13:10.002Z,"9 km WNW of The Geysers, CA",earthquake,0.98,1.93,0.23,8,automatic,nc,nc
 2024-02-24T08:40:50.236Z,60.6055,-145.2173,17.6,1.6,ml,,,,0.85,ak,ak0242j3k8in,2024-02-24T08:42:44.786Z,"30 km ENE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -22,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-24T07:13:15.365Z,36.813,-116.1121,8.4,0.2,ml,13,107.08,0.053,0.3012,nn,nn00873843,2024-02-24T07:15:13.953Z,"47 km NW of Indian Springs, Nevada",earthquake,,1,0.31,8,automatic,nn,nn
 2024-02-24T07:12:57.410Z,32.8821667,-115.5333333,5.04,1.61,ml,39,69,0.03002,0.28,ci,ci40675488,2024-02-24T07:19:14.333Z,"5 km NE of Imperial, CA",earthquake,0.27,0.53,0.226,28,automatic,ci,ci
 2024-02-24T07:06:00.099Z,62.0035,-149.5058,20,1.1,ml,,,,0.32,ak,ak0242j2rep5,2024-02-24T07:08:29.503Z,"25 km SE of Susitna North, Alaska",earthquake,,5.5,,,automatic,ak,ak
-2024-02-24T07:05:34.020Z,38.8344994,-122.81633,1.79,1.24,md,25,47,0.01212,0.02,nc,nc74006886,2024-02-24T09:22:14.062Z,"8 km W of Cobb, CA",earthquake,0.18,0.41,0.15,25,automatic,nc,nc
+2024-02-24T07:05:34.020Z,38.8344994,-122.81633,1.79,1.24,md,25,47,0.01212,0.02,nc,nc74006886,2024-02-24T09:27:11.090Z,"8 km W of Cobb, CA",earthquake,0.18,0.41,0.15,25,automatic,nc,nc
 2024-02-24T07:02:09.860Z,37.355999,-122.1676636,5.64,1.06,md,9,117,0.01823,0.08,nc,nc74006881,2024-02-24T07:32:14.408Z,"4 km SW of Los Altos Hills, CA",earthquake,0.44,0.79,0.18,8,automatic,nc,nc
 2024-02-24T06:59:41.570Z,38.8236656,-122.7945023,2.74,1,md,12,102,0.01498,0.02,nc,nc74006876,2024-02-24T07:22:14.350Z,"6 km NNW of The Geysers, CA",earthquake,0.36,0.73,0.23,13,automatic,nc,nc
 2024-02-24T06:54:06.480Z,34.0953333,-117.3136667,14.64,0.78,ml,20,91,0.1138,0.15,ci,ci40675472,2024-02-24T07:00:20.416Z,"2 km N of Colton, CA",earthquake,0.29,0.55,0.196,15,automatic,ci,ci
@@ -224,9 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T09:57:34.500Z,35.7846667,-117.5988333,2.52,1.05,ml,33,65,0.1371,0.16,ci,ci40674904,2024-02-23T10:03:27.124Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.45,0.136,12,automatic,ci,ci
 2024-02-23T09:54:59.600Z,52.0768333333333,-176.136666666667,-1.8,0.56,ml,6,129,,0.28,av,av92212656,2024-02-23T22:08:41.090Z,"40 km ENE of Adak, Alaska",earthquake,0.83,1.22,0.18318279299622,6,reviewed,av,av
 2024-02-23T09:47:07.831Z,32.6306,-104.4196,5.416,4,mwr,54,53,0.233,0.59,us,us7000m11m,2024-02-24T07:24:02.106Z,"15 km S of Atoka, New Mexico",earthquake,2.15,3.408,0.045,48,reviewed,us,us
-2024-02-23T09:42:13.370Z,44.7693333333333,-114.410333333333,9.64,1.45,ml,13,84,0.4571,0.18,mb,mb90041423,2024-02-23T15:23:47.360Z,"32 km NNW of Challis, Idaho",earthquake,0.58,1.21,0.232443563479674,14,reviewed,mb,mb
-2024-02-23T09:38:59.070Z,-17.4444,-69.6535,168.316,4.7,mb,30,103,0.22,1.12,us,us7000m11k,2024-02-23T10:02:50.040Z,"40 km ENE of Estique, Peru",earthquake,9.27,5.921,0.104,33,reviewed,us,us
-2024-02-23T09:33:34.540Z,44.766,-114.413166666667,2.5,1.35,ml,12,83,0.4582,0.15,mb,mb90041418,2024-02-23T15:17:06.440Z,"32 km NNW of Challis, Idaho",earthquake,0.56,4.49,0.223600930622018,14,reviewed,mb,mb
-2024-02-23T09:28:53.480Z,35.447,-118.3083333,8.27,1.17,ml,33,56,0.1637,0.15,ci,ci40674888,2024-02-24T01:26:39.158Z,"23 km SE of Bodfish, CA",earthquake,0.18,0.71,0.156,10,reviewed,ci,ci
-2024-02-23T09:28:48.940Z,17.926,-67.0463333333333,3.92,2.15,md,3,251,0.04324,0.08,pr,pr71440948,2024-02-23T09:40:18.980Z,"5 km S of La Parguera, Puerto Rico",earthquake,1.52,1.76,0.13969437315221,3,reviewed,pr,pr
-2024-02-23T09:26:36.550Z,38.8326683,-122.8178329,2.42,0.27,md,7,138,0.01107,0.02,nc,nc74006436,2024-02-23T10:49:13.897Z,"8 km NW of The Geysers, CA",earthquake,1.23,4.11,0.17,9,automatic,nc,nc
