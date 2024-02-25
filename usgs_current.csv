@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-25T05:31:50.030Z,33.512,-116.757,4.3,0.69,ml,43,34,0.03622,0.18,ci,ci40676016,2024-02-25T05:37:40.375Z,"9 km WSW of Anza, CA",earthquake,0.16,0.27,0.102,19,automatic,ci,ci
 2024-02-25T05:27:40.850Z,33.5121667,-116.7601667,3.92,1.14,ml,62,24,0.03357,0.19,ci,ci40676008,2024-02-25T05:38:34.070Z,"9 km WSW of Anza, CA",earthquake,0.14,0.28,0.177,25,automatic,ci,ci
-2024-02-25T05:25:11.300Z,38.8364983,-122.8118362,1.93,0.77,md,18,57,0.01316,0.01,nc,nc74007496,2024-02-25T05:35:11.141Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.48,0.13,18,automatic,nc,nc
+2024-02-25T05:25:11.300Z,38.8364983,-122.8118362,1.93,0.77,md,18,57,0.01316,0.01,nc,nc74007496,2024-02-25T05:41:13.177Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.48,0.13,18,automatic,nc,nc
 2024-02-25T05:23:55.178Z,64.4803,-146.9005,9.7,1.4,ml,,,,0.61,ak,ak0242kp7nel,2024-02-25T05:25:40.839Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-25T05:12:57.970Z,19.1861667633057,-155.5068359375,36.060001373291,2.47,ml,53,77,0.05218,0.109999999,hv,hv74120781,2024-02-25T05:33:02.040Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.42,0.610000014,0.33,6,automatic,hv,hv
 2024-02-25T04:44:38.553Z,-22.8576,-67.1086,238.605,4.3,mb,24,58,0.991,0.37,us,us7000m1ft,2024-02-25T05:20:56.040Z,"112 km E of San Pedro de Atacama, Chile",earthquake,11.46,12.373,0.218,6,reviewed,us,us
@@ -10,8 +10,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-25T04:34:42.670Z,38.8318329,-122.8115005,1.55,0.22,md,9,59,0.008499,0.01,nc,nc74007481,2024-02-25T04:51:13.905Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.73,0.1,10,automatic,nc,nc
 2024-02-25T04:32:27.450Z,35.6663333,-117.5095,7.81,0.77,ml,24,96,0.06987,0.13,ci,ci40675992,2024-02-25T04:38:25.022Z,"15 km SW of Searles Valley, CA",earthquake,0.25,0.53,0.229,6,automatic,ci,ci
 2024-02-25T04:21:08.340Z,38.793335,-122.7474976,1.79,0.77,md,9,91,0.01314,0.01,nc,nc74007476,2024-02-25T04:35:13.817Z,"2 km NNE of The Geysers, CA",earthquake,0.43,1.98,0.17,9,automatic,nc,nc
-2024-02-25T04:20:49.193Z,18.8594,-68.8274,35,2.5,ml,14,169,0.545,0.47,us,us7000m1fr,2024-02-25T04:45:52.040Z,"24 km ENE of Santa Cruz de El Seibo, Dominican Republic",earthquake,3.55,2.007,0.071,26,reviewed,us,us
-2024-02-25T04:15:00.424Z,41.1648,78.4389,10,5.4,mww,120,34,1.335,0.62,us,us7000m1fq,2024-02-25T05:14:47.843Z,"135 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,6.48,1.829,0.098,10,reviewed,us,us
+2024-02-25T04:20:45.880Z,19.1686,-68.9763,49,3.9,md,11,164,0.2441,1.32,pr,pr2024056001,2024-02-25T05:57:03.206Z,"21 km NNE of Miches, Dominican Republic",earthquake,12.27,19.02,0.1,4,reviewed,pr,pr
+2024-02-25T04:15:00.424Z,41.1648,78.4389,10,5.4,mww,120,34,1.335,0.62,us,us7000m1fq,2024-02-25T05:53:44.169Z,"135 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,6.48,1.829,0.098,10,reviewed,us,us
 2024-02-25T04:03:58.400Z,38.8268318,-122.8050003,1.43,0.39,md,10,76,0.005242,0.01,nc,nc74007466,2024-02-25T04:21:13.749Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.88,0.19,11,automatic,nc,nc
 2024-02-25T04:01:21.972Z,38.1645,-117.8637,10.7,2,ml,23,105.74,0.101,0.3006,nn,nn00873881,2024-02-25T04:04:19.089Z,"32 km SE of Mina, Nevada",earthquake,,0.3,0.18,16,automatic,nn,nn
 2024-02-25T04:01:01.230Z,34.0078333,-116.957,17.79,2.12,ml,104,21,0.08728,0.17,ci,ci40675984,2024-02-25T04:11:52.450Z,"8 km ESE of Yucaipa, CA",earthquake,0.12,0.25,0.173,24,automatic,ci,ci
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-24T06:22:20.104Z,39.3966,-119.7668,6.4,0.5,ml,8,114.14,0.007,0.1247,nn,nn00873862,2024-02-24T16:32:52.553Z,"13 km NW of Virginia City, Nevada",earthquake,,1.1,0.01,2,reviewed,nn,nn
 2024-02-24T06:16:22.565Z,31.476,-103.91,5.4824,2.6,ml,15,125,0.1,0.3,tx,tx2024dvdo,2024-02-24T06:25:31.512Z,"21 km NNW of Toyah, Texas",earthquake,0,2.89110103502146,0.2,13,automatic,tx,tx
 2024-02-24T06:13:13.970Z,38.7545,-118.8211,13.9,1.3,ml,7,129.32,0.561,0.1232,nn,nn00873861,2024-02-24T16:26:38.154Z,"13 km NNW of Walker Lake, Nevada",earthquake,,2.9,0.08,4,reviewed,nn,nn
-2024-02-24T05:58:51.320Z,38.8088341,-122.8218307,2.2,0.79,md,13,67,0.00574,0.02,nc,nc74006866,2024-02-24T07:38:10.901Z,"7 km WNW of The Geysers, CA",earthquake,0.33,0.64,0.1,13,automatic,nc,nc
