@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T07:14:39.283Z,-9.6582,125.1079,31.059,4.7,mb,30,71,0.834,1.17,us,us6000mfki,2024-02-28T07:44:33.040Z,"41 km SSW of Suai, Timor Leste",earthquake,8.01,6.319,0.127,19,reviewed,us,us
 2024-02-28T07:13:52.160Z,38.8308334,-122.8160019,1.86,0.68,md,10,57,0.008753,0.01,nc,nc74009181,2024-02-28T07:15:29.133Z,"8 km NW of The Geysers, CA",earthquake,0.34,1.3,0.47,10,automatic,nc,nc
 2024-02-28T07:12:13.580Z,38.8288345,-122.8151703,1.92,1.49,md,25,44,0.006734,0.02,nc,nc74009176,2024-02-28T07:13:49.122Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.4,0.12,26,automatic,nc,nc
-2024-02-28T07:05:15.486Z,6.3617,-75.6302,10,4.6,mb,24,78,0.197,1.25,us,us6000mfkh,2024-02-28T08:30:22.512Z,"8 km WNW of Bello, Colombia",earthquake,5.08,1.944,0.207,7,reviewed,us,us
+2024-02-28T07:05:15.486Z,6.3617,-75.6302,10,4.6,mb,24,78,0.197,1.25,us,us6000mfkh,2024-02-28T09:11:53.584Z,"8 km WNW of Bello, Colombia",earthquake,5.08,1.944,0.207,7,reviewed,us,us
 2024-02-28T06:49:00.374Z,59.9534,-152.0226,55.9,2.7,ml,,,,0.49,ak,ak0242pokkvp,2024-02-28T07:14:49.040Z,"16 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-28T06:48:32.400Z,35.8896667,-117.7045,8.61,0.81,ml,27,61,0.07285,0.13,ci,ci40677872,2024-02-28T06:54:17.830Z,"19 km ESE of Little Lake, CA",earthquake,0.19,0.45,0.161,9,automatic,ci,ci
 2024-02-28T06:45:53.950Z,38.8334999,-122.7904968,1.79,1.06,md,14,57,0.004903,0.01,nc,nc74009166,2024-02-28T06:47:28.757Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.48,0.21,15,automatic,nc,nc
@@ -211,7 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T10:45:24.670Z,55.0521666666667,-162.250666666667,1.18,0.8,ml,6,142,,0.12,av,av91134273,2024-02-28T02:51:08.980Z,"4 km ESE of King Cove, Alaska",earthquake,0.33,1.22,0.111642673755978,5,reviewed,av,av
 2024-02-27T10:41:38.606Z,60.6691,-151.6447,78.2,2,ml,,,,0.24,ak,ak0242o3dc10,2024-02-27T10:43:25.206Z,"18 km WNW of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-27T10:40:13.450Z,34.1501667,-117.4063333,8.75,1.26,ml,63,41,0.05719,0.18,ci,ci40677096,2024-02-27T18:38:30.130Z,"6 km W of Muscoy, CA",earthquake,0.15,0.39,0.13,38,reviewed,ci,ci
-2024-02-27T10:28:39.196Z,61.6902,-146.9971,19.7,2.5,ml,,,,0.72,ak,ak0242o3ajq4,2024-02-27T10:30:18.737Z,"29 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-02-27T10:28:39.196Z,61.6902,-146.9971,19.7,2.5,ml,,,,0.72,ak,ak0242o3ajq4,2024-02-28T09:27:51.040Z,"29 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-27T10:25:34.240Z,38.8440018,-122.8151703,0.79,0.62,md,8,83,0.01241,0.02,nc,nc74008781,2024-02-27T10:27:10.959Z,"8 km WNW of Cobb, CA",earthquake,0.57,2.26,0.41,8,automatic,nc,nc
 2024-02-27T10:25:33.030Z,57.0461666666667,-135.65,6.83,0.37,ml,4,171,,0.06,av,av91134253,2024-02-28T05:36:46.550Z,"19 km W of Sitka, Alaska",earthquake,0.92,1.03,0.33924900680149,4,reviewed,av,av
 2024-02-27T10:12:34.340Z,38.7916679,-122.7773361,0.55,0.92,md,12,92,0.008406,0.08,nc,nc74008771,2024-02-27T10:14:10.880Z,"2 km NW of The Geysers, CA",earthquake,0.4,0.59,0.18,13,automatic,nc,nc
@@ -224,12 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T09:38:05.050Z,38.8393326,-122.8355026,0.98,1.11,md,11,119,0.0007426,0.03,nc,nc74008746,2024-02-27T09:39:41.548Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.67,0.48,11,automatic,nc,nc
 2024-02-27T09:33:20.190Z,34.178,-116.9466667,7.78,1.15,ml,55,50,0.08471,0.13,ci,ci40677080,2024-02-27T17:31:43.050Z,"8 km SSW of Big Bear Lake, CA",earthquake,0.14,0.31,0.137,26,reviewed,ci,ci
 2024-02-27T09:30:15.090Z,33.6513333,-116.7155,15.36,0.49,ml,24,76,0.03895,0.07,ci,ci40677072,2024-02-27T17:21:10.949Z,"10 km S of Idyllwild, CA",earthquake,0.18,0.27,0.098,7,reviewed,ci,ci
-2024-02-27T09:26:21.430Z,38.8151665,-122.8216629,2.7,0.97,md,12,104,0.008604,0.02,nc,nc74008741,2024-02-27T09:27:56.382Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.89,0.14,13,automatic,nc,nc
-2024-02-27T09:26:13.660Z,35.6686667,-117.5583333,7.01,1.04,ml,25,73,0.08656,0.11,ci,ci40677064,2024-02-27T17:11:32.190Z,"12 km ENE of Ridgecrest, CA",earthquake,0.18,0.4,0.115,10,reviewed,ci,ci
-2024-02-27T09:25:50.060Z,38.8161659,-122.8235016,2.44,1.02,md,8,106,0.008531,0.01,nc,nc74008736,2024-02-27T09:27:26.379Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.35,0.23,11,automatic,nc,nc
-2024-02-27T09:22:39.130Z,31.679,-104.396,6.1511,1.8,ml,27,88,0,0.2,tx,tx2024eawg,2024-02-27T11:27:50.414Z,"55 km S of Whites City, New Mexico",earthquake,0.9189844208249922,0.8539948051936503,0.1,19,reviewed,tx,tx
-2024-02-27T09:16:59.580Z,38.8143349,-122.8213348,2.77,2.16,md,44,41,0.008207,0.05,nc,nc74008726,2024-02-27T09:20:07.502Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.28,0.12,44,automatic,nc,nc
-2024-02-27T09:13:51.800Z,38.8180008,-122.8238297,2.27,0.93,md,10,86,0.01003,0.02,nc,nc74008721,2024-02-27T09:15:26.237Z,"7 km NW of The Geysers, CA",earthquake,0.46,1.07,0.23,10,automatic,nc,nc
-2024-02-27T09:10:08.870Z,38.4888333333333,-112.882166666667,1.83,0.72,md,11,84,0.008194,0.12,uu,uu80049941,2024-02-27T14:47:20.280Z,"15 km NE of Milford, Utah",earthquake,0.41,0.6,0.574956369528751,3,reviewed,uu,uu
-2024-02-27T09:09:19.310Z,38.7994995,-122.7480011,0.66,0.71,md,7,101,0.00922,0.02,nc,nc74008711,2024-02-27T09:10:56.153Z,"3 km NNE of The Geysers, CA",earthquake,0.35,0.68,0.05,7,automatic,nc,nc
-2024-02-27T09:02:28.010Z,19.3568325042725,-155.292831420898,0.519999980926514,1.84000003,md,14,64,0.02246,0.0900000036,hv,hv74122581,2024-02-27T09:04:01.130Z,"11 km SSW of Volcano, Hawaii",earthquake,0.24,0.460000008,0.349999994,7,automatic,hv,hv
