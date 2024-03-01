@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-01T22:06:29.690Z,33.9301682,-117.4445038,2.87,1.1,ml,19,69,0.05697,0.25,ci,ci40679832,2024-03-01T22:08:32.128Z,"5 km WSW of Riverside, CA",earthquake,0.46,0.61,0.275,16,automatic,ci,ci
+2024-03-01T21:59:04.030Z,36.0149994,-120.5719986,3.46,1.21,md,10,119,0.02923,0.03,nc,nc74010441,2024-03-01T22:00:38.028Z,"18 km NW of Parkfield, CA",earthquake,0.35,0.6,0.12,6,automatic,nc,nc
+2024-03-01T21:55:48.999Z,60.6217,-147.6628,18.6,2,ml,,,,0.6,ak,ak0242t8m5zn,2024-03-01T21:57:53.867Z,"58 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-03-01T21:53:19.907Z,64.4972,-146.9056,3.3,1.6,ml,,,,0.59,ak,ak0242t8lo40,2024-03-01T21:55:39.937Z,"2 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-03-01T21:49:40.330Z,38.8126678,-122.7971649,1.69,0.75,md,12,63,0.004913,0.01,nc,nc74010431,2024-03-01T21:51:12.891Z,"5 km NW of The Geysers, CA",earthquake,0.31,0.75,0.25,12,automatic,nc,nc
 2024-03-01T21:35:29.470Z,33.5203333,-116.5165,13.18,0.9,ml,25,52,0.039,0.11,ci,ci40679792,2024-03-01T21:41:44.089Z,"15 km ESE of Anza, CA",earthquake,0.21,0.33,0.172,22,automatic,ci,ci
 2024-03-01T21:18:41.010Z,38.838665,-122.8431702,4.06,0.85,md,13,150,0.006001,0.05,nc,nc74010421,2024-03-01T21:20:13.514Z,"10 km NW of The Geysers, CA",earthquake,0.45,0.94,0.26,15,automatic,nc,nc
 2024-03-01T21:06:02.710Z,33.5896667,-116.8138333,4.34,0.37,ml,17,101,0.04921,0.21,ci,ci40679784,2024-03-01T21:12:11.803Z,"14 km WNW of Anza, CA",earthquake,0.38,0.76,0.073,6,automatic,ci,ci
@@ -13,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T19:43:03.633Z,51.8559,178.2753,125.472,4.2,mb,23,192,0.209,0.61,us,us6000mg6f,2024-03-01T20:29:11.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.51,5.552,0.159,11,reviewed,us,us
 2024-03-01T19:39:35.499Z,59.6026,-151.9315,43.2,2.2,ml,,,,0.45,ak,ak0242t7bump,2024-03-01T19:47:49.107Z,"20 km SSW of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-03-01T19:37:16.520Z,37.8811667,-118.4633333,9.1,1.73,md,18,105,0.1487,0.05,nc,nc74010386,2024-03-01T20:48:06.221Z,"40 km NNE of Toms Place, CA",earthquake,0.28,1.21,0.11,16,reviewed,nc,nc
-2024-03-01T19:36:23.904Z,60.0915,-153.0438,120.8,1.3,ml,,,,0.4,ak,ak0242t7b68m,2024-03-01T19:41:39.588Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-03-01T19:36:23.904Z,60.0915,-153.0438,120.8,1.3,ml,,,,0.4,ak,ak0242t7b68m,2024-03-01T21:49:27.040Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-01T19:28:25.860Z,38.4998333333333,-112.8955,2.08,1.76,ml,13,89,0.007166,0.11,uu,uu80056611,2024-03-01T19:45:00.780Z,"15 km NE of Milford, Utah",earthquake,0.34,0.45,0.243697203071634,4,reviewed,uu,uu
 2024-03-01T19:15:36.820Z,36.01966667,-96.52066667,0,1.48,ml,56,100,0.1781650379,0.46,ok,ok2024ehch,2024-03-01T19:46:50.103Z,"8 km ENE of Drumright, Oklahoma",quarry blast,,0.5,0.19,23,reviewed,ok,ok
 2024-03-01T19:14:45.270Z,31.61,-104.095,6.8983,1.6,ml,17,83,0,0.5,tx,tx2024ehch,2024-03-01T19:28:15.331Z,"43 km NW of Toyah, Texas",earthquake,0,2.54444872658197,0.3,13,automatic,tx,tx
@@ -79,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T13:04:02.580Z,17.9775,-66.9533,12,3.21,md,13,163,0.0741,0.17,pr,pr2024061001,2024-03-01T15:48:04.040Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.57,0.59,0.14,8,reviewed,pr,pr
 2024-03-01T13:02:47.083Z,31.673,-104.394,6.8176,1.9,ml,17,69,0,0.2,tx,tx2024egqa,2024-03-01T13:43:09.916Z,"55 km S of Whites City, New Mexico",earthquake,0.7230772282070178,0.6918667977398169,0.2,13,reviewed,tx,tx
 2024-03-01T13:01:51.916Z,31.663,-104.403,6.9202,2.1,ml,21,71,0,0.2,tx,tx2024egpz,2024-03-01T13:13:39.738Z,"56 km S of Whites City, New Mexico",earthquake,1.1514356179255292,0.9027233888017175,0.2,14,reviewed,tx,tx
+2024-03-01T12:59:03.980Z,38.4916666666667,-112.8985,2.17,0.36,md,13,93,0.008745,0.09,uu,uu80056191,2024-03-01T21:54:22.260Z,"14 km NE of Milford, Utah",earthquake,0.28,0.42,0.568552342345837,3,reviewed,uu,uu
 2024-03-01T12:43:12.370Z,44.789,-110.957,7.06,1.17,ml,9,158,0.04589,0.16,uu,uu80056176,2024-03-01T17:42:14.720Z,"18 km NE of West Yellowstone, Montana",earthquake,0.55,0.69,0.301717458026056,2,reviewed,uu,uu
 2024-03-01T12:42:46.840Z,44.3745,-116.118833333333,4.88,2.32,ml,9,89,0.3579,0.22,mb,mb90042318,2024-03-01T15:27:06.420Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.58,3,0.287674837857037,9,reviewed,mb,mb
 2024-03-01T12:39:46.060Z,19.1981658935547,-155.519500732422,35.2000007629395,2.25,ml,28,67,0.06893,0.180000007,hv,hv74125486,2024-03-01T13:44:55.388Z,"4 km W of Pāhala, Hawaii",earthquake,0.55,0.920000017,0.15,8,automatic,hv,hv
@@ -151,6 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T06:09:55.670Z,33.521,-116.5145,12.6,0.43,ml,11,119,0.03893,0.1,ci,ci37628924,2024-03-01T20:50:54.752Z,"15 km ESE of Anza, CA",earthquake,0.4,0.68,0.114,3,reviewed,ci,ci
 2024-03-01T06:09:54.650Z,33.5271667,-116.5158333,12.69,0.41,ml,20,107,0.0328,0.09,ci,ci40679408,2024-03-01T20:46:08.992Z,"15 km ESE of Anza, CA",earthquake,0.28,0.37,0.06,10,reviewed,ci,ci
 2024-03-01T06:08:38.290Z,19.1800003051758,-155.495834350586,33.1699981689453,2.08999991,md,38,140,0.04018,0.109999999,hv,hv74125376,2024-03-01T06:10:21.310Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,0.560000002,0.370000005,8,automatic,hv,hv
+2024-03-01T06:06:33.630Z,38.4926666666667,-112.8965,2.15,0.94,md,12,81,0.008704,0.09,uu,uu80055861,2024-03-01T21:49:32.770Z,"14 km NE of Milford, Utah",earthquake,0.3,0.44,0.407153751365776,4,reviewed,uu,uu
 2024-03-01T06:04:22.546Z,31.676,-104.4,6.8689,1.6,ml,15,69,0,0.2,tx,tx2024egcg,2024-03-01T13:39:33.892Z,"55 km S of Whites City, New Mexico",earthquake,0.729631925195748,0.6954808277873792,0.2,13,reviewed,tx,tx
 2024-03-01T05:58:33.655Z,62.0737,-160.3157,4,2.9,ml,,,,0.74,ak,ak0242sz3u9x,2024-03-01T06:01:53.931Z,"31 km WSW of Holy Cross, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-01T05:58:18.410Z,37.8911667,-121.6198333,2.2,2.88,ml,92,75,0.0752,0.18,nc,nc74010156,2024-03-01T21:38:45.436Z,"3 km SW of Discovery Bay, CA",earthquake,0.13,0.2,0.183,90,reviewed,nc,nc
@@ -166,6 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T05:15:22.306Z,31.668,-104.188,6.0999,3.3,ml,23,69,0.1,0.1,tx,tx2024egaq,2024-03-01T05:33:42.297Z,"54 km NW of Toyah, Texas",earthquake,0.5030594456524317,1.1348423144897788,0.4,18,reviewed,tx,tx
 2024-03-01T05:07:37.490Z,38.8436667,-122.8155,2.38,0.46,md,11,86,0.01257,0.02,nc,nc74010136,2024-03-01T17:50:47.398Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.57,0.173,11,reviewed,nc,nc
 2024-03-01T04:56:25.118Z,37.2255,-116.0555,5.4,0.7,ml,10,210.61,0.036,0.103,nn,nn00874097,2024-03-01T18:59:30.014Z,"54 km SSW of Rachel, Nevada",earthquake,,1.3,0.11,8,reviewed,nn,nn
+2024-03-01T04:44:35.350Z,38.4925,-112.889,2.76,0.34,md,10,87,0.00777,0.13,uu,uu80055771,2024-03-01T22:08:12.280Z,"15 km NE of Milford, Utah",earthquake,0.4,0.68,0.585816678606617,3,reviewed,uu,uu
 2024-03-01T04:21:35.470Z,35.4151667,-117.7916667,8.39,1.59,ml,37,37,0.1101,0.13,ci,ci40679384,2024-03-01T17:09:34.720Z,"15 km WNW of Johannesburg, CA",earthquake,0.15,0.55,0.137,26,reviewed,ci,ci
 2024-03-01T04:14:05.450Z,44.3773333333333,-116.128166666667,5.92,2.26,ml,9,90,0.3571,0.11,mb,mb90042328,2024-03-01T15:38:50.250Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.32,4.49,0.133875766603548,9,reviewed,mb,mb
 2024-03-01T04:04:42.500Z,17.9221666666667,-66.2846666666667,13.74,2.42,md,8,217,0.1164,0.14,pr,pr71441568,2024-03-01T04:15:45.030Z,"6 km SSE of Salinas, Puerto Rico",earthquake,0.78,0.5,0.137323889264952,5,reviewed,pr,pr
@@ -179,6 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T03:05:27.690Z,38.4923333333333,-112.895833333333,2.66,-0.04,md,9,97,0.008172,0.06,uu,uu80055671,2024-03-01T21:36:56.920Z,"14 km NE of Milford, Utah",earthquake,0.27,0.49,0.642481188195334,3,reviewed,uu,uu
 2024-03-01T03:02:31.880Z,38.4931666666667,-112.885333333333,2.2,0.8,md,14,72,0.008462,0.14,uu,uu80055661,2024-03-01T19:11:47.110Z,"15 km NE of Milford, Utah",earthquake,0.35,0.51,0.353264765845378,4,reviewed,uu,uu
 2024-03-01T03:00:50.860Z,38.8484993,-122.8161697,1.49,0.41,md,11,93,0.008323,0.02,nc,nc74010116,2024-03-01T03:02:25.328Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.73,0.3,13,automatic,nc,nc
+2024-03-01T02:54:21.330Z,38.494,-112.8905,2.52,0.1,md,11,76,0.008151,0.1,uu,uu80055641,2024-03-01T22:00:10.870Z,"15 km NE of Milford, Utah",earthquake,0.36,0.55,0.529068711694703,3,reviewed,uu,uu
 2024-03-01T02:46:51.670Z,38.7916679,-122.7686691,0.71,0.78,md,9,135,0.01136,0.04,nc,nc74010111,2024-03-01T02:48:25.125Z,"2 km NNW of The Geysers, CA",earthquake,0.49,0.85,0.11,9,automatic,nc,nc
 2024-03-01T02:42:48.270Z,38.4911666666667,-112.887166666667,3.88,0.4,md,9,76,0.007033,0.04,uu,uu80055611,2024-03-01T03:04:19.640Z,"15 km NE of Milford, Utah",earthquake,0.8,1.14,0.37486128243593,2,reviewed,uu,uu
 2024-03-01T02:42:30.180Z,38.4926666666667,-112.897,1.98,0.72,md,16,83,0.008893,0.13,uu,uu80055606,2024-03-01T19:19:32.880Z,"14 km NE of Milford, Utah",earthquake,0.35,0.49,0.132073447358031,4,reviewed,uu,uu
@@ -198,6 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T01:48:38.601Z,60.4293,-152.0197,96.2,1.7,ml,,,,0.18,ak,ak0242swny04,2024-03-01T06:09:12.459Z,"39 km W of Cohoe, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-03-01T01:30:18.282Z,62.1573,-148.3704,20.1,1.8,ml,,,,1.05,ak,ak0242swk2mc,2024-03-01T01:32:15.496Z,"40 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-01T01:23:55.500Z,33.038,-115.5961667,10.86,0.97,ml,15,149,0.01198,0.24,ci,ci40679360,2024-03-01T17:04:56.630Z,"2 km E of Westmorland, CA",earthquake,0.64,0.61,0.102,12,reviewed,ci,ci
+2024-03-01T01:20:54.030Z,38.492,-112.8955,2.08,-0.69,md,7,159,0.00776,0.05,uu,uu80055486,2024-03-01T21:51:25.230Z,"14 km NE of Milford, Utah",earthquake,0.41,0.73,0.123204198951674,2,reviewed,uu,uu
 2024-03-01T01:19:39.860Z,38.494,-112.901333333333,2.29,0.22,md,12,92,0.01196,0.07,uu,uu80055481,2024-03-01T21:05:10.380Z,"14 km NE of Milford, Utah",earthquake,0.27,0.38,0.308677524765159,3,reviewed,uu,uu
 2024-03-01T01:16:20.590Z,38.8271675,-122.7988358,1.96,1.1,md,19,46,0.009552,0.04,nc,nc74010066,2024-03-01T01:17:54.351Z,"7 km W of Cobb, CA",earthquake,0.26,0.54,0.14,22,automatic,nc,nc
 2024-03-01T01:15:23.530Z,38.8253326,-122.8088303,2,1.09,md,21,50,0.002165,0.01,nc,nc74010056,2024-03-01T01:16:59.340Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.46,0.13,23,automatic,nc,nc
@@ -231,6 +241,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T23:05:09.060Z,38.4933333333333,-112.892,2.33,0.95,md,12,74,0.008394,0.13,uu,uu80055216,2024-02-29T23:47:33.140Z,"14 km NE of Milford, Utah",earthquake,0.46,0.7,0.225282851239794,4,reviewed,uu,uu
 2024-02-29T23:03:50.770Z,37.5916667,-118.7805,5.52,0.92,md,9,199,0.03865,0.02,nc,nc74009986,2024-03-01T19:42:59.807Z,"10 km WNW of Toms Place, CA",earthquake,0.48,0.73,0.065,8,reviewed,nc,nc
 2024-02-29T22:51:12.306Z,60.4781,-143.8271,0,2.4,ml,,,,0.7,ak,ak0242rlnbdv,2024-02-29T23:09:53.682Z,"106 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-02-29T22:49:24.250Z,38.4918333333333,-112.886333333333,2.13,-1.02,md,6,148,0.007931,0.05,uu,uu80055186,2024-03-01T22:01:59.120Z,"15 km NE of Milford, Utah",earthquake,0.49,0.71,0.193699901090761,2,reviewed,uu,uu
 2024-02-29T22:35:46.323Z,62.9772,-151.2881,16.9,2.1,ml,,,,0.78,ak,ak0242rljyko,2024-02-29T22:38:10.248Z,"59 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-29T22:24:40.154Z,65.4097,-153.3918,1.1,1.8,ml,,,,0.44,ak,ak0242rlhlbq,2024-02-29T22:27:57.892Z,"66 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-29T22:23:41.985Z,38.7944,-117.9477,9.5,2.1,ml,9,67.82,0.187,0.1564,nn,nn00874077,2024-02-29T23:52:41.179Z,"8 km SSW of Gabbs, Nevada",earthquake,,4.4,0.41,5,reviewed,nn,nn
@@ -240,6 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T22:17:57.970Z,38.4931666666667,-112.895666666667,2.37,0.82,md,13,75,0.00888,0.08,uu,uu80055171,2024-02-29T23:06:25.460Z,"14 km NE of Milford, Utah",earthquake,0.29,0.43,0.240258597607091,4,reviewed,uu,uu
 2024-02-29T22:11:19.783Z,63.2417,-152.7592,2.4,2.1,ml,,,,0.69,ak,ak0242rlerca,2024-02-29T22:13:15.107Z,"61 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-29T22:09:48.014Z,54.3352,-165.4756,96.8,2.2,ml,,,,0.49,ak,ak0242rleekf,2024-02-29T22:23:28.008Z,"29 km NE of Akutan, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2024-02-29T22:04:31.150Z,38.4915,-112.8985,2.21,0.03,md,9,180,0.008618,0.05,uu,uu80055161,2024-02-29T23:13:10.020Z,"14 km NE of Milford, Utah",earthquake,0.5,0.58,0.305473013442691,3,reviewed,uu,uu
-2024-02-29T21:57:08.670Z,35.325,-118.1706667,8.38,1.79,ml,37,30,0.1553,0.12,ci,ci40679168,2024-03-01T00:58:40.370Z,"28 km NW of California City, CA",earthquake,0.13,0.51,0.216,25,reviewed,ci,ci
-2024-02-29T21:53:30.400Z,33.6948333,-116.8315,16.77,0.33,ml,10,163,0.06608,0.17,ci,ci40679160,2024-03-01T00:49:11.255Z,"8 km SE of Valle Vista, CA",earthquake,0.75,0.86,0.066,5,reviewed,ci,ci
