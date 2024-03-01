@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-01T09:50:39.927Z,63.3442,-145.0769,0,2,ml,,,,0.71,ak,ak0242t1fvg8,2024-03-01T09:52:32.766Z,"39 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-01T09:49:04.650Z,38.8136673,-122.8218307,2.85,1.5,md,17,66,0.007478,0.02,nc,nc74010236,2024-03-01T09:50:41.080Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.52,0.2,19,automatic,nc,nc
+2024-03-01T09:42:10.500Z,33.6416667,-116.6535,17.91,0.61,ml,7,299,0.06467,0.18,ci,ci40679480,2024-03-01T09:48:29.921Z,"10 km N of Anza, CA",earthquake,2.65,1.08,0.465,7,automatic,ci,ci
+2024-03-01T09:29:02.013Z,8.8205,126.704,35,5.3,mww,86,42,2.066,0.98,us,us6000mg1k,2024-03-01T09:51:57.342Z,"43 km E of Aras-asan, Philippines",earthquake,8.67,1.875,0.098,10,reviewed,us,us
 2024-03-01T09:20:44.803Z,35.54914093,-96.74305725,3.452428341,1.94,ml,30,49.09936142,0.01369673479,0.3912308633,ok,ok2024egir,2024-03-01T09:24:47.740Z,"8 km NW of Prague, Oklahoma",earthquake,1.992115472,1.858235026,0.29,14,automatic,ok,ok
 2024-03-01T09:10:17.560Z,38.8344994,-122.8033371,1.68,1.1,md,12,93,0.0209,0.03,nc,nc74010231,2024-03-01T09:11:51.719Z,"7 km W of Cobb, CA",earthquake,0.34,0.9,0.1,12,automatic,nc,nc
 2024-03-01T09:03:19.900Z,38.7976685,-122.8034973,5.29,0.59,md,7,123,0.009335,0.04,nc,nc74010226,2024-03-01T09:04:55.605Z,"5 km WNW of The Geysers, CA",earthquake,1.1,2.96,0.33,8,automatic,nc,nc
@@ -28,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T06:47:14.880Z,33.6333333,-116.671,16.37,1.03,ml,53,31,0.03555,0.15,ci,ci40679416,2024-03-01T06:58:05.200Z,"9 km N of Anza, CA",earthquake,0.15,0.26,0.148,28,automatic,ci,ci
 2024-03-01T06:46:58.513Z,32.889,-100.903,5.1758,2.6,ml,11,48,0,0.1,tx,tx2024egdq,2024-03-01T09:04:15.175Z,"19 km N of Snyder, Texas",earthquake,0.831886335323613,0.6725967038298647,0.1,18,reviewed,tx,tx
 2024-03-01T06:35:08.550Z,38.7905006,-122.7360001,0.74,0.82,md,8,103,0.02111,0.03,nc,nc74010171,2024-03-01T06:36:41.097Z,"2 km NE of The Geysers, CA",earthquake,0.31,0.78,0.1,9,automatic,nc,nc
+2024-03-01T06:26:06.059Z,32.888,-100.906,4.8584,2.1,ml,25,43,0,0.2,tx,tx2024egcx,2024-03-01T09:56:09.451Z,"18 km N of Snyder, Texas",earthquake,0.603190466972581,0.6469563264722291,0.1,18,reviewed,tx,tx
 2024-03-01T06:23:37.551Z,65.1208,-148.6891,20.8,1.2,ml,,,,0.38,ak,ak0242szhs4b,2024-03-01T06:25:14.702Z,"31 km E of Minto, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-03-01T06:08:38.290Z,19.1800003051758,-155.495834350586,33.1699981689453,2.08999991,md,38,140,0.04018,0.109999999,hv,hv74125376,2024-03-01T06:10:21.310Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,0.560000002,0.370000005,8,automatic,hv,hv
 2024-03-01T06:04:22.518Z,31.669,-104.396,4.7786,1.5,ml,17,70,0,0.2,tx,tx2024egcg,2024-03-01T06:44:35.745Z,"56 km S of Whites City, New Mexico",earthquake,0,1.39674471049129,0.2,13,automatic,tx,tx
@@ -237,10 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T10:06:29.560Z,35.5311666666667,-84.2041666666667,12.83,1.63,md,9,73,0.1394,0.08,se,se60501698,2024-02-29T15:23:45.520Z,"7 km SSE of Vonore, Tennessee",earthquake,0.33,0.81,0.0891413941587462,7,reviewed,se,se
 2024-02-29T10:05:56.210Z,35.694,-117.5546667,2.25,0.8,ml,24,108,0.09813,0.16,ci,ci40678728,2024-02-29T18:46:43.077Z,"14 km NE of Ridgecrest, CA",earthquake,0.23,0.42,0.175,6,reviewed,ci,ci
 2024-02-29T10:02:51.630Z,33.3786667,-116.8685,5.77,0.37,ml,30,64,0.02546,0.18,ci,ci40678720,2024-02-29T14:37:30.767Z,"3 km N of Palomar Observatory, CA",earthquake,0.24,0.5,0.1,7,reviewed,ci,ci
-2024-02-29T09:55:55.951Z,60.5936,-152.1082,82.1,1.6,ml,,,,0.49,ak,ak0242rdxmjj,2024-02-29T15:54:51.767Z,"43 km W of Salamatof, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2024-02-29T09:54:54.970Z,52.6591,-170.9457,0.8,2.6,ml,,,,0.82,ak,ak0242rdxixp,2024-02-29T10:08:44.631Z,"143 km WSW of Nikolski, Alaska",earthquake,,1,,,reviewed,ak,ak
-2024-02-29T09:52:52.440Z,19.2598333333333,-155.396333333333,30.53,2.74,md,57,99,0.02224,0.12,hv,hv74124686,2024-02-29T19:28:39.873Z,"10 km NE of Pāhala, Hawaii",earthquake,0.38,0.41,0.109107706947194,15,reviewed,hv,hv
-2024-02-29T09:45:47.430Z,39.5435,-89.2333333333333,5.38,2.03,md,10,68,0.2428,0.05,nm,nm60501693,2024-03-01T04:27:43.034Z,"5 km E of Taylorville, Illinois",earthquake,0.48,1.04,0.0990720028387537,7,reviewed,nm,nm
-2024-02-29T09:45:16.310Z,35.5276666666667,-85.138,13.52,2.53,md,15,88,0.05241,0.12,se,se60571421,2024-03-01T05:10:54.703Z,"9 km SSE of Pikeville, Tennessee",earthquake,0.41,0.39,0.0619386136380538,12,reviewed,se,se
-2024-02-29T09:43:03.626Z,38.4632,-116.1771,1.3,1.6,ml,9,210.03,0.737,0.086,nn,nn00874074,2024-02-29T23:24:36.623Z,"98 km NNW of Rachel, Nevada",earthquake,,3,0.24,5,reviewed,nn,nn
-2024-02-29T09:40:58.010Z,38.4885,-112.897333333333,2.53,1.26,md,22,54,0.005882,0.14,uu,uu80054156,2024-02-29T23:15:58.860Z,"14 km NE of Milford, Utah",earthquake,0.27,0.43,0.28078040813142,14,reviewed,uu,uu
