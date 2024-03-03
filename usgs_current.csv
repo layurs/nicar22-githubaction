@@ -1,11 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-03T05:17:48.956Z,38.1114,-118.0031,4.3,1.9,ml,15,111.57,0.089,0.185,nn,nn00874119,2024-03-03T05:20:41.779Z,"32 km SSE of Mina, Nevada",earthquake,,0.5,0.41,7,automatic,nn,nn
+2024-03-03T05:15:40.654Z,60.2865,-140.6035,12.6,1.8,ml,,,,1.3,ak,ak0242w9xc0h,2024-03-03T05:18:26.575Z,"95 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-03-03T05:08:11.766Z,63.2325,-151.0139,0,1.8,ml,,,,0.95,ak,ak0242w9vrrs,2024-03-03T05:10:29.375Z,"49 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-03-03T05:05:42.210Z,19.155834197998,-155.368835449219,30.1200008392334,2.1500001,md,41,188,0.08818,0.109999999,hv,hv74127206,2024-03-03T05:07:26.890Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.63,0.829999983,0.219999999,4,automatic,hv,hv
+2024-03-03T04:51:10.330Z,18.1308,-68.0831,101,3.58,md,10,200,0.4855,0.29,pr,pr2024063000,2024-03-03T05:19:55.578Z,"60 km SE of Punta Cana, Dominican Republic",earthquake,3.31,1.62,0.09,5,reviewed,pr,pr
+2024-03-03T04:34:43.747Z,-4.7634,139.5475,34.593,4.9,mb,19,125,2.514,0.86,us,us6000mgel,2024-03-03T05:01:37.040Z,"178 km ENE of Agats, Indonesia",earthquake,10.92,6.646,0.15,14,reviewed,us,us
 2024-03-03T04:27:19.981Z,63.4758,-148.4393,0,1.6,ml,,,,0.66,ak,ak0242w9efem,2024-03-03T04:29:32.088Z,"27 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-03T04:20:09.100Z,17.9416666666667,-66.842,15.14,2.53,md,7,214,0.04858,0.07,pr,pr71441793,2024-03-03T04:27:01.970Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.67,0.54,0.0141033997379059,5,reviewed,pr,pr
 2024-03-03T04:18:33.649Z,63.2408,-149.4207,73.9,1.7,ml,,,,0.81,ak,ak0242w9cj0k,2024-03-03T04:21:54.064Z,"28 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-03-03T04:15:58.730Z,17.9343333333333,-66.8375,14.64,2.27,md,10,218,0.05675,0.22,pr,pr71441803,2024-03-03T04:36:18.250Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.81,1.19,0.231728796156894,5,reviewed,pr,pr
 2024-03-03T04:14:11.310Z,19.3080005645752,-155.344329833984,1.5,2.01,ml,35,109,0.03671,0.25999999,hv,hv74127161,2024-03-03T04:16:50.720Z,"18 km NE of Pāhala, Hawaii",earthquake,0.36,0.519999981,0.33,6,automatic,hv,hv
 2024-03-03T04:13:03.890Z,18.0103333333333,-66.7925,15.36,2.26,md,7,169,0.08971,0.18,pr,pr71441788,2024-03-03T04:28:06.440Z,"0 km S of Guayanilla, Puerto Rico",earthquake,0.81,2.6,0.0453122881605548,4,reviewed,pr,pr
-2024-03-03T04:11:50.480Z,33.2636667,-116.4345,4.36,2.58,ml,101,15,0.01521,0.19,ci,ci40680280,2024-03-03T04:58:29.992Z,"6 km W of Borrego Springs, CA",earthquake,0.1,0.33,0.18,26,automatic,ci,ci
+2024-03-03T04:11:50.480Z,33.2636667,-116.4345,4.36,2.58,ml,101,15,0.01521,0.19,ci,ci40680280,2024-03-03T05:25:10.510Z,"6 km W of Borrego Springs, CA",earthquake,0.1,0.33,0.18,26,automatic,ci,ci
 2024-03-03T04:11:31.260Z,35.8773333,-117.6928333,8.84,1.03,ml,21,107,0.0784,0.1,ci,ci40680272,2024-03-03T04:17:28.692Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.46,0.202,11,automatic,ci,ci
 2024-03-03T04:09:50.210Z,38.8115005,-122.8311691,1.79,0.75,md,7,120,0.003054,0.02,nc,nc74010946,2024-03-03T04:11:25.030Z,"8 km WNW of The Geysers, CA",earthquake,0.49,0.83,0.43,8,automatic,nc,nc
 2024-03-03T04:06:59.800Z,38.7903328,-122.7573318,-0.91,1.2,md,19,125,0.01044,0.07,nc,nc74010941,2024-03-03T04:11:25.050Z,"2 km N of The Geysers, CA",earthquake,0.25,0.83,0.17,19,automatic,nc,nc
@@ -132,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-02T14:00:13.674Z,31.668,-104.408,3.8952,1.7,ml,16,70,0,0.5,tx,tx2024einl,2024-03-02T14:16:23.773Z,"56 km S of Whites City, New Mexico",earthquake,0,1.33413860719629,0.1,13,automatic,tx,tx
 2024-03-02T13:57:56.552Z,31.625,-104.206,4.2655,1.7,ml,16,66,0.1,0.5,tx,tx2024eini,2024-03-02T14:16:19.807Z,"52 km NW of Toyah, Texas",earthquake,0,1.47088719162209,0.1,12,automatic,tx,tx
 2024-03-02T13:57:49.326Z,61.5787,-146.362,28.2,1.6,ml,,,,0.63,ak,ak0242ureh3o,2024-03-02T13:59:41.201Z,"49 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-02T13:55:27.329Z,-25.3501,26.5543,9.711,3.8,mb,13,142,0.93,0.7,us,us6000mgep,2024-03-03T05:19:58.922Z,"52 km ENE of Zeerust, South Africa",earthquake,4.73,5.284,0.36,2,reviewed,us,us
 2024-03-02T13:47:04.517Z,39.2417,22.3449,93.839,4.1,mb,31,54,0.868,0.9,us,us6000mgb8,2024-03-02T15:08:12.040Z,"6 km E of Néon Monastírion, Greece",earthquake,6.05,2.359,0.145,13,reviewed,us,us
 2024-03-02T13:32:08.710Z,19.2950000762939,-155.245834350586,1.0900000333786,1.92999995,md,42,142,0.02425,0.170000002,hv,hv74126386,2024-03-02T13:34:03.530Z,"16 km S of Volcano, Hawaii",earthquake,0.25,0.379999995,0.340000004,16,automatic,hv,hv
 2024-03-02T13:17:51.960Z,17.9128333333333,-66.283,14.1,1.95,md,10,192,0.1243,0.12,pr,pr71441758,2024-03-02T14:39:20.140Z,"7 km SSE of Salinas, Puerto Rico",earthquake,0.55,1.05,0.0736632230158889,5,reviewed,pr,pr
@@ -203,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-02T05:54:24.302Z,-18.0047,-174.9548,263.2,4.8,mb,91,79,3.157,1.08,us,us6000mg9l,2024-03-02T06:10:44.040Z,"125 km NW of Neiafu, Tonga",earthquake,8.56,7.623,0.06,87,reviewed,us,us
 2024-03-02T05:46:20.690Z,33.3091667,-116.2443333,6.54,1.1,ml,52,42,0.07616,0.21,ci,ci40679992,2024-03-02T05:56:40.260Z,"14 km ENE of Borrego Springs, CA",earthquake,0.25,0.68,0.171,26,automatic,ci,ci
 2024-03-02T05:40:12.336Z,64.4694,-147.0063,6.3,1.4,ml,,,,0.23,ak,ak0242umja8h,2024-03-02T05:42:12.882Z,"7 km SW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-03-02T05:14:56.648Z,31.65,-104.202,1.2474,1.8,ml,18,64,0.1,0.7,tx,tx2024ehwb,2024-03-02T05:50:36.846Z,"53 km NW of Toyah, Texas",earthquake,0,1.39308604518393,0.2,14,automatic,tx,tx
-2024-03-02T05:09:48.651Z,8.8579,126.9191,10,4.6,mb,33,126,2.218,0.57,us,us6000mg9k,2024-03-02T06:53:30.040Z,"66 km E of Aras-asan, Philippines",earthquake,11.05,1.892,0.112,24,reviewed,us,us
