@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-06T12:33:43.380Z,38.8408318,-122.7419968,1.08,1.02,md,10,196,0.02413,0.03,nc,nc74012531,2024-03-06T12:35:18.757Z,"3 km NW of Cobb, CA",earthquake,0.48,0.81,0.24,11,automatic,nc,nc
+2024-03-06T12:31:29.538Z,64.4707,-146.939,3,1.5,ml,,,,0.74,ak,ak02431cstbt,2024-03-06T12:33:36.767Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-06T12:31:02.610Z,37.6466675,-119.0298309,1.3,0.93,md,8,109,0.01369,0.02,nc,nc74012521,2024-03-06T12:32:38.717Z,"5 km WNW of Mammoth Lakes, CA",earthquake,0.53,0.91,0.13,7,automatic,nc,nc
+2024-03-06T12:15:22.770Z,19.1523342132568,-155.47917175293,31.6100006103516,2.36999989,md,43,147,0.01642,0.129999995,hv,hv74129916,2024-03-06T12:17:08.870Z,"5 km S of Pāhala, Hawaii",earthquake,0.39,0.649999976,0.400000006,12,automatic,hv,hv
 2024-03-06T12:00:53.360Z,38.8191681,-122.8216629,2.37,1.24,md,21,47,0.009988,0.05,nc,nc74012511,2024-03-06T12:02:27.477Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.47,0.14,23,automatic,nc,nc
 2024-03-06T11:59:28.408Z,37.3814,-117.9468,4.4,0.8,ml,8,138.63,0.024,0.3304,nn,nn00874262,2024-03-06T12:02:18.927Z,"33 km SSE of Dyer, Nevada",earthquake,,5.2,0.89,5,automatic,nn,nn
 2024-03-06T11:54:13.930Z,19.4671669006348,-155.459167480469,3.0699999332428,1.91999996,md,42,34,0.06238,0.170000002,hv,hv74129896,2024-03-06T11:55:50.620Z,"23 km W of Volcano, Hawaii",earthquake,0.24,1.15999997,0.289999992,14,automatic,hv,hv
@@ -109,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T00:01:42.777Z,33.301,-98.628,4.0527,2.7,ml,18,74,0.5,0.3,tx,tx2024eotv,2024-03-06T02:25:35.040Z,"13 km ESE of Olney, Texas",earthquake,2.057104353945364,2.673506046063559,0.2,8,reviewed,tx,tx
 2024-03-05T23:54:22.450Z,33.516,-116.7566667,4.32,0.69,ml,30,48,0.03667,0.15,ci,ci40681792,2024-03-06T00:00:23.884Z,"9 km WSW of Anza, CA",earthquake,0.17,0.27,0.128,16,automatic,ci,ci
 2024-03-05T23:32:09.702Z,38.1826,-117.8928,12,1.4,ml,10,93.89,0.074,0.1293,nn,nn00874231,2024-03-05T23:55:16.647Z,"29 km SE of Mina, Nevada",earthquake,,1.1,1.1,6,reviewed,nn,nn
-2024-03-05T23:27:30.240Z,45.25833333333333,-123.15516666666667,21.8,1.6400000000000001,ml,24,37,0.0901,0.23,uw,uw61987741,2024-03-06T05:09:11.950Z,"3 km WNW of Lafayette, Oregon",earthquake,0.3,0.92,0.1319712490631053,12,reviewed,uw,uw
+2024-03-05T23:27:30.240Z,45.25833333333333,-123.15516666666667,21.8,1.6400000000000001,ml,24,37,0.0901,0.23,uw,uw61987741,2024-03-06T12:37:06.314Z,"3 km WNW of Lafayette, Oregon",earthquake,0.3,0.92,0.1319712490631053,12,reviewed,uw,uw
 2024-03-05T23:26:15.142Z,40.3214,-119.8606,13.5,1.1,ml,4,286.85,0.181,0.1609,nn,nn00874242,2024-03-06T01:25:13.428Z,"30 km NE of Herlong, California",earthquake,,4.5,0.4,4,reviewed,nn,nn
 2024-03-05T23:23:03.220Z,38.8074989,-122.8154984,3.23,1.06,md,12,60,0.01077,0.06,nc,nc74012281,2024-03-05T23:24:39.783Z,"6 km WNW of The Geysers, CA",earthquake,0.44,1.09,0.31,15,automatic,nc,nc
 2024-03-05T23:22:20.229Z,31.629,-104.211,4.7384,1.5,ml,16,66,0.1,0.2,tx,tx2024eosl,2024-03-06T00:00:39.601Z,"52 km NW of Toyah, Texas",earthquake,0,1.39147794475615,0.2,12,automatic,tx,tx
@@ -222,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T12:45:08.919Z,61.2612,-152.1984,0.1,1.4,ml,,,,0.93,ak,ak0242zpcatc,2024-03-05T12:47:20.847Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-05T12:45:01.490Z,35.67416667,-97.40366667,6.2,2.43,ml,79,39,0.03419329011,0.19,ok,ok2024enxl,2024-03-05T13:42:03.738Z,"7 km W of Arcadia, Oklahoma",earthquake,,0.4,0.21,28,reviewed,ok,ok
 2024-03-05T12:42:41.330Z,40.3136667,-122.0348333,16.07,1.94,md,18,58,0.1259,0.15,nc,nc74012061,2024-03-05T19:46:29.007Z,"19 km SW of Manton, CA",earthquake,0.49,0.95,0.13,18,reviewed,nc,nc
-2024-03-05T12:32:43.360Z,60.8064,-149.483,30.3,1.4,ml,,,,0.57,ak,ak0242zp9pm8,2024-03-05T12:35:34.938Z,"9 km SSW of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-05T12:17:35.390Z,44.781,-110.567333333333,2.01,0.78,md,9,236,0.07905,0.14,uu,uu80061411,2024-03-05T14:31:12.150Z,"24 km SSE of Mammoth, Wyoming",earthquake,0.9,10.64,0.558102614447645,7,reviewed,uu,uu
-2024-03-05T12:14:33.030Z,34.139,-116.5628333,11.73,1.32,ml,47,49,0.1226,0.17,ci,ci40681112,2024-03-05T14:45:24.575Z,"10 km N of Morongo Valley, CA",earthquake,0.17,0.51,0.214,28,reviewed,ci,ci
