@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-06T20:47:21.540Z,19.4266662597656,-155.593338012695,37.9799995422363,2.32,ml,40,61,0.02655,0.180000007,hv,hv74130281,2024-03-06T20:49:57.920Z,"27 km NNW of Pāhala, Hawaii",earthquake,0.52,0.800000012,0.43,7,automatic,hv,hv
-2024-03-06T20:45:15.210Z,33.2648333,-116.4325,4.05,1.46,ml,65,25,0.01328,0.2,ci,ci40682544,2024-03-06T20:51:38.838Z,"5 km W of Borrego Springs, CA",earthquake,0.16,0.36,0.14,26,automatic,ci,ci
+2024-03-06T20:47:21.540Z,19.4266662597656,-155.593338012695,37.9799995422363,2.32,ml,40,61,0.02655,0.180000007,hv,hv74130281,2024-03-06T21:06:32.040Z,"27 km NNW of Pāhala, Hawaii",earthquake,0.52,0.800000012,0.43,7,automatic,hv,hv
+2024-03-06T20:45:15.210Z,33.2648333,-116.4325,4.05,1.46,ml,65,25,0.01328,0.2,ci,ci40682544,2024-03-06T20:56:06.680Z,"5 km W of Borrego Springs, CA",earthquake,0.16,0.36,0.14,26,automatic,ci,ci
 2024-03-06T20:23:52.060Z,33.8431667,-117.4911667,2.47,1.43,ml,58,44,0.04621,0.19,ci,ci40682520,2024-03-06T20:34:46.940Z,"5 km SE of Home Gardens, CA",earthquake,0.16,0.27,0.192,30,automatic,ci,ci
 2024-03-06T20:20:41.580Z,38.8273315,-122.8128357,1.15,1.08,md,21,41,0.01784,0.04,nc,nc74012781,2024-03-06T20:34:05.895Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.49,0.11,21,automatic,nc,nc
 2024-03-06T20:19:45.191Z,7.8976,126.8787,57.085,5.1,mb,103,47,1.529,1.07,us,us7000m3rt,2024-03-06T20:39:51.978Z,"42 km ENE of Kinablangan, Philippines",earthquake,8.23,6.628,0.042,181,reviewed,us,us
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T09:47:14.250Z,38.8180008,-122.8188324,2.39,0.95,md,7,119,0.008708,0.01,nc,nc74012471,2024-03-06T09:48:47.013Z,"7 km NW of The Geysers, CA",earthquake,0.58,1.6,0.28,6,automatic,nc,nc
 2024-03-06T09:46:21.250Z,33.2686667,-116.4335,4.77,1.25,ml,60,31,0.0137,0.21,ci,ci40682040,2024-03-06T14:35:13.490Z,"6 km WNW of Borrego Springs, CA",earthquake,0.16,0.41,0.201,28,reviewed,ci,ci
 2024-03-06T09:43:10.834Z,59.6613,-152.8254,90.1,2.3,ml,,,,0.52,ak,ak02431b31ng,2024-03-06T10:17:26.040Z,"57 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-06T09:25:36.300Z,33.802,-116.175,5.93,0.67,ml,22,247,0.06318,0.16,ci,ci40682032,2024-03-06T09:31:26.480Z,"10 km NNE of Indio, CA",earthquake,0.65,1.06,0.137,13,automatic,ci,ci
+2024-03-06T09:25:36.380Z,33.804,-116.1866667,4,0.63,ml,37,77,0.0299,0.17,ci,ci40682032,2024-03-06T21:02:15.496Z,"10 km NNE of Indio, CA",earthquake,0.27,0.51,0.174,9,reviewed,ci,ci
 2024-03-06T09:14:42.910Z,19.2396659851074,-155.358993530273,28.7099990844727,1.89999998,md,32,170,0.07441,0.140000001,hv,hv74129831,2024-03-06T09:16:13.320Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.6,0.769999981,0.0500000007,3,automatic,hv,hv
 2024-03-06T09:08:40.549Z,62.2382,-148.1531,31.1,1.6,ml,,,,0.82,ak,ak02431avlw6,2024-03-06T09:17:35.484Z,"51 km NNE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-06T09:03:21.000Z,44.7611666666667,-110.853,6.29,0.24,md,6,107,0.02722,0.03,uu,uu80061801,2024-03-06T14:49:45.680Z,"22 km ENE of West Yellowstone, Montana",earthquake,1.15,2.02,0.161044438792278,5,reviewed,uu,uu
@@ -244,9 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T21:24:56.929Z,-7.0227,129.537,144.1,4.4,mb,22,79,4.89,0.85,us,us7000m3kk,2024-03-06T02:17:45.040Z,"Kepulauan Babar, Indonesia",earthquake,9.19,9.318,0.13,17,reviewed,us,us
 2024-03-05T21:17:52.560Z,19.2366666666667,-155.381166666667,31.4,2.67,ml,40,146,0.01546,0.11,hv,hv74129286,2024-03-06T02:33:42.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.6,0.252542125674524,14,reviewed,hv,hv
 2024-03-05T21:15:12.040Z,18.0716,-66.9908,15,3.37,md,20,75,0.1153,0.13,pr,pr2024065004,2024-03-06T04:27:38.916Z,"3 km WSW of Sabana Grande, Puerto Rico",earthquake,0.44,1.01,0.14,17,reviewed,pr,pr
-2024-03-05T21:10:04.719Z,-23.6362,179.1651,535.584,5.1,mb,63,56,5.759,1.02,us,us7000m3kb,2024-03-05T21:27:33.040Z,"south of the Fiji Islands",earthquake,3.84,8.464,0.055,107,reviewed,us,us
-2024-03-05T21:09:22.630Z,46.87233333333333,-121.9535,9.75,0.38,ml,24,119,0.005468,0.13,uw,uw61987666,2024-03-05T22:59:08.690Z,"13 km NNE of Ashford, Washington",earthquake,0.26,0.39,0.15490145558305235,16,reviewed,uw,uw
-2024-03-05T21:07:48.750Z,33.8723333,-117.4971667,-0.53,0.83,ml,20,67,0.06988,0.18,ci,ci40681664,2024-03-05T21:31:48.773Z,"2 km ESE of Home Gardens, CA",quarry blast,0.43,31.61,0.144,7,reviewed,ci,ci
-2024-03-05T21:03:03.610Z,38.8148346,-122.8188324,2.6,1.1,md,23,51,0.01004,0.02,nc,nc74012226,2024-03-05T21:04:39.424Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.45,0.16,22,automatic,nc,nc
-2024-03-05T20:59:31.200Z,53.8761666666667,-166.907833333333,2.43,-0.41,ml,5,225,,0.09,av,av91135513,2024-03-06T20:28:37.290Z,"24 km W of Dutch Harbor, Alaska",earthquake,0.54,1.77,0.183291078201185,5,reviewed,av,av
-2024-03-05T20:59:16.254Z,64.4629,-146.8948,8.6,0.9,ml,,,,0.39,ak,ak0242zu6wp0,2024-03-05T21:02:46.706Z,"6 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
