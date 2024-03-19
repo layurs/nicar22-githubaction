@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-19T05:58:47.610Z,34.0138321,-117.5796661,9.5,1.09,ml,40,82,0.01759,0.13,ci,ci40689840,2024-03-19T06:00:52.046Z,"6 km SE of Ontario, CA",earthquake,0.27,0.4,0.27,9,automatic,ci,ci
+2024-03-19T05:46:18.720Z,36.0201667,-117.3556667,-0.49,0.94,ml,24,75,0.2497,0.15,ci,ci40689832,2024-03-19T05:52:21.497Z,"28 km N of Searles Valley, CA",earthquake,0.35,0.88,0.197,10,automatic,ci,ci
 2024-03-19T05:38:57.460Z,38.8293343,-122.8058319,-0.12,0.8,md,7,105,0.01511,0.01,nc,nc74019806,2024-03-19T05:40:30.217Z,"7 km NW of The Geysers, CA",earthquake,0.26,2.4,0.21,8,automatic,nc,nc
 2024-03-19T05:36:33.920Z,38.8255005,-122.8164978,1.99,0.84,md,13,66,0.00544,0.03,nc,nc74019801,2024-03-19T05:38:10.222Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.82,0.21,13,automatic,nc,nc
 2024-03-19T05:24:07.870Z,38.8185005,-122.7581635,1.14,1.04,md,9,124,0.01507,0.08,nc,nc74019796,2024-03-19T05:25:40.056Z,"3 km W of Cobb, CA",earthquake,0.43,0.93,0.07,12,automatic,nc,nc
@@ -77,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-18T20:25:32.940Z,38.4918333333333,-112.899166666667,3.44,0.1,md,10,133,0.009213,0.06,uu,uu80062966,2024-03-18T20:48:26.330Z,"14 km NE of Milford, Utah",earthquake,0.25,0.44,0.0429060012200042,2,reviewed,uu,uu
 2024-03-18T20:23:25.379Z,34.6183,53.7515,10,4.3,mb,42,156,4.832,0.41,us,us6000mjnc,2024-03-18T20:44:21.040Z,"111 km SSE of Semnan, Iran",earthquake,9.74,1.935,0.088,36,reviewed,us,us
 2024-03-18T20:22:47.970Z,19.3333333333333,-155.191833333333,2.4,2.31,ml,50,83,0.04603,0.13,hv,hv74140737,2024-03-18T21:05:38.350Z,"12 km SSE of Volcano, Hawaii",earthquake,0.22,0.45,0.231266944057824,24,reviewed,hv,hv
+2024-03-18T20:17:15.640Z,40.2381667,-124.1536667,13.27,1.48,md,22,120,0.01707,0.12,nc,nc74019536,2024-03-19T05:53:56.732Z,"15 km SE of Petrolia, CA",earthquake,0.26,0.38,0.129,17,reviewed,nc,nc
 2024-03-18T20:17:10.290Z,38.8380013,-122.822998,1.69,1.1,md,20,63,0.009771,0.01,nc,nc74019531,2024-03-18T20:18:45.309Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.49,0.2,20,automatic,nc,nc
 2024-03-18T20:09:45.592Z,63.1727,-150.46,33.2,2,ml,,,,1.36,ak,ak0243lbvrkv,2024-03-18T20:12:24.797Z,"75 km ESE of Denali National Park, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2024-03-18T20:07:01.519Z,69.788,-142.0801,7.665,2.7,ml,31,224,0.592,0.53,us,us6000mjn5,2024-03-18T20:18:14.040Z,"70 km ESE of Kaktovik, Alaska",earthquake,3.97,6.039,0.057,40,reviewed,us,us
@@ -252,6 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-18T06:10:17.730Z,44.3441666666667,-114.825166666667,8.45,2.53,ml,25,50,0.2384,0.22,mb,mb90043298,2024-03-18T14:33:01.490Z,"16 km NNE of Stanley, Idaho",earthquake,0.35,0.74,0.264844087337063,35,reviewed,mb,mb
 2024-03-18T06:09:31.110Z,38.8216667,-122.7665024,1.7,1.49,md,25,97,0.009186,0.04,nc,nc74019176,2024-03-18T06:11:07.114Z,"4 km W of Cobb, CA",earthquake,0.22,0.36,0.16,24,automatic,nc,nc
 2024-03-18T06:06:16.230Z,33.7081667,-116.8258333,16.16,0.85,ml,36,72,0.08435,0.15,ci,ci40688720,2024-03-18T13:47:46.255Z,"8 km SE of Valle Vista, CA",earthquake,0.2,0.4,0.218,19,reviewed,ci,ci
-2024-03-18T06:00:31.507Z,62.3575,-151.2164,80.8,1.8,ml,,,,0.44,ak,ak0243l3hqku,2024-03-18T06:02:30.758Z,"27 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-03-18T05:59:04.204Z,68.7848,-148.1535,0,1.6,ml,,,,0.75,ak,ak0243l38w44,2024-03-18T06:01:08.590Z,"129 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-18T05:58:29.146Z,60.0197,-152.6669,99.7,1.8,ml,,,,0.55,ak,ak0243l38qbm,2024-03-18T06:01:05.962Z,"52 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
