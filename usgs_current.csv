@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-25T07:56:45.808Z,66.0709,-148.3354,22.7,1.3,ml,,,,0.5,ak,ak0243wp6muc,2024-03-25T07:58:52.497Z,"34 km ENE of Stevens Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-03-25T07:48:08.190Z,38.3998337,-122.4394989,3.44,1.57,md,6,216,0.2739,0.2,nc,nc74023521,2024-03-25T07:49:46.427Z,"7 km W of Yountville, CA",earthquake,9.44,13.76,,1,automatic,nc,nc
 2024-03-25T07:18:00.425Z,62.0309,-152.0654,103.4,2.2,ml,,,,0.6,ak,ak0243woye4q,2024-03-25T07:20:52.522Z,"35 km W of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-25T07:14:02.220Z,37.081501,-121.1804962,5.39,3.21,ml,60,108,0.09824,0.14,nc,nc74023516,2024-03-25T07:33:55.235Z,"25 km SW of Gustine, CA",earthquake,0.25,0.87,0.371,33,automatic,nc,nc
 2024-03-25T07:08:25.960Z,19.0706666666667,-66.0933333333333,13.9,3.17,md,10,256,0.7576,0.25,pr,pr71443863,2024-03-25T07:35:35.860Z,"66 km N of San Juan, Puerto Rico",earthquake,2.18,3.27,0.0933088088232676,6,reviewed,pr,pr
@@ -41,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T02:16:40.212Z,35.55376434,-96.75270081,4.110870838,2.4,ml,32,48.19029236,0.02141064964,0.3348695463,ok,ok2024fxqt,2024-03-25T03:14:59.649Z,"8 km SE of Sparks, Oklahoma",earthquake,2.122125832,2.084572682,0.17,23,automatic,ok,ok
 2024-03-25T01:51:36.461Z,37.4311,-116.9327,0,1.7,ml,25,109.87,0.292,0.2981,nn,nn00875287,2024-03-25T01:54:16.991Z,"40 km SE of Goldfield, Nevada",earthquake,,18.3,0.21,19,automatic,nn,nn
 2024-03-25T01:46:46.420Z,38.8461685,-122.8133316,1.53,0.81,md,15,53,0.01154,0.02,nc,nc74023436,2024-03-25T01:48:19.517Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.67,0.17,15,automatic,nc,nc
-2024-03-25T01:41:58.177Z,31.731,-104.111,4.6548,2.2,ml,21,63,0,0.2,tx,tx2024fxpq,2024-03-25T02:14:41.605Z,"48 km W of Mentone, Texas",earthquake,0,1.15257204025091,0.2,15,automatic,tx,tx
+2024-03-25T01:41:58.100Z,31.731,-104.112,7.074,2.2,ml,18,42,0,0.2,tx,tx2024fxpq,2024-03-25T07:43:03.920Z,"48 km W of Mentone, Texas",earthquake,0.8098931714600008,0.9165045329095889,0.1,18,reviewed,tx,tx
 2024-03-25T01:40:56.670Z,38.8081665,-122.814003,3.38,0.44,md,9,103,0.01188,0.01,nc,nc74023431,2024-03-25T01:42:30.629Z,"6 km NW of The Geysers, CA",earthquake,0.67,1.8,0.18,11,automatic,nc,nc
 2024-03-25T01:28:03.800Z,19.1778335571289,-155.478164672852,33.4099998474121,2.45000005,md,27,123,0.02697,0.119999997,hv,hv74148932,2024-03-25T01:29:32.010Z,"2 km S of Pāhala, Hawaii",earthquake,0.84,0.709999979,0.129999995,9,automatic,hv,hv
 2024-03-25T01:24:44.660Z,35.765,-117.6138333,6.88,1.38,ml,33,62,0.1221,0.15,ci,ci40523839,2024-03-25T01:40:53.457Z,"17 km NNE of Ridgecrest, CA",earthquake,0.18,0.52,0.164,23,automatic,ci,ci
@@ -171,6 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-24T08:03:07.143Z,61.6612,-148.125,18.4,0.9,ml,,,,0.13,ak,ak0243v1xa0q,2024-03-24T08:05:31.084Z,"23 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-24T08:01:36.027Z,31.588,-104.536,4.1677,2,ml,16,157,0.1,0.2,tx,tx2024fwgq,2024-03-24T08:17:37.194Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.7165193127224303,0.1,12,automatic,tx,tx
 2024-03-24T07:59:28.410Z,38.7928352,-122.7608337,0.48,0.75,md,8,120,0.007828,0.05,nc,nc74023061,2024-03-24T08:01:00.334Z,"2 km NNW of The Geysers, CA",earthquake,0.32,1.06,0.29,10,automatic,nc,nc
-2024-03-24T07:41:25.286Z,31.557,-104.013,5.7815,1.7,ml,15,60,0,0.2,tx,tx2024fwfz,2024-03-24T07:54:36.988Z,"34 km NW of Toyah, Texas",earthquake,0,2.35151352942288,0.1,13,automatic,tx,tx
-2024-03-24T07:40:46.750Z,33.5808333,-116.809,8.17,1.06,ml,52,26,0.03961,0.19,ci,ci40523567,2024-03-24T07:47:04.928Z,"13 km WNW of Anza, CA",earthquake,0.17,0.42,0.139,26,automatic,ci,ci
-2024-03-24T07:39:47.693Z,39.2218,-120.075,8.1,0.9,ml,10,141.23,0.077,0.1359,nn,nn00875265,2024-03-24T14:04:32.585Z,"0 km SE of Carnelian Bay, California",earthquake,,2,0.38,4,reviewed,nn,nn
