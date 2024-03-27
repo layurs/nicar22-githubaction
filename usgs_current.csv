@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-27T09:48:55.190Z,33.529,-115.8698333,4.41,1.09,ml,45,54,0.04379,0.25,ci,ci40700000,2024-03-27T09:55:32.191Z,"6 km E of North Shore, CA",earthquake,0.21,0.55,0.22,24,automatic,ci,ci
+2024-03-27T09:48:07.420Z,33.5888333,-116.7393333,15.88,1.15,ml,57,26,0.02123,0.17,ci,ci40699992,2024-03-27T09:58:57.140Z,"7 km WNW of Anza, CA",earthquake,0.16,0.29,0.247,28,automatic,ci,ci
+2024-03-27T09:47:38.130Z,38.7919998,-122.8036652,3.3,0.74,md,13,64,0.003698,0.02,nc,nc74024856,2024-03-27T09:49:12.485Z,"4 km WNW of The Geysers, CA",earthquake,0.36,1,0.42,15,automatic,nc,nc
+2024-03-27T09:42:35.153Z,57.919,-156.275,127.7,1.3,ml,,,,0.22,ak,ak024401d66z,2024-03-27T09:44:47.928Z,"72 km ESE of Egegik, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-03-27T09:41:32.190Z,38.8336678,-122.8358307,0.97,1.01,md,14,91,0.004921,0.02,nc,nc74024851,2024-03-27T09:43:07.473Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.46,0.3,15,automatic,nc,nc
+2024-03-27T09:39:30.400Z,61.0205,-148.8238,20,1.4,ml,,,,0.66,ak,ak024401ciog,2024-03-27T09:41:27.696Z,"20 km ENE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T09:28:30.340Z,38.8079987,-122.8248367,2.39,0.81,md,7,117,0.003501,0.02,nc,nc74024846,2024-03-27T09:30:07.237Z,"7 km WNW of The Geysers, CA",earthquake,0.49,1.07,0.33,8,automatic,nc,nc
 2024-03-27T09:21:20.980Z,36.8986664,-121.2870026,6.53,1.37,md,16,101,0.01046,0.11,nc,nc74024836,2024-03-27T09:27:49.263Z,"11 km ENE of Hollister, CA",earthquake,0.34,0.76,0.17,13,automatic,nc,nc
 2024-03-27T09:19:55.130Z,35.7738333,-118.2705,7.79,0.51,ml,21,49,0.0813,0.14,ci,ci40699984,2024-03-27T09:25:43.819Z,"14 km E of Kernville, CA",earthquake,0.21,0.66,0.075,4,automatic,ci,ci
@@ -29,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T06:14:40.113Z,63.367,-151.6443,14,2.4,ml,,,,0.74,ak,ak0243zzevpn,2024-03-27T07:39:06.040Z,"19 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-27T06:08:33.580Z,38.841835,-122.8399963,2.11,0.76,md,19,118,0.004786,0.02,nc,nc74024761,2024-03-27T06:10:06.197Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.42,0.17,21,automatic,nc,nc
 2024-03-27T06:00:41.359Z,57.744,-155.9203,9.1,1.6,ml,,,,0.55,ak,ak0243zzbvs7,2024-03-27T06:02:39.374Z,"89 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-27T05:46:07.992Z,34.1525,-80.731,3.656,2.1,ml,15,106,0.034,0.3,us,us7000m881,2024-03-27T09:25:48.722Z,"6 km ESE of Elgin, South Carolina",earthquake,0.97,2.523,0.081,20,reviewed,us,us
+2024-03-27T05:46:07.992Z,34.1525,-80.731,3.656,2.1,ml,15,106,0.034,0.3,us,us7000m881,2024-03-27T09:52:54.067Z,"6 km ESE of Elgin, South Carolina",earthquake,0.97,2.523,0.081,20,reviewed,us,us
 2024-03-27T05:18:43.160Z,38.8014984,-122.73983,0.18,1.47,md,24,108,0.01556,0.06,nc,nc74024751,2024-03-27T05:20:15.669Z,"3 km SSW of Cobb, CA",earthquake,0.24,0.51,0.15,24,automatic,nc,nc
 2024-03-27T05:08:27.916Z,-23.5856,-68.0963,133.215,4.9,mb,65,81,0.635,1.36,us,us7000m87t,2024-03-27T08:21:58.616Z,"75 km S of San Pedro de Atacama, Chile",earthquake,6.72,5.203,0.048,136,reviewed,us,us
 2024-03-27T04:53:45.640Z,38.8223343,-122.7623367,1.61,0.76,md,12,125,0.01005,0.03,nc,nc74024746,2024-03-27T04:55:21.409Z,"3 km W of Cobb, CA",earthquake,0.3,0.58,0.12,14,automatic,nc,nc
@@ -222,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T10:08:02.860Z,38.8353348,-122.8184967,1.97,0.36,md,9,122,0.01362,0.01,nc,nc74024271,2024-03-26T10:09:38.026Z,"8 km W of Cobb, CA",earthquake,0.35,1.03,0.21,11,automatic,nc,nc
 2024-03-26T10:00:31.760Z,34.0528333,-117.1283333,10.22,0.72,ml,36,37,0.05905,0.15,ci,ci40524663,2024-03-27T01:02:12.630Z,"2 km SSE of Mentone, CA",earthquake,0.18,0.39,0.077,12,reviewed,ci,ci
 2024-03-26T09:59:43.831Z,31.63,-104.155,6.0999,2.6,ml,13,66,0.1,0.2,tx,tx2024gabo,2024-03-26T14:40:01.093Z,"49 km NW of Toyah, Texas",earthquake,0.9227554897746237,1.5743107090371649,0.1,24,reviewed,tx,tx
-2024-03-26T09:55:24.620Z,33.5798333,-116.8048333,9.02,0.27,ml,22,66,0.0367,0.12,ci,ci40524655,2024-03-27T00:00:02.383Z,"12 km WNW of Anza, CA",earthquake,0.19,0.49,0.137,7,reviewed,ci,ci
-2024-03-26T09:37:12.157Z,-20.6854,-173.8734,10,5.4,mww,56,85,1.334,0.96,us,us7000m826,2024-03-26T13:01:43.040Z,"108 km SSE of Pangai, Tonga",earthquake,7.24,1.868,0.089,12,reviewed,us,us
