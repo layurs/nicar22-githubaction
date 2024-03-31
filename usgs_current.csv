@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-31T09:08:51.140Z,33.419,-116.6555,4.09,0.9,ml,38,51,0.08816,0.17,ci,ci40702608,2024-03-31T09:15:05.046Z,"15 km S of Anza, CA",earthquake,0.16,0.5,0.342,12,automatic,ci,ci
+2024-03-31T09:00:11.190Z,38.8334999,-122.8160019,1.46,0.71,md,13,56,0.0111,0.01,nc,nc74026776,2024-03-31T09:01:43.928Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.73,0.12,13,automatic,nc,nc
+2024-03-31T08:59:19.950Z,38.8381653,-122.7835007,1.39,0.64,md,11,134,0.00535,0.01,nc,nc74026771,2024-03-31T09:00:53.933Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.5,0.43,12,automatic,nc,nc
 2024-03-31T08:52:08.440Z,33.0255,-115.9973333,5.52,1.06,ml,45,43,0.1403,0.21,ci,ci40702600,2024-03-31T08:58:13.607Z,"18 km SE of Ocotillo Wells, CA",earthquake,0.2,0.71,0.137,19,automatic,ci,ci
 2024-03-31T08:49:51.132Z,63.0378,-150.6742,106.8,1.7,ml,,,,0.16,ak,ak02446mynt5,2024-03-31T08:52:52.188Z,"60 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-31T08:36:45.940Z,33.953,-117.701,11.96,0.82,ml,30,133,0.04445,0.2,ci,ci40702592,2024-03-31T08:43:00.658Z,"7 km S of Chino, CA",earthquake,0.35,0.52,0.086,9,automatic,ci,ci
@@ -41,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T04:01:12.300Z,19.1353340148926,-155.513671875,47.7400016784668,2.49,ml,50,149,0.05268,0.349999994,hv,hv74155887,2024-03-31T04:18:30.040Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.9,1.11000001,0.31,25,automatic,hv,hv
 2024-03-31T04:00:55.770Z,34.0813333,-116.6963333,1.52,0.91,ml,11,109,0.05863,0.11,ci,ci40702544,2024-03-31T04:07:21.602Z,"11 km WNW of Morongo Valley, CA",earthquake,0.59,0.48,0.202,17,automatic,ci,ci
 2024-03-31T03:53:04.353Z,-6.9211,129.8287,110.387,4.5,mb,24,99,2.384,0.63,us,us7000m90x,2024-03-31T04:15:40.040Z,"Banda Sea",earthquake,10.52,7.664,0.136,18,reviewed,us,us
-2024-03-31T03:46:14.635Z,10.6938,-86.2353,35,4.9,mb,43,175,0.91,1.01,us,us7000m90w,2024-03-31T08:52:13.273Z,"61 km NW of Tamarindo, Costa Rica",earthquake,6.38,1.948,0.034,265,reviewed,us,us
+2024-03-31T03:46:14.635Z,10.6938,-86.2353,35,4.9,mb,43,175,0.91,1.01,us,us7000m90w,2024-03-31T09:15:05.669Z,"61 km NW of Tamarindo, Costa Rica",earthquake,6.38,1.948,0.034,265,reviewed,us,us
 2024-03-31T03:33:06.340Z,38.8269997,-122.7968369,2.64,0.28,md,10,76,0.01095,0.01,nc,nc74026691,2024-03-31T03:34:39.633Z,"6 km W of Cobb, CA",earthquake,0.44,1.06,0.16,11,automatic,nc,nc
 2024-03-31T03:18:02.681Z,62.3599,-149.1287,2.3,1.9,ml,,,,0.5,ak,ak02446jsquk,2024-03-31T03:19:57.178Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-31T03:13:38.652Z,62.3681,-149.0837,16.9,1.6,ml,,,,0.45,ak,ak02446jrr1l,2024-03-31T03:16:03.397Z,"46 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -186,16 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-30T10:09:13.600Z,35.637,-117.4538333,7.47,1.05,ml,28,68,0.03726,0.11,ci,ci40702336,2024-03-30T10:15:03.937Z,"15 km SSW of Searles Valley, CA",earthquake,0.19,0.32,0.103,10,automatic,ci,ci
 2024-03-30T09:54:38.596Z,62.1449,-153.103,11.8,1.6,ml,,,,0.58,ak,ak0244501sj7,2024-03-30T09:57:05.296Z,"90 km W of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-30T09:48:17.183Z,-4.02,-103.9065,10,5.1,mww,40,149,22.083,0.95,us,us7000m8ww,2024-03-30T10:19:45.040Z,"central East Pacific Rise",earthquake,14.35,1.92,0.066,22,reviewed,us,us
-2024-03-30T09:23:08.440Z,17.9375,-66.2693333333333,14.58,2.31,md,4,228,0.09675,0.08,pr,pr71444278,2024-03-30T09:33:40.430Z,"5 km WSW of Central Aguirre, Puerto Rico",earthquake,0.75,1,0.271340451667889,2,reviewed,pr,pr
-2024-03-30T09:22:55.430Z,38.7866669,-122.7721634,1.45,1.28,md,20,92,0.01392,0.04,nc,nc74026306,2024-03-30T09:24:29.316Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.39,0.19,22,automatic,nc,nc
-2024-03-30T09:18:52.650Z,38.7965012,-122.8066635,10.74,0.73,md,7,146,0.008633,0.02,nc,nc74026301,2024-03-30T09:20:29.246Z,"5 km WNW of The Geysers, CA",earthquake,2.16,5.03,0.19,7,automatic,nc,nc
-2024-03-30T09:18:34.070Z,38.803,-122.8093333,2.54,0.43,md,15,60,0.01203,0.02,nc,nc74026296,2024-03-31T00:34:07.385Z,"5 km WNW of The Geysers, CA",earthquake,0.37,0.55,0.516,15,reviewed,nc,nc
-2024-03-30T09:15:34.950Z,38.7989998,-122.80233,3.54,0.68,md,9,97,0.0105,0.03,nc,nc74026291,2024-03-30T09:17:09.131Z,"5 km WNW of The Geysers, CA",earthquake,0.84,1.94,0.37,10,automatic,nc,nc
-2024-03-30T09:15:01.020Z,38.8006668,-122.8073349,2.2,2.56,md,47,60,0.0119,0.05,nc,nc74026286,2024-03-31T05:11:04.004Z,"5 km WNW of The Geysers, CA",earthquake,0.15,0.24,0.18,51,automatic,nc,nc
-2024-03-30T09:14:12.790Z,19.404167175293,-155.483840942383,7.07999992370605,2.0999999,md,35,37,0.04063,0.140000001,hv,hv74154737,2024-03-30T09:16:09.910Z,"22 km N of Pāhala, Hawaii",earthquake,0.31,0.610000014,0.449999988,9,automatic,hv,hv
-2024-03-30T09:14:01.810Z,38.7956667,-122.7685,-0.85,0.42,md,11,120,0.008466,0.09,nc,nc74026281,2024-03-31T00:31:36.748Z,"2 km NNW of The Geysers, CA",earthquake,0.22,1.29,0.189,12,reviewed,nc,nc
-2024-03-30T09:04:19.335Z,39.2872,-119.6588,5.4,0.7,ml,8,140.57,0.104,0.1138,nn,nn00875567,2024-03-30T14:24:14.687Z,"2 km SSW of Virginia City, Nevada",earthquake,,3.3,1.01,6,reviewed,nn,nn
-2024-03-30T09:03:18.687Z,-23.869,-71.0726,10,4.3,mb,20,173,0.593,0.87,us,us7000m8wl,2024-03-31T00:29:33.040Z,"73 km WSW of Antofagasta, Chile",earthquake,4.3,1.716,0.216,6,reviewed,us,us
-2024-03-30T09:03:06.380Z,39.2874,-119.644,0.5,0.5,ml,9,145,0.115,0.1652,nn,nn00875566,2024-03-30T14:21:05.935Z,"2 km S of Virginia City, Nevada",earthquake,,19.1,0.35,5,reviewed,nn,nn
-2024-03-30T09:02:01.900Z,32.9131667,-116.2683333,9.44,0.97,ml,27,66,0.1332,0.17,ci,ci40702328,2024-03-30T09:08:51.540Z,"26 km ENE of Pine Valley, CA",earthquake,0.22,0.76,0.174,14,automatic,ci,ci
-2024-03-30T09:00:19.674Z,39.2878,-119.6604,5.4,0.4,ml,8,140.08,0.103,0.1363,nn,nn00875565,2024-03-30T14:17:56.945Z,"2 km SSW of Virginia City, Nevada",earthquake,,3,0.76,3,reviewed,nn,nn
