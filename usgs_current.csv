@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-05T09:28:18.360Z,33.883,-116.8561667,14.05,0.88,ml,25,90,0.06945,0.12,ci,ci40705976,2024-04-05T09:34:36.210Z,"5 km SSE of Banning, CA",earthquake,0.25,0.55,0.176,15,automatic,ci,ci
+2024-04-05T09:25:18.630Z,38.7885017,-122.7669983,2.47,1.08,md,13,113,0.01338,0.02,nc,nc74029651,2024-04-05T09:26:54.966Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.67,0.34,15,automatic,nc,nc
+2024-04-05T09:19:14.294Z,31.662,-104.202,4.5239,1.6,ml,18,64,0.1,0.2,tx,tx2024gshg,2024-04-05T09:46:48.135Z,"54 km NW of Toyah, Texas",earthquake,0,1.2193206038237303,0.2,14,automatic,tx,tx
 2024-04-05T09:12:12.444Z,59.3563,-152.9735,88.9,1.7,ml,,,,0.27,ak,ak0244ex0tek,2024-04-05T09:14:33.034Z,"59 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-05T09:05:59.180Z,17.8373333333333,-66.8736666666667,6.64,2.44,md,5,258,0.1371,0.05,pr,pr71444678,2024-04-05T09:38:39.510Z,"15 km SSE of Guánica, Puerto Rico",earthquake,0.57,0.33,0.0643547114296452,4,reviewed,pr,pr
 2024-04-05T09:01:54.573Z,15.4411,-93.4495,65.837,5,mww,108,156,1.515,0.78,us,us7000ma26,2024-04-05T09:20:31.040Z,"26 km WSW of El Palmarcito, Mexico",earthquake,6.79,6.044,0.052,36,reviewed,us,us
+2024-04-05T09:01:37.496Z,31.327,49.5903,10,4.4,mb,64,78,4.878,0.54,us,us7000ma2f,2024-04-05T09:36:59.040Z,"5 km NNW of Rāmhormoz, Iran",earthquake,8.53,1.896,0.08,45,reviewed,us,us
 2024-04-05T08:52:57.960Z,38.8195,-122.8238297,2.02,0.75,md,9,81,0.01141,0.01,nc,nc74029641,2024-04-05T08:54:33.706Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.94,0.38,9,automatic,nc,nc
 2024-04-05T08:47:25.254Z,62.2812,-149.789,20,1.4,ml,,,,0.42,ak,ak0244ewmwv2,2024-04-05T08:50:35.647Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-05T08:45:53.968Z,31.0111,49.39,10,4.6,mb,57,65,4.982,1.01,us,us7000ma24,2024-04-05T09:10:32.040Z,"13 km N of Rāmshīr, Iran",earthquake,7.74,1.891,0.058,89,reviewed,us,us
@@ -50,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T02:32:50.230Z,38.7445,-122.6978333,1.48,0.43,md,14,195,0.00802,0.04,nc,nc74029576,2024-04-05T08:30:41.619Z,"3 km S of Anderson Springs, CA",earthquake,0.34,0.41,0.25,8,reviewed,nc,nc
 2024-04-05T02:30:02.445Z,14.9164,-44.9767,10,5,mb,64,44,12.322,0.64,us,us7000ma0r,2024-04-05T02:49:51.040Z,"northern Mid-Atlantic Ridge",earthquake,10.29,1.859,0.039,206,reviewed,us,us
 2024-04-05T02:12:00.990Z,17.92,-66.8645,15.3,2.31,md,5,227,0.05653,0.09,pr,pr71444653,2024-04-05T02:20:19.290Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.95,0.7,0.207790847211935,5,reviewed,pr,pr
-2024-04-05T02:03:34.380Z,40.0371667,-121.298,5.55,2.72,md,64,23,0.2406,0.22,nc,nc74029566,2024-04-05T07:58:43.580Z,"5 km NW of Belden, CA",earthquake,0.26,0.98,0.167,70,reviewed,nc,nc
+2024-04-05T02:03:34.380Z,40.0371667,-121.298,5.55,2.72,md,64,23,0.2406,0.22,nc,nc74029566,2024-04-05T09:39:56.641Z,"5 km NW of Belden, CA",earthquake,0.26,0.98,0.167,70,reviewed,nc,nc
 2024-04-05T01:59:24.816Z,63.0804,-150.9798,108.2,1.6,ml,,,,0.55,ak,ak0244esjg69,2024-04-05T02:02:43.018Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-05T01:56:34.774Z,69.4534,-144.9049,0,1.8,ml,,,,0.9,ak,ak0244esitts,2024-04-05T01:59:40.761Z,"90 km SSW of Kaktovik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-05T01:44:14.335Z,14.8894,-44.9783,10,4.9,mb,42,66,12.3,0.56,us,us7000ma0h,2024-04-05T02:06:46.040Z,"northern Mid-Atlantic Ridge",earthquake,11.2,1.879,0.048,134,reviewed,us,us
@@ -127,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T19:16:48.660Z,44.131166666666665,-121.333,-1.7,1.48,ml,9,172,0.2074,0.25,uw,uw61994346,2024-04-04T19:35:43.940Z,"2 km S of Tumalo, Oregon",explosion,1.03,31.61,0.028609678546498207,5,reviewed,uw,uw
 2024-04-04T19:10:21.357Z,60.5475,-150.7547,42.7,1.2,ml,,,,0.32,ak,ak0244dffe7r,2024-04-04T19:12:20.391Z,"1 km NNE of Sterling, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-04T19:08:54.350Z,61.2556666666667,-152.2595,5.8,0.38,ml,10,101,0.04861,0.09,av,av93077996,2024-04-04T22:46:53.680Z,"63 km WNW of Tyonek, Alaska",earthquake,0.33,0.78,0.189262187931513,10,reviewed,av,av
+2024-04-04T19:07:01.480Z,38.8128333,-122.751,-0.93,0.39,md,9,121,0.01396,0.12,nc,nc74029356,2024-04-05T09:42:17.661Z,"3 km WSW of Cobb, CA",earthquake,0.37,1.71,0.071,7,reviewed,nc,nc
 2024-04-04T19:05:20.200Z,46.0195,-112.457666666667,-2,1.19,ml,11,82,0.06759,0.11,mb,mb90044963,2024-04-04T19:34:22.320Z,"6 km ENE of Butte, Montana",quarry blast,0.39,31.61,0.217555533824939,7,reviewed,mb,mb
 2024-04-04T19:02:08.090Z,37.9901657,-122.4498367,1.3,1.55,md,7,185,0.02289,0.06,nc,nc74029351,2024-04-04T19:03:43.337Z,"7 km E of Santa Venetia, CA",earthquake,0.72,0.6,0.13,6,automatic,nc,nc
 2024-04-04T18:56:41.320Z,34.993,-118.1823333,-0.88,1.23,ml,14,82,0.1201,0.17,ci,ci40705624,2024-04-04T20:48:53.687Z,"7 km S of Mojave, CA",quarry blast,0.46,31.61,0.151,10,reviewed,ci,ci
@@ -241,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T10:03:20.374Z,63.3067,-150.8414,38.3,1.7,ml,,,,1.71,ak,ak0244da0zol,2024-04-04T10:05:01.712Z,"51 km ESE of Denali National Park, Alaska",earthquake,,4,,,automatic,ak,ak
 2024-04-04T10:03:00.295Z,39.4113,-119.6937,7.5,0.8,ml,11,128.89,0.056,0.1597,nn,nn00875830,2024-04-04T22:38:35.898Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.5,0.2,4,reviewed,nn,nn
 2024-04-04T09:58:01.230Z,34.1073333,-116.9881667,4.99,1.04,ml,40,51,0.04551,0.11,ci,ci40705144,2024-04-04T17:31:32.411Z,"10 km NNE of Yucaipa, CA",earthquake,0.13,0.29,0.141,15,reviewed,ci,ci
-2024-04-04T09:40:50.050Z,33.5833333,-116.8058333,8.6,0.71,ml,33,44,0.03634,0.11,ci,ci40705136,2024-04-04T14:30:40.010Z,"13 km WNW of Anza, CA",earthquake,0.15,0.3,0.076,14,reviewed,ci,ci
-2024-04-04T09:37:13.430Z,19.281665802002,-155.383666992188,29.8400001525879,2.03999996,md,37,162,0.05149,0.109999999,hv,hv74160482,2024-04-04T09:38:54.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.71,0.579999983,0.140000001,3,automatic,hv,hv
