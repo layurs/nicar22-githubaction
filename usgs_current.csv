@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-11T21:17:03.529Z,37.7175,-117.3114,3.5,1.2,ml,12,180.78,0.553,0.2473,nn,nn00876067,2024-04-11T21:19:38.303Z,"6 km W of Goldfield, Nevada",earthquake,,13.5,0.31,9,automatic,nn,nn
+2024-04-11T21:17:03.869Z,37.7121,-117.3141,5,1.3,ml,18,98.05,0.056,0.1405,nn,nn00876067,2024-04-11T21:45:45.930Z,"6 km W of Goldfield, Nevada",earthquake,,1.4,0.36,6,reviewed,nn,nn
 2024-04-11T21:08:52.140Z,19.3871669769287,-155.278671264648,0.779999971389771,2.08,ml,22,43,0.002942,0.170000002,hv,hv74168762,2024-04-11T21:11:29.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.180000007,0.26,11,automatic,hv,hv
 2024-04-11T21:07:22.810Z,33.9281667,-116.7846667,14.1,1.79,ml,67,24,0.01439,0.16,ci,ci40711224,2024-04-11T21:18:02.160Z,"1 km N of Cabazon, CA",earthquake,0.12,0.26,0.092,28,automatic,ci,ci
 2024-04-11T20:50:57.990Z,18.0036666666667,-66.7318333333333,11.73,2.21,md,12,139,0.1257,0.09,pr,pr71445378,2024-04-11T21:03:09.630Z,"1 km WNW of Tallaboa, Puerto Rico",earthquake,0.32,0.68,0.0562424117836273,6,reviewed,pr,pr
@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-11T20:34:36.420Z,38.8321648,-122.8818359,2.55,0.89,md,17,129,0.00618,0.02,nc,nc74032901,2024-04-11T20:36:09.620Z,"12 km ENE of Cloverdale, CA",earthquake,0.38,0.52,0.24,21,automatic,nc,nc
 2024-04-11T20:34:13.160Z,38.8334999,-122.8818359,2.53,1.08,md,20,67,0.004882,0.02,nc,nc74032896,2024-04-11T20:35:49.636Z,"12 km ENE of Cloverdale, CA",earthquake,0.31,0.47,0.12,22,automatic,nc,nc
 2024-04-11T20:33:00.940Z,38.8318329,-122.8795013,2.41,1.8,md,31,71,0.007088,0.03,nc,nc74032891,2024-04-11T20:36:22.090Z,"12 km WNW of The Geysers, CA",earthquake,0.23,0.32,0.13,32,automatic,nc,nc
+2024-04-11T20:31:23.311Z,38.3136,-119.241,3.7,1.5,ml,6,221.7,0.581,0.1629,nn,nn00876071,2024-04-11T21:33:17.727Z,"6 km N of Bridgeport, California",earthquake,,2.6,0,1,reviewed,nn,nn
 2024-04-11T20:29:09.970Z,38.8268318,-122.8873367,3.45,0.25,md,8,232,0.01177,0.02,nc,nc74032881,2024-04-11T20:30:44.527Z,"12 km ENE of Cloverdale, CA",earthquake,1.26,1.74,0.13,8,automatic,nc,nc
 2024-04-11T20:15:47.550Z,19.3703327178955,-155.292663574219,0.889999985694885,1.76999998,md,7,263,0.01914,0.109999999,hv,hv74168712,2024-04-11T20:17:00.420Z,"10 km SW of Volcano, Hawaii",earthquake,0.63,0.49000001,0.209999993,6,automatic,hv,hv
 2024-04-11T19:40:47.530Z,33.1998333,-116.031,6.5,1.12,ml,37,84,0.08854,0.18,ci,ci40711160,2024-04-11T19:47:24.530Z,"11 km NE of Ocotillo Wells, CA",earthquake,0.19,0.76,0.136,24,automatic,ci,ci
@@ -193,8 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T22:17:01.221Z,62.8029,-149.5568,57.5,1.7,ml,,,,0.65,ak,ak0244neh8ga,2024-04-10T22:19:26.156Z,"48 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-10T22:10:46.307Z,65.3792,-144.8142,0,1.2,ml,,,,0.66,ak,ak0244neftx2,2024-04-10T22:12:30.611Z,"21 km S of Central, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-10T21:59:49.240Z,38.8143349,-122.7555008,-0.91,0.83,md,7,119,0.01408,0.13,nc,nc74032426,2024-04-10T22:01:21.768Z,"3 km WSW of Cobb, CA",earthquake,0.46,4.65,0.14,10,automatic,nc,nc
-2024-04-10T21:47:52.820Z,38.8276672,-122.8024979,1.53,0.8,md,10,69,0.007295,0.01,nc,nc74032421,2024-04-10T21:49:26.661Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.55,0.25,10,automatic,nc,nc
-2024-04-10T21:42:25.500Z,46.2805,-122.052,10.34,0.24,ml,13,194,0.06881,0.09,uw,uw61987822,2024-04-11T16:02:03.960Z,"35 km SSE of Morton, Washington",earthquake,0.4,0.63,0.21830701363379745,6,reviewed,uw,uw
-2024-04-10T21:40:59.810Z,47.284,-113.233833333333,4.04,1.49,ml,21,156,0.1655,0.13,mb,mb90045983,2024-04-10T21:59:36.830Z,"22 km ENE of Seeley Lake, Montana",earthquake,0.35,8.27,0.14367433354789,5,reviewed,mb,mb
-2024-04-10T21:40:03.727Z,32.317,-101.817,4.8096,2.7,ml,18,48,0,0.1,tx,tx2024hcje,2024-04-11T00:52:50.577Z,"20 km N of Stanton, Texas",earthquake,0.7684697025168366,1.9171365054331495,0.1,29,reviewed,tx,tx
-2024-04-10T21:29:51.450Z,46.3805,-122.31916666666666,14.99,0.66,ml,19,141,0.08592,0.11,uw,uw61987812,2024-04-11T16:09:36.800Z,"20 km S of Morton, Washington",earthquake,0.4,0.58,0.16001618878171475,11,reviewed,uw,uw
