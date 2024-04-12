@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-12T01:57:17.200Z,35.6031667,-117.412,5.37,1.06,ml,24,105,0.04416,0.13,ci,ci40711344,2024-04-12T02:03:14.345Z,"18 km S of Trona, CA",earthquake,0.19,0.36,0.137,11,automatic,ci,ci
 2024-04-12T01:48:35.510Z,33.4211667,-116.3933333,11.09,1.87,ml,85,17,0.09136,0.19,ci,ci40711336,2024-04-12T01:55:17.746Z,"18 km N of Borrego Springs, CA",earthquake,0.12,0.27,0.153,26,automatic,ci,ci
+2024-04-12T01:48:14.096Z,31.749,-104.197,5.7701,1.6,ml,18,102,0,0.3,tx,tx2024hemw,2024-04-12T02:16:52.212Z,"50 km SSE of Whites City, New Mexico",earthquake,0,2.1516469945779,0.2,13,automatic,tx,tx
 2024-04-12T01:44:45.520Z,38.8440018,-122.8156662,1.74,0.38,md,7,114,0.01222,0.01,nc,nc74033011,2024-04-12T01:46:21.572Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.5,0.21,9,automatic,nc,nc
 2024-04-12T01:42:45.460Z,63.1032,-150.8162,115.6,1.8,ml,,,,0.41,ak,ak0244qd7a1u,2024-04-12T01:45:05.472Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-12T01:35:57.240Z,38.838665,-122.836998,1.53,1.05,md,20,82,0.0156,0.02,nc,nc74033006,2024-04-12T01:37:31.566Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.41,0.11,20,automatic,nc,nc
@@ -149,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-11T07:13:57.970Z,38.8303337,-122.8186646,1.56,0.74,md,7,127,0.009645,0.01,nc,nc74032661,2024-04-11T07:15:34.056Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.14,0.24,8,automatic,nc,nc
 2024-04-11T07:13:48.696Z,36.8769,-116.1998,4.7,-0.2,ml,12,93.26,0.049,0.1024,nn,nn00876046,2024-04-11T14:55:12.560Z,"49 km E of Beatty, Nevada",earthquake,,2.1,0.3,7,reviewed,nn,nn
 2024-04-11T07:07:50.910Z,35.736,-117.5643333,10.46,0.96,ml,23,123,0.1176,0.15,ci,ci40710608,2024-04-11T15:16:43.620Z,"15 km WSW of Searles Valley, CA",earthquake,0.26,0.54,0.176,7,reviewed,ci,ci
-2024-04-11T07:05:36.300Z,19.3946666717529,-155.268661499023,0.930000007152557,2.29,ml,36,40,0.004754,0.300000012,hv,hv74167857,2024-04-11T07:08:16.160Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.189999998,0.5,17,automatic,hv,hv
+2024-04-11T07:05:36.280Z,19.3901666666667,-155.272666666667,1.58,1.81,ml,33,43,0.005256,0.12,hv,hv74167857,2024-04-12T02:15:01.370Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.17,0.151631237295609,13,reviewed,hv,hv
 2024-04-11T06:28:56.867Z,58.3625,-154.9762,106.5,1.2,ml,,,,0.4,ak,ak0244osk4fq,2024-04-11T07:29:27.098Z,"93 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-11T06:28:41.530Z,38.8346672,-122.8119965,2.25,0.88,md,7,141,0.01136,0.01,nc,nc74032646,2024-04-11T06:30:18.516Z,"8 km W of Cobb, CA",earthquake,0.74,1.18,0.19,8,automatic,nc,nc
 2024-04-11T06:10:52.090Z,33.8813333,-116.853,14.49,0.9,ml,47,76,0.06641,0.18,ci,ci40710600,2024-04-11T15:11:31.398Z,"5 km SSE of Banning, CA",earthquake,0.21,0.51,0.164,22,reviewed,ci,ci
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-11T02:53:29.920Z,19.1801662445068,-155.492492675781,33.0400009155273,2.39,ml,58,81,0.03783,0.109999999,hv,hv74167607,2024-04-11T03:06:05.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.37,0.579999983,0.33,15,automatic,hv,hv
 2024-04-11T02:51:54.390Z,38.7709999,-122.7268295,0.73,0.88,md,7,103,0.009518,0.02,nc,nc74032536,2024-04-11T02:53:28.220Z,"3 km ESE of The Geysers, CA",earthquake,0.79,1.38,0.46,8,automatic,nc,nc
 2024-04-11T02:42:39.000Z,35.5835,-117.419,6.7,0.94,ml,16,88,0.03534,0.13,ci,ci40710560,2024-04-11T14:52:47.738Z,"20 km S of Trona, CA",earthquake,0.24,0.44,0.083,7,reviewed,ci,ci
-2024-04-11T02:31:18.980Z,33.9716667,-116.5725,8.59,0.94,ml,45,69,0.03589,0.14,ci,ci40710552,2024-04-11T14:51:21.720Z,"7 km W of Desert Hot Springs, CA",earthquake,0.15,0.36,0.137,25,reviewed,ci,ci
