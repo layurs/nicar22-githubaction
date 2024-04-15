@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-15T23:50:55.490Z,33.6981659,-116.821167,15.06,1.75,ml,65,25,0.0863,0.19,ci,ci40713608,2024-04-15T23:53:18.393Z,"9 km SE of Valle Vista, CA",earthquake,0.21,0.46,0.308,27,automatic,ci,ci
+2024-04-15T23:42:41.490Z,35.9718333,-117.4981667,2.35,0.96,ml,17,169,0.1258,0.16,ci,ci40713592,2024-04-15T23:48:27.344Z,"24 km NNW of Searles Valley, CA",earthquake,0.39,0.96,0.115,6,automatic,ci,ci
 2024-04-15T23:22:40.230Z,19.412166595459,-155.278839111328,-0.0199999995529652,2.22,ml,11,129,0.01258,0.209999993,hv,hv74172812,2024-04-15T23:25:20.190Z,"5 km SW of Volcano, Hawaii",earthquake,0.34,0.330000013,0.47,7,automatic,hv,hv
-2024-04-15T23:22:39.510Z,19.3875007629395,-155.27783203125,1.12000000476837,2.19,ml,21,50,0.00379,0.180000007,hv,hv74172807,2024-04-15T23:25:16.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.170000002,0.28,10,automatic,hv,hv
+2024-04-15T23:22:39.530Z,19.3851666666667,-155.279,1.28,1.27,md,22,51,0.002901,0.08,hv,hv74172807,2024-04-15T23:39:18.860Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.15,0.154097775239326,16,reviewed,hv,hv
 2024-04-15T23:22:22.400Z,19.3843326568604,-155.276336669922,0.610000014305115,2.17,ml,9,153,0.005528,0.119999997,hv,hv74172802,2024-04-15T23:24:59.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.310000002,0.31,11,automatic,hv,hv
 2024-04-15T23:15:38.324Z,31.583,-104.494,1.1551,1.6,ml,13,140,0.1,0.8,tx,tx2024hlpw,2024-04-15T23:30:23.060Z,"66 km S of Whites City, New Mexico",earthquake,0,2.50085844560129,0.1,7,automatic,tx,tx
 2024-04-15T23:13:15.410Z,38.8343315,-122.8164978,1.15,0.74,md,11,59,0.01202,0.01,nc,nc74034966,2024-04-15T23:14:50.442Z,"8 km W of Cobb, CA",earthquake,0.3,1.03,0.41,12,automatic,nc,nc
@@ -26,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T20:57:58.710Z,19.2211,-64.649,23,3.78,md,17,290,0.8067,0.38,pr,pr2024106003,2024-04-15T21:25:20.762Z,"99 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.56,28.81,0.1,9,reviewed,pr,pr
 2024-04-15T20:48:50.300Z,33.4356667,-116.5645,12.16,0.74,ml,22,55,0.06767,0.12,ci,ci40713400,2024-04-15T22:48:54.017Z,"17 km SE of Anza, CA",earthquake,0.19,0.55,0.119,12,reviewed,ci,ci
 2024-04-15T20:45:42.160Z,33.9728333,-116.2135,10.12,1.6,ml,54,35,0.05784,0.13,ci,ci40713392,2024-04-15T22:42:36.760Z,"20 km SSE of Joshua Tree, CA",earthquake,0.13,0.27,0.223,22,reviewed,ci,ci
+2024-04-15T20:42:45.010Z,46.211166666666664,-122.185,7.22,-0.1,md,7,127,0.01098,0.12,uw,uw61988802,2024-04-15T23:34:59.030Z,"39 km NNE of Amboy, Washington",earthquake,0.55,0.69,0.22330223642320368,4,reviewed,uw,uw
 2024-04-15T20:32:59.910Z,38.829834,-122.8326645,6.6,0.4,md,7,152,0.006958,0.05,nc,nc74034891,2024-04-15T20:34:34.949Z,"9 km NW of The Geysers, CA",earthquake,1.33,1.55,0.3,8,automatic,nc,nc
 2024-04-15T20:22:46.240Z,33.8441667,-117.4915,-0.53,1.45,ml,45,44,0.047,0.26,ci,ci40713352,2024-04-15T22:21:21.360Z,"5 km SE of Home Gardens, CA",quarry blast,0.27,31.61,0.207,23,reviewed,ci,ci
 2024-04-15T20:10:03.997Z,61.0136,-148.1515,8.9,1.6,ml,,,,1.02,ak,ak0244vmxlwv,2024-04-15T20:12:45.052Z,"39 km NE of Whittier, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -219,7 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-14T23:55:11.680Z,17.946,-66.8823333333333,13.74,2.29,md,6,210,0.02904,0.09,pr,pr71445598,2024-04-15T00:23:37.450Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.95,0.36,0.124565935531352,5,reviewed,pr,pr
 2024-04-14T23:54:51.703Z,64.8584,-149.3592,37.5,1,ml,,,,1.21,ak,ak0244u1g3f6,2024-04-14T23:57:05.823Z,"30 km NNW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-14T23:54:40.820Z,19.2224998474121,-155.068832397461,44.3899993896484,2.3599999,md,43,216,0.08493,0.129999995,hv,hv74171867,2024-04-14T23:56:25.400Z,"27 km SSE of Fern Forest, Hawaii",earthquake,0.67,0.49000001,0.140000001,9,automatic,hv,hv
-2024-04-14T23:53:14.460Z,38.8133316,-122.8096695,3.42,0.35,md,13,58,0.01005,0.02,nc,nc74034446,2024-04-14T23:54:49.471Z,"6 km NW of The Geysers, CA",earthquake,0.39,1.52,0.16,15,automatic,nc,nc
-2024-04-14T23:50:38.150Z,19.3841666666667,-155.281,1.02,1.37,md,8,169,0.002448,0.05,hv,hv74171862,2024-04-15T23:16:21.450Z,"8 km SW of Volcano, Hawaii",earthquake,0.4,0.31,0.12920880365014,17,reviewed,hv,hv
-2024-04-14T23:50:12.917Z,65.6706,-148.4487,9.4,1.6,ml,,,,0.21,ak,ak0244u1f5kb,2024-04-14T23:51:39.714Z,"16 km NNE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-14T23:36:59.030Z,38.7845,-122.7698333,3.9,0.94,md,22,84,0.01412,0.03,nc,nc74034436,2024-04-15T05:52:29.550Z,"1 km NW of The Geysers, CA",earthquake,0.21,0.32,0.269,22,reviewed,nc,nc
