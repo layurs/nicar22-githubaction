@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-25T07:27:06.313Z,61.0037,-148.0971,5.2,1.4,ml,,,,0.98,ak,ak0245byo3h9,2024-04-25T07:29:56.690Z,"40 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-25T07:21:41.990Z,19.390832901001,-155.275329589844,1.38999998569489,2.69,ml,43,48,0.004784,0.180000007,hv,hv74184972,2024-04-25T07:32:24.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.159999996,0.47,31,automatic,hv,hv
+2024-04-25T07:10:40.310Z,19.1411666870117,-155.356826782227,26.8400001525879,1.78999996,md,28,224,0.1005,0.300000012,hv,hv74184952,2024-04-25T07:13:20.600Z,"14 km ESE of Pāhala, Hawaii",earthquake,1.33,1.42999995,0.0900000036,3,automatic,hv,hv
 2024-04-25T06:48:29.890Z,33.9718333,-117.1646667,15.67,1.44,ml,60,24,0.02531,0.17,ci,ci40557727,2024-04-25T06:59:05.890Z,"8 km NE of Moreno Valley, CA",earthquake,0.15,0.32,0.217,29,automatic,ci,ci
 2024-04-25T06:46:21.700Z,38.8371658,-122.7938309,2.04,0.7,md,7,125,0.01466,0.01,nc,nc74040681,2024-04-25T06:47:53.848Z,"6 km WNW of Cobb, CA",earthquake,0.63,1.5,0.06,9,automatic,nc,nc
 2024-04-25T06:26:09.660Z,38.8144989,-122.8233337,2.35,0.73,md,11,78,0.007243,0.01,nc,nc74040676,2024-04-25T06:27:44.645Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.87,0.13,14,automatic,nc,nc
@@ -9,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T05:16:22.140Z,19.3876667022705,-155.280502319336,-0.209999993443489,1.75,md,8,89,0.001608,0.109999999,hv,hv74184847,2024-04-25T05:17:47.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.319999993,0.340000004,6,automatic,hv,hv
 2024-04-25T05:13:29.810Z,40.8540001,-124.1750031,8.71,1.75,md,8,226,0.1162,0.05,nc,nc74040656,2024-04-25T05:24:11.961Z,"7 km N of Eureka, CA",earthquake,1.06,0.55,0.16,2,automatic,nc,nc
 2024-04-25T05:07:52.290Z,33.8305,-117.6818333,8.21,1.29,ml,40,53,0.07003,0.16,ci,ci40557711,2024-04-25T05:18:37.330Z,"11 km WSW of Corona, CA",earthquake,0.2,0.42,0.224,32,automatic,ci,ci
-2024-04-25T05:07:36.968Z,-31.3197,-179.331,178.982,5.5,mww,84,57,2.386,0.66,us,us6000mtlr,2024-04-25T05:49:59.325Z,"Kermadec Islands region",earthquake,11.94,5.819,0.071,19,reviewed,us,us
+2024-04-25T05:07:36.968Z,-31.3197,-179.331,178.982,5.5,mww,84,57,2.386,0.66,us,us6000mtlr,2024-04-25T07:10:43.079Z,"Kermadec Islands region",earthquake,11.94,5.819,0.071,19,reviewed,us,us
 2024-04-25T05:02:40.720Z,19.3854999542236,-155.276168823242,1.05999994277954,1.73,ml,14,105,0.005335,0.129999995,hv,hv74184822,2024-04-25T05:05:18.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.209999993,0.17,6,automatic,hv,hv
 2024-04-25T04:59:03.160Z,38.8375015,-122.7976685,2.3,0.73,md,17,71,0.005792,0.02,nc,nc74040651,2024-04-25T05:00:39.566Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.75,0.08,17,automatic,nc,nc
 2024-04-25T04:52:48.961Z,32.017,-103.493,1.8631,1.6,ml,6,192,0.1,1.5,tx,tx2024icmn,2024-04-25T05:30:42.799Z,"30 km WSW of Jal, New Mexico",earthquake,0,4.99526333562469,0.5,6,automatic,tx,tx
@@ -257,11 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T08:01:10.657Z,60.2116,-152.2351,74.5,1.2,ml,,,,0.2,ak,ak0245abkm61,2024-04-24T08:02:33.343Z,"36 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-24T07:46:17.760Z,33.9523333,-116.7523333,17.11,0.52,ml,25,82,0.09458,0.15,ci,ci40556791,2024-04-24T07:52:22.503Z,"5 km NE of Cabazon, CA",earthquake,0.24,0.53,0.078,7,automatic,ci,ci
 2024-04-24T07:39:41.010Z,44.7941666666667,-111.056666666667,8.02,1.15,ml,14,149,0.03554,0.17,uu,uu80067271,2024-04-24T15:01:19.510Z,"10 km ENE of Hebgen Lake Estates, Montana",earthquake,0.44,0.7,0.240085448094538,3,reviewed,uu,uu
-2024-04-24T07:34:47.970Z,44.367,-116.117166666667,6.75,2.13,ml,10,89,0.06732,0.11,mb,mb90047938,2024-04-24T13:41:49.480Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.54,1.01,0.166696420795347,8,reviewed,mb,mb
-2024-04-24T07:30:53.147Z,23.7569,121.6312,13.231,4.9,mb,40,81,0.475,0.71,us,us6000mtey,2024-04-24T08:13:45.040Z,"24 km S of Hualien City, Taiwan",earthquake,3.35,0.762,0.06,88,reviewed,us,us
-2024-04-24T07:27:56.540Z,38.8363342,-122.7913361,1.71,0.22,md,11,51,0.002212,0.02,nc,nc74040176,2024-04-24T07:29:33.348Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.91,0.07,11,automatic,nc,nc
-2024-04-24T07:23:12.850Z,38.828167,-122.8571701,2.91,0.46,md,14,135,0.01482,0.02,nc,nc74040171,2024-04-24T07:24:48.313Z,"10 km WNW of The Geysers, CA",earthquake,0.48,0.64,0.28,14,automatic,nc,nc
-2024-04-24T07:22:10.516Z,28.7699,142.5303,10,5.4,mww,97,67,1.696,1.1,us,us6000mtex,2024-04-24T09:28:35.029Z,"Bonin Islands, Japan region",earthquake,3.66,1.829,0.063,24,reviewed,us,us
-2024-04-24T07:20:59.580Z,61.5776,-149.9764,25.7,1.8,ml,,,,0.62,ak,ak0245ab3cxy,2024-04-24T07:23:08.678Z,"6 km N of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-24T07:15:58.871Z,12.8943,-88.714,61.775,4.5,mb,56,152,0.686,1.21,us,us6000mteu,2024-04-24T14:34:33.829Z,"46 km SSW of Puerto El Triunfo, El Salvador",earthquake,6.04,10.048,0.037,207,reviewed,us,us
-2024-04-24T07:14:25.060Z,34.4508333,-118.0118333,8.85,1.12,ml,17,56,0.04667,0.08,ci,ci40556783,2024-04-24T13:33:52.264Z,"8 km SSW of Littlerock, CA",earthquake,0.15,0.31,0.435,26,reviewed,ci,ci
