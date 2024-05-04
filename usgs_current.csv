@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-04T05:53:49.460Z,38.8235015869141,-122.804496765137,2.40000009536743,1.07,md,17,54,0.004358,0.02,nc,nc75000856,2024-05-04T05:55:28.301Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.479999989,0.17,16,automatic,nc,nc
+2024-05-04T05:50:18.370Z,33.0143333,-116.4371667,11.27,0.85,ml,38,50,0.04791,0.17,ci,ci40738160,2024-05-04T05:56:31.378Z,"17 km ESE of Julian, CA",earthquake,0.21,0.44,0.109,14,automatic,ci,ci
 2024-05-04T05:23:41.450Z,61.7746,-149.9191,31.8,1.3,ml,,,,0.68,ak,ak0245qtakf5,2024-05-04T05:25:49.238Z,"6 km ENE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-04T04:49:24.220Z,19.2124996185303,-155.330169677734,6.21000003814697,1.74000001,md,7,341,0.1703,0.189999998,hv,hv74212887,2024-05-04T04:51:01.730Z,"15 km E of Pāhala, Hawaii",earthquake,19.38,16.5,0.170000002,3,automatic,hv,hv
 2024-05-04T04:44:15.149Z,63.9539,-153.514,235.9,2.2,ml,,,,0.66,ak,ak0245qstktm,2024-05-04T04:47:21.651Z,"59 km W of Lake Minchumina, Alaska",earthquake,,5,,,automatic,ak,ak
@@ -191,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-03T09:42:07.970Z,19.3889999389648,-155.25700378418,0.129999995231628,1.96,ml,20,46,0.006399,0.379999995,hv,hv74210652,2024-05-03T09:44:46.300Z,"6 km SSW of Volcano, Hawaii",earthquake,0.27,0.280000001,0.21,12,automatic,hv,hv
 2024-05-03T09:33:02.120Z,19.3848323822021,-155.241333007812,2.09999990463257,1.75,ml,17,70,0.009442,0.180000007,hv,hv74210627,2024-05-03T09:35:38.130Z,"6 km S of Volcano, Hawaii",earthquake,0.27,0.239999995,0.3,11,automatic,hv,hv
 2024-05-03T09:30:42.880Z,33.0316667,-116.4108333,10.87,1.53,ml,64,28,0.05098,0.19,ci,ci40737056,2024-05-03T17:50:25.710Z,"19 km ESE of Julian, CA",earthquake,0.15,0.31,0.212,28,reviewed,ci,ci
-2024-05-03T09:29:32.713Z,59.9765,-152.749,88.7,4.3,ml,,,,0.48,ak,ak0245p867wh,2024-05-04T04:36:06.486Z,"56 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2024-05-03T09:29:32.713Z,59.9765,-152.749,88.7,4.3,ml,,,,0.48,ak,ak0245p867wh,2024-05-04T05:55:01.397Z,"56 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-05-03T09:22:12.790Z,34.4073333,-117.7335,6.07,1.17,ml,12,132,0.1055,0.09,ci,ci40737048,2024-05-03T17:43:16.208Z,"8 km WSW of Pinon Hills, CA",earthquake,0.22,0.8,0.5,18,reviewed,ci,ci
 2024-05-03T09:19:54.430Z,19.372,-155.215,2.31,2.2,ml,46,100,0.001837,0.1,hv,hv74210592,2024-05-03T21:25:52.130Z,"8 km SSE of Volcano, Hawaii",earthquake,0.24,0.21,0.221112590935882,17,reviewed,hv,hv
 2024-05-03T09:16:35.540Z,38.8344993591309,-122.816329956055,1.38999998569489,0.62,md,6,143,0.01212,0.04,nc,nc75000331,2024-05-03T09:18:10.392Z,"8 km WNW of Cobb, CA",earthquake,0.47,1.54999995,0.2,8,automatic,nc,nc
@@ -245,8 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-03T06:13:21.534Z,37.3145,-114.6936,0,1.1,ml,9,149.2,0.299,0.1339,nn,nn00877145,2024-05-03T19:29:15.676Z,"37 km SSW of Caliente, Nevada",earthquake,,0,0.18,7,reviewed,nn,nn
 2024-05-03T06:10:44.670Z,19.3805,-155.2365,1.91,1.37,md,30,75,0.007911,0.1,hv,hv74210052,2024-05-03T20:42:18.250Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.16,0.195524082268956,20,reviewed,hv,hv
 2024-05-03T06:04:54.940Z,36.0176667,-117.7906667,1.66,0.91,ml,23,59,0.02193,0.12,ci,ci40736968,2024-05-03T19:44:55.053Z,"14 km NE of Little Lake, CA",earthquake,0.15,0.17,0.246,9,reviewed,ci,ci
-2024-05-03T05:55:41.330Z,64.6015,-149.5018,21.3,1.1,ml,,,,0.48,ak,ak0245p5y2tx,2024-05-03T05:57:06.261Z,"18 km W of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-05-03T05:54:58.643Z,-17.656,-69.6649,146.477,4.5,mb,19,129,0.188,0.56,us,us6000mvx3,2024-05-03T06:18:04.040Z,"34 km ENE of Palca, Peru",earthquake,6.32,4.155,0.127,18,reviewed,us,us
-2024-05-03T05:53:49.264Z,36.4596,70.7238,199,4,mb,41,98,2.334,0.59,us,us6000mvx5,2024-05-03T06:38:44.040Z,"46 km SSW of Jurm, Afghanistan",earthquake,9.12,10.041,0.108,23,reviewed,us,us
-2024-05-03T05:52:35.550Z,45.739,-123.20783333333334,20.33,0.9500000000000001,ml,19,101,0.1174,0.24,uw,uw61993807,2024-05-03T18:45:50.260Z,"13 km S of Vernonia, Oregon",earthquake,0.43,0.94,0.2403677428615621,4,reviewed,uw,uw
-2024-05-03T05:50:38.900Z,46.89033333333333,-121.93616666666667,11.93,0.23,ml,19,83,0.01393,0.1,uw,uw61993802,2024-05-03T18:10:39.150Z,"16 km NNE of Ashford, Washington",earthquake,0.3,0.46,0.11705702974046742,8,reviewed,uw,uw
