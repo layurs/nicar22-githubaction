@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-05T21:21:28.570Z,38.8448333740234,-122.762336730957,1.08000004291534,0.42,md,7,185,0.0112,0.02,nc,nc75001821,2024-05-05T21:23:06.313Z,"4 km NW of Cobb, CA",earthquake,0.49,0.600000024,0.28,8,automatic,nc,nc
+2024-05-05T21:21:13.758Z,63.5479,-148.8865,5.1,3.7,ml,,,,0.77,ak,ak0245sqcd0o,2024-05-05T21:23:17.269Z,"17 km N of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-05T21:03:06.833Z,58.3679,-154.9841,0,0.2,ml,,,,0.62,ak,ak0245sq8hln,2024-05-05T21:04:28.947Z,"94 km NNW of Karluk, Alaska",earthquake,,9.6,,,automatic,ak,ak
 2024-05-05T20:46:05.430Z,33.5785,-116.8063333,8.21,1.36,ml,50,25,0.03837,0.18,ci,ci40740336,2024-05-05T20:56:56.260Z,"13 km WNW of Anza, CA",earthquake,0.16,0.43,0.109,26,automatic,ci,ci
-2024-05-05T20:44:34.480Z,33.5803333,-116.8066667,8.56,0.74,ml,20,53,0.03795,0.11,ci,ci40740328,2024-05-05T20:50:36.537Z,"13 km WNW of Anza, CA",earthquake,0.19,0.44,0.163,11,automatic,ci,ci
-2024-05-05T20:37:12.049Z,-3.3145,130.9335,10,5.6,mww,81,33,1.371,0.65,us,us6000mwkd,2024-05-05T20:57:15.485Z,"157 km WSW of Fakfak, Indonesia",earthquake,5.19,1.771,0.069,20,reviewed,us,us
+2024-05-05T20:44:34.480Z,33.5803333,-116.8066667,8.56,0.74,ml,20,53,0.03795,0.11,ci,ci40740328,2024-05-05T21:02:12.096Z,"13 km WNW of Anza, CA",earthquake,0.19,0.44,0.163,11,reviewed,ci,ci
+2024-05-05T20:37:12.049Z,-3.3145,130.9335,10,5.6,mww,81,33,1.371,0.65,us,us6000mwkd,2024-05-05T21:03:07.915Z,"157 km WSW of Fakfak, Indonesia",earthquake,5.19,1.771,0.069,20,reviewed,us,us
 2024-05-05T20:21:00.657Z,31.596,-104.529,3.4186,1.7,ml,17,154,0.1,0.3,tx,tx2024ivyf,2024-05-05T20:41:03.013Z,"65 km SSW of Whites City, New Mexico",earthquake,0,1.6517747120141,0.1,12,automatic,tx,tx
 2024-05-05T20:18:57.256Z,60.1122,-153.2088,146.4,1.6,ml,,,,0.31,ak,ak0245spqdn0,2024-05-05T20:31:18.165Z,"61 km NE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-05-05T20:06:18.330Z,17.9113333333333,-66.8481666666667,12.5,3.09,md,24,194,0.06994,0.2,pr,pr71447828,2024-05-05T20:53:42.370Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.46,0.39,0.112034571131915,12,reviewed,pr,pr
@@ -12,18 +15,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-05T19:48:42.960Z,38.8176651000977,-122.826499938965,2.03999996185303,0.65,md,7,116,0.008604,0.01,nc,nc75001806,2024-05-05T19:50:18.785Z,"8 km NW of The Geysers, CA",earthquake,0.57,1.17999995,0.18,7,automatic,nc,nc
 2024-05-05T19:47:05.381Z,54.6781,-161.1711,46.693,3.9,mb,38,151,0.783,0.47,us,us6000mwk3,2024-05-05T20:53:10.214Z,"84 km SSW of Sand Point, Alaska",earthquake,5.94,2.506,0.142,13,reviewed,us,us
 2024-05-05T19:42:29.200Z,33.2211667,-116.0863333,10.75,2.42,ml,78,31,0.09456,0.19,ci,ci40740288,2024-05-05T20:57:09.746Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.13,0.34,0.136,26,automatic,ci,ci
-2024-05-05T19:41:45.890Z,33.6085014,-117.5388336,0.8,1.15,ml,20,119,0.1281,0.2,ci,ci40740280,2024-05-05T19:48:44.571Z,"4 km E of Coto De Caza, CA",earthquake,0.35,0.64,0.439,12,automatic,ci,ci
 2024-05-05T19:40:15.224Z,36.47738647,-97.00904083,3.817592621,1.56,ml,19,91.21430206,0.03698237985,0.4387390889,ok,ok2024ivwv,2024-05-05T19:46:54.799Z,"15 km E of Red Rock, Oklahoma",earthquake,2.973463656,2.229873211,0.22,13,automatic,ok,ok
 2024-05-05T19:33:39.626Z,-37.2111,-95.5391,10,4.9,mb,58,111,14.081,0.48,us,us6000mwjw,2024-05-05T19:57:17.040Z,"southeast of Easter Island",earthquake,12.18,1.897,0.036,237,reviewed,us,us
 2024-05-05T19:27:37.161Z,-37.3236,-94.7759,10,4.9,mb,49,218,13.503,0.69,us,us6000mwjy,2024-05-05T19:52:19.040Z,"West Chile Rise",earthquake,15.24,2.004,0.047,142,reviewed,us,us
 2024-05-05T19:20:54.990Z,19.3700008392334,-155.240005493164,0.109999999403954,1.86,ml,17,90,0.01876,0.180000007,hv,hv74214457,2024-05-05T19:23:34.780Z,"8 km S of Volcano, Hawaii",earthquake,0.29,0.239999995,0.44,8,automatic,hv,hv
-2024-05-05T19:16:55.380Z,34.0096667,-117.1045,12.73,1.8,ml,73,28,0.02656,0.17,ci,ci40740264,2024-05-05T19:27:49.920Z,"5 km WNW of Calimesa, CA",earthquake,0.13,0.35,0.095,27,automatic,ci,ci
+2024-05-05T19:16:55.380Z,34.0096667,-117.1045,12.73,1.8,ml,73,28,0.02656,0.17,ci,ci40740264,2024-05-05T21:03:01.870Z,"5 km WNW of Calimesa, CA",earthquake,0.13,0.35,0.095,27,reviewed,ci,ci
 2024-05-05T19:08:49.863Z,15.0412,119.9744,42.444,4.8,mb,51,100,7.805,0.59,us,us6000mwjn,2024-05-05T19:26:39.040Z,"10 km WSW of Poblacion, San Felipe, Philippines",earthquake,10.35,7.504,0.067,68,reviewed,us,us
 2024-05-05T19:02:50.240Z,38.8251647949219,-122.805335998535,2.47000002861023,0.77,md,22,40,0.004101,0.01,nc,nc75001766,2024-05-05T19:04:27.454Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.49000001,0.18,23,automatic,nc,nc
 2024-05-05T19:02:34.432Z,63.464,-151.4524,3.5,2.3,ml,,,,0.74,ak,ak0245sp1gtc,2024-05-05T19:10:29.040Z,"15 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-05T18:55:10.300Z,38.8344993591309,-122.815330505371,1.72000002861023,0.9,md,18,57,0.01626,0.02,nc,nc75001761,2024-05-05T18:56:47.634Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.610000014,0.19,19,automatic,nc,nc
-2024-05-05T18:51:14.630Z,33.7939987,-117.3653336,5.22,1.37,ml,14,190,0.1833,0.33,ci,ci40740256,2024-05-05T18:57:57.175Z,"8 km SW of Mead Valley, CA",earthquake,1.25,8.29,0.414,20,automatic,ci,ci
-2024-05-05T18:46:59.580Z,33.2360001,-116.7861633,19.89,1.22,ml,12,96,0.1971,0.17,ci,ci40740248,2024-05-05T20:57:30.173Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.79,1.96,0.25,18,automatic,ci,ci
 2024-05-05T18:44:59.165Z,51.9249,179.8161,167.5,2.6,ml,,,,0.46,ak,ak0245sop38m,2024-05-05T20:42:30.190Z,"244 km W of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2024-05-05T18:41:02.660Z,33.5661667,-116.9061667,9.18,1.07,ml,39,34,0.08426,0.16,ci,ci40740232,2024-05-05T18:47:18.158Z,"14 km NNW of Aguanga, CA",earthquake,0.16,0.47,0.122,26,automatic,ci,ci
 2024-05-05T18:33:10.406Z,-3.3132,130.9749,12.05,6.2,mww,92,30,1.331,0.62,us,us6000mwjd,2024-05-05T20:40:19.374Z,"153 km WSW of Fakfak, Indonesia",earthquake,6.01,3.692,0.046,45,reviewed,us,us
@@ -43,7 +43,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-05T17:13:34.650Z,38.8305015563965,-122.797668457031,2.04999995231628,0.2,md,8,139,0.00975,0.02,nc,nc75001701,2024-05-05T17:15:12.569Z,"7 km WNW of Cobb, CA",earthquake,0.48,1.34000003,0.07,9,automatic,nc,nc
 2024-05-05T17:12:55.594Z,-5.9695,-107.0706,10,5.4,mww,71,112,17.556,0.91,us,us6000mwij,2024-05-05T19:16:08.190Z,"central East Pacific Rise",earthquake,4.54,1.906,0.066,22,reviewed,us,us
 2024-05-05T17:11:26.609Z,31.584,-104.602,4.015,1.9,ml,18,181,0.1,1.1,tx,tx2024ivry,2024-05-05T17:45:11.826Z,"64 km NNE of Van Horn, Texas",earthquake,0,2.462309633439,0.2,14,automatic,tx,tx
-2024-05-05T17:08:26.310Z,33.3839989,-117.5309982,2.74,1.05,ml,15,211,0.1338,0.35,ci,ci40740176,2024-05-05T17:14:31.609Z,"9 km ESE of San Clemente, CA",earthquake,1.41,3.03,0.172,4,automatic,ci,ci
 2024-05-05T17:07:58.990Z,17.9566666666667,-66.8256666666667,16.46,2.44,md,4,211,0.05419,0.11,pr,pr71447823,2024-05-05T17:28:41.280Z,"4 km S of Indios, Puerto Rico",earthquake,1.06,0.67,0.0383295385025233,4,reviewed,pr,pr
 2024-05-05T17:03:53.210Z,33.5853333,-116.8035,8.19,0.52,ml,18,74,0.03393,0.1,ci,ci40740168,2024-05-05T17:09:54.610Z,"12 km WNW of Anza, CA",earthquake,0.22,0.42,0.054,5,automatic,ci,ci
 2024-05-05T17:00:49.725Z,12.4481,-90.2637,10,4.3,mb,26,189,1.438,0.49,us,us6000mwig,2024-05-05T17:16:37.040Z,"135 km SSW of Acajutla, El Salvador",earthquake,4.52,1.971,0.085,39,reviewed,us,us
@@ -65,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-05T15:07:55.930Z,19.2608337402344,-155.398666381836,30.1200008392334,1.97000003,md,36,145,0.07322,0.140000001,hv,hv74214342,2024-05-05T15:09:38.780Z,"10 km NE of Pāhala, Hawaii",earthquake,0.46,0.639999986,0.280000001,6,automatic,hv,hv
 2024-05-05T14:45:41.884Z,59.9783,-153.199,129.7,2,ml,,,,0.27,ak,ak0245smbj5i,2024-05-05T14:47:35.983Z,"55 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-05T14:42:21.252Z,63.1263,-150.8878,125.2,1.6,ml,,,,0.29,ak,ak0245smauel,2024-05-05T14:44:28.877Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-05-05T14:41:17.930Z,40.3286666666667,-125.142833333333,10,2.73,md,47,282,0.6133,0.28,nc,nc75001626,2024-05-05T21:12:37.368Z,"73 km WNW of Petrolia, CA",earthquake,0.95,31.61,0.227,36,reviewed,nc,nc
 2024-05-05T14:38:10.550Z,18.5341,-68.719,135,4.48,md,29,158,0.3382,0.34,pr,pr2024126002,2024-05-05T15:36:27.936Z,"9 km S of Salvaleón de Higüey, Dominican Republic",earthquake,1.87,1.16,0.16,24,reviewed,pr,pr
 2024-05-05T14:34:23.220Z,37.2593333333333,-118.097166666667,8.86,1.58,md,17,226,0.151,0.04,nc,nc75001621,2024-05-05T19:38:13.635Z,"16 km SW of Deep Springs, CA",earthquake,1.02,0.54,0.13,15,reviewed,nc,nc
 2024-05-05T14:34:17.167Z,-58.4923,-25.6474,69.994,5.4,mww,37,79,7.345,0.86,us,us6000mwhq,2024-05-05T16:38:19.991Z,"South Sandwich Islands region",earthquake,11.51,8.068,0.11,8,reviewed,us,us
@@ -219,7 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-04T21:37:42.210Z,45.187666666666665,-123.36016666666667,22.12,1.94,ml,22,55,0.07198,0.18,uw,uw61994287,2024-05-04T22:01:22.750Z,"10 km NNE of Sheridan, Oregon",earthquake,0.28,0.48,0.1904325218052776,15,reviewed,uw,uw
 2024-05-04T21:33:50.990Z,35.9408333,-117.685,2.78,1.51,ml,23,64,0.02896,0.14,ci,ci40739016,2024-05-05T14:09:53.633Z,"20 km E of Little Lake, CA",earthquake,0.24,0.31,0.177,22,reviewed,ci,ci
 2024-05-04T21:30:56.980Z,35.3971667,-118.2251667,7.95,1.48,ml,28,43,0.1554,0.14,ci,ci40739008,2024-05-04T21:38:21.142Z,"32 km SE of Bodfish, CA",earthquake,0.18,0.9,0.208,29,automatic,ci,ci
-2024-05-04T21:23:34.360Z,38.8291664123535,-122.811668395996,1.71000003814697,0.72,md,18,45,0.005896,0.02,nc,nc75001266,2024-05-04T21:25:09.759Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.560000002,0.22,19,automatic,nc,nc
-2024-05-04T21:17:49.904Z,59.5524,-151.9853,50.6,2.5,ml,,,,0.54,ak,ak0245r2s8ge,2024-05-04T21:44:53.040Z,"20 km NW of Seldovia, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-05-04T21:05:04.650Z,38.8320007324219,-122.818496704102,1.39999997615814,0.89,md,11,81,0.01082,0.01,nc,nc75001251,2024-05-04T21:06:39.240Z,"8 km NNW of The Geysers, CA",earthquake,0.32,0.680000007,0.25,13,automatic,nc,nc
-2024-05-04T21:04:49.950Z,33.5106667,-116.7545,4.51,0.7,ml,30,52,0.04563,0.17,ci,ci40738936,2024-05-04T21:10:58.809Z,"9 km WSW of Anza, CA",earthquake,0.18,0.34,0.154,15,automatic,ci,ci
