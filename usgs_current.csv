@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-12T12:06:26.540Z,35.6613333,-117.4858333,6.24,1.44,ml,31,93,0.05073,0.11,ci,ci40746456,2024-05-12T13:55:32.169Z,"14 km SSW of Searles Valley, CA",earthquake,0.16,0.39,0.174,21,reviewed,ci,ci
 2024-05-12T11:57:50.900Z,38.8354988098145,-122.807662963867,2.07999992370605,1.05,md,22,50,0.01223,0.01,nc,nc75005461,2024-05-12T11:59:26.696Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.469999999,0.1,22,automatic,nc,nc
 2024-05-12T11:43:20.440Z,38.8235015869141,-122.766830444336,2.17000007629395,0.21,md,9,115,0.007364,0.02,nc,nc75005446,2024-05-12T11:44:56.282Z,"4 km WNW of Cobb, CA",earthquake,0.38,0.689999998,0.05,10,automatic,nc,nc
-2024-05-12T11:39:14.137Z,14.4518,-92.363,75.426,6.4,mww,148,40,0.788,1.3,us,us6000my20,2024-05-12T15:40:01.649Z,"17 km WSW of Brisas Barra de Suchiate, Mexico",earthquake,6.98,4.585,0.031,103,reviewed,us,us
+2024-05-12T11:39:14.137Z,14.4518,-92.363,75.426,6.4,mww,148,40,0.788,1.3,us,us6000my20,2024-05-12T15:53:04.207Z,"17 km WSW of Brisas Barra de Suchiate, Mexico",earthquake,6.98,4.585,0.031,103,reviewed,us,us
 2024-05-12T11:36:07.980Z,34.038,-117.0138333,12.66,0.6,ml,27,49,0.08519,0.11,ci,ci40746432,2024-05-12T14:03:25.900Z,"3 km E of Yucaipa, CA",earthquake,0.16,0.51,0.283,13,reviewed,ci,ci
 2024-05-12T11:35:18.227Z,59.8459,-153.3995,118.4,1.5,ml,,,,0.64,ak,ak0246458gsu,2024-05-12T11:37:29.128Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-12T11:22:00.420Z,33.6835,-116.7156667,16.77,0.46,ml,21,95,0.02762,0.09,ci,ci40746424,2024-05-12T14:03:23.196Z,"6 km S of Idyllwild, CA",earthquake,0.19,0.37,0.063,7,reviewed,ci,ci
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-12T10:25:41.760Z,35.7666667,-117.5933333,10.48,0.8,ml,22,125,0.1299,0.15,ci,ci40746384,2024-05-12T10:31:35.099Z,"17 km W of Searles Valley, CA",earthquake,0.28,0.58,0.045,7,automatic,ci,ci
 2024-05-12T10:23:41.300Z,31.676,-104.194,6.1127,3.1,ml,43,61,0.1,0.1,tx,tx2024jhza,2024-05-12T10:47:03.146Z,"55 km NW of Toyah, Texas",earthquake,0.4126301045083625,0.6307507193551578,0.1,24,reviewed,tx,tx
 2024-05-12T10:19:07.653Z,11.8358,-73.4869,4.829,4.9,mb,79,53,0.984,0.99,us,us6000my1s,2024-05-12T13:58:00.492Z,"65 km NNW of Dibulla, Colombia",earthquake,5.52,4.778,0.036,239,reviewed,us,us
-2024-05-12T10:14:56.815Z,60.5206,-151.8235,73.2,3.7,ml,,,,0.36,ak,ak024644im5i,2024-05-12T10:48:03.040Z,"29 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-05-12T10:14:57.657Z,60.5171,-151.8033,67,3.7,ml,,,,0.64,ak,ak024644im5i,2024-05-12T15:57:01.470Z,"28 km WSW of Salamatof, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-05-12T10:12:44.213Z,57.9924,-156.4441,149.8,1.9,ml,,,,0.36,ak,ak024644i5qd,2024-05-12T10:55:27.040Z,"60 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-12T10:07:44.540Z,36.1203333,-117.8793333,7.94,0.96,ml,19,72,0.02,0.12,ci,ci40746376,2024-05-12T14:04:14.375Z,"10 km NE of Coso Junction, CA",earthquake,0.21,0.37,0.38,10,reviewed,ci,ci
 2024-05-12T10:02:35.665Z,60.201,-152.6127,99.6,1.6,ml,,,,0.29,ak,ak024644fzwu,2024-05-12T10:04:27.578Z,"55 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -161,5 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-11T16:27:37.916Z,37.3323,71.94,200.67,4.1,mb,29,79,2.145,0.54,us,us6000mxyq,2024-05-11T19:11:05.040Z,"38 km ESE of Khorugh, Tajikistan",earthquake,7.06,3.929,0.173,10,reviewed,us,us
 2024-05-11T16:23:25.140Z,38.832332611084,-122.810165405273,1.19000005722046,0.78,md,10,92,0.008925,0.02,nc,nc75005056,2024-05-11T16:25:00.425Z,"8 km WNW of Cobb, CA",earthquake,0.3,1.59000003,0.1,12,automatic,nc,nc
 2024-05-11T16:12:45.720Z,38.8223333333333,-122.783166666667,0.39,0.27,md,11,47,0.009266,0.01,nc,nc75005046,2024-05-12T07:13:07.020Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.74,0.137,11,reviewed,nc,nc
-2024-05-11T15:58:16.320Z,38.8383331298828,-122.811996459961,0.769999980926514,0.64,md,7,109,0.01499,0.05,nc,nc75005041,2024-05-11T15:59:51.383Z,"8 km WNW of Cobb, CA",earthquake,0.36,0.620000005,0.46,8,automatic,nc,nc
-2024-05-11T15:43:06.540Z,38.8235015869141,-122.793167114258,2.77999997138977,1.74,md,33,30,0.01321,0.03,nc,nc75005026,2024-05-11T15:46:16.240Z,"6 km NNW of The Geysers, CA",earthquake,0.18,0.319999993,0.11,35,automatic,nc,nc
