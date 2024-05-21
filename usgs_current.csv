@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-21T22:40:42.020Z,33.671,-116.774,18.12,1.52,ml,72,19,0.06398,0.19,ci,ci40595279,2024-05-21T22:49:37.148Z,"9 km SSW of Idyllwild, CA",earthquake,0.15,0.24,0.198,27,automatic,ci,ci
+2024-05-21T22:40:42.020Z,33.671,-116.774,18.12,1.52,ml,72,19,0.06398,0.19,ci,ci40595279,2024-05-21T22:51:17.300Z,"9 km SSW of Idyllwild, CA",earthquake,0.15,0.24,0.198,27,automatic,ci,ci
 2024-05-21T22:36:59.390Z,38.8368339538574,-122.803169250488,1.78999996185303,0.74,md,12,82,0.01014,0.03,nc,nc75010316,2024-05-21T22:38:35.084Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.540000021,0.16,13,automatic,nc,nc
 2024-05-21T22:35:23.900Z,38.8370018005371,-122.80249786377,2.01999998092651,0.71,md,10,86,0.009595,0.01,nc,nc75010311,2024-05-21T22:37:00.109Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.810000002,0.12,10,automatic,nc,nc
 2024-05-21T22:35:15.013Z,57.4067,-155.527,3.5,1.9,ml,,,,0.32,ak,ak0246j7mcnh,2024-05-21T22:36:42.025Z,"66 km WSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-21T15:33:12.640Z,32.9996667,-116.3688333,5.51,0.96,ml,35,61,0.04479,0.16,ci,ci40594759,2024-05-21T15:39:29.754Z,"23 km ESE of Julian, CA",earthquake,0.18,0.49,0.187,13,automatic,ci,ci
 2024-05-21T15:29:38.767Z,46.3091,-111.2981,10.132,2.6,ml,31,73,0.341,0.6,us,us6000n01q,2024-05-21T17:58:47.040Z,"17 km E of Townsend, Montana",earthquake,2.32,7.457,0.043,72,reviewed,us,us
 2024-05-21T15:29:17.200Z,38.7781677246094,-122.857002258301,15.5,1.18,md,23,216,0.01247,0.24,nc,nc75010176,2024-05-21T15:30:52.148Z,"9 km WNW of The Geysers, CA",earthquake,1.99,4.75,0.12,20,automatic,nc,nc
-2024-05-21T15:23:24.379Z,44.274,-73.7164,7.649,2.1,mb_lg,20,63,0.695,0.56,us,us6000n01p,2024-05-21T22:21:29.709Z,"11 km WNW of Elizabethtown, New York",earthquake,1.61,6.727,0.18,8,reviewed,us,us
+2024-05-21T15:23:24.379Z,44.274,-73.7164,7.649,2.1,mb_lg,20,63,0.695,0.56,us,us6000n01p,2024-05-21T23:06:31.222Z,"11 km WNW of Elizabethtown, New York",earthquake,1.61,6.727,0.18,8,reviewed,us,us
 2024-05-21T15:14:31.790Z,38.8368339538574,-122.805999755859,2.19000005722046,0.58,md,9,61,0.01233,0.01,nc,nc75010171,2024-05-21T15:16:07.135Z,"7 km WNW of Cobb, CA",earthquake,0.48,1.66999996,0.41,10,automatic,nc,nc
 2024-05-21T15:13:09.810Z,37.3447,-114.3182,9.5,1.5,ml,8,154.45999999999998,0.369,0.1905,nn,nn00877974,2024-05-21T17:32:46.979Z,"34 km SSE of Caliente, Nevada",earthquake,,6.1,0.63,6,reviewed,nn,nn
 2024-05-21T15:10:51.220Z,37.3536666666667,-114.248166666667,14.98,1.55,ml,7,155,0.3282,0.12,uu,uu80070076,2024-05-21T17:23:34.825Z,"37 km SE of Caliente, Nevada",earthquake,0.61,0.51,0.237487481492491,2,reviewed,uu,uu
@@ -143,6 +143,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-21T08:31:58.788Z,-2.2173,138.1846,31.333,5.4,mb,71,35,2.533,0.96,us,us6000n004,2024-05-21T10:36:21.658Z,"260 km ESE of Biak, Indonesia",earthquake,7.02,3.982,0.072,65,reviewed,us,us
 2024-05-21T08:21:10.303Z,-21.9146,-68.5175,107.647,5.2,mb,79,32,1.079,1.73,us,us6000n003,2024-05-21T08:40:09.040Z,"73 km NE of Calama, Chile",earthquake,3.97,4.825,0.024,590,reviewed,us,us
 2024-05-21T08:08:08.020Z,33.309,-116.1523333,10.72,0.95,ml,43,45,0.1424,0.21,ci,ci40594519,2024-05-21T08:14:21.515Z,"18 km SSW of Oasis, CA",earthquake,0.21,0.62,0.114,17,automatic,ci,ci
+2024-05-21T07:53:26.520Z,53.8855,-166.941166666667,5.91,-0.42,ml,7,204,0.07081,0.11,av,av93134411,2024-05-21T23:03:49.070Z,"26 km W of Dutch Harbor, Alaska",earthquake,0.53,0.98,0.14275320225822,6,reviewed,av,av
+2024-05-21T07:48:53.980Z,58.241,-155.163833333333,4.34,-0.37,ml,7,146,0.0701,0.1,av,av93134396,2024-05-21T22:56:21.090Z,"85 km NNW of Karluk, Alaska",earthquake,0.31,0.81,0.216470915558407,9,reviewed,av,av
 2024-05-21T07:38:42.050Z,19.1609992980957,-155.503005981445,32.560001373291,2.16000009,md,34,189,0.03905,0.159999996,hv,hv74242782,2024-05-21T07:40:31.060Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.61,0.860000014,0.400000006,6,automatic,hv,hv
 2024-05-21T07:37:42.670Z,61.2071666666667,-152.269,10.89,-0.49,ml,5,184,0.03624,0.1,av,av93134381,2024-05-21T22:49:13.980Z,"62 km WNW of Tyonek, Alaska",earthquake,0.98,0.69,0.521265954027265,6,reviewed,av,av
 2024-05-21T07:34:33.490Z,33.4206667,-116.9141667,6.6,0.42,ml,33,60,0.06102,0.22,ci,ci40594511,2024-05-21T07:44:39.137Z,"5 km WSW of Aguanga, CA",earthquake,0.25,0.79,0.101,14,automatic,ci,ci
@@ -252,9 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T23:20:30.370Z,38.8139991760254,-122.83699798584,2.20000004768372,0.71,md,5,135,0.007974,0.01,nc,nc75009906,2024-05-20T23:22:07.604Z,"8 km NW of The Geysers, CA",earthquake,0.86,1.73000002,0.31,7,automatic,nc,nc
 2024-05-20T23:20:09.570Z,37.3913333333333,-118.680833333333,11.25,1.05,md,17,90,0.1011,0.04,nc,nc75009911,2024-05-21T06:31:36.368Z,"8 km W of Round Valley, CA",earthquake,0.37,1.35,0.133,12,reviewed,nc,nc
 2024-05-20T23:13:28.361Z,65.0022,-147.4243,5,1.6,ml,,,,0.49,ak,ak0246hkjr1g,2024-05-20T23:15:08.186Z,"10 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-20T23:11:18.664Z,62.3593,-149.0991,15.9,1.1,ml,,,,0.26,ak,ak0246hkjauy,2024-05-20T23:12:45.376Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-20T23:08:11.314Z,60.0773,-152.38,57.1,1.5,ml,,,,0.97,ak,ak0246hkimi8,2024-05-20T23:10:35.915Z,"38 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-05-20T23:06:39.864Z,62.3622,-148.9988,0,1.6,ml,,,,1.17,ak,ak0246hki9wy,2024-05-20T23:08:42.193Z,"49 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-20T22:55:24.820Z,38.8131675720215,-122.830001831055,1.16999995708466,0.96,md,11,93,0.004341,0.04,nc,nc75009901,2024-05-20T22:57:03.461Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.589999974,0.23,14,automatic,nc,nc
-2024-05-20T22:52:26.103Z,36.9203,-116.1268,4.5,0.4,ml,20,63.769999999999996,0.041,0.1483,nn,nn00877941,2024-05-21T02:59:22.152Z,"56 km NW of Indian Springs, Nevada",earthquake,,1.5,0.47,11,reviewed,nn,nn
-2024-05-20T22:51:42.948Z,61.8057,-149.9779,23.6,1.1,ml,,,,0.88,ak,ak0246hk6hs3,2024-05-20T22:54:10.819Z,"7 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
