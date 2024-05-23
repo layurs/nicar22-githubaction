@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-23T09:24:42.200Z,38.8264999389648,-122.814666748047,2.30999994277954,0.42,md,14,48,0.004742,0.01,nc,nc75010921,2024-05-23T09:26:18.087Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.850000024,0.33,14,automatic,nc,nc
+2024-05-23T09:18:17.090Z,38.8061676025391,-122.835502624512,0.990000009536743,0.8,md,9,107,0.003624,0.03,nc,nc75010916,2024-05-23T09:19:53.271Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.699999988,0.26,10,automatic,nc,nc
+2024-05-23T09:07:57.637Z,63.5307,-147.713,16.2,1.1,ml,,,,0.42,ak,ak0246masi0j,2024-05-23T09:10:19.355Z,"63 km ENE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-23T08:58:00.868Z,60.9067,-152.4168,13.4,1.6,ml,,,,0.54,ak,ak0246mahvjq,2024-05-23T09:00:13.701Z,"65 km WNW of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-23T08:57:11.850Z,38.8301658630371,-122.812164306641,1.89999997615814,0.71,md,8,83,0.006955,0.02,nc,nc75010911,2024-05-23T08:58:48.975Z,"8 km NNW of The Geysers, CA",earthquake,0.38,1.23000002,0.1,10,automatic,nc,nc
 2024-05-23T08:45:19.230Z,38.8106651306152,-122.820831298828,5.92999982833862,0.89,md,15,54,0.006764,0.08,nc,nc75010906,2024-05-23T08:46:58.784Z,"7 km NW of The Geysers, CA",earthquake,0.57,0.829999983,0.18,14,automatic,nc,nc
@@ -9,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-23T07:52:19.130Z,35.741,-117.5555,9.43,1.08,ml,27,127,0.1261,0.13,ci,ci40597191,2024-05-23T07:58:24.438Z,"14 km WSW of Searles Valley, CA",earthquake,0.21,0.54,0.182,11,automatic,ci,ci
 2024-05-23T07:48:50.804Z,31.616,-104.244,2.6135,2.3,ml,15,69,0.1,0.6,tx,tx2024kbwk,2024-05-23T08:13:26.367Z,"54 km NW of Toyah, Texas",earthquake,0,1.67852317021809,0.2,11,automatic,tx,tx
 2024-05-23T07:30:15.200Z,33.0623333,-116.1818333,6.44,1.18,ml,50,52,0.09383,0.17,ci,ci40597183,2024-05-23T07:36:13.137Z,"10 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.62,0.207,28,automatic,ci,ci
+2024-05-23T07:28:19.370Z,37.4165,-118.598333333333,8.23,0.79,md,8,152,0.06912,0.02,nc,nc75010901,2024-05-23T09:15:28.409Z,"0 km  of Round Valley, CA",earthquake,1.65,4.34,0.161,7,reviewed,nc,nc
 2024-05-23T07:22:12.452Z,60.0615,-153.4675,133.2,1.5,ml,,,,0.21,ak,ak0246m9or25,2024-05-23T07:23:44.155Z,"47 km NE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-05-23T07:16:43.080Z,33.6363333,-116.8085,10.04,0.51,ml,13,156,0.03339,0.31,ci,ci40597167,2024-05-23T07:23:20.908Z,"14 km SW of Idyllwild, CA",earthquake,1.6,2.15,0.227,12,automatic,ci,ci
 2024-05-23T07:16:42.360Z,33.6846667,-116.7803333,16.82,0.64,ml,12,240,0.09174,0.13,ci,ci40597159,2024-05-23T07:22:48.223Z,"8 km SW of Idyllwild, CA",earthquake,1,0.76,0.119,13,automatic,ci,ci
@@ -190,13 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-22T09:47:58.400Z,37.0115,-83.2885,12.54,2.74,md,16,97,0.2479,0.27,se,se60582551,2024-05-22T19:55:49.321Z,"18 km SSE of Hyden, Kentucky",earthquake,0.54,2.07,0.0437409217472897,11,reviewed,se,se
 2024-05-22T09:42:07.929Z,-19.8885,-177.8475,560.719,4.4,mb,57,41,2.786,0.72,us,us6000n08q,2024-05-22T10:28:36.040Z,"Fiji region",earthquake,12.21,8.231,0.079,47,reviewed,us,us
 2024-05-22T09:41:06.713Z,31.667,-104.2,8.1506,1.7,ml,24,58,0.1,0.4,tx,tx2024kaep,2024-05-22T19:31:21.923Z,"54 km NW of Toyah, Texas",earthquake,0.90213354159433,1.047367690991868,0.2,18,reviewed,tx,tx
-2024-05-22T09:39:53.628Z,64.8425,-149.1389,15.6,0.8,ml,,,,0.72,ak,ak0246kng04i,2024-05-22T09:42:14.848Z,"26 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-22T09:36:26.420Z,33.682,-116.7633333,6.14,0.2,ml,23,72,0.05026,0.13,ci,ci40595655,2024-05-22T13:19:16.848Z,"8 km SSW of Idyllwild, CA",earthquake,0.21,0.41,0.13,7,reviewed,ci,ci
-2024-05-22T09:34:21.088Z,44.7628,10.1896,62.07,3,ml,26,62,0.697,0.59,us,us6000n08j,2024-05-22T10:25:11.405Z,"2 km WNW of Collecchio, Italy",earthquake,2.96,14.273,0.071,26,reviewed,us,us
-2024-05-22T09:32:25.260Z,4.0679,122.5239,589.809,4.4,mb,31,93,3.414,0.55,us,us6000n08k,2024-05-22T10:20:46.040Z,"227 km SSE of Tabiauan, Philippines",earthquake,11.72,10.144,0.117,21,reviewed,us,us
-2024-05-22T09:28:35.090Z,-6.3288,147.2464,67.916,4.5,mb,33,128,3.057,0.69,us,us6000n08i,2024-05-22T10:17:54.040Z,"51 km NNE of Lae, Papua New Guinea",earthquake,9.16,6.215,0.111,24,reviewed,us,us
-2024-05-22T09:24:49.634Z,38.862,-119.6589,4.9,0.7,ml,7,245.95000000000002,0.05,0.1549,nn,nn00878012,2024-05-22T14:06:06.221Z,"1 km W of Carter Springs, Nevada",earthquake,,2.1,0.07,2,reviewed,nn,nn
-2024-05-22T09:18:45.050Z,38.8190002441406,-122.823333740234,1.83000004291534,0.8,md,7,92,0.01002,0.01,nc,nc75010466,2024-05-22T09:20:21.261Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.19000006,0.31,7,automatic,nc,nc
-2024-05-22T09:17:13.010Z,41.5765,-112.410166666667,7.26,1.69,ml,24,51,0.02322,0.14,uu,uu80070156,2024-05-22T13:37:08.480Z,"16 km SW of Thatcher, Utah",earthquake,0.25,0.6,0.222226141120513,4,reviewed,uu,uu
-2024-05-22T09:15:02.276Z,36.6893,-115.7041,3.2,0.8,ml,19,291.65,0.209,0.1926,nn,nn00878007,2024-05-22T16:30:03.938Z,"13 km NNW of Indian Springs, Nevada",earthquake,,15.6,0.21,6,reviewed,nn,nn
-2024-05-22T09:11:10.400Z,38.8196678161621,-122.824333190918,1.98000001907349,0.76,md,6,96,0.009037,0.01,nc,nc75010456,2024-05-22T09:12:46.319Z,"8 km NW of The Geysers, CA",earthquake,0.78,1.13,0.25,6,automatic,nc,nc
