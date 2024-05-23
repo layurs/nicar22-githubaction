@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-23T03:24:20.100Z,34.2799988,-118.5736694,7.82,2,ml,67,24,0.01194,0.29,ci,ci40596975,2024-05-23T03:43:57.900Z,"4 km NE of Chatsworth, CA",earthquake,0.29,0.81,0.226,25,automatic,ci,ci
+2024-05-23T03:54:21.646Z,59.5548,-153.0554,79.2,1.2,ml,,,,0.17,ak,ak0246m7hw9g,2024-05-23T03:56:08.355Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-05-23T03:48:21.438Z,36.6668,-116.29,12.8,0.1,ml,12,94.59,0.045,0.2576,nn,nn00878048,2024-05-23T03:50:01.797Z,"49 km ESE of Beatty, Nevada",earthquake,,0.9,0.2,7,automatic,nn,nn
+2024-05-23T03:24:20.050Z,34.285,-118.5748333,7.69,1.96,ml,78,23,0.0148,0.24,ci,ci40596975,2024-05-23T04:01:07.398Z,"4 km NE of Chatsworth, CA",earthquake,0.17,0.47,0.14,26,automatic,ci,ci
 2024-05-23T02:44:06.053Z,63.2318,-150.6904,124.5,1.4,ml,,,,0.38,ak,ak0246m6uaal,2024-05-23T02:47:38.598Z,"62 km SE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-05-23T02:42:41.570Z,38.829833984375,-122.813163757324,2.07999992370605,0.25,md,8,82,0.006868,0.01,nc,nc75010796,2024-05-23T02:44:17.209Z,"8 km NNW of The Geysers, CA",earthquake,0.42,0.99000001,0.12,8,automatic,nc,nc
 2024-05-23T02:38:58.600Z,38.8301658630371,-122.81233215332,1.87999999523163,1.83,md,28,41,0.006987,0.03,nc,nc75010791,2024-05-23T02:41:56.040Z,"8 km NNW of The Geysers, CA",earthquake,0.18,0.289999992,0.12,33,automatic,nc,nc
@@ -86,12 +88,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-22T15:48:41.104Z,61.2092,-150.4048,18.6,1.3,ml,,,,0.47,ak,ak0246kr2iyi,2024-05-22T20:16:46.563Z,"27 km W of Anchorage, Alaska",earthquake,,2.3,,,reviewed,ak,ak
 2024-05-22T15:44:56.789Z,-17.1701,-171.8796,10,5,mb,37,73,2.653,1.35,us,us6000n09y,2024-05-22T16:07:30.040Z,"244 km ESE of Hihifo, Tonga",earthquake,4.5,1.846,0.099,33,reviewed,us,us
 2024-05-22T15:44:38.810Z,36.038501739502,-120.598663330078,3.22000002861023,1.18,md,12,116,0.03031,0.03,nc,nc75010621,2024-05-22T15:46:15.875Z,"22 km NNW of Parkfield, CA",earthquake,0.37,0.889999986,0.25,6,automatic,nc,nc
-2024-05-22T15:43:34.330Z,55.58,-156.843,47.7,2.4,ml,,,,0.55,ak,ak0246kr1fzk,2024-05-22T20:13:38.121Z,"125 km SE of Chignik, Alaska",earthquake,,24,,,reviewed,ak,ak
+2024-05-22T15:43:34.330Z,55.58,-156.843,47.7,2.4,ml,,,,0.55,ak,ak0246kr1fzk,2024-05-23T03:47:59.040Z,"125 km SE of Chignik, Alaska",earthquake,,24,,,reviewed,ak,ak
 2024-05-22T15:42:18.050Z,38.8396682739258,-122.796333312988,1.6599999666214,0.7,md,8,86,0.004844,0.01,nc,nc75010616,2024-05-22T15:43:56.015Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.30999994,0.2,8,automatic,nc,nc
 2024-05-22T15:35:01.960Z,35.4868333,-118.2948333,2.72,0.93,ml,25,63,0.1355,0.15,ci,ci40596015,2024-05-22T15:41:03.533Z,"21 km ESE of Bodfish, CA",earthquake,0.18,0.79,0.093,10,automatic,ci,ci
 2024-05-22T15:34:55.308Z,63.8553,-149.4818,139.3,1,ml,,,,0.11,ak,ak0246kqzjay,2024-05-22T15:36:33.012Z,"25 km W of Healy, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-05-22T15:13:57.770Z,41.575,-112.434,6.5,1.4,md,17,89,0.005307,0.14,uu,uu80070176,2024-05-22T16:02:48.400Z,"17 km SW of Thatcher, Utah",earthquake,0.29,0.63,0.123872637880518,13,reviewed,uu,uu
 2024-05-22T15:13:12.420Z,38.8011665344238,-122.780830383301,4.32999992370605,0.28,md,6,136,0.00971,0.01,nc,nc75010596,2024-05-22T15:14:50.853Z,"3 km NNW of The Geysers, CA",earthquake,0.83,2.98000002,0.05,8,automatic,nc,nc
+2024-05-22T15:12:02.177Z,44.359,-116.1368,5.983,3,ml,20,61,0.338,0.91,us,us6000n09s,2024-05-23T03:59:08.040Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,1.94,4.694,0.057,40,reviewed,us,us
 2024-05-22T15:11:20.751Z,31.604,-103.955,8.6121,2,ml,10,71,0,0.1,tx,tx2024kapm,2024-05-22T19:54:34.997Z,"35 km WSW of Mentone, Texas",earthquake,1.1957083266844337,0.6274788533436115,0.1,19,reviewed,tx,tx
 2024-05-22T14:54:21.950Z,37.5018348693848,-118.872665405273,2.47000002861023,1.79,md,18,182,0.0946,0.03,nc,nc75010576,2024-05-22T14:55:56.782Z,"18 km SSE of Mammoth Lakes, CA",earthquake,0.65,1.36000001,0.13,17,automatic,nc,nc
 2024-05-22T14:49:10.930Z,38.8361663818359,-122.795501708984,1.86000001430511,1.83,md,29,47,0.004609,0.03,nc,nc75010571,2024-05-22T14:52:26.460Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.340000004,0.15,32,automatic,nc,nc
@@ -186,7 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-22T04:45:10.530Z,38.8166656494141,-122.822830200195,2.45000004768372,0.78,md,15,72,0.009231,0.02,nc,nc75010416,2024-05-22T04:46:45.370Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.680000007,0.2,16,automatic,nc,nc
 2024-05-22T04:36:12.000Z,38.8250007629395,-122.762832641602,2.22000002861023,0.69,md,8,129,0.007773,0.03,nc,nc75010411,2024-05-22T04:37:50.341Z,"3 km WNW of Cobb, CA",earthquake,0.48,0.720000029,0.13,9,automatic,nc,nc
 2024-05-22T04:24:00.790Z,38.8071670532227,-122.821662902832,2.5699999332428,1.12,md,28,55,0.006112,0.04,nc,nc75010406,2024-05-22T04:25:39.563Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.389999986,0.17,27,automatic,nc,nc
-2024-05-22T04:06:28.890Z,61.2763333333333,-152.262833333333,3.38,-0.09,ml,8,108,0.0556,0.12,av,av93135381,2024-05-22T21:38:28.080Z,"64 km WNW of Tyonek, Alaska",earthquake,0.48,0.59,0.284517080748894,8,reviewed,av,av
-2024-05-22T04:03:20.955Z,61.6244,-150.7849,45.2,1.7,ml,,,,0.48,ak,ak0246kk91sv,2024-05-22T04:07:31.291Z,"17 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-05-22T03:58:20.686Z,62.4147,-149.4478,49.5,1.4,ml,,,,0.51,ak,ak0246kjzek4,2024-05-22T04:00:20.574Z,"33 km E of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-05-22T03:50:34.691Z,63.3082,-151.7699,0,1.6,ml,,,,0.99,ak,ak0246kjxpwt,2024-05-22T03:52:36.485Z,"26 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
