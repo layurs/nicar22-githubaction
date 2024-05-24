@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-24T06:15:58.970Z,34.1764984,-117.4551697,9.53,1.06,ml,25,58,0.06161,0.2,ci,ci40598399,2024-05-24T06:18:01.381Z,"7 km SW of Devore, CA",earthquake,0.49,0.72,0.132,6,automatic,ci,ci
+2024-05-24T06:43:32.510Z,47.50483322143555,-122.9921646118164,16.4300003051758,1.720449686050415,ml,20,113,,0.109999999,uw,uw62008571,2024-05-24T06:46:22.310Z,"13 km WNW of Belfair, Washington",earthquake,0.46,0.879999995,0.23048217594623566,22,automatic,uw,uw
+2024-05-24T06:36:19.844Z,62.5466,-149.7795,5.3,1.2,ml,,,,1.01,ak,ak0246nwpoj7,2024-05-24T06:38:49.659Z,"19 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-24T06:23:26.192Z,62.1724,-149.3961,20.8,1.3,ml,,,,0.32,ak,ak0246nwmwq3,2024-05-24T06:25:52.318Z,"23 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-05-24T06:15:59.020Z,34.1621667,-117.4701667,10.99,1.14,ml,34,30,0.06978,0.16,ci,ci40598399,2024-05-24T06:22:16.160Z,"7 km N of Fontana, CA",earthquake,0.19,0.29,0.2,31,automatic,ci,ci
 2024-05-24T06:11:52.850Z,38.8315010070801,-122.791000366211,1.89999997615814,0.35,md,10,96,0.006917,0.01,nc,nc75011541,2024-05-24T06:13:29.798Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.99000001,0.31,10,automatic,nc,nc
 2024-05-24T05:46:39.684Z,63.4828,-148.4394,3.2,1.1,ml,,,,0.64,ak,ak0246nw6fmo,2024-05-24T05:48:41.578Z,"27 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-24T05:45:06.129Z,36.7125,-116.0538,7,0,ml,10,120.53999999999999,0.039,0.0433,nn,nn00878093,2024-05-24T05:46:47.354Z,"37 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.31,6,automatic,nn,nn
 2024-05-24T05:44:32.880Z,34.0028333,-117.1946667,12.41,0.8,ml,42,51,0.07568,0.18,ci,ci40598367,2024-05-24T05:52:31.654Z,"6 km S of Redlands, CA",earthquake,0.18,0.58,0.159,20,automatic,ci,ci
-2024-05-24T05:43:33.352Z,31.581,-104.495,4.3292,1.5,ml,7,140,0.1,0.4,tx,tx2024kdnv,2024-05-24T05:56:45.134Z,"66 km S of Whites City, New Mexico",earthquake,0,3.4523822796949,0.2,7,automatic,tx,tx
+2024-05-24T05:43:33.589Z,31.57,-104.647,2.3163,1.7,ml,16,191,0.2,1.1,tx,tx2024kdnv,2024-05-24T06:27:00.396Z,"61 km NNE of Van Horn, Texas",earthquake,0,2.50835415228466,0.1,12,automatic,tx,tx
 2024-05-24T05:43:10.070Z,18.8243333333333,-67.1075,9.61,3.16,md,8,301,0.6455,0.37,pr,pr71450003,2024-05-24T06:03:57.950Z,"36 km N of San Antonio, Puerto Rico",earthquake,2.45,4.32,0.0724182522174694,3,reviewed,pr,pr
-2024-05-24T05:41:45.543Z,31.586,-104.558,2.4327,1.5,ml,8,166,0.1,0.5,tx,tx2024kdnt,2024-05-24T05:56:40.378Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.80187413641299,0.1,6,automatic,tx,tx
 2024-05-24T05:39:08.760Z,34.033,-116.7766667,12.54,0.9,ml,28,78,0.02593,0.16,ci,ci40598359,2024-05-24T05:52:31.842Z,"13 km N of Cabazon, CA",earthquake,0.28,0.54,0.14,18,automatic,ci,ci
 2024-05-24T05:30:38.280Z,33.8108333,-117.63,4.81,1.06,ml,33,61,0.02333,0.21,ci,ci40598351,2024-05-24T05:47:56.312Z,"9 km SW of Corona, CA",earthquake,0.22,0.34,0.235,34,automatic,ci,ci
 2024-05-24T05:28:01.738Z,31.588,-104.526,3.1646,1.9,ml,17,153,0.1,0.4,tx,tx2024kdng,2024-05-24T05:46:10.546Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.59068519763166,0.1,13,automatic,tx,tx
@@ -127,7 +129,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-23T19:01:53.311Z,61.2562,-147.4787,34,1.5,ml,,,,0.56,ak,ak0246mgpjfn,2024-05-23T19:03:58.643Z,"61 km NW of Tatitlek, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-05-23T19:01:31.830Z,46.10466666666667,-119.52083333333333,-0.08,0.64,md,6,301,0.158,0.16,uw,uw62008386,2024-05-23T21:42:10.370Z,"17 km S of Benton City, Washington",explosion,6.55,31.61,0.1411262417242769,5,reviewed,uw,uw
 2024-05-23T18:27:26.420Z,38.8306655883789,-122.820167541504,1.9099999666214,0.23,md,11,76,0.01072,0.01,nc,nc75011166,2024-05-23T18:29:03.955Z,"8 km NNW of The Geysers, CA",earthquake,0.33,0.819999993,0.1,11,automatic,nc,nc
-2024-05-23T18:23:30.510Z,53.339,-168.298666666667,5.27,1.17,ml,5,324,0.0839,0.28,av,av93137111,2024-05-24T05:34:23.570Z,"58 km NE of Nikolski, Alaska",earthquake,2.02,6.07,0.212029564816773,5,reviewed,av,av
 2024-05-23T18:21:16.959Z,63.1631,-150.5963,112.1,1.7,ml,,,,0.44,ak,ak0246mg8bcf,2024-05-23T18:23:17.074Z,"70 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-23T18:16:04.430Z,36.886833190918,-121.62166595459,1.95000004768372,1.86,md,13,103,0.05452,0.03,nc,nc75011161,2024-05-23T18:17:39.766Z,"2 km ESE of Aromas, CA",earthquake,0.31,0.790000021,0.13,6,automatic,nc,nc
 2024-05-23T18:15:29.950Z,60.7719,-151.8271,77.6,1.4,ml,,,,0.11,ak,ak0246mg721v,2024-05-23T18:17:44.378Z,"30 km WNW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -259,8 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-23T07:04:00.250Z,57.0685,-135.7235,7.25,0.69,ml,4,174,0.01276,0.24,av,av93136506,2024-05-23T23:50:21.140Z,"23 km W of Sitka, Alaska",earthquake,2.38,1.13,0.267127000679358,4,reviewed,av,av
 2024-05-23T07:00:19.835Z,31.64,-104.506,5.741,1.9,ml,20,74,0,0.1,tx,tx2024kbuu,2024-05-23T13:23:40.224Z,"60 km SSW of Whites City, New Mexico",earthquake,1.2140821201040313,0.4961629285282463,0.2,13,reviewed,tx,tx
 2024-05-23T06:50:22.402Z,37.2881,-116.0371,6.9,0.8,ml,12,266.62,0.084,0.1387,nn,nn00878079,2024-05-24T02:05:43.466Z,"47 km SSW of Rachel, Nevada",earthquake,,2,0.35,9,reviewed,nn,nn
-2024-05-23T06:39:35.538Z,37.2965,-116.0257,3.7,0.5,ml,15,252.33000000000004,0.097,0.1344,nn,nn00878078,2024-05-24T02:05:37.273Z,"45 km SSW of Rachel, Nevada",earthquake,,3.8,0.31,11,reviewed,nn,nn
-2024-05-23T06:38:13.527Z,57.8883,-156.265,118.7,2,ml,,,,0.34,ak,ak0246m96qzs,2024-05-23T06:40:51.958Z,"75 km ESE of Egegik, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-05-23T06:29:57.220Z,62.3109,-149.1995,0,1.7,ml,,,,0.67,ak,ak0246m94wx6,2024-05-23T06:31:47.796Z,"37 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-23T06:28:06.830Z,37.2746,-116.033,5.7,1.4,ml,30,166.56,0.079,0.1811,nn,nn00878053,2024-05-24T02:04:36.155Z,"48 km SSW of Rachel, Nevada",earthquake,,1.1,0.29,19,reviewed,nn,nn
-2024-05-23T06:24:46.331Z,37.2675,-116.0277,6.8,1.4,ml,31,137.74,0.079,0.1949,nn,nn00878050,2024-05-24T02:04:23.402Z,"48 km SSW of Rachel, Nevada",earthquake,,0.9,0.29,22,reviewed,nn,nn
