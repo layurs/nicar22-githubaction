@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T16:29:48.180Z,31.676,-104.414,4.5705,2.1,ml,16,69,0,0.2,tx,tx2024kgep,2024-05-25T16:56:45.799Z,"55 km S of Whites City, New Mexico",earthquake,0,1.30613906425784,0.2,12,automatic,tx,tx
 2024-05-25T16:19:25.896Z,61.3037,-146.6336,20.1,1.4,ml,,,,0.76,ak,ak0246pq3qdf,2024-05-25T16:22:44.072Z,"24 km NW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-25T16:01:17.640Z,17.94,-66.272,8.24,2.58,md,14,178,0.09534,0.39,pr,pr71450288,2024-05-25T16:23:43.370Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.91,1.44,0.189281239288575,12,reviewed,pr,pr
-2024-05-25T15:55:35.745Z,36.0922,140.0514,69.347,4.8,mww,176,42,1.559,0.63,us,us6000n0yw,2024-05-25T21:30:54.206Z,"8 km ESE of Ishige, Japan",earthquake,5.89,4.972,0.08,15,reviewed,us,us
+2024-05-25T15:55:35.745Z,36.0922,140.0514,69.347,4.8,mww,176,42,1.559,0.63,us,us6000n0yw,2024-05-25T22:06:48.471Z,"8 km ESE of Ishige, Japan",earthquake,5.89,4.972,0.08,15,reviewed,us,us
 2024-05-25T15:45:42.560Z,19.1564998626709,-155.67333984375,4.76000022888184,2,md,34,99,0.07202,0.270000011,hv,hv74247811,2024-05-25T15:47:28.290Z,"11 km NNW of Wai‘ōhinu, Hawaii",earthquake,0.48,1.38999999,0.0700000003,3,automatic,hv,hv
 2024-05-25T15:45:39.884Z,28.634,-98.282,8.3704,1.7,ml,8,107,0,0.7,tx,tx2024kgdd,2024-05-25T16:12:45.509Z,"21 km NNW of Three Rivers, Texas",earthquake,0,4.18651945106382,0.2,6,automatic,tx,tx
 2024-05-25T15:42:07.486Z,31.521,-104.019,4.9118,1.9,ml,14,66,0,0.5,tx,tx2024kgcz,2024-05-25T16:22:47.620Z,"31 km NW of Toyah, Texas",earthquake,0,1.43050632062874,0.2,12,automatic,tx,tx
@@ -105,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T06:32:13.655Z,60.0524,-152.8334,124.5,1.1,ml,,,,0.62,ak,ak0246pk85jk,2024-05-25T06:35:18.772Z,"62 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-05-25T06:27:30.234Z,60.9164,-150.7727,36.1,1.4,ml,,,,0.53,ak,ak0246pk74e7,2024-05-25T06:29:21.758Z,"4 km W of Point Possession, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2024-05-25T06:27:10.271Z,28.625,-98.28,6.9149,1.6,ml,11,70,0,0.6,tx,tx2024kfks,2024-05-25T06:59:27.511Z,"20 km NNW of Three Rivers, Texas",earthquake,0,2.68267104542996,0.1,9,automatic,tx,tx
-2024-05-25T06:27:05.967Z,38.1321,-118.0053,0,1.1,ml,9,124.70000000000002,0.069,0.4153,nn,nn00878129,2024-05-25T06:29:54.111Z,"30 km SSE of Mina, Nevada",earthquake,,3.4,0.39,6,automatic,nn,nn
+2024-05-25T06:27:06.952Z,38.1661,-117.9801,9.7,0.9,ml,8,117.74999999999997,0.033,0.0872,nn,nn00878129,2024-05-25T21:55:04.364Z,"27 km SSE of Mina, Nevada",earthquake,,1.1,0.25,4,reviewed,nn,nn
 2024-05-25T06:03:39.338Z,61.4245,-149.9103,19.5,2.1,ml,,,,0.87,ak,ak0246pk1zws,2024-05-25T06:06:36.952Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-25T05:55:51.733Z,0.8071,131.704,10,4.8,mb,53,138,3.741,0.68,us,us6000n0wr,2024-05-25T06:12:48.040Z,"176 km NE of Waisai, Indonesia",earthquake,9.83,1.894,0.086,42,reviewed,us,us
 2024-05-25T05:48:44.260Z,38.7763328552246,-122.732330322266,-0.709999978542328,1.77,md,9,102,0.05428,0.03,nc,nc75012036,2024-05-25T05:50:20.842Z,"2 km ESE of The Geysers, CA",earthquake,0.23,0.910000026,0.11,8,automatic,nc,nc
@@ -169,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-24T22:45:15.150Z,38.844165802002,-122.831665039062,1.75,0.78,md,10,177,0.01233,0.02,nc,nc75011871,2024-05-24T22:46:48.420Z,"10 km WNW of Cobb, CA",earthquake,0.53,0.75,0.33,11,automatic,nc,nc
 2024-05-24T22:42:19.420Z,38.8436660766602,-122.830665588379,1.1599999666214,0.77,md,8,155,0.01238,0.01,nc,nc75011866,2024-05-24T22:43:54.553Z,"10 km WNW of Cobb, CA",earthquake,0.44,1.22000003,0.54,8,automatic,nc,nc
 2024-05-24T22:24:06.331Z,61.6953,-149.8958,33.9,1.6,ml,,,,0.57,ak,ak0246o660l5,2024-05-24T22:26:40.617Z,"8 km NNW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-24T22:04:51.760Z,19.3965,-155.293166666667,2.46,1.21,md,12,84,0.00651,0.12,hv,hv74246477,2024-05-24T22:43:44.110Z,"8 km SW of Volcano, Hawaii",earthquake,0.41,0.38,0.0610206062144378,3,reviewed,hv,hv
-2024-05-24T21:59:36.670Z,33.2793333,-116.8035,11.22,0.71,ml,35,29,0.05723,0.22,ci,ci40599423,2024-05-24T23:16:15.880Z,"6 km NW of Lake Henshaw, CA",earthquake,0.26,0.49,0.191,24,reviewed,ci,ci
