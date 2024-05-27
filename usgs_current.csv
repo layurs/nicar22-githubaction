@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-27T10:59:27.110Z,35.6240005,-117.4598312,9.55,1.43,ml,19,68,0.03747,0.1,ci,ci40602255,2024-05-27T11:01:51.908Z,"17 km SSW of Searles Valley, CA",earthquake,0.31,0.7,0.337,3,automatic,ci,ci
+2024-05-27T11:21:40.040Z,32.0750008,-115.9268341,26.01,3.05,ml,18,112,0.07227,0.29,ci,ci40602319,2024-05-27T11:23:58.036Z,"65 km SSW of Progreso, B.C., MX",earthquake,1.31,1.14,0.277,25,automatic,ci,ci
+2024-05-27T11:14:27.480Z,46.73400115966797,-122.52383422851562,18.8099994659424,1.6050481796264648,ml,59,53,,0.0799999982,uw,uw62009486,2024-05-27T11:17:28.580Z,"19 km SW of La Grande, Washington",earthquake,0.17,0.560000002,0.26007795333862305,36,automatic,uw,uw
+2024-05-27T11:12:57.940Z,31.4733333,-115.6156667,8.42,3.09,ml,10,118,0.1655,0.24,ci,ci40602287,2024-05-27T11:19:43.010Z,"94 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.54,2.43,0.209,29,automatic,ci,ci
+2024-05-27T11:05:46.950Z,31.6717,-115.4821,11.764,4.2,mb,67,164,1.042,1.29,us,us6000n194,2024-05-27T11:27:23.241Z,"61 km SW of Ejido Doctor Alberto Oviedo Mota (El Indiviso), Mexico",earthquake,5.76,5.996,0.095,31,reviewed,us,us
+2024-05-27T10:59:27.160Z,35.622,-117.465,8.95,1.21,ml,27,65,0.0355,0.11,ci,ci40602255,2024-05-27T11:05:40.931Z,"17 km SSW of Searles Valley, CA",earthquake,0.18,0.34,0.261,11,automatic,ci,ci
 2024-05-27T10:48:29.360Z,19.3448333740234,-155.137329101562,3.60999989509583,1.77,ml,51,97,0.04137,0.280000001,hv,hv74250426,2024-05-27T10:51:06.970Z,"13 km S of Fern Forest, Hawaii",earthquake,0.46,1.04999995,0.68,9,automatic,hv,hv
 2024-05-27T10:42:36.542Z,63.3292,-145.4511,5.7,1.4,ml,,,,0.6,ak,ak0246sxqs12,2024-05-27T10:44:53.745Z,"27 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-27T10:41:57.990Z,40.8019981384277,-122.299667358398,4.25,1.68,md,7,142,0.1814,0.08,nc,nc75012576,2024-05-27T10:43:33.412Z,"15 km NE of Shasta Lake, CA",earthquake,0.59,8.68000031,0.1,6,automatic,nc,nc
@@ -8,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-27T10:36:57.450Z,33.1758333,-116.4595,6.09,0.56,ml,36,51,0.09988,0.16,ci,ci40602247,2024-05-27T10:42:45.999Z,"12 km SW of Borrego Springs, CA",earthquake,0.19,0.7,0.091,7,automatic,ci,ci
 2024-05-27T10:22:35.658Z,63.53,-149.9749,6.2,1.1,ml,,,,0.23,ak,ak0246sxmhn1,2024-05-27T10:24:38.669Z,"53 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-27T10:09:02.990Z,33.266,-116.4306667,2.99,0.84,ml,56,57,0.08062,0.21,ci,ci40602239,2024-05-27T10:15:18.457Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.48,0.125,22,automatic,ci,ci
+2024-05-27T09:48:18.311Z,2.2932,128.676,37.369,4.6,mb,40,106,5.66,0.76,us,us6000n18u,2024-05-27T11:08:42.040Z,"96 km NE of Tobelo, Indonesia",earthquake,8.22,5.733,0.083,43,reviewed,us,us
 2024-05-27T09:48:09.000Z,38.4748344421387,-122.748001098633,6.32000017166138,1.49,md,9,148,0.1118,0.02,nc,nc75012571,2024-05-27T09:49:46.711Z,"4 km S of Larkfield-Wikiup, CA",earthquake,0.49,1.53999996,0.16,6,automatic,nc,nc
 2024-05-27T09:44:22.320Z,32.7728333,-115.8415,3.75,1.13,ml,27,56,0.1228,0.2,ci,ci40602231,2024-05-27T09:50:21.490Z,"15 km ENE of Ocotillo, CA",earthquake,0.23,1.18,0.297,9,automatic,ci,ci
 2024-05-27T09:20:59.830Z,34.5201667,-116.2721667,-0.92,1.32,ml,31,74,0.1905,0.26,ci,ci40602223,2024-05-27T09:27:25.972Z,"25 km SSW of Ludlow, CA",earthquake,0.31,0.78,0.174,22,automatic,ci,ci
@@ -196,6 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-26T11:43:13.534Z,60.7776,-150.8857,35.8,1.3,ml,,,,0.58,ak,ak0246rat12x,2024-05-26T11:45:37.949Z,"19 km SSW of Point Possession, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2024-05-26T11:39:39.920Z,35.7618333,-117.5851667,2.62,1.28,ml,30,125,0.1287,0.14,ci,ci40600895,2024-05-26T11:45:46.056Z,"16 km W of Searles Valley, CA",earthquake,0.19,0.54,0.158,15,automatic,ci,ci
 2024-05-26T11:32:04.130Z,19.2388324737549,-155.388671875,31.1599998474121,1.96,ml,51,146,0.09411,0.170000002,hv,hv74248536,2024-05-26T11:34:41.320Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.45,0.579999983,0.24,3,automatic,hv,hv
-2024-05-26T11:22:45.496Z,61.578,-151.8071,93.2,1.4,ml,,,,0.49,ak,ak0246raolix,2024-05-26T11:26:24.355Z,"50 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-05-26T11:21:12.220Z,17.9298333333333,-66.2708333333333,9.12,2.31,md,12,183,0.1044,0.25,pr,pr71450483,2024-05-26T11:33:43.150Z,"5 km WSW of Central Aguirre, Puerto Rico",earthquake,0.68,1.07,0.189330377135281,9,reviewed,pr,pr
-2024-05-26T11:09:55.070Z,33.6843333,-116.7861667,14.26,0.6,ml,33,54,0.06572,0.12,ci,ci40600879,2024-05-26T11:16:03.025Z,"9 km SW of Idyllwild, CA",earthquake,0.18,0.25,0.183,14,automatic,ci,ci
