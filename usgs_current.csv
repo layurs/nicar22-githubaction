@@ -1,6 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-27T18:31:41.658Z,37.4501,-117.0723,0.1,0.8,ml,11,223.04000000000002,0.212,0.3368,nn,nn00878251,2024-05-27T18:34:01.497Z,"32 km SSE of Goldfield, Nevada",earthquake,,13.4,0.31,7,automatic,nn,nn
+2024-05-27T18:30:10.766Z,57.9825,-155.1797,88.6,1.1,ml,,,,0.16,ak,ak0246t2fmac,2024-05-27T18:32:10.121Z,"63 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-05-27T18:15:37.125Z,63.524,-149.9837,0,1.8,ml,,,,0.48,ak,ak0246t2cgkw,2024-05-27T18:17:34.870Z,"53 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-27T18:09:17.207Z,65.4486,-153.3024,6.4,1.3,ml,,,,0.6,ak,ak0246t2b4qw,2024-05-27T18:11:34.055Z,"64 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-05-27T18:07:53.380Z,19.1851673126221,-155.492828369141,32.4900016784668,1.94,ml,42,79,0.04146,0.159999996,hv,hv74250876,2024-05-27T18:11:00.050Z,"2 km SW of Pāhala, Hawaii",earthquake,0.54,0.699999988,0.89,3,automatic,hv,hv
+2024-05-27T18:07:42.730Z,19.1831665039062,-155.496337890625,30.8700008392334,2.1,ml,45,79,0.04253,0.159999996,hv,hv74250866,2024-05-27T18:10:22.580Z,"2 km SW of Pāhala, Hawaii",earthquake,0.5,0.670000017,0.61,7,automatic,hv,hv
+2024-05-27T18:04:43.500Z,31.4935,-115.6025,6.95,2.79,ml,7,112,0.1855,0.15,ci,ci40603127,2024-05-27T18:11:43.401Z,"91 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.68,0.222,27,automatic,ci,ci
 2024-05-27T18:02:16.647Z,63.508,-149.9818,0,2.1,ml,,,,0.78,ak,ak0246t29mow,2024-05-27T18:04:08.244Z,"53 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-27T18:02:15.017Z,54.7985,-156.8713,42.1,2.5,ml,,,,0.43,ak,ak0246t29nb7,2024-05-27T18:04:47.820Z,"190 km SE of Perryville, Alaska",earthquake,,6.6,,,automatic,ak,ak
 2024-05-27T17:58:28.828Z,60.0193,-152.8064,122.1,2.8,ml,,,,0.39,ak,ak0246t2084h,2024-05-27T18:00:16.544Z,"60 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-05-27T17:52:11.960Z,31.4963333,-115.6075,5.36,2.78,ml,7,111,0.1836,0.15,ci,ci40603087,2024-05-27T18:11:41.417Z,"91 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,3.33,0.177,27,automatic,ci,ci
 2024-05-27T17:50:31.720Z,37.8463325500488,-122.236503601074,8.22000026702881,0.8,md,8,121,0.02985,0.02,nc,nc75012661,2024-05-27T17:52:09.122Z,"2 km N of Piedmont, CA",earthquake,0.46,0.560000002,0.07,5,automatic,nc,nc
 2024-05-27T17:44:39.203Z,57.5201,-136.9596,15.1,3.2,ml,,,,0.75,ak,ak0246t1x8u4,2024-05-27T17:48:09.827Z,"65 km SW of Pelican, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-27T17:41:42.485Z,63.5234,-149.9548,3.1,1.4,ml,,,,0.66,ak,ak0246t1wjzw,2024-05-27T17:43:59.891Z,"52 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -27,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-27T14:28:45.080Z,33.6441667,-116.7068333,12.02,0.86,ml,17,51,0.03698,0.1,ci,ci40602679,2024-05-27T14:34:47.163Z,"10 km NNW of Anza, CA",earthquake,0.22,0.41,0.399,4,automatic,ci,ci
 2024-05-27T14:13:56.670Z,34.6995,-119.1651667,-1.99,0.4,ml,6,195,0.06062,0.09,ci,ci40602647,2024-05-27T14:20:18.068Z,"16 km S of Pine Mountain Club, CA",earthquake,0.54,8.89,0.109,6,automatic,ci,ci
 2024-05-27T14:10:45.330Z,18.4253,-64.024,117,3.53,md,7,348,0.5947,0.23,pr,pr2024148000,2024-05-27T15:16:22.040Z,"82 km E of Cruz Bay, U.S. Virgin Islands",earthquake,6.92,1.48,0.15,4,reviewed,pr,pr
-2024-05-27T14:03:17.190Z,40.2519989013672,-121.168334960938,-1.74000000953674,3.54,mw,53,35,0.2431,0.35,nc,nc75012616,2024-05-27T17:56:55.973Z,"4 km NNE of Almanor, CA",earthquake,0.39,2.0999999,,5,reviewed,nc,nc
+2024-05-27T14:03:17.190Z,40.2519989013672,-121.168334960938,-1.74000000953674,3.54,mw,53,35,0.2431,0.35,nc,nc75012616,2024-05-27T18:28:35.675Z,"4 km NNE of Almanor, CA",earthquake,0.39,2.0999999,,5,reviewed,nc,nc
 2024-05-27T14:02:29.230Z,35.648,-117.4623333,8.36,1.82,ml,33,70,0.03579,0.12,ci,ci40602623,2024-05-27T14:13:26.570Z,"14 km SSW of Searles Valley, CA",earthquake,0.15,0.3,0.155,26,automatic,ci,ci
 2024-05-27T13:39:09.213Z,37.5004,-115.3013,8.3,0.9,ml,8,224.41000000000003,0.22,0.5947,nn,nn00878239,2024-05-27T13:41:28.206Z,"12 km SSW of Hiko, Nevada",earthquake,,48.7,0.36,7,automatic,nn,nn
 2024-05-27T13:17:43.910Z,31.5947,-115.4866,10,3.6,ml,24,237,1.113,0.69,us,us6000n19p,2024-05-27T15:20:39.882Z,"67 km SW of Ejido Doctor Alberto Oviedo Mota (El Indiviso), Mexico",earthquake,2.41,2.001,0.051,50,reviewed,us,us
@@ -111,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-27T04:41:07.100Z,36.7195014953613,-121.412498474121,5.30000019073486,1.63,md,14,76,0.05437,0.08,nc,nc75012521,2024-05-27T04:42:41.867Z,"11 km SSW of Ridgemark, CA",earthquake,0.34,0.709999979,0.17,10,automatic,nc,nc
 2024-05-27T04:24:52.338Z,61.3845,-151.8642,87.6,1.4,ml,,,,0.52,ak,ak0246su2cq9,2024-05-27T04:27:13.294Z,"49 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-27T04:17:49.540Z,39.4351654052734,-123.110336303711,-0.649999976158142,1.9,md,17,122,0.06303,0.12,nc,nc75012516,2024-05-27T04:19:26.790Z,"13 km WNW of Lake Pillsbury, CA",earthquake,0.37,2.9000001,0.12,10,automatic,nc,nc
+2024-05-27T04:13:15.605Z,38.171,-117.9069,12.2,1,ml,8,112.37,0.068,0.1289,nn,nn00878214,2024-05-27T18:25:39.184Z,"30 km SE of Mina, Nevada",earthquake,,1,0.31,4,reviewed,nn,nn
 2024-05-27T04:10:04.483Z,36.6702,-115.8238,4.8,0.3,ml,10,282.21000000000004,0.111,0.2526,nn,nn00878213,2024-05-27T04:12:24.532Z,"17 km NW of Indian Springs, Nevada",earthquake,,2,0.18,7,automatic,nn,nn
 2024-05-27T04:04:15.440Z,35.6645,-117.4706667,8.1,1.19,ml,28,97,0.03824,0.15,ci,ci40601935,2024-05-27T04:10:14.463Z,"13 km SSW of Searles Valley, CA",earthquake,0.23,0.46,0.103,13,automatic,ci,ci
 2024-05-27T03:52:59.770Z,33.7765,-116.133,5.82,1.18,ml,58,73,0.07645,0.17,ci,ci40601927,2024-05-27T04:04:07.040Z,"10 km NE of Indio, CA",earthquake,0.14,0.58,0.18,26,automatic,ci,ci
@@ -129,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-27T02:42:53.717Z,-24.028,-66.8975,227.805,4.4,mb,23,77,1.591,0.43,us,us6000n16x,2024-05-27T03:05:31.040Z,"62 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.96,13.358,0.218,6,reviewed,us,us
 2024-05-27T02:42:45.730Z,33.4933333,-116.9128333,8.46,0.52,ml,33,53,0.01157,0.15,ci,ci40601871,2024-05-27T02:48:41.218Z,"7 km NW of Aguanga, CA",earthquake,0.19,0.52,0.194,13,automatic,ci,ci
 2024-05-27T02:28:06.830Z,33.8761667,-116.2845,3.47,0.78,ml,26,57,0.09496,0.17,ci,ci40601855,2024-05-27T02:34:06.885Z,"12 km ENE of Thousand Palms, CA",earthquake,0.22,0.86,0.094,15,automatic,ci,ci
-2024-05-27T02:24:17.371Z,38.1765,-117.841,9,2.1,ml,23,108.13,0.115,0.406,nn,nn00878208,2024-05-27T02:26:57.640Z,"33 km SE of Mina, Nevada",earthquake,,0.3,0.19,15,automatic,nn,nn
+2024-05-27T02:24:17.917Z,38.181,-117.8768,11.5,2.1,ml,12,75.72,0.087,0.132,nn,nn00878208,2024-05-27T18:19:26.722Z,"30 km SE of Mina, Nevada",earthquake,,1,0.39,6,reviewed,nn,nn
 2024-05-27T02:18:27.040Z,33.4126667,-116.6518333,4.23,1.1,ml,63,32,0.09174,0.2,ci,ci40601847,2024-05-27T02:30:00.522Z,"15 km N of Warner Springs, CA",earthquake,0.15,0.47,0.148,25,automatic,ci,ci
 2024-05-27T02:11:29.510Z,34.712,-119.0778333,13.45,1.24,ml,31,51,0.03012,0.21,ci,ci40601839,2024-05-27T02:29:56.958Z,"16 km SSE of Pine Mountain Club, CA",earthquake,0.32,0.52,0.277,32,automatic,ci,ci
 2024-05-27T02:07:55.630Z,33.9201667,-116.888,8.22,1.27,ml,60,28,0.07699,0.16,ci,ci40601831,2024-05-27T02:26:23.144Z,"1 km WSW of Banning, CA",earthquake,0.13,0.47,0.152,27,automatic,ci,ci
@@ -175,10 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-26T19:15:08.280Z,38.84033203125,-122.80916595459,1.79999995231628,1.62,md,7,134,0.03408,0.03,nc,nc75012371,2024-05-26T19:16:47.109Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.04999995,0.07,6,automatic,nc,nc
 2024-05-26T18:52:45.413Z,36.5708,70.8764,173.87,4.2,mb,44,148,2.558,0.52,us,us6000n14y,2024-05-26T19:44:25.040Z,"32 km S of Jurm, Afghanistan",earthquake,6.62,8.235,0.1,28,reviewed,us,us
 2024-05-26T18:40:46.256Z,38.8633,-119.6366,2.9,1.1,ml,7,219.68,0.037,0.1275,nn,nn00878168,2024-05-26T19:54:26.662Z,"0 km ENE of Carter Springs, Nevada",earthquake,,2.5,0.25,4,reviewed,nn,nn
-2024-05-26T18:39:36.351Z,60.0222,-152.9255,111.2,1.6,ml,,,,0.38,ak,ak0246rey97n,2024-05-26T18:42:02.250Z,"67 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-05-26T18:35:08.773Z,37.4506,-115.2648,10,1.1,ml,18,209.98,0.175,0.2587,nn,nn00878167,2024-05-26T18:37:36.093Z,"13 km NW of Alamo, Nevada",earthquake,,1.7,0.51,12,automatic,nn,nn
-2024-05-26T18:33:36.830Z,35.976001739502,-120.533500671387,6.1399998664856,1.67,md,22,51,0.01477,0.04,nc,nc75012366,2024-05-26T18:35:13.131Z,"13 km NW of Parkfield, CA",earthquake,0.22,0.310000002,0.1,16,automatic,nc,nc
-2024-05-26T18:33:24.314Z,39.4231,-119.8488,6.2,0.3,ml,7,106.69,0.073,0.0965,nn,nn00878203,2024-05-27T01:00:57.697Z,"12 km SSE of Mogul, Nevada",earthquake,,2,0.52,4,reviewed,nn,nn
-2024-05-26T18:11:32.620Z,33.7033333,-116.7466667,15.78,0.81,ml,23,77,0.0282,0.13,ci,ci40601383,2024-05-26T18:17:43.006Z,"5 km SSW of Idyllwild, CA",earthquake,0.28,0.36,0.308,13,automatic,ci,ci
-2024-05-26T18:05:59.190Z,19.4111666666667,-155.271,1.89,1.84,ml,18,44,0.01369,0.12,hv,hv74249001,2024-05-26T18:20:32.290Z,"5 km SW of Volcano, Hawaii",earthquake,0.18,0.21,0.187980684326346,16,reviewed,hv,hv
-2024-05-26T18:05:11.030Z,19.1306667327881,-155.495498657227,32.5499992370605,2.87,ml,14,232,0.1171,0.109999999,hv,hv74248996,2024-05-26T18:07:49.910Z,"8 km SSW of Pāhala, Hawaii",earthquake,1.59,1.16999996,0.26,15,automatic,hv,hv
