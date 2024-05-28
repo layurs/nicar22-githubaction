@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-28T05:26:03.170Z,19.2434997558594,-155.405502319336,29.8099994659424,1.90999997,md,29,151,0.09137,0.109999999,hv,hv74251331,2024-05-28T05:27:40.760Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.57,0.800000012,0.0599999987,3,automatic,hv,hv
+2024-05-28T05:25:31.181Z,67.8609,-149.3553,0,1.4,ml,,,,1.07,ak,ak0246ui7awu,2024-05-28T05:28:22.855Z,"59 km NNE of Wiseman, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-05-28T05:22:41.100Z,34.1475,-116.8925,7.97,0.99,ml,48,57,0.06474,0.13,ci,ci40603855,2024-05-28T05:34:42.932Z,"11 km S of Big Bear Lake, CA",earthquake,0.14,0.36,0.172,27,automatic,ci,ci
+2024-05-28T05:08:12.401Z,58.1561,-155.5838,109.6,1.1,ml,,,,0.58,ak,ak0246ui3mag,2024-05-28T05:09:55.568Z,"86 km SE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-05-28T05:06:45.870Z,62.2993,-152.278,108.8,1.4,ml,,,,0.45,ak,ak0246ui39vi,2024-05-28T05:09:49.191Z,"57 km NW of Skwentna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-05-28T04:32:36.256Z,38.3933,-118.8843,0,1.8,ml,11,124.9,0.113,0.3538,nn,nn00878267,2024-05-28T04:35:24.072Z,"26 km WSW of Hawthorne, Nevada",earthquake,,17.1,0.14,9,automatic,nn,nn
 2024-05-28T04:16:53.530Z,36.7314987182617,-121.40616607666,5.96000003814697,1.3,md,7,157,0.0536,0.02,nc,nc75012811,2024-05-28T04:18:28.221Z,"10 km SSW of Ridgemark, CA",earthquake,0.58,1.02999997,0.16,6,automatic,nc,nc
 2024-05-28T04:13:03.810Z,31.48,-115.608,7.46,2.52,ml,7,116,0.1745,0.11,ci,ci40603791,2024-05-28T04:19:45.125Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.27,3.83,0.195,21,automatic,ci,ci
@@ -18,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-28T02:53:25.080Z,19.2393341064453,-155.395004272461,31.1100006103516,1.99000001,md,38,156,0.09398,0.109999999,hv,hv74251241,2024-05-28T02:54:59.750Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.48,0.540000021,0.0299999993,3,automatic,hv,hv
 2024-05-28T02:49:17.617Z,31.669,-104.192,6.0999,2.9,ml,20,70,0.1,0.2,tx,tx2024kkqf,2024-05-28T03:03:10.040Z,"54 km NW of Toyah, Texas",earthquake,0.6575621332588254,0.8191760186503079,0.1,19,reviewed,tx,tx
 2024-05-28T02:49:17.576Z,31.6697,-104.196,5.995,3.3,ml,25,112,0.059,0.26,us,us6000n1dt,2024-05-28T03:03:40.040Z,"54 km NW of Toyah, Texas",earthquake,1.17,1.73,0.077,74,reviewed,us,us
-2024-05-28T02:35:57.460Z,46.20033264160156,-122.1903305053711,3.72000002861023,2.05999994,md,21,56,,0.109999999,uw,uw62009691,2024-05-28T02:37:58.870Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.5,,1,automatic,uw,uw
+2024-05-28T02:35:57.300Z,46.200833333333335,-122.18716666666667,5.18,0.99,ml,16,60,0.002771,0.08,uw,uw62009691,2024-05-28T05:19:16.680Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.53,0.11807557601142793,14,reviewed,uw,uw
 2024-05-28T02:30:33.020Z,34.0311667,-117.1306667,7.16,0.86,ml,38,55,0.01576,0.15,ci,ci40603719,2024-05-28T02:36:59.315Z,"4 km S of Mentone, CA",earthquake,0.16,0.43,0.178,25,automatic,ci,ci
 2024-05-28T02:21:37.883Z,32.758,-100.642,7.5439,3,ml,13,80,0.1,0.1,tx,tx2024kkpd,2024-05-28T02:32:58.351Z,"17 km NE of Hermleigh, Texas",earthquake,0.7912327966164194,1.6418869558730593,0.1,24,reviewed,tx,tx
 2024-05-28T02:13:31.566Z,31.678,-104.216,7.6532,2.4,ml,18,62,0,0.8,tx,tx2024kkox,2024-05-28T03:02:39.544Z,"56 km NW of Toyah, Texas",earthquake,0,2.33361507031842,0.3,14,automatic,tx,tx
@@ -191,10 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-27T05:58:58.860Z,37.5751647949219,-121.823669433594,5.07999992370605,1.08,md,7,109,0.04939,0.08,nc,nc75012551,2024-05-27T06:00:37.754Z,"7 km SE of Sunol, CA",earthquake,0.39,1.11000001,0.13,7,automatic,nc,nc
 2024-05-27T05:58:44.110Z,33.2644997,-116.4343338,4.41,3.45,mlr,118,19,0.08378,0.19,ci,ci40602055,2024-05-28T03:13:12.725Z,"6 km W of Borrego Springs, CA",earthquake,0.17,0.88,0.253,17,reviewed,ci,ci
 2024-05-27T05:41:18.783Z,38.1747,-117.8739,9.8,0.9,ml,8,109.89000000000001,0.091,0.0807,nn,nn00878219,2024-05-27T18:47:05.875Z,"31 km SE of Mina, Nevada",earthquake,,1.5,0.43,5,reviewed,nn,nn
-2024-05-27T05:24:17.537Z,63.2774,-148.7079,65.4,1.5,ml,,,,1.11,ak,ak0246sunpnd,2024-05-27T05:26:33.786Z,"17 km SE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-05-27T05:22:21.724Z,61.288,-151.1664,1.7,2.2,ml,,,,0.46,ak,ak0246sunajg,2024-05-27T05:24:10.401Z,"16 km NNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-05-27T05:18:32.840Z,34.0635,-117.5158333,7.28,2.62,ml,144,20,0.06002,0.22,ci,ci40601991,2024-05-27T17:27:19.608Z,"6 km NNW of Glen Avon, CA",earthquake,0.11,0.28,0.225,25,automatic,ci,ci
-2024-05-27T05:13:39.297Z,63.8502,-149.1045,46,1.3,ml,,,,1.44,ak,ak0246suleg9,2024-05-27T05:16:08.563Z,"6 km W of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-05-27T05:12:32.762Z,6.7006,-73.0766,159.024,4.6,mb,128,77,0.803,0.58,us,us6000n17w,2024-05-27T14:42:35.040Z,"4 km SSE of Jordán, Colombia",earthquake,9,7.298,0.027,417,reviewed,us,us
-2024-05-27T05:11:29.310Z,34.4763333,-116.5041667,2.07,1.66,ml,42,48,0.1418,0.13,ci,ci40601975,2024-05-27T05:18:16.894Z,"39 km NE of Big Bear City, CA",earthquake,0.13,0.39,0.158,28,automatic,ci,ci
-2024-05-27T05:08:47.020Z,40.226001739502,-121.151168823242,1.01999998092651,2.05,md,8,191,0.2364,0.1,nc,nc75012531,2024-05-27T05:10:23.142Z,"2 km NNE of Prattville, CA",earthquake,0.99,9.32999992,0.15,5,automatic,nc,nc
