@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-29T08:41:27.340Z,33.5316658,-116.3813324,9.63,1.28,ml,35,115,0.1031,0.16,ci,ci40605471,2024-05-29T08:43:29.765Z,"16 km SSW of La Quinta, CA",earthquake,0.35,0.91,0.21,11,automatic,ci,ci
+2024-05-29T08:41:27.410Z,33.5271667,-116.3875,9.32,0.98,ml,52,50,0.03213,0.17,ci,ci40605471,2024-05-29T08:47:53.218Z,"17 km SSW of La Quinta, CA",earthquake,0.16,0.34,0.151,25,automatic,ci,ci
 2024-05-29T08:21:16.970Z,62.2166,-148.6224,31.6,1.2,ml,,,,0.45,ak,ak0246w7i29d,2024-05-29T08:23:22.928Z,"47 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-29T08:03:40.710Z,36.0989990234375,-120.674163818359,3.85999989509583,1.64,md,18,131,0.06998,0.08,nc,nc75013057,2024-05-29T08:05:20.719Z,"23 km ENE of San Ardo, CA",earthquake,0.38,0.920000017,0.13,10,automatic,nc,nc
 2024-05-29T07:59:04.670Z,36.161,-118.1841667,2.07,0.83,ml,19,96,0.1048,0.18,ci,ci40605463,2024-05-29T08:05:05.935Z,"21 km SW of Olancha, CA",earthquake,0.26,1.18,0.127,6,automatic,ci,ci
@@ -164,6 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-28T12:21:25.650Z,39.576,-119.065,9.7,1.1,ml,5,287.06,0.281,0.0475,nn,nn00878306,2024-05-28T18:59:15.501Z,"16 km ESE of Fernley, Nevada",earthquake,,11.3,0.34,4,reviewed,nn,nn
 2024-05-28T12:15:30.197Z,63.0077,-149.4643,76.9,0.8,ml,,,,0.48,ak,ak0246umb6wr,2024-05-28T12:18:04.886Z,"49 km SSW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-05-28T12:12:41.744Z,63.5246,-149.9766,6.6,1.2,ml,,,,0.35,ak,ak0246umakni,2024-05-28T12:14:47.269Z,"53 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-05-28T12:08:11.086Z,-8.1968,119.6856,192.846,4.5,mb,21,77,1.99,0.84,us,us6000n1gm,2024-05-29T09:07:27.040Z,"39 km NW of Labuan Bajo, Indonesia",earthquake,7.98,6.316,0.145,14,reviewed,us,us
 2024-05-28T12:06:07.110Z,33.3821667,-116.8745,2.93,1.14,ml,63,25,0.104,0.21,ci,ci40604103,2024-05-28T12:28:18.705Z,"3 km NNW of Palomar Observatory, CA",earthquake,0.17,0.65,0.141,25,automatic,ci,ci
 2024-05-28T12:02:31.353Z,31.67,-104.185,4.7156,2.1,ml,24,61,0.1,0.1,tx,tx2024klii,2024-05-28T17:04:07.928Z,"54 km NW of Toyah, Texas",earthquake,0.5834188638389047,0.9034296448277696,0.1,14,reviewed,tx,tx
 2024-05-28T12:01:39.290Z,40.2163333333333,-121.147,7.58,1.55,md,8,194,0.03136,0.07,nc,nc75012876,2024-05-28T19:26:39.228Z,"1 km NE of Prattville, CA",earthquake,0.73,0.55,0.124,8,reviewed,nc,nc
@@ -196,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-28T09:13:43.461Z,65.2164,-149.0649,0,0.9,ml,,,,0.52,ak,ak0246ukiho3,2024-05-28T09:16:02.959Z,"15 km ENE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-28T09:13:36.477Z,63.5596,-149.9756,16.3,1.4,ml,,,,0.5,ak,ak0246ukih5b,2024-05-28T09:15:11.853Z,"54 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-28T09:10:41.560Z,19.5548,-68.082,13,3.97,md,18,243,1.4576,0.56,pr,pr2024149000,2024-05-28T09:39:07.970Z,"112 km NNE of Punta Cana, Dominican Republic",earthquake,4.77,5.35,0.09,13,reviewed,pr,pr
-2024-05-28T09:05:43.990Z,38.8273315429688,-122.798500061035,2.80999994277954,1.75,md,11,122,0.0195,0.03,nc,nc75012856,2024-05-28T09:07:18.127Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.579999983,0.09,13,automatic,nc,nc
-2024-05-28T09:04:14.660Z,34.7616667,-117.3241667,2.16,1.93,ml,64,34,0.1634,0.16,ci,ci40604015,2024-05-28T13:23:59.190Z,"21 km NNE of Adelanto, CA",earthquake,0.12,0.55,0.154,28,reviewed,ci,ci
-2024-05-28T08:52:51.118Z,60.833,-152.2915,99.5,1.8,ml,,,,0.28,ak,ak0246uk5flj,2024-05-28T08:55:17.209Z,"56 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-05-28T08:47:17.182Z,61.4014,-146.2129,34.1,1.1,ml,,,,0.89,ak,ak0246uk4aee,2024-05-28T08:50:08.019Z,"31 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
