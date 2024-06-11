@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-11T10:48:29.569Z,63.2345,-150.3668,115.2,2.1,ml,,,,0.22,ak,ak0247hqu970,2024-06-11T10:50:26.328Z,"73 km WSW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-06-11T10:37:46.590Z,38.8063316345215,-122.821830749512,3.14000010490417,0.76,md,14,68,0.006274,0.02,nc,nc75020702,2024-06-11T10:39:22.518Z,"7 km NW of The Geysers, CA",earthquake,0.44,0.709999979,0.29,17,automatic,nc,nc
 2024-06-11T10:23:32.836Z,61.8055,-151.9455,101.9,1.6,ml,,,,0.24,ak,ak0247hqowjn,2024-06-11T10:25:09.313Z,"35 km SW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-11T09:52:12.570Z,19.386833190918,-155.244003295898,1.80999994277954,1.71000004,md,18,65,0.007022,0.170000002,hv,hv74272226,2024-06-11T09:53:43.070Z,"6 km S of Volcano, Hawaii",earthquake,0.21,0.200000003,0.430000007,13,automatic,hv,hv
 2024-06-11T09:43:12.940Z,63.0907,-143.8985,25.4,1.5,ml,,,,0.9,ak,ak0247hq7phl,2024-06-11T09:47:35.319Z,"20 km NNW of Mentasta Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T23:47:11.390Z,35.0433333,-117.6653333,-0.08,1.13,ml,28,41,0.1116,0.18,ci,ci40619207,2024-06-10T23:55:05.022Z,"5 km NNW of Boron, CA",earthquake,0.26,0.65,0.075,15,automatic,ci,ci
 2024-06-10T23:46:08.754Z,4.8103,95.8484,103.763,4.7,mb,66,152,1.171,0.73,us,us7000mrlj,2024-06-11T00:08:03.040Z,"64 km S of Sigli, Indonesia",earthquake,8.25,3.524,0.055,101,reviewed,us,us
 2024-06-10T23:45:46.019Z,31.61,-104.519,8.1763,1.7,ml,12,78,0.1,0.3,tx,tx2024ljza,2024-06-11T07:54:43.470Z,"64 km SSW of Whites City, New Mexico",earthquake,3.6135258971786093,1.630147732115166,0.1,24,reviewed,tx,tx
-2024-06-10T23:42:23.157Z,30.999,-103.661,3.6434,1.6,ml,14,64,0.1,0.7,tx,tx2024ljyx,2024-06-11T00:06:48.080Z,"8 km ENE of Balmorhea, Texas",earthquake,0,1.4099879283253,0.2,12,automatic,tx,tx
+2024-06-10T23:42:23.157Z,30.999,-103.661,3.6434,1.6,ml,14,64,0.1,0.7,tx,tx2024ljyx,2024-06-11T00:06:48.080Z,"western Texas",earthquake,0,1.4099879283253,0.2,12,automatic,tx,tx
 2024-06-10T23:39:24.507Z,-56.0176,-27.5922,113.896,4.7,mb,34,57,5.389,0.48,us,us7000mrlp,2024-06-11T00:21:18.040Z,"South Sandwich Islands region",earthquake,11.16,6.929,0.11,25,reviewed,us,us
 2024-06-10T23:22:33.870Z,46.203833333333336,-122.18216666666666,5.37,0.55,ml,17,95,0.004309,0.07,uw,uw62005877,2024-06-11T05:48:10.380Z,"38 km NNE of Amboy, Washington",earthquake,0.3,0.45,0.11676360611302494,7,reviewed,uw,uw
 2024-06-10T23:17:02.990Z,38.8363342285156,-122.789169311523,1.9099999666214,1.22,md,15,75,0.002266,0.03,nc,nc75020527,2024-06-10T23:18:37.382Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.460000008,0.18,17,automatic,nc,nc
@@ -177,7 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T11:12:24.103Z,63.0959,-151.3521,0,1.4,ml,,,,1.02,ak,ak0247g3om8m,2024-06-10T11:19:53.384Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-10T11:11:21.580Z,46.9345,-121.91266666666667,9.39,1.5,ml,34,71,0.03824,0.12,uw,uw62005692,2024-06-10T14:23:37.650Z,"19 km SSE of Carbonado, Washington",earthquake,0.28,0.42,0.1626420356561581,19,reviewed,uw,uw
 2024-06-10T10:57:25.550Z,33.921,-116.7855,17.02,0.87,ml,39,53,0.08774,0.12,ci,ci40618495,2024-06-10T13:18:11.803Z,"0 km NNE of Cabazon, CA",earthquake,0.15,0.36,0.193,25,reviewed,ci,ci
-2024-06-10T10:48:33.290Z,38.7886657714844,-122.781669616699,4.26999998092651,0.99,md,8,183,0.01673,0.03,nc,nc75020307,2024-06-10T10:50:10.803Z,"3 km NW of The Geysers, CA",earthquake,1.97,3.04999995,0.26,8,automatic,nc,nc
-2024-06-10T10:45:44.310Z,38.836498260498,-122.788833618164,2.09999990463257,1.02,md,15,76,0.002243,0.02,nc,nc75020302,2024-06-10T10:47:20.639Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.709999979,0.31,16,automatic,nc,nc
-2024-06-10T10:44:50.640Z,38.8050003051758,-122.778167724609,2,1.47,md,27,68,0.008478,0.02,nc,nc75020297,2024-06-10T10:46:25.834Z,"4 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.17,28,automatic,nc,nc
-2024-06-10T10:43:25.280Z,38.804500579834,-122.778335571289,1.8400000333786,1.69,md,33,61,0.008936,0.05,nc,nc75020292,2024-06-10T10:46:39.060Z,"4 km NNW of The Geysers, CA",earthquake,0.18,0.289999992,0.12,33,automatic,nc,nc
