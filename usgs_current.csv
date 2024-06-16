@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-16T23:01:40.240Z,64.9729,-147.2998,0.1,1.4,ml,,,,0.53,ak,ak0247q7zkp4,2024-06-16T23:03:32.584Z,"15 km E of Fox, Alaska",earthquake,,23.9,,,automatic,ak,ak
-2024-06-16T22:54:51.130Z,41.4745,-79.8808,9.745,2.3,mb_lg,35,78,0.156,0.5,us,us7000msvt,2024-06-16T23:02:15.040Z,"2 km SSW of Cooperstown, Pennsylvania",earthquake,1.96,6.38,0.074,49,reviewed,us,us
-2024-06-16T22:50:22.807Z,37.1965,-117.2456,4,1.6,ml,13,226.44000000000003,0.105,0.2677,nn,nn00879366,2024-06-16T22:52:40.233Z,"53 km NW of Beatty, Nevada",earthquake,,17.9,0.06,9,automatic,nn,nn
+2024-06-16T22:57:19.845Z,-21.6394,-68.579,138.768,4.1,mb,11,158,0.636,0.32,us,us7000msvv,2024-06-16T23:10:32.040Z,"56 km SW of Ollagüe, Chile",earthquake,9.28,16.554,0.235,5,reviewed,us,us
+2024-06-16T22:54:51.130Z,41.4745,-79.8808,9.745,2.3,mb_lg,35,78,0.156,0.5,us,us7000msvt,2024-06-16T23:08:31.200Z,"2 km SSW of Cooperstown, Pennsylvania",earthquake,1.96,6.38,0.074,49,reviewed,us,us
 2024-06-16T22:44:34.630Z,17.9425,-66.8786666666667,12.52,2.35,md,4,215,0.03238,0.06,pr,pr71452863,2024-06-16T22:57:25.430Z,"4 km SSE of Maria Antonia, Puerto Rico",earthquake,2.35,0.68,0.0714429060341246,4,reviewed,pr,pr
 2024-06-16T22:30:26.150Z,33.3715,-116.3796667,11.03,1.59,ml,77,17,0.04587,0.19,ci,ci40800632,2024-06-16T22:45:40.879Z,"13 km N of Borrego Springs, CA",earthquake,0.13,0.24,0.168,28,automatic,ci,ci
 2024-06-16T22:16:36.152Z,60.8069,-150.5466,33.4,1.6,ml,,,,0.36,ak,ak0247q7hcin,2024-06-16T22:17:58.809Z,"15 km SSE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-16T07:27:45.480Z,-11.3591,166.3602,146.449,4.6,mb,52,101,6.59,0.33,us,us7000mss8,2024-06-16T07:45:53.040Z,"93 km SE of Lata, Solomon Islands",earthquake,9.5,5.48,0.082,45,reviewed,us,us
 2024-06-16T07:19:57.970Z,38.8238334655762,-122.803337097168,3.03999996185303,0.71,md,10,83,0.005281,0.02,nc,nc75022892,2024-06-16T07:21:34.749Z,"7 km NNW of The Geysers, CA",earthquake,0.48,1.45000005,0.22,12,automatic,nc,nc
 2024-06-16T07:19:02.550Z,35.7553333,-117.5728333,2.95,3.33,ml,38,82,0.1284,0.15,ci,ci40800256,2024-06-16T14:45:17.329Z,"15 km W of Searles Valley, CA",earthquake,0.17,0.72,0.158,215,reviewed,ci,ci
-2024-06-16T07:03:03.020Z,47.67633333333333,-122.10983333333333,10.16,2.67,ml,69,27,0.01638,0.21,uw,uw62007742,2024-06-16T22:04:41.842Z,"0 km ENE of Redmond, Washington",earthquake,0.24,0.48,0.14403878533841796,115,reviewed,uw,uw
+2024-06-16T07:03:03.020Z,47.67633333333333,-122.10983333333333,10.16,2.67,ml,69,27,0.01638,0.21,uw,uw62007742,2024-06-16T23:16:39.018Z,"0 km ENE of Redmond, Washington",earthquake,0.24,0.48,0.14403878533841796,115,reviewed,uw,uw
 2024-06-16T06:53:19.200Z,48.4135,-122.311,15.04,1.27,ml,36,31,0.07411,0.22,uw,uw62007737,2024-06-16T19:01:35.300Z,"1 km ESE of Mount Vernon, Washington",earthquake,0.29,0.62,0.146754820341074,15,reviewed,uw,uw
 2024-06-16T06:33:52.730Z,32.635,-115.7248333,9.41,2.15,ml,43,52,0.01435,0.26,ci,ci40800240,2024-06-16T18:47:59.516Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.28,0.53,0.212,70,reviewed,ci,ci
 2024-06-16T06:29:21.180Z,37.2576666666667,-121.635333333333,4.86,3.01,mw,130,42,,0.08,nc,nc75022872,2024-06-16T21:14:33.197Z,"14 km NNE of Morgan Hill, CA",earthquake,0.08,0.17,,4,reviewed,nc,nc
@@ -170,8 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-15T23:57:50.680Z,38.8216667175293,-122.842002868652,2.02999997138977,0.75,md,13,128,0.005636,0.01,nc,nc75022767,2024-06-15T23:59:28.684Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.560000002,0.36,15,automatic,nc,nc
 2024-06-15T23:48:34.730Z,38.7900009155273,-122.770668029785,1.41999995708466,0.3,md,8,129,0.01363,0.02,nc,nc75022762,2024-06-15T23:50:12.373Z,"2 km NNW of The Geysers, CA",earthquake,0.45,0.959999979,0.08,8,automatic,nc,nc
 2024-06-15T23:47:32.516Z,60.0962,-152.0048,83.2,1.3,ml,,,,0.46,ak,ak0247okq2jn,2024-06-15T23:50:25.916Z,"19 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-06-15T23:27:59.672Z,37.1035,-117.4669,0.6,1.2,ml,14,197.7,0.193,0.374,nn,nn00879316,2024-06-15T23:30:24.290Z,"66 km WNW of Beatty, Nevada",earthquake,,53.7,0.3,9,automatic,nn,nn
-2024-06-15T23:23:21.280Z,38.7869987487793,-122.765830993652,2.27999997138977,1.24,md,21,75,0.01442,0.03,nc,nc75022752,2024-06-15T23:24:58.521Z,"1 km NNW of The Geysers, CA",earthquake,0.25,0.430000007,0.15,23,automatic,nc,nc
-2024-06-15T23:18:34.070Z,19.0170001983643,-155.437835693359,32.9300003051758,2.31999993,md,45,211,0.1269,0.150000006,hv,hv74278886,2024-06-15T23:20:19.590Z,"15 km ESE of Naalehu, Hawaii",earthquake,0.63,0.870000005,0.129999995,8,automatic,hv,hv
-2024-06-15T23:13:00.480Z,38.8354988098145,-122.789833068848,1.79999995231628,0.23,md,9,82,0.002933,0.01,nc,nc75022747,2024-06-15T23:14:38.212Z,"6 km WNW of Cobb, CA",earthquake,0.43,0.419999987,0.16,10,automatic,nc,nc
-2024-06-15T23:07:05.702Z,61.2924,-151.6627,73.4,1.1,ml,,,,0.56,ak,ak0247okhfu2,2024-06-15T23:09:32.341Z,"35 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
