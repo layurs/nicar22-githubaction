@@ -1,12 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-04T08:34:11.320Z,34.0423333,-117.2371667,16.44,0.7,ml,8,234,0.1038,0.13,ci,ci40861560,2024-08-04T08:40:27.585Z,"2 km ESE of Loma Linda, CA",earthquake,1.62,1.12,0.248,17,automatic,ci,ci
+2024-08-04T08:30:21.083Z,35.8915,-116.26,12.5,1.6,ml,16,301.95,0.757,0.2608,nn,nn00881894,2024-08-04T08:32:45.147Z,"5 km NNW of Tecopa, California",earthquake,,1.5,0.18,13,automatic,nn,nn
+2024-08-04T08:29:32.430Z,33.2301674,-116.0473328,2.24,3.02,ml,121,19,0.08123,0.24,ci,ci40861552,2024-08-04T08:40:06.240Z,"11 km SW of Salton City, CA",earthquake,0.17,0.52,0.231,22,automatic,ci,ci
+2024-08-04T08:28:39.020Z,35.6308333,-117.563,6.95,1.06,ml,27,58,0.08256,0.13,ci,ci40861544,2024-08-04T08:34:52.953Z,"10 km E of Ridgecrest, CA",earthquake,0.17,0.39,0.179,13,automatic,ci,ci
 2024-08-04T08:05:00.963Z,60.8296,-147.7297,26.6,1.3,ml,,,,0.52,ak,ak0249z0eunk,2024-08-04T08:06:57.807Z,"52 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-04T08:03:25.716Z,-3.7452,128.4129,128.29,4.5,mb,46,50,1.676,0.64,us,us6000ni0z,2024-08-04T08:23:33.040Z,"26 km ESE of Ambon, Indonesia",earthquake,3.99,7.289,0.099,30,reviewed,us,us
 2024-08-04T07:39:02.720Z,38.83,-122.81,1.4,0.78,md,16,48,0.004867,0.02,nc,nc75043337,2024-08-04T07:57:14.987Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.460000008,0.15,18,automatic,nc,nc
 2024-08-04T07:21:14.562Z,31.674,-104.187,4.1889,2.2,ml,18,75,0.1,0.3,tx,tx2024pfff,2024-08-04T07:59:01.052Z,"54 km NW of Toyah, Texas",earthquake,0,1.2194825440675,0.2,14,automatic,tx,tx
 2024-08-04T07:07:39.390Z,35.7453333,-117.5601667,2.18,1.27,ml,28,67,0.1268,0.13,ci,ci40861536,2024-08-04T07:19:53.764Z,"14 km W of Searles Valley, CA",earthquake,0.16,0.37,0.172,19,automatic,ci,ci
 2024-08-04T07:05:53.340Z,38.83,-122.79,1.57,0.78,md,13,49,0.00842,0.01,nc,nc75043322,2024-08-04T07:40:42.496Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.689999998,0.26,16,automatic,nc,nc
 2024-08-04T07:03:55.751Z,61.2306,-150.4408,43.5,1.3,ml,,,,0.75,ak,ak0249yzt3uf,2024-08-04T07:05:53.764Z,"28 km WSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-04T06:57:04.508Z,-3.7935,-78.5936,101.663,4.4,mb,33,158,1.865,0.74,us,us6000ni0m,2024-08-04T07:27:43.040Z,"19 km ENE of Yantzaza, Ecuador",earthquake,7.23,9.069,0.108,25,reviewed,us,us
-2024-08-04T06:52:43.740Z,38.82,-122.83,6.33,0.4,md,7,123,0.0138,0.02,nc,nc75043317,2024-08-04T07:19:30.743Z,"7 km NW of The Geysers, CA",earthquake,1.07,2.21000004,0.21,8,automatic,nc,nc
+2024-08-04T06:52:43.740Z,38.82,-122.83,6.33,0.4,md,7,123,0.0138,0.02,nc,nc75043317,2024-08-04T08:32:16.198Z,"7 km NW of The Geysers, CA",earthquake,1.07,2.21000004,0.21,8,automatic,nc,nc
 2024-08-04T06:45:54.670Z,19.3764991760254,-155.244171142578,0.0599999986588955,1.7,ml,24,77,0.004452,0.119999997,hv,hv74383696,2024-08-04T06:48:31.530Z,"7 km S of Volcano, Hawaii",earthquake,0.13,0.109999999,0.24,9,automatic,hv,hv
 2024-08-04T06:06:03.713Z,39.5965,143.3337,28.683,4.1,mb,16,192,2.42,0.53,us,us6000ni0i,2024-08-04T06:41:10.040Z,"119 km E of Miyako, Japan",earthquake,12.65,8.28,0.184,8,reviewed,us,us
 2024-08-04T05:43:04.304Z,-0.1772,-18.2917,10,5.5,mww,83,71,8.643,0.57,us,us6000ni0g,2024-08-04T07:45:29.065Z,"central Mid-Atlantic Ridge",earthquake,6.24,1.79,0.06,27,reviewed,us,us
@@ -224,11 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T08:50:12.210Z,33.2393333,-116.0388333,3.35,1.49,ml,66,35,0.0602,0.22,ci,ci40860544,2024-08-03T08:57:23.733Z,"10 km SW of Salton City, CA",earthquake,0.16,0.4,0.178,27,automatic,ci,ci
 2024-08-03T08:48:15.210Z,34.011,-116.6821667,9.73,1.49,ml,77,42,0.03951,0.17,ci,ci40860536,2024-08-03T08:59:47.940Z,"10 km WSW of Morongo Valley, CA",earthquake,0.13,0.31,0.164,28,automatic,ci,ci
 2024-08-03T08:46:10.160Z,52.0818333333333,-176.160666666667,7.91,0.3,ml,5,144,0.01569,0.24,av,av93219356,2024-08-04T04:04:04.280Z,"39 km NE of Adak, Alaska",earthquake,1.1,1.52,0.161681214480129,5,reviewed,av,av
-2024-08-03T08:31:40.670Z,33.227,-116.0336667,4.04,0.77,ml,38,90,0.06641,0.24,ci,ci40860528,2024-08-03T08:37:35.392Z,"11 km SW of Salton City, CA",earthquake,0.26,0.81,0.106,12,automatic,ci,ci
-2024-08-03T08:31:28.300Z,38.82,-122.84,2.23,1.08,md,22,103,0.006522,0.02,nc,nc75043017,2024-08-03T09:39:25.310Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.31,24,automatic,nc,nc
-2024-08-03T08:29:50.955Z,66.0949,-150.5116,13.8,0.9,ml,,,,0.14,ak,ak0249xd0r7a,2024-08-03T08:32:31.273Z,"65 km W of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-03T08:24:40.409Z,62.0493,-150.4805,45.6,1.6,ml,,,,0.69,ak,ak0249xcznt4,2024-08-03T08:26:39.110Z,"32 km SSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-08-03T08:24:31.410Z,33.2246667,-116.0468333,3.26,2.24,ml,83,20,0.07528,0.21,ci,ci40860520,2024-08-03T08:35:20.180Z,"12 km SW of Salton City, CA",earthquake,0.12,0.31,0.155,26,automatic,ci,ci
-2024-08-03T08:15:14.970Z,33.2333333,-116.0436667,3.13,0.83,ml,46,59,0.06725,0.21,ci,ci40860512,2024-08-03T08:21:20.617Z,"11 km SW of Salton City, CA",earthquake,0.17,0.35,0.059,19,automatic,ci,ci
-2024-08-03T08:12:09.009Z,64.4773,-146.9487,7.4,0.6,ml,,,,0.36,ak,ak0249xcx0sk,2024-08-03T08:15:15.159Z,"5 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-03T08:10:09.130Z,33.2275,-116.0431667,3.42,0.77,ml,49,58,0.07112,0.22,ci,ci40860504,2024-08-03T08:16:18.228Z,"11 km SW of Salton City, CA",earthquake,0.2,0.42,0.077,16,automatic,ci,ci
