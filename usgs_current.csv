@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-04T15:54:51.970Z,36.7738342285156,-121.288665771484,9,2.38,md,44,84,0.01903,0.1,nc,nc75057306,2024-09-04T15:59:00.320Z,"3 km SE of Tres Pinos, CA",earthquake,0.21,0.400000006,0.16,49,automatic,nc,nc
+2024-09-04T15:38:47.800Z,36.103,-117.7331667,6.06,1.05,ml,19,85,0.08187,0.12,ci,ci40724639,2024-09-04T15:50:42.864Z,"20 km ENE of Coso Junction, CA",earthquake,0.17,0.43,0.161,13,automatic,ci,ci
 2024-09-04T15:05:09.920Z,19.2465000152588,-155.364166259766,30.4599990844727,2.11999989,md,55,147,0.03274,0.129999995,hv,hv74441231,2024-09-04T15:07:09.360Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.52,0.50999999,0.25,24,automatic,hv,hv
 2024-09-04T14:44:20.823Z,-16.6494,-72.7549,125.253,4,mb,10,169,2.869,0.34,us,us6000npnh,2024-09-04T15:35:18.843Z,"5 km WSW of Camaná, Peru",earthquake,9.15,13.34,0.365,2,reviewed,us,us
 2024-09-04T14:42:59.796Z,63.2781,-151.7022,0,1.8,ml,,,,0.99,ak,ak024bedv9mj,2024-09-04T14:44:55.095Z,"29 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -53,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T10:01:26.693Z,37.7034,-117.0935,2.2,0.6,ml,8,330.59,0.633,0.1905,nn,nn00883865,2024-09-04T10:04:05.151Z,"12 km E of Goldfield, Nevada",earthquake,,49.1,0.36,5,automatic,nn,nn
 2024-09-04T09:57:31.205Z,37.7433,-117.1435,1.9,1.3,ml,21,176.39000000000004,0.557,0.2917,nn,nn00883863,2024-09-04T10:00:17.794Z,"8 km ENE of Goldfield, Nevada",earthquake,,18,0.14,13,automatic,nn,nn
 2024-09-04T09:55:45.500Z,19.3531666666667,-155.229666666667,29.55,1.34,md,30,104,0.02277,0.09,hv,hv74440861,2024-09-04T10:39:58.600Z,"9 km S of Volcano, Hawaii",earthquake,0.74,0.51,0.132781596618245,6,reviewed,hv,hv
+2024-09-04T09:54:12.220Z,38.5043333333333,-112.872333333333,0.23,0.46,md,13,67,0.009319,0.13,uu,uu80081301,2024-09-04T15:50:48.720Z,"16 km NE of Milford, Utah",earthquake,0.35,0.74,0.556292764944697,5,reviewed,uu,uu
 2024-09-04T09:50:33.229Z,37.7797,-117.1058,10.7,1,ml,9,183.95999999999998,0.561,0.1462,nn,nn00883862,2024-09-04T09:53:35.352Z,"13 km NE of Goldfield, Nevada",earthquake,,91.1,0.24,6,automatic,nn,nn
 2024-09-04T09:48:30.141Z,37.6726,-116.986,1.2,1.4,ml,16,175.3,0.569,0.3106,nn,nn00883861,2024-09-04T09:51:07.075Z,"22 km E of Goldfield, Nevada",earthquake,,25.1,0.22,10,automatic,nn,nn
 2024-09-04T09:45:56.751Z,37.7408,-117.1381,0.8,1.5,ml,25,153.07,0.451,0.2326,nn,nn00883859,2024-09-04T09:48:39.026Z,"9 km ENE of Goldfield, Nevada",earthquake,,23.1,0.21,16,automatic,nn,nn
@@ -212,8 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T16:14:25.149Z,35.0275,-97.76383333,7.66,1.08,ml,49,73,0.1115781046,0.3,ok,ok2024rirx,2024-09-04T14:30:10.215Z,"12 km W of Dibble, Oklahoma",earthquake,,0.7,0.24,21,reviewed,ok,ok
 2024-09-03T16:12:57.340Z,46.8316666666667,-111.598333333333,10.46,1.35,ml,12,80,0.2006,0.09,mb,mb90060593,2024-09-03T17:35:55.310Z,"30 km ENE of Helena Valley Northeast, Montana",earthquake,0.44,0.66,0.204435801210768,7,reviewed,mb,mb
 2024-09-03T16:07:30.102Z,61.7586,-149.7209,35,1.1,ml,,,,0.78,ak,ak024bcrb7zm,2024-09-03T16:09:24.059Z,"15 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-03T16:01:56.275Z,62.9805,-150.5017,91.4,1.6,ml,,,,0.34,ak,ak024bcr9zpn,2024-09-03T16:04:01.723Z,"55 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-09-03T15:54:35.219Z,36.23066667,-95.83916667,0,1.24,ml,42,184,0.3221367858,0.39,ok,ok2024rirg,2024-09-04T14:44:49.929Z,"4 km SSE of Owasso, Oklahoma",quarry blast,,0.7,0.19,18,reviewed,ok,ok
-2024-09-03T15:49:14.830Z,34.3893333,-120.0135,-0.26,1.44,ml,23,103,0.1875,0.4,ci,ci40723567,2024-09-03T15:55:13.210Z,"14 km W of Isla Vista, CA",earthquake,0.71,2,0.198,22,automatic,ci,ci
-2024-09-03T15:47:42.600Z,32.9793333,-116.2138333,9.48,0.98,ml,40,47,0.07922,0.18,ci,ci40723551,2024-09-03T15:53:28.102Z,"20 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.58,0.177,16,automatic,ci,ci
-2024-09-03T15:47:00.721Z,41.0956,78.3679,13.353,4.3,mb,59,124,0.762,0.73,us,us6000npic,2024-09-03T18:09:34.040Z,"141 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.5,4.55,0.087,39,reviewed,us,us
