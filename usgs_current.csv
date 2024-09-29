@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-29T04:43:06.970Z,38.8348350524902,-122.80883026123,1.85000002384186,1.07,md,21,50,0.01146,0.02,nc,nc75068081,2024-09-29T04:44:44.728Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.419999987,0.07,21,automatic,nc,nc
+2024-09-29T05:12:07.554Z,61.3982,-150.0342,34,1.9,ml,,,,0.34,ak,ak024cjkri0j,2024-09-29T05:14:04.068Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-29T04:43:06.970Z,38.8348350524902,-122.80883026123,1.85000002384186,1.07,md,21,50,0.01146,0.02,nc,nc75068081,2024-09-29T05:09:27.288Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.419999987,0.07,21,automatic,nc,nc
 2024-09-29T04:42:16.590Z,36.0078333,-117.793,1.6,0.82,ml,18,62,0.0284,0.14,ci,ci40748007,2024-09-29T04:48:13.586Z,"13 km NE of Little Lake, CA",earthquake,0.22,0.27,0.213,9,automatic,ci,ci
 2024-09-29T04:28:52.543Z,61.1287,-148.0763,10.2,0.7,ml,,,,0.59,ak,ak024cjk9lc2,2024-09-29T04:31:21.751Z,"51 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-29T04:25:22.806Z,34.0907,70.953,49.326,4.5,mb,34,170,4.821,0.94,us,us7000nh29,2024-09-29T04:44:41.040Z,"17 km W of Landi Kotal, Pakistan",earthquake,12.19,9.697,0.094,33,reviewed,us,us
@@ -146,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T10:20:17.451Z,63.2217,-150.4359,117.1,1.3,ml,,,,0.17,ak,ak024ci0921d,2024-09-28T10:22:06.213Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-28T10:09:28.710Z,36.203,-118.0138333,2.22,1.86,ml,29,61,0.1543,0.19,ci,ci40747575,2024-09-28T10:15:49.833Z,"9 km S of Olancha, CA",earthquake,0.27,0.88,0.213,22,automatic,ci,ci
 2024-09-28T09:49:34.650Z,38.8209991455078,-122.804168701172,3.65000009536743,0.68,md,9,120,0.005196,0.01,nc,nc75067711,2024-09-28T11:24:25.736Z,"6 km NNW of The Geysers, CA",earthquake,0.56,1.38,0.27,12,automatic,nc,nc
+2024-09-28T09:33:55.390Z,61.3198333333333,-152.257,1.09,-0.26,ml,10,125,0.07348,0.15,av,av93289283,2024-09-29T04:58:56.140Z,"66 km WNW of Beluga, Alaska",earthquake,0.33,1.42,0.274823467192855,10,reviewed,av,av
 2024-09-28T09:33:53.960Z,38.7916679382324,-122.760833740234,2.35999989509583,0.77,md,9,79,0.02064,0.01,nc,nc75067696,2024-09-28T10:34:27.501Z,"2 km  of The Geysers, CA",earthquake,0.4,0.99000001,0.03,4,automatic,nc,nc
 2024-09-28T09:33:03.660Z,61.3156666666667,-152.250833333333,2.54,0.07,ml,10,123,0.06838,0.08,av,av93289278,2024-09-28T23:37:39.850Z,"65 km WNW of Beluga, Alaska",earthquake,0.27,0.57,0.228425321745773,11,reviewed,av,av
 2024-09-28T09:23:30.080Z,38.7910003662109,-122.805335998535,3.47000002861023,0.3,md,11,91,0.003204,0.02,nc,nc75067691,2024-09-28T10:09:24.255Z,"5 km WNW of The Geysers, CA",earthquake,0.52,1.38999999,0.08,10,automatic,nc,nc
@@ -179,9 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T06:02:42.631Z,36.622,-115.768,0,0.4,ml,14,297.42,0.161,0.1376,nn,nn00885295,2024-09-28T06:04:42.732Z,"10 km WNW of Indian Springs, Nevada",earthquake,,10.4,0.31,7,automatic,nn,nn
 2024-09-28T05:49:38.259Z,62.7708,-150.7814,79.5,1.4,ml,,,,0.33,ak,ak024chxg5dt,2024-09-28T05:51:21.832Z,"30 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-28T05:48:02.150Z,51.9671666666667,179.498,1.56,0.87,ml,5,213,0.004257,0.2,av,av93289098,2024-09-28T22:35:59.420Z,"266 km W of Adak, Alaska",earthquake,0.8,2.37,0.259933770676528,5,reviewed,av,av
-2024-09-28T05:36:44.170Z,58.2798333333333,-154.863666666667,17.23,-0.1,ml,7,189,0.1067,0.16,av,av93022534,2024-09-28T22:43:31.480Z,"82 km NNW of Karluk, Alaska",earthquake,1.52,0.86,0.382780113435155,7,reviewed,av,av
-2024-09-28T05:16:13.874Z,36.6372,-115.7229,2,0.9,ml,29,141.74,0.194,0.1997,nn,nn00885292,2024-09-28T05:18:24.888Z,"8 km NNW of Indian Springs, Nevada",earthquake,,1.4,0.25,19,automatic,nn,nn
-2024-09-28T05:10:51.369Z,62.0966,-150.7151,18.4,1.2,ml,,,,0.75,ak,ak024chx7tgw,2024-09-28T05:12:30.874Z,"35 km SW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-09-28T05:07:37.700Z,38.8278350830078,-122.801498413086,1.66999995708466,1.07,md,19,36,0.008033,0.01,nc,nc75067646,2024-09-28T05:57:17.335Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.400000006,0.14,17,automatic,nc,nc
-2024-09-28T05:06:45.500Z,38.8451652526855,-122.78483581543,19.7900009155273,1.29,md,7,210,0.007069,0.1,nc,nc75067641,2024-09-28T07:34:26.015Z,"6 km NW of Cobb, CA",earthquake,4.85,11.3400002,0.1,3,automatic,nc,nc
-2024-09-28T05:05:25.950Z,33.9331667,-116.9846667,16.2,1.72,ml,79,25,0.01223,0.17,ci,ci40747479,2024-09-28T05:16:01.290Z,"1 km WNW of Beaumont, CA",earthquake,0.12,0.36,0.143,28,automatic,ci,ci
