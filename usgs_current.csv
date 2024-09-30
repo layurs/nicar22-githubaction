@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-30T03:12:10.950Z,34.2159996,-117.5220032,3.49,1.31,ml,47,58,0.02027,0.17,ci,ci40748551,2024-09-30T03:14:14.423Z,"5 km SSW of Lytle Creek, CA",earthquake,0.22,0.42,0.197,13,automatic,ci,ci
+2024-09-30T03:12:10.960Z,34.218,-117.517,4.4,1.47,ml,71,30,0.01765,0.19,ci,ci40748551,2024-09-30T03:22:59.910Z,"5 km SSW of Lytle Creek, CA",earthquake,0.14,0.26,0.189,29,automatic,ci,ci
 2024-09-30T03:11:25.482Z,62.0556,-149.8504,24.5,1.5,ml,,,,0.51,ak,ak024cl73sys,2024-09-30T03:12:51.180Z,"11 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-30T03:01:57.326Z,63.3657,-149.7467,94.7,1.5,ml,,,,0.15,ak,ak024cl71qbi,2024-09-30T03:04:55.807Z,"39 km W of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-30T03:01:11.601Z,60.7346,-151.8209,76.8,1.1,ml,,,,0.22,ak,ak024cl71mqg,2024-09-30T03:02:21.166Z,"29 km W of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -141,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T10:13:14.451Z,37.0755,-116.2486,1.8,-0.3,ml,9,117.00999999999999,0.148,0.2559,nn,nn00885364,2024-09-29T10:15:11.055Z,"49 km ENE of Beatty, Nevada",earthquake,,4.9,0.37,4,automatic,nn,nn
 2024-09-29T10:11:33.380Z,38.8333320617676,-122.821166992188,1.62999999523163,0.19,md,7,101,0.01235,0.01,nc,nc75068171,2024-09-29T11:34:28.064Z,"8 km NNW of The Geysers, CA",earthquake,0.73,1.32000005,0.08,9,automatic,nc,nc
 2024-09-29T09:53:08.610Z,36.9129981994629,-121.646667480469,6.84000015258789,1.77,md,29,80,0.02162,0.12,nc,nc75068166,2024-09-29T17:49:09.767Z,"3 km N of Aromas, CA",earthquake,0.31,0.560000002,0.16,14,automatic,nc,nc
-2024-09-29T09:47:33.220Z,36.9118333333333,-121.653333333333,6.94,4.15,mw,106,47,0.02022,0.16,nc,nc75068161,2024-09-30T03:15:22.286Z,"3 km  of Aromas, CA",earthquake,0.15,0.29,,29,reviewed,nc,nc
+2024-09-29T09:47:33.220Z,36.9118333333333,-121.653333333333,6.94,4.15,mw,106,47,0.02022,0.16,nc,nc75068161,2024-09-30T03:41:27.077Z,"3 km  of Aromas, CA",earthquake,0.15,0.29,,29,reviewed,nc,nc
 2024-09-29T09:45:40.874Z,61.5371,-150.119,51.6,1.2,ml,,,,0.63,ak,ak024cjncbzg,2024-09-29T19:39:37.888Z,"8 km W of Big Lake, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-09-29T09:38:55.171Z,61.8887,-151.8183,10.6,1.8,ml,,,,1.35,ak,ak024cjnb0lo,2024-09-29T09:41:28.399Z,"24 km WSW of Skwentna, Alaska",earthquake,,4,,,automatic,ak,ak
 2024-09-29T09:35:45.880Z,38.8193321228027,-122.81266784668,3.15000009536743,0.69,md,11,89,0.004535,0.02,nc,nc75068151,2024-09-29T09:37:20.951Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.01999998,0.24,12,automatic,nc,nc
@@ -191,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T03:59:28.560Z,38.8418350219727,-122.825836181641,1.86000001430511,0.82,md,17,74,0.008204,0.02,nc,nc75068066,2024-09-29T04:57:18.193Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.430000007,0.22,18,automatic,nc,nc
 2024-09-29T03:57:11.210Z,33.768,-117.8246667,6.08,0.72,ml,5,180,0.02576,0.32,ci,ci40747991,2024-09-29T16:54:04.816Z,"2 km N of Tustin, CA",earthquake,2.31,2.55,0.037,4,reviewed,ci,ci
 2024-09-29T03:50:20.200Z,35.0936667,-119.0845,11.41,1.1,ml,24,64,0.03499,0.18,ci,ci40747983,2024-09-29T03:56:42.872Z,"22 km NW of Grapevine, CA",earthquake,0.25,0.56,0.161,21,automatic,ci,ci
-2024-09-29T03:37:36.269Z,29.133,-97.878,3.9017,1.5,ml,21,108,0.1,1.1,tx,tx2024tdga,2024-09-29T04:27:42.521Z,"14 km SE of Stockdale, Texas",earthquake,0,1.34066444819106,0.1,17,automatic,tx,tx
-2024-09-29T03:32:27.161Z,44.3121,-115.1621,12.486,2.7,ml,17,64,0.306,0.32,us,us7000nh25,2024-09-29T03:39:59.040Z,"20 km WNW of Stanley, Idaho",earthquake,1.62,7.958,0.041,80,reviewed,us,us
-2024-09-29T03:18:55.210Z,33.8916667,-116.2526667,8.06,0.76,ml,36,61,0.07404,0.16,ci,ci40747975,2024-09-29T14:08:01.653Z,"15 km ENE of Thousand Palms, CA",earthquake,0.22,0.63,0.11,19,reviewed,ci,ci
