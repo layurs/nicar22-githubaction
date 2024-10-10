@@ -1,4 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-10T06:31:02.380Z,38.832668304443,-122.81549835205,1.3300000429153,0.65,md,9,74,0.01018,0.01,nc,nc75072601,2024-10-10T06:32:39.995Z,"8 km NNW of The Geysers, CA",earthquake,0.37,0.779999971,0.19,11,automatic,nc,nc
+2024-10-10T06:22:24.010Z,38.749000549316,-122.70266723633,1.9299999475479,1,md,9,136,0.01933,0.03,nc,nc75072591,2024-10-10T06:42:16.085Z,"3 km SSW of Anderson Springs, CA",earthquake,0.36,0.529999971,0.19,8,automatic,nc,nc
+2024-10-10T06:16:58.501Z,60.381,-151.2089,50.3,1.3,ml,,,,0.29,ak,ak024d1sapui,2024-10-10T06:19:09.174Z,"5 km ENE of Cohoe, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2024-10-10T06:15:27.750Z,36.0946667,-117.8573333,3.96,0.77,ml,23,77,0.02295,0.13,ci,ci40755991,2024-10-10T06:21:22.615Z,"10 km NE of Coso Junction, CA",earthquake,0.17,0.27,0.326,8,automatic,ci,ci
+2024-10-10T06:09:52.130Z,36.075500488281,-120.24133300781,12.159999847412,2.07,md,17,82,0.05529,0.06,nc,nc75072586,2024-10-10T06:32:22.015Z,"13 km SE of Coalinga, CA",earthquake,0.37,0.439999998,0.17,12,automatic,nc,nc
+2024-10-10T06:07:51.204Z,61.0063,-150.9566,34.7,2,ml,,,,0.55,ak,ak024d1s8ru8,2024-10-10T06:11:05.124Z,"11 km SE of Tyonek, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-10-10T06:07:32.030Z,59.0803,-152.4151,78.9,2.3,ml,,,,0.89,ak,ak024d1s8qcz,2024-10-10T06:09:24.225Z,"41 km SW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-10T06:05:58.010Z,19.176500320435,-155.48933410644,30.739999771118,1.89,ml,52,84,0.0332,0.129999995,hv,hv74495356,2024-10-10T06:08:53.020Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.42,0.569999993,1.11,3,automatic,hv,hv
 2024-10-10T06:01:33.980Z,35.9065,-117.741,7.41,1.02,ml,30,42,0.07554,0.12,ci,ci40755983,2024-10-10T06:07:15.873Z,"15 km ESE of Little Lake, CA",earthquake,0.14,0.44,0.244,17,automatic,ci,ci
 2024-10-10T05:59:56.261Z,60.9835,-150.9356,43.2,1.8,ml,,,,0.57,ak,ak024d1ryhux,2024-10-10T06:02:43.270Z,"14 km SE of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -98,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T20:16:58.680Z,63.5984,-149.5562,53.6,1.3,ml,,,,1.05,ak,ak024d0d3fu4,2024-10-09T20:18:44.607Z,"35 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-09T20:16:31.631Z,60.4342,-152.0902,75.9,1.3,ml,,,,0.27,ak,ak024d0d3dqz,2024-10-09T20:17:45.671Z,"43 km W of Cohoe, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-09T20:13:30.950Z,33.0373333,-116.4098333,9.5,0.88,ml,38,42,0.04643,0.16,ci,ci40755679,2024-10-09T23:39:10.869Z,"18 km ESE of Julian, CA",earthquake,0.18,0.4,0.221,15,reviewed,ci,ci
-2024-10-09T20:12:21.710Z,36.751834869385,-121.60733032227,0.18999999761581,1.6,md,15,96,0.03607,0.05,nc,nc75072446,2024-10-09T21:59:25.275Z,"6 km SE of Prunedale, CA",earthquake,0.42,1.05999994,0.15,9,automatic,nc,nc
+2024-10-09T20:12:21.710Z,36.747166666667,-121.59733333333,-0.11,1.5,md,44,62,0.01431,0.16,nc,nc75072446,2024-10-10T06:48:11.234Z,"7 km SE of Prunedale, CA",quarry blast,0.19,31.61,0.168,30,reviewed,nc,nc
 2024-10-09T20:11:29.080Z,33.3558333,-116.3731667,12.46,1.08,ml,40,54,0.02946,0.18,ci,ci40755671,2024-10-09T22:04:59.518Z,"11 km N of Borrego Springs, CA",earthquake,0.22,0.37,0.17,28,reviewed,ci,ci
 2024-10-09T20:06:21.016Z,66.1141,-149.0416,14,1.9,ml,,,,0.82,ak,ak024d0d17rp,2024-10-09T20:08:03.046Z,"12 km N of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-09T20:01:01.030Z,48.416166666667,-116.52933333333,-0.99,1.74,ml,12,138,0.4241,0.63,uw,uw62053316,2024-10-09T23:00:28.110Z,"11 km N of Kootenai, Idaho",explosion,1.51,31.61,0.086803254718259,2,reviewed,uw,uw
@@ -248,16 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T07:04:52.229Z,67.3402,-156.3141,0,2.8,ml,,,,0.64,ak,ak024d05a7w8,2024-10-09T08:35:07.005Z,"54 km NNE of Kobuk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-09T07:00:56.826Z,64.7518,-149.1652,24.7,1,ml,,,,0.58,ak,ak024d059dde,2024-10-09T07:02:54.456Z,"16 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-09T06:50:18.300Z,-33.769,-178.1584,10,4.7,mb,25,240,4.754,1.21,us,us6000nxgy,2024-10-09T08:15:05.005Z,"south of the Kermadec Islands",earthquake,13.72,2.002,0.133,17,reviewed,us,us
-2024-10-09T06:45:16.070Z,38.77799987793,-122.72733306885,1.6599999666214,0.7,md,7,97,0.009013,0.01,nc,nc75072271,2024-10-09T08:12:22.396Z,"3 km E of The Geysers, CA",earthquake,0.38,0.810000002,0.34,6,automatic,nc,nc
-2024-10-09T06:41:19.384Z,63.101,-144.3435,1.9,1.8,ml,,,,0.49,ak,ak024d04wn8i,2024-10-09T06:43:16.064Z,"35 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-10-09T06:31:29.821Z,58.1803,-154.4751,14.9,1.3,ml,,,,0.89,ak,ak024d04uivq,2024-10-09T06:33:03.178Z,"68 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2024-10-09T06:30:54.580Z,33.7166667,-116.843,15.56,1.01,ml,61,30,0.07355,0.18,ci,ci40755135,2024-10-09T15:12:56.721Z,"6 km SE of Valle Vista, CA",earthquake,0.17,0.33,0.155,26,reviewed,ci,ci
-2024-10-09T06:26:06.590Z,38.838165283203,-122.82483673096,1.7300000190735,0.27,md,10,91,0.008328,0.01,nc,nc75072266,2024-10-09T07:49:30.237Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.889999986,0.16,13,automatic,nc,nc
-2024-10-09T06:23:58.080Z,32.5451667,-115.2781667,20.26,2.27,ml,34,43,0.1273,0.33,ci,ci40755127,2024-10-09T17:52:06.250Z,"7 km ESE of Puebla, B.C., MX",earthquake,0.48,1.33,0.194,23,reviewed,ci,ci
-2024-10-09T06:22:50.000Z,38.843166351318,-122.82550048828,2.039999961853,1.26,md,26,76,0.00904,0.02,nc,nc75072261,2024-10-09T07:17:22.021Z,"9 km WNW of Cobb, CA",earthquake,0.21,0.379999995,0.13,26,automatic,nc,nc
-2024-10-09T06:22:10.060Z,33.7145,-116.8435,15.54,0.98,ml,62,20,0.07233,0.18,ci,ci40755119,2024-10-09T15:13:32.390Z,"6 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.184,27,reviewed,ci,ci
-2024-10-09T06:18:09.210Z,32.5543333,-115.2751667,21.53,2.35,ml,37,43,0.1368,0.27,ci,ci40755111,2024-10-09T17:41:01.320Z,"7 km E of Puebla, B.C., MX",earthquake,0.35,1.03,0.244,26,reviewed,ci,ci
-2024-10-09T06:14:08.260Z,32.5523333,-115.2826667,21.49,2.37,ml,35,40,0.1338,0.27,ci,ci40755103,2024-10-09T17:23:42.345Z,"7 km ESE of Puebla, B.C., MX",earthquake,0.36,0.95,0.181,26,reviewed,ci,ci
-2024-10-09T06:12:47.210Z,32.5403333,-115.271,24.92,1.69,ml,17,59,0.1239,0.2,ci,ci37685588,2024-10-09T17:24:15.345Z,"8 km ESE of Puebla, B.C., MX",earthquake,0.46,1.6,0.178,8,reviewed,ci,ci
-2024-10-09T06:12:23.160Z,32.553,-115.2821667,24.35,1.84,ml,24,47,0.1345,0.24,ci,ci40755095,2024-10-09T17:14:46.291Z,"7 km E of Puebla, B.C., MX",earthquake,0.42,1.24,0.264,17,reviewed,ci,ci
-2024-10-09T06:09:54.290Z,32.5555,-115.2871667,18.55,2.85,ml,45,41,0.1364,0.28,ci,ci40755087,2024-10-09T16:49:21.370Z,"6 km E of Puebla, B.C., MX",earthquake,0.28,0.75,0.182,26,reviewed,ci,ci
