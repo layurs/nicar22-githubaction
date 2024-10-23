@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-23T12:10:01.090Z,33.3401667,-116.2381667,10.64,0.52,ml,23,156,0.06376,0.15,ci,ci40961608,2024-10-23T12:16:00.558Z,"16 km NE of Borrego Springs, CA",earthquake,0.31,0.48,0.183,9,automatic,ci,ci
+2024-10-23T12:07:41.630Z,32.6101667,-115.3291667,15.4,1.8,ml,25,53,0.09981,0.31,ci,ci40961600,2024-10-23T12:14:05.200Z,"6 km NNE of Puebla, B.C., MX",earthquake,0.39,1.01,0.174,26,automatic,ci,ci
 2024-10-23T11:30:43.350Z,33.3716667,-116.3101667,11.31,0.62,ml,44,91,0.009284,0.18,ci,ci40961552,2024-10-23T11:36:47.314Z,"14 km NNE of Borrego Springs, CA",earthquake,0.22,0.34,0.14,16,automatic,ci,ci
 2024-10-23T11:22:04.490Z,19.142000198364,-155.4811706543,35.009998321533,1.79999995,md,43,168,0.02242,0.140000001,hv,hv74509741,2024-10-23T11:23:57.360Z,"6 km S of Pāhala, Hawaii",earthquake,0.63,0.949999988,0.439999998,3,automatic,hv,hv
 2024-10-23T11:08:09.520Z,34.0485,-118.7966667,10.51,1.37,ml,40,87,0.01727,0.22,ci,ci40961544,2024-10-23T11:14:29.175Z,"5 km NNE of Malibu, CA",earthquake,0.27,0.39,0.28,32,automatic,ci,ci
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T09:38:16.370Z,37.529167175293,-118.86933135986,5.6100001335144,1.82,md,24,103,0.06865,0.03,nc,nc75077641,2024-10-23T09:54:28.113Z,"15 km SSE of Mammoth Lakes, CA",earthquake,0.32,0.839999974,0.19,24,automatic,nc,nc
 2024-10-23T09:37:12.797Z,-19.1671,-69.3145,113.557,4.4,mb,35,94,0.511,1.6,us,us7000nmky,2024-10-23T10:17:47.040Z,"19 km NE of Camiña, Chile",earthquake,7.64,7.429,0.097,31,reviewed,us,us
 2024-10-23T09:26:20.580Z,63.4269,-144.853,32.1,2.2,ml,,,,0.77,ak,ak024dnc4lbe,2024-10-23T09:28:25.063Z,"26 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-23T09:12:48.109Z,-9.1684,114.0096,78.651,4.4,mb,22,64,0.708,0.77,us,us7000nmkv,2024-10-23T11:12:12.966Z,"86 km S of Gambiran Satu, Indonesia",earthquake,8.31,7.062,0.138,15,reviewed,us,us
+2024-10-23T09:12:48.109Z,-9.1684,114.0096,78.651,4.4,mb,22,64,0.708,0.77,us,us7000nmkv,2024-10-23T11:43:04.141Z,"86 km S of Gambiran Satu, Indonesia",earthquake,8.31,7.062,0.138,15,reviewed,us,us
 2024-10-23T09:04:24.960Z,33.4925,-116.4766667,12.74,1.07,ml,64,58,0.07914,0.17,ci,ci40961504,2024-10-23T09:10:24.473Z,"20 km ESE of Anza, CA",earthquake,0.14,0.32,0.167,26,automatic,ci,ci
 2024-10-23T08:44:36.520Z,33.4586667,-116.6156667,9.81,0.6,ml,38,40,0.02389,0.14,ci,ci40961480,2024-10-23T08:50:36.354Z,"12 km SSE of Anza, CA",earthquake,0.17,0.35,0.213,14,automatic,ci,ci
 2024-10-23T08:30:11.020Z,17.959166666667,-67.002166666667,7.94,2.28,md,10,203,0.04131,0.08,pr,pr71463243,2024-10-23T08:39:21.330Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.37,0.6,0.13606208238358,4,reviewed,pr,pr
@@ -210,8 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T12:43:52.670Z,-7.861,108.3777,89.798,4.9,mb,63,28,0.823,0.79,us,us7000nmea,2024-10-23T11:06:02.668Z,"56 km SSE of Kawalu, Indonesia",earthquake,6.92,6.37,0.082,47,reviewed,us,us
 2024-10-22T12:37:48.700Z,39.726833333333,-110.80716666667,-3.46,0.94,md,7,187,0.05005,0.26,uu,uu80084851,2024-10-22T14:06:22.980Z,"4 km N of Kenilworth, Utah",earthquake,1.28,1.68,0.19388863878824,7,reviewed,uu,uu
 2024-10-22T12:29:34.601Z,31.659,-104.366,4.1011,2.4,ml,18,70,0.1,0.4,tx,tx2024utyd,2024-10-22T13:08:56.040Z,"57 km S of Whites City, New Mexico",earthquake,0,1.2924870252609,0.1,14,automatic,tx,tx
-2024-10-22T12:08:33.285Z,-3.048,147.4333,10,5,mb,57,49,4.855,0.61,us,us7000nme7,2024-10-22T12:29:16.040Z,"113 km S of Lorengau, Papua New Guinea",earthquake,7.1,1.843,0.085,44,reviewed,us,us
-2024-10-22T12:06:54.368Z,32.387,-102.07,7.1533,1.5,ml,18,46,0,0.2,tx,tx2024utxj,2024-10-22T14:03:38.368Z,"36 km WSW of Ackerly, Texas",earthquake,0.73135703552456,1.0802658582528,0.1,6,reviewed,tx,tx
-2024-10-22T12:06:52.960Z,19.227,-155.3765,32.12,2.22,ml,45,160,0.02242,0.11,hv,hv74507476,2024-10-23T02:43:48.830Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.4,0.47,0.24134451879371,4,reviewed,hv,hv
-2024-10-22T12:06:45.330Z,19.231166666667,-155.3795,32.54,1.4,md,26,168,0.01814,0.11,hv,hv74507471,2024-10-23T02:54:49.970Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.58,0.65,0.02990279880222,5,reviewed,hv,hv
-2024-10-22T12:02:11.363Z,32.405,-102.061,6.9092,2.1,ml,21,47,0,0.1,tx,tx2024utxf,2024-10-22T13:33:32.145Z,"35 km WSW of Ackerly, Texas",earthquake,0.5910116790813,0.80776108495364,0,7,reviewed,tx,tx
