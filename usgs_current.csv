@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-09T13:51:50.920Z,35.3633347,-118.116333,2.62,1.33,ml,34,45,0.1038,0.13,ci,ci40790631,2024-11-09T13:54:09.022Z,"29 km NNW of California City, CA",earthquake,0.21,0.58,0.209,5,automatic,ci,ci
+2024-11-09T14:03:45.451Z,61.9337,-148.9178,19.4,1.4,ml,,,,0.59,ak,ak024efj3s6p,2024-11-09T14:05:20.561Z,"19 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-09T14:01:17.180Z,38.840831756592,-122.84183502197,1.7300000190735,1.05,md,22,88,0.00544,0.02,nc,nc75084451,2024-11-09T14:02:55.296Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.379999995,0.09,22,automatic,nc,nc
+2024-11-09T13:58:04.210Z,38.812999725342,-122.82900238037,1.3200000524521,1.43,md,29,52,0.004128,0.03,nc,nc75084446,2024-11-09T14:17:18.173Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.280000001,0.11,27,automatic,nc,nc
+2024-11-09T13:51:50.880Z,35.3651667,-118.1193333,2.51,1.31,ml,42,38,0.1061,0.13,ci,ci40790631,2024-11-09T14:02:48.930Z,"29 km NNW of California City, CA",earthquake,0.13,0.35,0.213,29,automatic,ci,ci
+2024-11-09T13:45:33.091Z,-25.6414,-13.8292,10,5.1,mb,47,69,26.223,0.56,us,us7000nqw0,2024-11-09T14:02:29.040Z,"southern Mid-Atlantic Ridge",earthquake,8.88,1.884,0.082,49,reviewed,us,us
 2024-11-09T13:39:11.857Z,36.7663,-116.2589,3.2,-0.5,ml,11,92,0.054,0.2576,nn,nn00887364,2024-11-09T13:40:52.564Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.27,6,automatic,nn,nn
 2024-11-09T13:25:29.837Z,65.2006,-146.5246,11.7,1.2,ml,,,,0.23,ak,ak024efin14n,2024-11-09T13:27:36.100Z,"39 km NNE of Pleasant Valley, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-11-09T13:19:41.063Z,63.0221,-150.1476,92.5,1.6,ml,,,,0.26,ak,ak024efilrp6,2024-11-09T13:21:52.967Z,"63 km N of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -9,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-09T12:40:33.970Z,38.798500061035,-122.81950378418,2.7799999713898,0.75,md,8,129,0.01318,0.02,nc,nc75084436,2024-11-09T13:09:26.728Z,"6 km NW of The Geysers, CA",earthquake,0.46,0.920000017,0.44,9,automatic,nc,nc
 2024-11-09T12:24:17.880Z,33.0055,-116.452,9.3,0.46,ml,25,84,0.04834,0.15,ci,ci40790591,2024-11-09T12:30:27.543Z,"16 km ESE of Julian, CA",earthquake,0.21,0.54,0.033,5,automatic,ci,ci
 2024-11-09T12:08:44.690Z,19.7406,-65.3533,25,3.83,md,21,255,1.4413,0.35,pr,pr2024314002,2024-11-09T12:51:14.353Z,"154 km NNE of Vieques, Puerto Rico",earthquake,1.44,29.55,0.14,16,reviewed,pr,pr
+2024-11-09T12:02:12.140Z,19.193,-65.6203,63,3.7,md,19,237,0.998,0.47,pr,pr2024314003,2024-11-09T13:57:55.258Z,"87 km NNE of Vieques, Puerto Rico",earthquake,3.72,8.83,0.12,9,reviewed,pr,pr
 2024-11-09T11:59:27.280Z,19.180833816528,-155.49516296387,29.329999923706,2.42,ml,62,81,0.04019,0.140000001,hv,hv74526222,2024-11-09T12:02:19.330Z,"3 km SW of Pāhala, Hawaii",earthquake,0.38,0.49000001,0.52,19,automatic,hv,hv
 2024-11-09T11:54:33.890Z,17.967166666667,-66.8315,17.25,2.34,md,8,209,0.03542,0.06,pr,pr71465248,2024-11-09T12:19:48.750Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.51,0.53,0.038534472905143,5,reviewed,pr,pr
 2024-11-09T11:26:14.590Z,34.2728333,-116.949,5.68,0.78,ml,39,107,0.02565,0.15,ci,ci40790575,2024-11-09T11:32:04.208Z,"5 km NW of Big Bear Lake, CA",earthquake,0.22,0.3,0.308,14,automatic,ci,ci
@@ -217,7 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T15:04:03.278Z,59.2518,-152.834,70.9,2.5,ml,,,,0.45,ak,ak024edw5zqv,2024-11-08T15:23:40.040Z,"53 km WSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-08T14:50:47.698Z,51.3755,-176.6414,35,4.8,mb,40,174,0.574,0.95,us,us7000nqlu,2024-11-08T18:07:21.259Z,"55 km S of Adak, Alaska",earthquake,5.88,1.945,0.035,247,reviewed,us,us
 2024-11-08T14:36:06.880Z,38.826831817627,-122.88300323486,2.3900001049042,0.34,md,7,219,0.01138,0.01,nc,nc75083951,2024-11-08T14:52:14.178Z,"12 km E of Cloverdale, CA",earthquake,1.18,0.699999988,0.22,9,automatic,nc,nc
-2024-11-08T14:25:35.330Z,44.721333333333,-111.106,12.62,0.86,ml,13,77,0.07072,0.15,uu,uu80086161,2024-11-08T15:13:15.540Z,"6 km N of West Yellowstone, Montana",earthquake,0.48,1.05,0.19179491536291,2,reviewed,uu,uu
-2024-11-08T14:10:00.040Z,61.34,-152.2845,4.2,-0.5,ml,8,135,0.09157,0.1,av,av93356983,2024-11-09T03:15:56.000Z,"68 km WNW of Beluga, Alaska",earthquake,0.37,4.09,0.16761687420495,8,reviewed,av,av
-2024-11-08T14:04:01.165Z,38.5367,39.701,10,4.7,mb,41,85,1.202,0.78,us,us7000nqls,2024-11-08T14:51:35.685Z,"24 km SW of Kovancılar, Turkey",earthquake,4.17,1.459,0.11,25,reviewed,us,us
-2024-11-08T14:02:24.330Z,33.9843333,-117.1585,11.58,0.64,ml,28,58,0.06378,0.15,ci,ci40789887,2024-11-08T22:35:56.547Z,"8 km SSE of Redlands, CA",earthquake,0.2,0.87,0.102,14,reviewed,ci,ci
