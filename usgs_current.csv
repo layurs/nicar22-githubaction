@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-13T12:22:13.490Z,19.336666107178,-155.12866210938,5.3099999427795,3.38000011,md,64,122,0.04804,0.25,hv,hv74529447,2024-11-13T12:24:33.490Z,"14 km S of Fern Forest, Hawaii",earthquake,0.38,0.449999988,0.449999988,64,automatic,hv,hv
+2024-11-13T12:22:13.490Z,19.336666107178,-155.12866210938,5.3099999427795,3.26,ml,64,122,0.04804,0.25,hv,hv74529447,2024-11-13T12:38:45.191Z,"14 km S of Fern Forest, Hawaii",earthquake,0.38,0.449999988,0.38,49,automatic,hv,hv
 2024-11-13T12:18:36.541Z,37.3732,-117.1232,1.3,1.4,ml,19,134.84,0.131,0.406,nn,nn00887497,2024-11-13T12:20:53.929Z,"38 km SSE of Goldfield, Nevada",earthquake,,6.2,0.28,14,automatic,nn,nn
-2024-11-13T12:18:06.230Z,38.827835083008,-122.8570022583,2.5199999809265,0.79,md,17,78,0.0003068,0.02,nc,nc75085996,2024-11-13T12:19:42.139Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.419999987,0.17,16,automatic,nc,nc
+2024-11-13T12:18:06.230Z,38.827835083008,-122.8570022583,2.5199999809265,0.79,md,17,78,0.0003068,0.02,nc,nc75085996,2024-11-13T12:37:17.487Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.419999987,0.17,16,automatic,nc,nc
 2024-11-13T11:57:06.320Z,35.6495,-117.4298333,9.78,1.01,ml,21,91,0.01635,0.18,ci,ci40792375,2024-11-13T12:06:10.841Z,"13 km S of Searles Valley, CA",earthquake,0.34,0.62,0.394,7,automatic,ci,ci
 2024-11-13T11:54:00.743Z,60.0483,-153.5454,163.5,1.9,ml,,,,0.81,ak,ak024em3rpey,2024-11-13T11:56:31.419Z,"42 km NE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-13T11:45:37.700Z,38.782001495361,-122.72350311279,1.4900000095367,1.03,md,9,82,0.01041,0.02,nc,nc75085986,2024-11-13T12:09:30.324Z,"3 km WNW of Anderson Springs, CA",earthquake,0.33,0.699999988,0.17,9,automatic,nc,nc
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T10:00:48.990Z,63.2167,-150.7526,122.9,2.6,ml,,,,0.52,ak,ak024em2ust9,2024-11-13T10:13:13.040Z,"60 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-13T09:29:33.567Z,60.0378,-153.5652,189.1,1.4,ml,,,,0.94,ak,ak024em2fju4,2024-11-13T10:10:25.714Z,"41 km NE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-11-13T09:23:52.478Z,-23.1531,-69.4005,75.964,3.9,mb,14,80,0.472,0.71,us,us7000nrih,2024-11-13T10:10:28.040Z,"91 km SSW of Calama, Chile",earthquake,5.94,5.472,0.209,6,reviewed,us,us
-2024-11-13T09:07:03.162Z,60.9448,-147.3606,16.2,4.5,ml,,,,0.56,ak,ak024em2arnr,2024-11-13T12:01:07.453Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-11-13T09:07:03.162Z,60.9448,-147.3606,16.2,4.5,ml,,,,0.56,ak,ak024em2arnr,2024-11-13T12:45:06.010Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-11-13T08:58:11.940Z,33.6785,-116.7145,15.14,0.44,ml,19,93,0.03258,0.08,ci,ci40792335,2024-11-13T09:04:24.707Z,"7 km S of Idyllwild, CA",earthquake,0.45,1.06,0.169,6,automatic,ci,ci
 2024-11-13T08:51:33.810Z,38.828834533691,-122.84983062744,2.0599999427795,0.93,md,14,85,0.005649,0.01,nc,nc75085971,2024-11-13T09:27:14.160Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.540000021,0.18,15,automatic,nc,nc
 2024-11-13T08:36:46.430Z,36.6342,-115.6735,2.7,0.2,ml,10,278.28,0.233,0.1001,nn,nn00887494,2024-11-13T08:38:50.561Z,"7 km N of Indian Springs, Nevada",earthquake,,18.3,0.45,4,automatic,nn,nn
@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T07:32:11.150Z,33.1478333,-116.3003333,4.42,0.93,ml,47,46,0.05926,0.22,ci,ci40792319,2024-11-13T07:38:16.186Z,"14 km SSE of Borrego Springs, CA",earthquake,0.22,0.59,0.167,22,automatic,ci,ci
 2024-11-13T07:24:52.960Z,18.961166666667,-66.507666666667,12.18,3.19,md,13,277,0.6536,0.26,pr,pr71465558,2024-11-13T07:38:26.930Z,"55 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.53,2.31,0.14071418011452,9,reviewed,pr,pr
 2024-11-13T07:02:10.222Z,40.0688,-119.6426,10.7,1.4,ml,10,136.09,0.122,0.0991,nn,nn00887493,2024-11-13T07:07:27.129Z,"13 km NNW of Sutcliffe, Nevada",earthquake,,0.7,0.29,3,automatic,nn,nn
-2024-11-13T07:02:08.502Z,34.9247,139.9946,97.178,4.4,mb,27,130,1.811,0.57,us,us7000nria,2024-11-13T08:38:54.856Z,"12 km S of Wada, Japan",earthquake,4.69,8.574,0.17,11,reviewed,us,us
+2024-11-13T07:02:08.502Z,34.9247,139.9946,97.178,4.4,mb,27,130,1.811,0.57,us,us7000nria,2024-11-13T12:37:11.572Z,"12 km S of Wada, Japan",earthquake,4.69,8.574,0.17,11,reviewed,us,us
 2024-11-13T06:57:10.610Z,32.9225,-115.8158333,7.08,1.47,ml,47,65,0.02621,0.22,ci,ci40792311,2024-11-13T07:08:12.080Z,"22 km SW of Westmorland, CA",earthquake,0.2,0.44,0.207,30,automatic,ci,ci
 2024-11-13T06:53:25.557Z,60.0218,-152.8193,102.6,1.7,ml,,,,0.51,ak,ak024em0sdkd,2024-11-13T06:56:49.159Z,"61 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-13T06:46:10.310Z,38.820667266846,-122.8441696167,4.9499998092651,0.43,md,10,103,0.01207,0.21,nc,nc75085921,2024-11-13T07:09:28.213Z,"9 km NW of The Geysers, CA",earthquake,1.19,3.66000009,0.26,11,automatic,nc,nc
@@ -164,7 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T13:42:16.632Z,61.8514,-149.5865,41.4,1.6,ml,,,,0.55,ak,ak024ekhcorj,2024-11-12T13:44:06.368Z,"22 km WNW of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-12T13:23:51.760Z,38.785331726074,-122.75700378418,3.4700000286102,0.95,md,14,70,0.01542,0.02,nc,nc75085641,2024-11-12T13:42:15.963Z,"1 km N of The Geysers, CA",earthquake,0.41,0.829999983,0.16,12,automatic,nc,nc
 2024-11-12T13:19:47.909Z,40.0746,-119.6646,12.1,2,ml,9,130.51,0.109,0.1186,nn,nn00887459,2024-11-12T21:09:06.619Z,"14 km NNW of Sutcliffe, Nevada",earthquake,,3.8,1.73,6,reviewed,nn,nn
-2024-11-12T13:08:47.890Z,44.811166666667,-112.716,3.36,1.62,ml,21,46,0.09594,0.08,mb,mb90065688,2024-11-12T14:55:19.580Z,"21 km NNW of Lima, Montana",earthquake,0.19,0.59,0.24492540343129,27,reviewed,mb,mb
-2024-11-12T13:05:19.800Z,33.2343333,-116.3853333,6.34,0.75,ml,35,84,0.04304,0.19,ci,ci40791959,2024-11-12T17:18:00.135Z,"3 km SSW of Borrego Springs, CA",earthquake,0.25,0.6,0.109,12,reviewed,ci,ci
-2024-11-12T12:42:03.910Z,38.792331695557,-122.78133392334,1.960000038147,0.57,md,9,102,0.01745,0.02,nc,nc75085636,2024-11-12T13:09:29.754Z,"3 km NW of The Geysers, CA",earthquake,0.33,0.660000026,0.21,9,automatic,nc,nc
-2024-11-12T12:33:01.320Z,18.011,-66.771166666667,15.87,2,md,6,170,0.1001,0.07,pr,pr71465488,2024-11-12T13:52:02.240Z,"0 km SSW of Magas Arriba, Puerto Rico",earthquake,1.42,0.82,0.040373413259623,4,reviewed,pr,pr
