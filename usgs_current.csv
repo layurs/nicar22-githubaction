@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-02T13:16:13.460Z,38.881332397461,-122.95433044434,2,1.45,md,24,130,0.03683,0.03,nc,nc75094006,2024-12-02T13:17:48.398Z,"10 km NE of Cloverdale, CA",earthquake,0.3,0.959999979,0.17,21,automatic,nc,nc
-2024-12-02T13:14:08.178Z,61.4742,-146.5819,15.7,3.8,ml,,,,0.57,ak,ak024fhjxlyu,2024-12-02T13:20:00.043Z,"40 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-02T13:16:13.460Z,38.881332397461,-122.95433044434,2,1.45,md,24,130,0.03683,0.03,nc,nc75094006,2024-12-02T13:42:15.182Z,"10 km NE of Cloverdale, CA",earthquake,0.3,0.959999979,0.17,21,automatic,nc,nc
+2024-12-02T13:14:08.757Z,61.4694,-146.6156,7.5,3.7,ml,,,,0.68,ak,ak024fhjxlyu,2024-12-02T13:42:06.004Z,"40 km NNW of Valdez, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-12-02T13:03:32.080Z,40.235832214355,-124.17633056641,12.590000152588,1.43,md,9,138,0.01493,0.08,nc,nc75093996,2024-12-02T13:19:31.015Z,"14 km SSE of Petrolia, CA",earthquake,0.59,1.12,0.12,6,automatic,nc,nc
 2024-12-02T12:45:44.500Z,33.9268333,-116.92,10.28,0.92,ml,47,32,0.1381,0.14,ci,ci40991808,2024-12-02T12:51:05.060Z,"4 km W of Banning, CA",earthquake,0.17,0.34,0.154,29,automatic,ci,ci
 2024-12-02T12:33:07.820Z,37.670333862305,-121.99333190918,6.3299999237061,1.61,md,16,66,0.06633,0.14,nc,nc75093991,2024-12-02T12:52:16.811Z,"5 km ESE of Fairview, CA",earthquake,0.4,0.899999976,0.14,10,automatic,nc,nc
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T01:59:55.682Z,-14.6851,167.2611,163.298,4.4,mb,40,65,0.759,0.71,us,us7000nvd0,2024-12-02T04:14:21.040Z,"44 km NNE of Port-Olry, Vanuatu",earthquake,10.85,6.011,0.098,30,reviewed,us,us
 2024-12-02T01:47:33.150Z,38.82500076294,-122.80666351318,1.1799999475479,0.96,md,18,40,0.01849,0.03,nc,nc75093836,2024-12-02T04:19:32.171Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.819999993,0.22,18,automatic,nc,nc
 2024-12-02T01:37:31.116Z,37.3124,-115.2867,2.9,0.7,ml,9,162.16,0.21,0.2868,nn,nn00888173,2024-12-02T01:39:48.579Z,"12 km WSW of Alamo, Nevada",earthquake,,22.2,0.38,7,automatic,nn,nn
-2024-12-02T01:36:31.537Z,46.9807,-66.6076,5,3.5,mb_lg,17,61,0.477,0.34,us,us7000nvct,2024-12-02T13:19:42.905Z,"84 km W of Miramichi, Canada",earthquake,2.5,1.995,0.084,37,reviewed,us,us
+2024-12-02T01:36:31.537Z,46.9807,-66.6076,5,3.5,mb_lg,17,61,0.477,0.34,us,us7000nvct,2024-12-02T13:48:50.723Z,"84 km W of Miramichi, Canada",earthquake,2.5,1.995,0.084,37,reviewed,us,us
 2024-12-02T01:32:43.930Z,38.847999572754,-122.83116912842,1.3700000047684,0.24,md,5,186,0.009029,0.01,nc,nc75093826,2024-12-02T01:52:17.143Z,"10 km WNW of Cobb, CA",earthquake,0.72,1.22000003,0.14,7,automatic,nc,nc
 2024-12-02T01:19:05.820Z,19.012500762939,-155.44866943359,37.29999923706,2.3599999,md,51,253,0.1211,0.119999997,hv,hv74550837,2024-12-02T01:20:46.960Z,"15 km ESE of Naalehu, Hawaii",earthquake,0.51,0.639999986,0.379999995,17,automatic,hv,hv
 2024-12-02T01:18:44.020Z,32.4522,142.4001,10,4.8,mww,63,103,2.277,1.3,us,us7000nvcs,2024-12-02T01:32:55.040Z,"Izu Islands, Japan region",earthquake,5.48,1.84,0.075,17,reviewed,us,us
@@ -167,7 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T14:11:30.451Z,61.5266,-146.475,18.4,2.2,ml,,,,0.74,ak,ak024ffwz3nr,2024-12-01T14:13:10.954Z,"44 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-01T14:00:24.530Z,58.829,-155.0471,172.3,1.8,ml,,,,0.58,ak,ak024ffwwqir,2024-12-01T14:30:44.040Z,"69 km SSW of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-01T13:55:24.310Z,38.804668426514,-122.80233001709,2.6300001144409,0.76,md,16,86,0.006403,0.02,nc,nc75093651,2024-12-01T16:37:16.272Z,"5 km NW of The Geysers, CA",earthquake,0.35,0.720000029,0.06,16,automatic,nc,nc
-2024-12-01T13:45:28.600Z,38.814498901367,-122.8125,3.0599999427795,0.78,md,14,104,0.009083,0.02,nc,nc75093641,2024-12-01T15:47:17.915Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.699999988,0.13,15,automatic,nc,nc
-2024-12-01T13:32:00.690Z,33.293,-116.8498333,14.45,0.37,ml,28,37,0.06139,0.15,ci,ci40991352,2024-12-01T13:37:33.714Z,"7 km S of Palomar Observatory, CA",earthquake,0.21,0.54,0.125,4,automatic,ci,ci
-2024-12-01T13:30:43.640Z,33.6503333,-116.7805,14.8,0.6,ml,38,56,0.0597,0.13,ci,ci40991344,2024-12-01T13:35:41.207Z,"12 km SSW of Idyllwild, CA",earthquake,0.15,0.29,0.145,12,automatic,ci,ci
-2024-12-01T13:22:04.670Z,33.2351667,-116.7361667,11.28,0.63,ml,40,33,0.01895,0.18,ci,ci40991336,2024-12-01T13:26:50.180Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.22,0.5,0.207,12,automatic,ci,ci
