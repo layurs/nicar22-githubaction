@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-01T09:39:43.220Z,34.0305,-117.214,13.77,1.32,ml,75,33,0.08451,0.17,ci,ci40831311,2025-01-01T09:44:45.341Z,"4 km SW of Redlands, CA",earthquake,0.13,0.32,0.176,26,automatic,ci,ci
+2025-01-01T09:29:16.360Z,61.3959,-149.9379,32.1,1.9,ml,,,,0.6,ak,ak0251t2hys,2025-01-01T09:31:14.299Z,"4 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-01T09:19:00.643Z,32.099,-101.473,3.8189,1.3,ml,27,80,0.1,0.4,tx,tx2025aasm,2025-01-01T09:32:43.326Z,"10 km W of Forsan, Texas",earthquake,0,1.2148708105087,0.1,18,automatic,tx,tx
+2025-01-01T09:15:46.410Z,32.9316667,-116.2333333,9.11,0.84,ml,43,43,0.1544,0.19,ci,ci40831303,2025-01-01T09:20:22.764Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.79,0.141,15,automatic,ci,ci
 2025-01-01T09:04:57.957Z,61.213,-147.9888,13.1,2,ml,,,,0.92,ak,ak0251sx89v,2025-01-01T09:07:27.161Z,"56 km ESE of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-01T08:54:05.092Z,37.3929,-117.1282,14.7,0.8,ml,9,200.54,0.419,0.1821,nn,nn00891098,2025-01-01T08:56:21.861Z,"36 km SSE of Goldfield, Nevada",earthquake,,1.3,0.38,6,automatic,nn,nn
 2025-01-01T08:53:59.720Z,34.9218333,-119.0563333,13.5,1.77,ml,64,44,0.09631,0.25,ci,ci40831295,2025-01-01T09:04:53.950Z,"12 km WSW of Grapevine, CA",earthquake,0.22,0.43,0.165,27,automatic,ci,ci
@@ -15,8 +19,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T08:11:54.130Z,33.2668333,-116.2151667,11.02,1.16,ml,61,47,0.08079,0.19,ci,ci40831255,2025-01-01T08:16:10.450Z,"15 km E of Borrego Springs, CA",earthquake,0.18,0.35,0.107,26,automatic,ci,ci
 2025-01-01T08:10:07.640Z,34.2536659,-117.8878326,7.07,1.11,ml,16,115,0.1227,0.35,ci,ci40831247,2025-01-01T08:14:18.424Z,"13 km N of Glendora, CA",earthquake,0.84,4.59,0.23,7,automatic,ci,ci
 2025-01-01T08:09:47.730Z,9.0989,40.14,10,4.8,mb,52,196,3.596,0.66,us,us6000pgtj,2025-01-01T08:25:40.040Z,"13 km NNW of Āwash, Ethiopia",earthquake,13.53,1.97,0.089,39,reviewed,us,us
+2025-01-01T07:54:20.007Z,45.5165,150.0109,94.48,4.6,mb,76,135,5.233,0.75,us,us6000pgtd,2025-01-01T09:43:57.040Z,"170 km E of Kuril’sk, Russia",earthquake,6.76,6.99,0.039,200,reviewed,us,us
 2025-01-01T07:41:39.640Z,33.9885,-116.9003333,9.24,1.05,ml,59,23,0.08987,0.16,ci,ci40831231,2025-01-01T07:46:54.534Z,"7 km NNW of Banning, CA",earthquake,0.13,0.36,0.223,27,automatic,ci,ci
-2025-01-01T07:27:29.330Z,39.427165985107,-123.28549957275,6.4299998283386,2.87,md,41,45,0.05798,0.09,nc,nc75110711,2025-01-01T08:02:57.252Z,"6 km E of Willits, CA",earthquake,0.16,0.629999995,0.14,50,automatic,nc,nc
+2025-01-01T07:27:29.330Z,39.427165985107,-123.28549957275,6.4299998283386,2.87,md,41,45,0.05798,0.09,nc,nc75110711,2025-01-01T09:16:50.545Z,"6 km E of Willits, CA",earthquake,0.16,0.629999995,0.14,50,automatic,nc,nc
 2025-01-01T07:27:20.970Z,35.752,-117.5718333,5.89,0.46,ml,15,77,0.1485,0.16,ci,ci40831223,2025-01-01T07:30:46.164Z,"15 km W of Searles Valley, CA",earthquake,0.36,2.06,0.098,9,automatic,ci,ci
 2025-01-01T07:19:09.482Z,31.038,-103.693,5.3488,2,ml,13,66,0.1,0.4,tx,tx2025aaom,2025-01-01T07:32:08.274Z,"7 km NE of Balmorhea, Texas",earthquake,0,3.103590965271,0.2,11,automatic,tx,tx
 2025-01-01T07:15:52.921Z,38.762,-119.2092,15.1,1.4,ml,14,120.27,0.225,0.2195,nn,nn00891095,2025-01-01T07:18:12.611Z,"11 km ESE of Smith, Nevada",earthquake,,0.8,0.16,7,automatic,nn,nn
@@ -227,9 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T10:00:30.650Z,48.163666666667,-121.642,11.64,0.89,ml,11,80,0.08366,0.18,uw,uw62069336,2025-01-01T00:35:59.270Z,"10 km SSW of Darrington, Washington",earthquake,0.46,0.99,0.14201227519282,4,reviewed,uw,uw
 2024-12-31T09:56:14.210Z,41.442,-112.17683333333,11.1,1.35,ml,27,70,0.1286,0.28,uu,uu80098906,2024-12-31T17:19:19.110Z,"12 km WNW of Willard, Utah",earthquake,0.43,1.16,0.071988607093227,3,reviewed,uu,uu
 2024-12-31T09:49:53.845Z,60.602,-150.0199,38.2,2,ml,,,,0.26,ak,ak024gtgcjfc,2024-12-31T09:52:04.222Z,"16 km NW of Cooper Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-12-31T09:40:41.016Z,60.8379,-149.9471,36,1.3,ml,,,,0.55,ak,ak024gtgakzp,2024-12-31T09:42:51.146Z,"18 km WSW of Hope, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-12-31T09:36:54.487Z,-20.3108,-178.2575,568.454,4.1,mb,30,136,4.324,0.6,us,us6000pgmh,2024-12-31T10:44:14.040Z,"Fiji region",earthquake,15.8,9.44,0.112,22,reviewed,us,us
-2024-12-31T09:28:58.702Z,59.7369,-153.2011,102.7,2.8,ml,,,,0.82,ak,ak024gtg81ez,2024-12-31T09:32:12.378Z,"51 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-12-31T09:27:56.040Z,34.4368333,-119.1888333,4.06,1.24,ml,24,67,0.04243,0.24,ci,ci40830631,2024-12-31T09:32:19.311Z,"5 km ESE of Ojai, CA",earthquake,0.33,0.65,0.212,27,automatic,ci,ci
-2024-12-31T09:24:33.156Z,39.1597,-119.0422,8.7,1.5,ml,18,94.8,0.01,0.1371,nn,nn00891006,2024-12-31T23:21:56.970Z,"21 km NNE of Yerington, Nevada",earthquake,,0.7,0.17,8,reviewed,nn,nn
-2024-12-31T09:18:25.240Z,47.893,-114.75,10.74,0.44,ml,4,170,0.04857,0.12,mb,mb90069858,2024-12-31T17:34:55.920Z,"13 km NW of Niarada, Montana",earthquake,2.08,3.35,0.14436985136833,2,reviewed,mb,mb
