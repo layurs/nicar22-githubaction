@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-12T14:23:50.250Z,33.7686667,-118.0668333,10.69,1.68,ml,48,76,0.03432,0.3,ci,ci40838351,2025-01-12T14:28:44.809Z,"2 km SE of Rossmoor, CA",earthquake,0.35,0.54,0.132,31,automatic,ci,ci
-2025-01-12T14:08:01.976Z,31.575,-104.549,3.1185,1.6,ml,8,161,0.1,0.2,tx,tx2025avem,2025-01-12T14:20:09.150Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.2039694786072,0.1,6,automatic,tx,tx
+2025-01-12T14:08:02.143Z,31.577,-104.553,2.0117,1.5,ml,16,163,0.1,0.3,tx,tx2025avem,2025-01-12T14:43:23.299Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.7687848806381,0.1,12,automatic,tx,tx
 2025-01-12T14:01:13.440Z,38.832000732422,-122.81783294678,2.2000000476837,0.71,md,10,58,0.01528,0.02,nc,nc75116221,2025-01-12T14:02:48.799Z,"8 km NNW of The Geysers, CA",earthquake,0.41,1.63,0.13,11,automatic,nc,nc
 2025-01-12T13:51:40.870Z,46.4035,12.8145,10,4.3,mb,34,27,0.272,0.87,us,us6000pjjz,2025-01-12T14:25:17.785Z,"0 km W of Mediis, Italy",earthquake,4.5,1.976,0.375,2,reviewed,us,us
 2025-01-12T13:48:04.006Z,37.3689,-117.1351,1.7,1.3,ml,10,141.77,0.121,0.2565,nn,nn00891825,2025-01-12T13:50:16.020Z,"38 km SSE of Goldfield, Nevada",earthquake,,4.3,0.08,2,automatic,nn,nn
@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-12T09:08:49.847Z,61.325,-149.2753,14.7,2.4,ml,,,,0.63,ak,ak025jzuvw4,2025-01-12T11:20:02.991Z,"15 km E of Eagle River, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-01-12T08:54:31.099Z,61.0527,-151.0768,65.7,1.8,ml,,,,0.29,ak,ak025jzj9tx,2025-01-12T08:56:36.445Z,"3 km ESE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-12T08:43:25.045Z,31.688,-104.418,4.3428,1.5,ml,5,107,0,0.1,tx,tx2025autu,2025-01-12T08:58:25.976Z,"54 km S of Whites City, New Mexico",earthquake,0,2.7251620292664,0.4,5,automatic,tx,tx
-2025-01-12T08:32:50.161Z,18.5249,-103.3158,34,6.2,mww,94,70,2.268,1.48,us,us6000pjig,2025-01-12T14:30:06.533Z,"21 km ESE of Aquila, Mexico",earthquake,8.63,1.785,0.032,96,reviewed,us,us
+2025-01-12T08:32:50.161Z,18.5249,-103.3158,34,6.2,mww,94,70,2.268,1.48,us,us6000pjig,2025-01-12T14:35:22.902Z,"21 km ESE of Aquila, Mexico",earthquake,8.63,1.785,0.032,96,reviewed,us,us
 2025-01-12T08:24:34.340Z,61.3462,-152.2787,5.3,0.5,ml,,,,0.14,ak,ak025jzculm,2025-01-12T08:25:43.117Z,"68 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-12T08:22:27.764Z,39.1462,-119.0528,2.3,1.2,ml,10,80.96,0.025,0.1916,nn,nn00891809,2025-01-12T08:24:34.638Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.37,5,automatic,nn,nn
 2025-01-12T08:15:51.084Z,61.8552,-149.9216,35.3,2.1,ml,,,,0.57,ak,ak025jzayf9,2025-01-12T08:18:32.683Z,"13 km NNE of Willow, Alaska",earthquake,,4.9,,,automatic,ak,ak
@@ -124,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T19:11:30.160Z,18.994,-65.021166666667,55.86,3.4,md,16,257,0.6411,0.35,pr,pr71470638,2025-01-11T19:36:49.790Z,"72 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.41,7.25,0.16361762534555,14,reviewed,pr,pr
 2025-01-11T19:08:37.050Z,33.1581667,-115.6808333,8.59,1.07,ml,9,247,0.05797,0.29,ci,ci40838039,2025-01-11T19:12:33.344Z,"14 km NNW of Westmorland, CA",earthquake,2.18,1.4,0.379,20,automatic,ci,ci
 2025-01-11T18:57:44.310Z,33.0666667,-115.8603333,6.92,1.53,ml,49,29,0.05889,0.28,ci,ci40838023,2025-01-11T19:08:26.210Z,"22 km W of Westmorland, CA",earthquake,0.23,0.83,0.211,30,automatic,ci,ci
+2025-01-11T18:48:40.980Z,46.003166666667,-111.4175,4.32,1.83,ml,19,72,0.2052,0.13,mb,mb90070778,2025-01-12T14:33:57.040Z,"5 km SW of Ponderosa Pines, Montana",earthquake,0.35,8.33,0.22083779368474,22,reviewed,mb,mb
 2025-01-11T18:32:35.576Z,36.78162384,-98.0134964,1.404306769,2.49,ml,56,82.04566389,0.05348702148,0.5033755826,ok,ok2025atrt,2025-01-11T23:21:18.040Z,"12 km ENE of Nescatunga, Oklahoma",earthquake,1.722623248,1.360088951,0.35,33,automatic,ok,ok
 2025-01-11T18:23:45.000Z,35.463333333333,-84.480166666667,16.53,2.17,md,16,72,0.03665,0.1,se,se60596366,2025-01-11T23:15:52.030Z,"4 km N of Englewood, Tennessee",earthquake,0.49,1.03,0.15326051203661,15,reviewed,se,se
 2025-01-11T18:21:53.293Z,19.7434,-156.1587,40.275,2.8,ml,32,155,0.31,0.52,us,us6000pjfq,2025-01-11T22:50:44.040Z,"18 km W of Kalaoa, Hawaii",earthquake,3.3,6.557,0.049,54,reviewed,us,us
@@ -155,10 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T15:19:44.301Z,8.9888,40.3597,10,5.2,mww,151,34,6.798,0.72,us,us6000pjfb,2025-01-11T18:21:41.058Z,"21 km E of Āwash, Ethiopia",earthquake,8.95,1.817,0.066,22,reviewed,us,us
 2025-01-11T15:08:25.390Z,33.8823333,-116.8103333,15.64,1.32,ml,65,21,0.03819,0.18,ci,ci40837935,2025-01-11T15:19:22.660Z,"4 km SSW of Cabazon, CA",earthquake,0.15,0.39,0.141,27,automatic,ci,ci
 2025-01-11T15:06:05.620Z,38.828998565674,-122.80266571045,2.1600000858307,0.97,md,7,112,0.008049,0.01,nc,nc75115896,2025-01-11T15:07:39.558Z,"7 km WNW of Cobb, CA",earthquake,0.63,2.27999997,0.25,6,automatic,nc,nc
-2025-01-11T14:57:30.936Z,39.0923,-119.0236,6.5,0.6,ml,11,97.86,0.052,0.1711,nn,nn00891776,2025-01-11T15:52:29.804Z,"16 km NE of Yerington, Nevada",earthquake,,1.7,0.34,3,reviewed,nn,nn
-2025-01-11T14:56:03.628Z,39.0903,-119.0227,6.6,1,ml,12,86.01,0.055,0.1735,nn,nn00891773,2025-01-11T15:46:19.681Z,"16 km NE of Yerington, Nevada",earthquake,,1.6,0.24,7,reviewed,nn,nn
-2025-01-11T14:52:50.018Z,38.7574,-119.2152,11.4,1.5,ml,16,100.14,0.229,0.1123,nn,nn00891771,2025-01-11T15:40:09.569Z,"10 km ESE of Smith, Nevada",earthquake,,1,0.37,10,reviewed,nn,nn
-2025-01-11T14:42:51.118Z,36.636,-115.7422,0,0.4,ml,14,164.43,0.178,0.2188,nn,nn00891769,2025-01-11T14:44:50.935Z,"9 km NW of Indian Springs, Nevada",earthquake,,11.5,0.49,6,automatic,nn,nn
-2025-01-11T14:36:21.710Z,33.4193333,-116.4571667,13.58,0.49,ml,23,63,0.1104,0.14,ci,ci40837919,2025-01-11T14:41:02.639Z,"20 km NNW of Borrego Springs, CA",earthquake,0.22,0.62,0.104,11,automatic,ci,ci
-2025-01-11T14:33:51.990Z,38.823501586914,-122.8424987793,1.6000000238419,0.78,md,12,106,0.005847,0.03,nc,nc75115891,2025-01-11T14:35:29.299Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.50999999,0.46,12,automatic,nc,nc
-2025-01-11T14:32:47.310Z,36.162166595459,-119.63632965088,16.190000534058,2.07,md,8,161,0.2008,0.19,nc,nc75115886,2025-01-11T14:57:17.087Z,"10 km NNW of Corcoran, CA",earthquake,1.06,1.64999998,0.49,5,automatic,nc,nc
