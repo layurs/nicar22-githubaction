@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-20T05:54:10.850Z,37.3612,-117.1258,5.2,1.4,ml,24,106.9,0.123,0.2436,nn,nn00892261,2025-01-20T05:56:46.917Z,"39 km SSE of Goldfield, Nevada",earthquake,,1.1,0.29,14,automatic,nn,nn
+2025-01-20T05:28:25.435Z,63.2612,-151.7745,6.9,1.7,ml,,,,0.76,ak,ak025x5w5wt,2025-01-20T05:31:12.921Z,"31 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-20T05:24:29.110Z,36.0188331604,-120.57833099365,4.6999998092651,2.07,md,27,47,0.0351,0.11,nc,nc75120116,2025-01-20T05:27:51.710Z,"19 km NNW of Parkfield, CA",earthquake,0.25,0.389999986,0.11,24,automatic,nc,nc
+2025-01-20T05:18:49.974Z,31.662,-104.291,7.1072,1.7,ml,19,58,0,0.3,tx,tx2025bjdc,2025-01-20T05:56:36.051Z,"57 km S of Whites City, New Mexico",earthquake,0,2.2271730899811,0.1,13,automatic,tx,tx
 2025-01-20T05:18:36.880Z,38.793834686279,-122.75333404541,1.4400000572205,1.25,md,20,88,0.008415,0.02,nc,nc75120111,2025-01-20T05:20:11.875Z,"2 km NNE of The Geysers, CA",earthquake,0.21,0.360000014,0.15,18,automatic,nc,nc
+2025-01-20T05:18:21.514Z,31.617,-104.22,4.5129,1.6,ml,5,167,0.1,0.1,tx,tx2025bjdb,2025-01-20T05:56:33.046Z,"52 km NW of Toyah, Texas",earthquake,0,2.8664703369141,0.4,5,automatic,tx,tx
 2025-01-20T05:17:36.340Z,40.380832672119,-124.05766296387,27.829999923706,2.05,md,17,79,0.06034,0.09,nc,nc75120106,2025-01-20T05:19:12.210Z,"14 km S of Rio Dell, CA",earthquake,0.5,1.32000005,0.12,19,automatic,nc,nc
 2025-01-20T05:14:48.490Z,36.021831512451,-120.57800292969,3.7400000095367,1.26,md,11,127,0.03577,0.01,nc,nc75120101,2025-01-20T05:16:26.914Z,"19 km NNW of Parkfield, CA",earthquake,0.27,0.600000024,0.27,6,automatic,nc,nc
 2025-01-20T05:13:44.100Z,34.3991667,-119.5406667,11.61,2.18,ml,55,96,0.02059,0.24,ci,ci40843679,2025-01-20T05:24:09.870Z,"2 km W of Carpinteria, CA",earthquake,0.26,0.36,0.213,27,automatic,ci,ci
@@ -67,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-19T21:33:09.600Z,31.7058333,-115.0688333,4.15,2.96,ml,9,117,0.2335,0.25,ci,ci40843455,2025-01-19T22:03:10.590Z,"55 km S of Estacion Coahuila, B.C., MX",earthquake,0.71,2.66,0.213,66,reviewed,ci,ci
 2025-01-19T21:21:37.704Z,-7.8874,129.0532,35,4.6,mb,11,113,3.448,0.47,us,us6000pl4s,2025-01-19T22:09:35.040Z,"237 km ENE of Lospalos, Timor Leste",earthquake,9.54,1.972,0.151,13,reviewed,us,us
 2025-01-19T21:19:05.300Z,38.83466720581,-122.81666564941,1.9400000572205,0.78,md,17,70,0.01238,0.02,nc,nc75119926,2025-01-19T21:20:42.968Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.600000024,0.16,17,automatic,nc,nc
-2025-01-19T21:07:49.653Z,33.1587,102.7086,11.348,4.7,mb,54,50,2.907,0.79,us,us6000pl4q,2025-01-19T21:46:27.040Z,"61 km ESE of Cairima, China",earthquake,7.62,1.944,0.074,55,reviewed,us,us
+2025-01-19T21:07:50.372Z,33.1712,102.6718,17.875,4.7,mb,75,50,2.904,0.53,us,us6000pl4q,2025-01-20T05:41:22.040Z,"57 km ESE of Cairima, China",earthquake,8.27,4.778,0.076,53,reviewed,us,us
 2025-01-19T21:00:23.005Z,63.3082,-150.4611,114.5,2.1,ml,,,,0.43,ak,ak025vrpqv0,2025-01-19T21:02:42.787Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-19T20:57:38.410Z,38.795501708984,-122.73583221435,1.1799999475479,0.62,md,6,139,0.01227,0.07,nc,nc75119916,2025-01-19T20:59:16.575Z,"3 km NE of The Geysers, CA",earthquake,0.52,1.05999994,0.35,7,automatic,nc,nc
 2025-01-19T20:47:56.570Z,38.841499328613,-122.83100128174,1.2699999809265,1.27,md,23,85,0.004552,0.04,nc,nc75119911,2025-01-19T20:49:32.616Z,"10 km WNW of Cobb, CA",earthquake,0.2,0.469999999,0.24,23,automatic,nc,nc
@@ -121,6 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-19T14:31:21.860Z,38.340000152588,-121.87083435059,7.4699997901917,2.03,md,8,221,0.3329,0.19,nc,nc75119736,2025-01-19T14:32:59.862Z,"3 km ESE of Elmira, CA",earthquake,12.83,11.6099997,0.69,2,automatic,nc,nc
 2025-01-19T14:26:37.320Z,38.83483505249,-122.78783416748,1.8899999856949,1.7,md,37,61,0.004072,0.03,nc,nc75119726,2025-01-19T14:29:54.920Z,"6 km WNW of Cobb, CA",earthquake,0.16,0.25,0.14,37,automatic,nc,nc
 2025-01-19T14:18:22.806Z,61.1128,-151.2397,83.5,1.5,ml,,,,0.15,ak,ak025vnnjc5,2025-01-19T14:21:08.658Z,"7 km NW of Tyonek, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2025-01-19T14:08:53.790Z,47.706833333333,-121.941,27.24,0.44,md,9,99,0.04184,0.06,uw,uw62071231,2025-01-20T05:40:33.820Z,"2 km NW of Lake Marcel-Stillwater, Washington",earthquake,0.51,0.71,0.057352558984662,4,reviewed,uw,uw
 2025-01-19T13:58:32.160Z,19.418333053589,-154.92399597168,1.3400000333786,1.79,ml,25,220,0.03757,0.200000003,hv,hv74595062,2025-01-19T14:01:33.200Z,"5 km S of Leilani Estates, Hawaii",earthquake,0.74,0.400000006,0.6,3,automatic,hv,hv
 2025-01-19T13:56:43.820Z,38.841167449951,-122.875831604,2.1900000572205,0.47,md,6,187,0.005751,0.01,nc,nc75119716,2025-01-19T13:58:19.721Z,"13 km NW of The Geysers, CA",earthquake,1.09,1.40999997,0.21,8,automatic,nc,nc
 2025-01-19T13:47:52.160Z,34.0435,-117.1296667,6.69,1.05,ml,66,24,0.01642,0.2,ci,ci40843263,2025-01-19T15:19:51.509Z,"3 km S of Mentone, CA",earthquake,0.15,0.35,0.164,26,reviewed,ci,ci
@@ -189,7 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-19T06:28:33.559Z,7.5324,-74.7993,74.575,4.5,mb,42,101,1.517,0.73,us,us6000pl25,2025-01-19T08:03:40.040Z,"7 km S of El Bagre, Colombia",earthquake,4.16,7.967,0.086,40,reviewed,us,us
 2025-01-19T06:11:57.525Z,61.562,-149.8411,53.7,1.5,ml,,,,0.54,ak,ak025viuobs,2025-01-19T06:13:55.833Z,"7 km NE of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-19T06:08:54.100Z,36.061000823975,-120.62633514404,5.7300000190735,2.22,md,39,98,0.02564,0.14,nc,nc75119551,2025-01-19T06:32:14.792Z,"25 km NNW of Parkfield, CA",earthquake,0.25,0.469999999,0.13,38,automatic,nc,nc
-2025-01-19T06:02:38.050Z,60.6723,-146.9096,21.4,1.9,ml,,,,0.99,ak,ak025vispdb,2025-01-19T06:05:05.589Z,"24 km SSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-19T06:02:21.980Z,18.052833333333,-66.5475,18.83,2.63,md,14,84,0.03724,0.14,pr,pr71471093,2025-01-19T06:28:22.680Z,"0 km NE of Coto Laurel, Puerto Rico",earthquake,0.37,0.28,0.072636335330032,6,reviewed,pr,pr
-2025-01-19T05:57:21.514Z,12.781,-88.7206,57.82,4.4,mb,39,166,0.786,0.95,us,us6000pl1r,2025-01-19T07:35:46.040Z,"58 km SSW of Puerto El Triunfo, El Salvador",earthquake,4.01,8.597,0.048,125,reviewed,us,us
-2025-01-19T05:49:17.610Z,33.3681667,-116.6725,12.24,1.65,ml,15,68,0.09436,0.09,ci,ci40843071,2025-01-19T05:53:55.345Z,"10 km NNW of Warner Springs, CA",earthquake,0.2,0.51,0.29,15,automatic,ci,ci
