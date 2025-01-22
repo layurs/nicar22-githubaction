@@ -1,4 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-22T05:33:00.840Z,60.8774,-150.7632,43.3,2,ml,,,,0.36,ak,ak02510gzvl0,2025-01-22T05:36:38.215Z,"6 km SW of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-01-22T05:27:14.530Z,38.821666717529,-122.84583282471,2.1900000572205,1.09,md,23,106,0.008562,0.02,nc,nc75121111,2025-01-22T05:28:49.763Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.12,25,automatic,nc,nc
+2025-01-22T05:23:46.193Z,31.672,-104.417,7.4998,1.8,ml,17,70,0,0.4,tx,tx2025bmue,2025-01-22T05:34:55.203Z,"55 km S of Whites City, New Mexico",earthquake,0,2.4846606254578,0.2,13,automatic,tx,tx
+2025-01-22T05:09:53.219Z,60.1836,-151.4649,58.3,1.8,ml,,,,0.31,ak,ak02510guuft,2025-01-22T05:11:56.183Z,"6 km SW of Clam Gulch, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-01-22T05:07:36.930Z,38.5025,-118.5869,0.8,1.9,ml,15,121.8,0.147,0.1896,nn,nn00892369,2025-01-22T05:10:46.777Z,"4 km SE of Hawthorne, Nevada",earthquake,,8.8,0.25,7,automatic,nn,nn
+2025-01-22T05:06:59.312Z,61.1158,-152.0458,103.4,2.2,ml,,,,0.78,ak,ak02510gu7qy,2025-01-22T05:10:22.899Z,"49 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-22T04:56:08.060Z,33.776,-115.9141667,-0.28,2.11,ml,53,45,0.1045,0.19,ci,ci40845015,2025-01-22T05:00:46.497Z,"26 km NE of Thermal, CA",earthquake,0.15,0.35,0.122,27,automatic,ci,ci
 2025-01-22T04:11:45.700Z,38.78116607666,-122.71433258057,1.4900000095367,1.2,md,12,102,0.01751,0.02,nc,nc75121096,2025-01-22T04:22:34.168Z,"2 km WNW of Anderson Springs, CA",earthquake,0.27,0.50999999,0.11,12,automatic,nc,nc
 2025-01-22T04:06:50.962Z,32.616,142.5284,10,4.4,mb,26,155,2.338,0.63,us,us6000pljb,2025-01-22T04:35:22.040Z,"Izu Islands, Japan region",earthquake,9.62,1.932,0.138,15,reviewed,us,us
 2025-01-22T04:00:28.700Z,35.9091667,-117.7533333,9.62,0.56,ml,13,161,0.06587,0.1,ci,ci40844991,2025-01-22T04:03:58.313Z,"14 km ESE of Little Lake, CA",earthquake,0.36,0.47,0.221,9,automatic,ci,ci
@@ -56,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T21:44:49.681Z,9.1397,40.1242,10,4.7,mb,52,95,3.58,0.8,us,us6000pli7,2025-01-22T00:55:27.813Z,"17 km NNW of Āwash, Ethiopia",earthquake,10.34,1.909,0.068,66,reviewed,us,us
 2025-01-21T21:36:16.960Z,38.819999694824,-122.82316589356,2.3399999141693,0.75,md,14,66,0.009776,0.01,nc,nc75120921,2025-01-21T21:37:54.142Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.620000005,0.19,14,automatic,nc,nc
 2025-01-21T21:33:03.120Z,34.0406667,-117.135,6.14,0.91,ml,26,42,0.01946,0.17,ci,ci40844663,2025-01-21T21:37:58.188Z,"3 km S of Mentone, CA",earthquake,0.21,0.46,0.27,26,automatic,ci,ci
-2025-01-21T21:30:51.697Z,41.9242,-119.6177,1.6,1.8,ml,4,213.15,0.511,0.072,nn,nn00892362,2025-01-22T03:46:16.120Z,"44 km E of Fort Bidwell, California",earthquake,,6.2,0.13,3,reviewed,nn,nn
+2025-01-21T21:30:51.697Z,41.9242,-119.6177,1.6,1.8,ml,4,213.15,0.511,0.072,nn,nn00892362,2025-01-22T05:25:59.390Z,"44 km E of Fort Bidwell, California",earthquake,,6.2,0.13,3,reviewed,nn,nn
 2025-01-21T21:11:05.591Z,60.3749,-152.4195,95.1,1.5,ml,,,,0.33,ak,ak025z2urdr,2025-01-21T21:13:04.223Z,"55 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-21T20:56:19.320Z,38.736831665039,-122.72566986084,4.289999961853,0.44,md,8,201,0.08949,0.24,nc,nc75120911,2025-01-21T20:57:54.164Z,"5 km SW of Anderson Springs, CA",earthquake,5.73,9.56999969,0.17,6,automatic,nc,nc
 2025-01-21T20:55:46.750Z,33.87,-117.508,1.22,1.33,ml,32,38,0.07415,0.25,ci,ci40844639,2025-01-21T21:57:35.818Z,"2 km SE of Home Gardens, CA",earthquake,0.29,0.46,0.38,31,automatic,ci,ci
@@ -205,16 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T06:05:14.352Z,-27.4829,-13.4632,10,5.5,mb,71,68,13.518,0.73,us,us6000pldh,2025-01-21T08:08:18.244Z,"southern Mid-Atlantic Ridge",earthquake,11.26,1.87,0.064,85,reviewed,us,us
 2025-01-21T05:58:51.390Z,38.816665649414,-122.76083374023,1.7599999904633,0.73,md,7,175,0.0155,0.02,nc,nc75120541,2025-01-21T06:00:26.689Z,"3 km W of Cobb, CA",earthquake,0.64,1.00999999,0.04,9,automatic,nc,nc
 2025-01-21T05:47:51.148Z,13.4344,144.3969,137.242,5.5,mww,100,54,0.484,0.83,us,us6000pldf,2025-01-21T23:57:53.517Z,"29 km WNW of Agat Village, Guam",earthquake,8.76,4.951,0.065,23,reviewed,us,us
-2025-01-21T05:36:19.131Z,30.919,-103.198,3.0493,2.1,ml,18,79,0.1,0.2,tx,tx2025bkze,2025-01-21T11:26:47.173Z,"30 km W of Fort Stockton, Texas",earthquake,1.6178724096539,1.4110953870184,0.1,14,reviewed,tx,tx
-2025-01-21T05:36:11.541Z,-27.484,-13.3293,10,5.1,mb,74,68,27.023,0.45,us,us6000plde,2025-01-21T05:52:23.040Z,"southern Mid-Atlantic Ridge",earthquake,11.82,1.883,0.069,67,reviewed,us,us
-2025-01-21T05:32:33.780Z,38.81566619873,-122.79599761963,1.8200000524521,1.27,md,24,36,0.007706,0.02,nc,nc75120536,2025-01-21T05:34:11.222Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.2,25,automatic,nc,nc
-2025-01-21T05:29:32.506Z,-27.1926,-13.3658,10,4.9,mb,41,67,27.972,0.59,us,us6000pldc,2025-01-21T05:46:06.040Z,"southern Mid-Atlantic Ridge",earthquake,13.5,1.894,0.089,40,reviewed,us,us
-2025-01-21T05:27:05.320Z,34.043,-117.1313333,7.03,1.71,ml,71,24,0.01742,0.2,ci,ci40844231,2025-01-21T15:01:10.550Z,"3 km S of Mentone, CA",earthquake,0.13,0.31,0.15,26,reviewed,ci,ci
-2025-01-21T05:22:21.590Z,38.817832946777,-122.80766296387,3.2799999713898,1.07,md,22,69,0.005865,0.04,nc,nc75120531,2025-01-21T05:23:56.282Z,"6 km NNW of The Geysers, CA",earthquake,0.28,0.579999983,0.17,21,automatic,nc,nc
-2025-01-21T05:21:04.950Z,33.2478333,-117.4448333,14.9,1.83,ml,60,113,0.1373,0.19,ci,ci40844223,2025-01-21T15:01:12.507Z,"6 km WNW of Camp Pendleton South, CA",earthquake,0.26,0.38,0.138,29,reviewed,ci,ci
-2025-01-21T05:13:54.259Z,65.0533,-146.0802,5,1.6,ml,,,,0.59,ak,ak025ytccw1,2025-01-21T05:16:34.359Z,"41 km ENE of Pleasant Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-21T05:13:36.168Z,-27.8015,-13.1545,10,5.2,mww,36,77,27.821,1.08,us,us6000pld9,2025-01-21T05:55:36.040Z,"southern Mid-Atlantic Ridge",earthquake,9.11,1.853,0.11,8,reviewed,us,us
-2025-01-21T05:13:03.970Z,37.815,-90.114333333333,11.13,2.37,md,23,94,0.298,0.19,nm,nm60597021,2025-01-21T20:16:47.956Z,"8 km SW of Ozora, Missouri",earthquake,0.42,0.84,0.058120502129253,20,reviewed,nm,nm
-2025-01-21T05:09:11.210Z,38.842834472656,-122.8253326416,2.079999923706,1.29,md,28,75,0.008992,0.02,nc,nc75120526,2025-01-21T05:10:46.146Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.400000006,0.17,28,automatic,nc,nc
-2025-01-21T05:08:30.059Z,32.403,-102.051,7.9346,1,ml,12,82,0.1,0.1,tx,tx2025bkyg,2025-01-21T18:15:26.547Z,"34 km WSW of Ackerly, Texas",earthquake,0.92619042754527,1.4574073918293,0.1,6,reviewed,tx,tx
-2025-01-21T05:02:15.590Z,34.3216667,-117.0013333,6.56,1.11,ml,34,42,0.06475,0.18,ci,ci40844215,2025-01-21T05:07:06.113Z,"12 km NW of Big Bear Lake, CA",earthquake,0.18,0.54,0.202,29,automatic,ci,ci
