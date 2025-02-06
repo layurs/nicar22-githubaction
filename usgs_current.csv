@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-06T11:51:02.780Z,33.696,-116.8131667,16.58,0.5,ml,5,289,0.07189,0.02,ci,ci40180618,2025-02-06T11:54:32.636Z,"9 km SE of Valle Vista, CA",earthquake,0.59,0.57,0.12,9,automatic,ci,ci
+2025-02-06T11:37:52.870Z,34.0241667,-117.5688333,10.52,1.04,ml,49,46,0.08399,0.14,ci,ci40180610,2025-02-06T11:42:38.160Z,"6 km NW of Mira Loma, CA",earthquake,0.17,0.27,0.221,31,automatic,ci,ci
+2025-02-06T11:26:47.548Z,65.4402,-148.1985,7.2,0.9,ml,,,,0.22,ak,ak0251pdla7m,2025-02-06T11:30:03.667Z,"18 km ESE of Livengood, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-06T10:55:37.380Z,33.3586667,-116.8948333,6.85,0.54,ml,31,41,0.0274,0.2,ci,ci40180602,2025-02-06T11:00:02.612Z,"3 km W of Palomar Observatory, CA",earthquake,0.24,0.47,0.13,17,automatic,ci,ci
-2025-02-06T10:49:46.120Z,40.438835144043,-125.20449829102,4.4099998474121,2.88,md,19,285,0.6755,0.28,nc,nc75128616,2025-02-06T10:57:17.402Z,"79 km WNW of Petrolia, CA",earthquake,4.98,16.1900005,0.1,6,automatic,nc,nc
+2025-02-06T10:49:46.120Z,40.438835144043,-125.20449829102,4.4099998474121,2.88,md,19,285,0.6755,0.28,nc,nc75128616,2025-02-06T11:34:15.868Z,"79 km WNW of Petrolia, CA",earthquake,4.98,16.1900005,0.1,6,automatic,nc,nc
 2025-02-06T10:47:18.774Z,61.8842,-149.5633,16.1,1.2,ml,,,,0.22,ak,ak0251pd4af9,2025-02-06T10:49:20.278Z,"23 km NW of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-06T10:38:16.812Z,60.2003,-151.5335,46.9,2.6,ml,,,,0.31,ak,ak0251pd2ctt,2025-02-06T10:39:49.843Z,"8 km WSW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-06T10:35:08.632Z,39.1957,-119.0384,5,1,ml,8,153.84,0.027,0.1133,nn,nn00892966,2025-02-06T10:37:30.994Z,"25 km NNE of Yerington, Nevada",earthquake,,0.7,0.16,4,automatic,nn,nn
@@ -190,21 +193,31 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T17:20:13.029Z,65.4413,-148.2209,4.2,1.5,ml,,,,0.57,ak,ak0251ntl6dy,2025-02-05T17:21:59.665Z,"17 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-05T17:17:10.379Z,65.4436,-148.2295,12.2,0.9,ml,,,,0.15,ak,ak0251ntkj19,2025-02-05T17:18:34.703Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-05T17:09:30.970Z,61.309666666667,-152.26583333333,1.7,-0.47,ml,7,172,0.06949,0.05,av,av93485291,2025-02-05T23:23:14.980Z,"66 km WNW of Beluga, Alaska",earthquake,0.33,1.18,0.10785531332364,7,reviewed,av,av
+2025-02-05T17:08:43.610Z,61.278,-152.2545,2.75,-0.75,ml,6,191,0.04968,0.08,av,av93485286,2025-02-06T11:53:44.890Z,"64 km WNW of Tyonek, Alaska",earthquake,0.39,0.85,0.045846538285012,7,reviewed,av,av
 2025-02-05T17:05:51.777Z,59.9254,-152.7788,103.2,1.4,ml,,,,0.54,ak,ak0251nti25q,2025-02-05T17:08:55.295Z,"55 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-05T17:04:03.542Z,57.9726,-157.126,15.8,1.3,ml,,,,1.02,ak,ak0251nthq7c,2025-02-05T17:06:26.491Z,"30 km SSE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-05T17:05:31.160Z,61.3075,-152.26566666667,0.84,-0.27,ml,7,171,0.06807,0.05,av,av93032094,2025-02-06T11:50:48.990Z,"66 km WNW of Beluga, Alaska",earthquake,0.31,1.53,0.16415160964809,8,reviewed,av,av
+2025-02-05T17:05:12.850Z,61.313166666667,-152.276,3.57,0.14,ml,8,175,0.07143,0.1,av,av93032089,2025-02-06T11:47:48.030Z,"66 km WNW of Beluga, Alaska",earthquake,0.45,0.31,0.095912813621123,7,reviewed,av,av
+2025-02-05T17:05:01.810Z,61.31,-152.26716666667,1.84,0.03,ml,8,172,0.0702,0.05,av,av93032079,2025-02-06T11:43:41.650Z,"66 km WNW of Beluga, Alaska",earthquake,0.28,1.14,0.087151093075879,7,reviewed,av,av
+2025-02-05T17:04:03.542Z,57.9726,-157.126,15.8,1.3,ml,,,,1.02,ak,ak0251nthq7c,2025-02-06T11:37:04.590Z,"30 km SSE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-05T17:03:24.740Z,39.420166666667,-111.0675,1.73,1.48,md,6,113,0.1081,0.02,uu,uu80101081,2025-02-05T17:48:36.030Z,"8 km SW of Hiawatha, Utah",earthquake,0.65,31.61,0.27995660619681,5,reviewed,uu,uu
+2025-02-05T17:01:33.930Z,61.279166666667,-152.258,3.24,-1.12,ml,6,192,0.05162,0.07,av,av93032074,2025-02-06T11:39:40.760Z,"64 km WNW of Tyonek, Alaska",earthquake,0.43,0.77,0.052785656265206,7,reviewed,av,av
+2025-02-05T16:56:44.220Z,58.428666666667,-154.57333333333,7.84,0.15,ml,4,287,0.09776,0.18,av,av93032069,2025-02-06T11:32:38.310Z,"96 km N of Karluk, Alaska",earthquake,1.82,1.66,0.18441258445886,4,reviewed,av,av
+2025-02-05T16:56:24.380Z,61.278166666667,-152.25633333333,2.47,-0.21,ml,7,150,0.05058,0.05,av,av93485271,2025-02-06T11:28:07.030Z,"64 km WNW of Tyonek, Alaska",earthquake,0.28,0.52,0.11846776081404,8,reviewed,av,av
 2025-02-05T16:53:17.978Z,62.439,-151.9766,88.3,1.6,ml,,,,0.74,ak,ak0251nt6tsl,2025-02-05T16:55:59.030Z,"58 km NNW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-02-05T16:46:39.929Z,65.4453,-148.2289,12.6,1,ml,,,,0.11,ak,ak0251nt5dh4,2025-02-05T16:47:55.377Z,"17 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-05T16:36:09.954Z,65.5139,-148.8083,13.1,1.2,ml,,,,1.19,ak,ak0251nt3603,2025-02-05T16:37:34.091Z,"12 km W of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-05T16:18:42.048Z,36.5246,25.7476,10,4.2,mb,54,107,1.417,0.85,us,us7000pbkv,2025-02-05T16:58:39.040Z,"30 km ENE of Mesariá, Greece",earthquake,5.79,1.857,0.102,27,reviewed,us,us
 2025-02-05T16:15:41.070Z,60.6862,-150.779,45,2.1,ml,,,,0.28,ak,ak0251nsyqd7,2025-02-05T16:17:04.279Z,"16 km N of Sterling, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-02-05T16:10:19.830Z,61.303,-152.26483333333,0.94,-0.18,ml,7,168,0.06504,0.08,av,av93485251,2025-02-06T11:25:01.060Z,"66 km WNW of Beluga, Alaska",earthquake,0.34,1.63,0.21413691856405,8,reviewed,av,av
 2025-02-05T16:07:01.030Z,35.00216667,-97.65716667,8.4,1.48,ml,42,75,0.09898057663,0.28,ok,ok2025cnen,2025-02-05T17:21:54.441Z,"4 km SW of Dibble, Oklahoma",earthquake,,1.5,0.22,17,reviewed,ok,ok
+2025-02-05T16:06:18.640Z,61.276,-152.255,2.24,-0.74,ml,6,188,0.04945,0.09,av,av93485246,2025-02-06T11:22:00.000Z,"64 km WNW of Tyonek, Alaska",earthquake,0.4,0.94,0.096556053857936,7,reviewed,av,av
+2025-02-05T16:00:54.370Z,61.313333333333,-152.259,0.63,0.14,ml,7,175,0.06947,0.1,av,av93485241,2025-02-06T11:19:24.180Z,"66 km WNW of Beluga, Alaska",earthquake,0.34,2.02,0.19629890637712,8,reviewed,av,av
 2025-02-05T15:47:27.700Z,19.8751,-65.5785,34,3.76,md,19,291,1.5953,0.25,pr,pr2025036001,2025-02-05T16:38:14.403Z,"162 km N of Suárez, Puerto Rico",earthquake,1.56,16.95,0.1,13,reviewed,pr,pr
 2025-02-05T15:45:32.010Z,61.3155,-152.35783333333,1.43,0.3,ml,9,170,0.05703,0.28,av,av93485221,2025-02-05T23:11:05.570Z,"71 km WNW of Beluga, Alaska",earthquake,0.71,3.17,0.13671314058341,9,reviewed,av,av
 2025-02-05T15:43:21.104Z,59.9517,-140.0864,11.6,1.2,ml,,,,0.26,ak,ak0251nsj99f,2025-02-05T15:46:42.640Z,"49 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-05T15:36:14.177Z,65.4111,-148.2296,4.5,2.3,ml,,,,0.34,ak,ak0251nshqq1,2025-02-05T15:38:06.274Z,"19 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-05T15:35:26.112Z,65.4421,-148.2329,10,1.1,ml,,,,0.21,ak,ak0251nshjxf,2025-02-05T15:36:46.704Z,"17 km ESE of Livengood, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-02-05T15:23:47.664Z,61.2709,-152.2295,4.9,-0.4,ml,,,,0.1,ak,ak0251nsezpv,2025-02-06T02:41:17.821Z,"62 km WNW of Tyonek, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2025-02-05T15:23:47.664Z,61.2709,-152.2295,4.9,-0.4,ml,,,,0.1,ak,ak0251nsezpv,2025-02-06T11:12:13.120Z,"62 km WNW of Tyonek, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2025-02-05T15:22:49.700Z,60.0475,-153.07966666667,0.27,-0.51,ml,6,115,0.01275,0.06,av,av93485206,2025-02-06T06:59:52.320Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.28,0.52,0.29202853240675,5,reviewed,av,av
 2025-02-05T15:05:01.313Z,60.0688,-152.5047,97.2,1.6,ml,,,,0.32,ak,ak0251nsb2j7,2025-02-05T15:06:54.217Z,"45 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-05T14:59:07.607Z,61.4548,-147.8055,32.2,1.2,ml,,,,0.35,ak,ak0251ns182w,2025-02-05T15:00:17.649Z,"40 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -259,13 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T11:58:25.550Z,61.278666666667,-152.25933333333,1.24,-0.31,ml,8,150,0.05211,0.12,av,av93485036,2025-02-06T03:50:48.580Z,"64 km WNW of Tyonek, Alaska",earthquake,0.33,1.28,0.15365860185219,8,reviewed,av,av
 2025-02-05T11:57:27.500Z,61.271833333333,-152.25916666667,3.39,-0.74,ml,8,145,0.05073,0.06,av,av93032024,2025-02-06T03:47:02.440Z,"64 km WNW of Tyonek, Alaska",earthquake,0.27,0.43,0.13371208966068,8,reviewed,av,av
 2025-02-05T11:56:33.790Z,61.275,-152.23083333333,3.01,-0.9,ml,7,147,0.03786,0.08,av,av93485031,2025-02-06T03:44:01.500Z,"63 km WNW of Tyonek, Alaska",earthquake,0.37,0.64,0.074952641745609,7,reviewed,av,av
-2025-02-05T11:51:39.109Z,35.52833333,-96.75983333,5.55,1.9,ml,77,48,0.01979611533,0.24,ok,ok2025cmwc,2025-02-06T00:25:17.986Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.15,35,reviewed,ok,ok
-2025-02-05T11:36:48.428Z,31.585,-104.533,3.2302,1.5,ml,14,156,0.1,0.4,tx,tx2025cmvo,2025-02-05T12:06:55.020Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.8417547941208,0.1,11,automatic,tx,tx
-2025-02-05T11:33:55.401Z,60.8939,-151.465,57,1.5,ml,,,,0.54,ak,ak0251nq3gc4,2025-02-05T11:35:46.420Z,"24 km NNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-05T11:33:47.734Z,36.638,25.5914,10,4.8,mb,98,81,1.462,0.81,us,us7000pbj0,2025-02-05T13:20:03.040Z,"27 km NE of Oía, Greece",earthquake,5.45,1.825,0.05,125,reviewed,us,us
-2025-02-05T11:30:29.394Z,65.4293,-148.2301,13.9,1.3,ml,,,,0.33,ak,ak0251nq2r6j,2025-02-05T11:33:01.957Z,"18 km SE of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-05T11:28:10.138Z,61.9766,-148.7879,8.7,0.4,ml,,,,0.66,ak,ak0251nq2ajz,2025-02-06T02:19:11.127Z,"22 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2025-02-05T11:23:04.410Z,65.1648,-148.9257,7.7,1.1,ml,,,,0.52,ak,ak0251nq178p,2025-02-05T11:24:42.586Z,"19 km E of Minto, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2025-02-05T11:21:57.421Z,61.3399,-150.7383,12.6,1.6,ml,,,,0.52,ak,ak0251nq0vwe,2025-02-05T11:23:35.757Z,"25 km SSW of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-02-05T11:20:09.320Z,35.09966667,-97.5735,7.24,1.53,ml,74,34,0.04589099462,0.26,ok,ok2025cmvb,2025-02-05T13:31:30.560Z,"0 km SSW of Cole, Oklahoma",earthquake,,0.4,0.18,35,reviewed,ok,ok
-2025-02-05T11:13:52.660Z,57.024833333333,-135.66366666667,6.82,-0.06,ml,5,193,0.03134,0.16,av,av93484981,2025-02-06T03:39:05.010Z,"20 km W of Sitka, Alaska",earthquake,1.22,1.13,0.26517626652672,5,reviewed,av,av
