@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-13T10:45:16.195Z,62.4126,-149.2611,5.4,1.8,ml,,,,0.82,ak,ak02520xva8z,2025-02-13T10:47:38.269Z,"41 km NE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-13T10:43:20.961Z,62.2246,-149.2566,35.6,1.6,ml,,,,0.4,ak,ak02520xuv6o,2025-02-13T10:44:56.475Z,"31 km ENE of Susitna North, Alaska",earthquake,,4.3,,,automatic,ak,ak
+2025-02-13T10:41:06.140Z,36.0901667,-117.866,2.14,1.26,ml,23,59,0.02881,0.16,ci,ci40185458,2025-02-13T10:45:05.000Z,"9 km NE of Coso Junction, CA",earthquake,0.21,0.24,0.197,23,automatic,ci,ci
+2025-02-13T10:33:55.514Z,61.7761,-151.0878,63,1.7,ml,,,,0.19,ak,ak02520xssov,2025-02-13T10:35:08.490Z,"28 km SE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-02-13T10:33:13.584Z,36.91,-115.0406,6.7,1.3,ml,18,156.26,0.416,0.2426,nn,nn00893429,2025-02-13T10:37:03.474Z,"47 km WNW of Moapa Town, Nevada",earthquake,,20.1,0.24,10,automatic,nn,nn
 2025-02-13T10:05:15.456Z,61.3179,-152.2776,8.2,1.9,ml,,,,0.48,ak,ak02520xmogn,2025-02-13T10:07:27.429Z,"67 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-13T09:52:16.270Z,61.4555,-144.4004,42.9,1.3,ml,,,,0.94,ak,ak02520xbcnv,2025-02-13T09:54:43.865Z,"7 km SSE of Chitina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-13T09:51:28.050Z,40.389499664307,-125.08550262451,2.3099999427795,3.42,md,48,267,0.5768,0.42,nc,nc75132762,2025-02-13T10:17:20.638Z,"68 km WNW of Petrolia, CA",earthquake,4.43,7.92000008,0.14,22,automatic,nc,nc
@@ -18,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T07:11:30.608Z,-28.9908,-71.3769,37.903,4.7,mwr,50,141,0.593,0.78,us,us7000pdc7,2025-02-13T07:29:17.040Z,"75 km SW of Vallenar, Chile",earthquake,4.62,6.812,0.047,43,reviewed,us,us
 2025-02-13T07:10:59.670Z,38.835998535156,-122.80766296387,2.0199999809265,1.35,md,21,51,0.01273,0.01,nc,nc75132712,2025-02-13T07:12:34.550Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.460000008,0.14,21,automatic,nc,nc
 2025-02-13T07:08:56.110Z,38.836498260498,-122.8065032959,2.039999961853,1.95,md,32,62,0.01276,0.03,nc,nc75132707,2025-02-13T07:13:28.050Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.300000012,0.16,37,automatic,nc,nc
-2025-02-13T07:06:36.850Z,40.294166564941,-124.49083709717,9.9099998474121,3.87,mw,27,272,0.1135,0.1,nc,nc75132702,2025-02-13T08:12:17.405Z,"18 km W of Petrolia, CA",earthquake,1.48,0.419999987,,5,reviewed,nc,nc
+2025-02-13T07:06:35.660Z,40.278833333333,-124.57116666667,7.18,3.34,ml,60,243,0.1751,0.23,nc,nc75132702,2025-02-13T11:07:18.985Z,"25 km W of Petrolia, CA",earthquake,0.38,0.68,0.193,51,reviewed,nc,nc
 2025-02-13T06:52:05.170Z,19.197,-66.5841,30,3.55,md,23,263,0.722,0.33,pr,pr2025044000,2025-02-13T07:14:59.634Z,"81 km N of Arecibo, Puerto Rico",earthquake,1.26,10.87,0.11,22,reviewed,pr,pr
 2025-02-13T06:51:13.476Z,60.7519,-147.2043,26.1,1.4,ml,,,,0.95,ak,ak02520vits2,2025-02-13T06:53:22.149Z,"31 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-13T06:50:47.850Z,35.6183319,-117.4923325,4.17,1.14,ml,10,146,0.07282,0.11,ci,ci40185402,2025-02-13T06:52:50.963Z,"17 km E of Ridgecrest, CA",earthquake,0.51,1.48,0.353,5,automatic,ci,ci
@@ -223,15 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T11:20:45.350Z,35.8045,-118.0503333,8.27,0.65,ml,16,95,0.1231,0.12,ci,ci40184762,2025-02-12T14:45:39.776Z,"20 km SW of Little Lake, CA",earthquake,0.28,0.89,0.108,10,reviewed,ci,ci
 2025-02-12T11:16:54.110Z,38.839500427246,-122.8245010376,2.7000000476837,0.89,md,9,149,0.008628,0.02,nc,nc75132177,2025-02-12T11:18:29.033Z,"9 km WNW of Cobb, CA",earthquake,0.61,1.03999996,0.13,10,automatic,nc,nc
 2025-02-12T11:11:38.600Z,38.839668273926,-122.82716369629,2.8900001049042,0.76,md,7,123,0.006589,0.01,nc,nc75132172,2025-02-12T11:13:14.053Z,"9 km WNW of Cobb, CA",earthquake,0.92,1.14999998,0.35,8,automatic,nc,nc
-2025-02-12T11:08:42.840Z,51.858166666667,-177.847,2.4,0.29,ml,4,219,0.04823,0.06,av,av93032684,2025-02-13T01:11:45.440Z,"83 km W of Adak, Alaska",earthquake,0.49,1.27,0.32056018111817,4,reviewed,av,av
-2025-02-12T11:06:44.327Z,59.9047,-151.6108,56,1.8,ml,,,,0.37,ak,ak0251zap2ls,2025-02-12T11:09:26.461Z,"8 km SE of Happy Valley, Alaska",earthquake,,2,,,automatic,ak,ak
-2025-02-12T11:06:11.200Z,39.403333333333,-111.92116666667,-1.47,1.55,ml,10,81,0.132,0.19,uu,uu80102111,2025-02-12T14:17:46.470Z,"17 km SSW of Levan, Utah",earthquake,0.61,1.97,0.085601843863061,2,reviewed,uu,uu
-2025-02-12T11:03:08.521Z,32.004,-103.8,7.7533,1.9,ml,28,69,0,0.1,tx,tx2025czpa,2025-02-12T14:41:33.180Z,"35 km SE of Malaga, New Mexico",earthquake,0.4358090028611,0.50248899343422,0.1,14,reviewed,tx,tx
-2025-02-12T10:53:32.770Z,38.840000152588,-122.78399658203,0.52999997138977,0.72,md,10,130,0.006478,0.04,nc,nc75132162,2025-02-12T10:55:08.873Z,"6 km WNW of Cobb, CA",earthquake,0.35,0.75999999,0.21,10,automatic,nc,nc
-2025-02-12T10:52:21.090Z,35.8021667,-118.0495,8.81,1.68,ml,30,66,0.1232,0.13,ci,ci40184754,2025-02-12T16:51:41.416Z,"20 km SW of Little Lake, CA",earthquake,0.19,0.56,0.223,26,reviewed,ci,ci
-2025-02-12T10:49:54.025Z,55.3367,-159.7494,35,3.8,mb,31,144,0.415,0.73,us,us7000pd3f,2025-02-12T18:07:43.447Z,"47 km E of Sand Point, Alaska",earthquake,6.12,1.891,0.228,5,reviewed,us,us
-2025-02-12T10:47:56.780Z,40.277667999268,-124.36599731445,18.260000228882,2.04,md,19,249,0.02089,0.09,nc,nc75132152,2025-02-12T10:49:34.004Z,"9 km WSW of Petrolia, CA",earthquake,1.2,0.519999981,0.06,11,automatic,nc,nc
-2025-02-12T10:45:45.000Z,38.823333740234,-122.85383605957,2.0999999046326,1.11,md,24,93,0.004828,0.03,nc,nc75132147,2025-02-12T10:47:19.081Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.370000005,0.17,24,automatic,nc,nc
-2025-02-12T10:44:25.353Z,64.4792,-146.8838,5,1.2,ml,,,,0.63,ak,ak0251zabqqv,2025-02-12T10:46:11.264Z,"5 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-02-12T10:37:39.806Z,61.9755,-143.9614,0.1,1.4,ml,,,,0.46,ak,ak0251zaa9uk,2025-02-13T00:18:00.270Z,"57 km NNE of Chitina, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-12T10:26:36.210Z,61.318833333333,-152.3065,-2.54,-0.15,ml,8,176,0.06783,0.26,av,av93497516,2025-02-13T00:50:14.490Z,"68 km WNW of Beluga, Alaska",earthquake,0.65,2.66,0.23400654157871,8,reviewed,av,av
