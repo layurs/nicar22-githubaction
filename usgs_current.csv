@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-11T04:10:16.490Z,39.539501190185,-122.03133392334,21.60000038147,2.95,md,20,63,0.06866,0.19,nc,nc75179661,2025-05-11T04:17:22.957Z,"14 km E of Willows, CA",earthquake,0.5,0.709999979,0.1,18,automatic,nc,nc
+2025-05-11T04:06:35.400Z,18.252,-66.423,37.69,3.05,md,25,64,0.08758,0.12,pr,pr71481988,2025-05-11T04:43:45.290Z,"4 km NW of Orocovis, Puerto Rico",earthquake,0.32,0.48,0.11802270589552,15,reviewed,pr,pr
 2025-05-11T04:05:32.080Z,33.0638333,-115.5671667,7.86,1.31,ml,40,42,0.02835,0.28,ci,ci41150680,2025-05-11T04:08:59.390Z,"6 km ENE of Westmorland, CA",earthquake,0.28,0.5,0.269,26,automatic,ci,ci
 2025-05-11T03:47:18.770Z,17.871333333333,-66.897666666667,12.25,2.18,md,8,248,0.1046,0.12,pr,pr71481983,2025-05-11T04:00:31.910Z,"11 km S of Guánica, Puerto Rico",earthquake,0.76,0.44,0.13616922754514,4,reviewed,pr,pr
 2025-05-11T03:43:32.080Z,33.2711667,-116.4333333,4.61,0.98,ml,53,29,0.01387,0.22,ci,ci41150672,2025-05-11T03:47:02.346Z,"6 km WNW of Borrego Springs, CA",earthquake,0.16,0.36,0.145,28,automatic,ci,ci
@@ -48,6 +49,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-10T23:16:27.770Z,18.024166666667,-66.872666666667,10.52,1.97,md,4,173,0.04925,0.07,pr,pr71481968,2025-05-10T23:28:23.620Z,"1 km N of Palomas, Puerto Rico",earthquake,2.69,2.1,0.13418087997228,4,reviewed,pr,pr
 2025-05-10T22:50:33.010Z,33.2685013,-116.4366684,4.24,2.18,ml,72,22,0.01635,0.21,ci,ci41150456,2025-05-10T23:01:42.660Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.51,0.243,24,automatic,ci,ci
 2025-05-10T22:45:48.551Z,59.6633,-153.3005,105.1,1.8,ml,,,,0.45,ak,ak0255zd8eh0,2025-05-10T22:49:29.479Z,"47 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-05-10T22:17:34.900Z,51.995666666667,178.4545,2.03,1.52,ml,4,335,0.0457,0.14,av,av93602976,2025-05-11T04:31:05.990Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.4,2.5,0.25786819089373,3,reviewed,av,av
+2025-05-10T22:16:49.920Z,51.994,178.4535,1.68,1.04,ml,4,336,0.04528,0.14,av,av93602971,2025-05-11T04:29:05.320Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.45,3.09,0.26366812676452,3,reviewed,av,av
 2025-05-10T22:15:06.684Z,31.733,-104.142,5.0952,1.9,ml,12,136,0,0.2,tx,tx2025jdjy,2025-05-10T22:20:45.512Z,"51 km W of Mentone, Texas",earthquake,0,3.2821357250214,0.2,10,automatic,tx,tx
 2025-05-10T22:11:40.169Z,51.9757,178.4982,2.9,1.9,ml,,,,0.41,ak,ak0255zd13iw,2025-05-11T00:15:24.886Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0,,,reviewed,ak,ak
 2025-05-10T22:10:51.690Z,51.996666666667,178.45733333333,1.51,1.87,ml,4,335,0.04489,0.14,av,av93602956,2025-05-11T00:03:21.170Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.4,3.11,0.23915171157866,3,reviewed,av,av
@@ -124,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-10T13:20:37.900Z,35.9155,-117.7141667,2.48,0.44,ml,19,43,0.06104,0.2,ci,ci41150008,2025-05-10T13:24:40.183Z,"18 km E of Little Lake, CA",earthquake,0.24,0.31,0.191,7,automatic,ci,ci
 2025-05-10T13:15:03.540Z,33.7401667,-117.5185,9.47,1.01,ml,20,71,0.09335,0.2,ci,ci41149992,2025-05-10T13:18:37.837Z,"11 km NE of Trabuco Canyon, CA",earthquake,0.34,0.62,0.317,23,automatic,ci,ci
 2025-05-10T13:12:46.520Z,33.47,-116.9046667,8.84,0.66,ml,36,41,0.01305,0.17,ci,ci41149984,2025-05-10T13:16:17.190Z,"5 km NW of Aguanga, CA",earthquake,0.18,0.52,0.14,24,automatic,ci,ci
-2025-05-10T13:04:20.390Z,35.545333333333,-83.987166666667,24.94,4.1,mw,41,35,0.09566,0.2,se,se60605931,2025-05-11T04:16:57.036Z,"21 km SE of Greenback, Tennessee",earthquake,0.26,0.46,,0,reviewed,se,se
+2025-05-10T13:04:20.390Z,35.545333333333,-83.987166666667,24.94,4.1,mw,41,35,0.09566,0.2,se,se60605931,2025-05-11T05:10:16.571Z,"21 km SE of Greenback, Tennessee",earthquake,0.26,0.46,,0,reviewed,se,se
 2025-05-10T13:04:00.740Z,33.4201667,-116.3806667,11.55,0.47,ml,31,87,0.08281,0.22,ci,ci41149976,2025-05-10T13:08:26.586Z,"18 km N of Borrego Springs, CA",earthquake,0.28,0.76,0.109,10,automatic,ci,ci
 2025-05-10T13:02:03.960Z,32.6665,-115.8426667,8.42,1.13,ml,25,76,0.06977,0.21,ci,ci41149960,2025-05-10T13:05:37.981Z,"16 km ESE of Ocotillo, CA",earthquake,0.35,0.64,0.411,10,automatic,ci,ci
 2025-05-10T12:55:24.990Z,38.773498535156,-122.71716308594,1.539999961853,0.99,md,8,97,0.01332,0.05,nc,nc75179341,2025-05-10T13:27:18.005Z,"2 km W of Anderson Springs, CA",earthquake,0.4,0.689999998,0.2,8,automatic,nc,nc
@@ -191,17 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-10T05:37:16.360Z,57.782166666667,-155.7415,5.39,0.6,ml,6,203,0.2985,0.24,av,av93602276,2025-05-10T23:12:06.340Z,"80 km WNW of Karluk, Alaska",earthquake,1.71,3.97,0.31815725223452,6,reviewed,av,av
 2025-05-10T05:27:33.790Z,35.3636667,-117.7948333,2.34,1.21,ml,29,94,0.1047,0.17,ci,ci41149896,2025-05-10T05:42:09.673Z,"15 km W of Johannesburg, CA",earthquake,0.21,0.45,0.141,19,reviewed,ci,ci
 2025-05-10T05:15:00.380Z,60.428666666667,-152.63983333333,20.19,-0.2,ml,4,304,0.05797,0.05,av,av93602256,2025-05-10T23:03:48.940Z,"68 km NW of Ninilchik, Alaska",earthquake,1.28,0.67,0.30179859798399,4,reviewed,av,av
-2025-05-10T05:08:01.178Z,36.664,71.148,233.7,4.6,mb,107,77,1.96,0.93,us,us7000pydu,2025-05-10T05:27:57.040Z,"34 km W of Ashkāsham, Afghanistan",earthquake,7.19,6.802,0.043,164,reviewed,us,us
-2025-05-10T05:07:15.148Z,-20.7218,-68.8492,91.144,4.1,mb,18,90,0.644,0.89,us,us7000pydt,2025-05-10T06:06:22.040Z,"83 km NW of Ollagüe, Chile",earthquake,3.79,6.088,0.174,9,reviewed,us,us
-2025-05-10T04:44:26.589Z,61.6676,-141.7968,14.6,1.1,ml,,,,0.18,ak,ak0255z2ic6a,2025-05-10T04:45:42.748Z,"65 km ENE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-10T04:42:48.900Z,61.289,-152.35683333333,4.79,-0.29,ml,6,153,0.03091,0.1,av,av93602241,2025-05-10T22:57:11.920Z,"70 km WNW of Tyonek, Alaska",earthquake,0.5,0.84,0.12039122688443,6,reviewed,av,av
-2025-05-10T04:38:39.000Z,33.9901667,-117.4296667,15.99,1.02,ml,40,75,0.04517,0.16,ci,ci41149872,2025-05-10T04:42:41.523Z,"2 km WSW of Rubidoux, CA",earthquake,0.22,0.33,0.276,32,automatic,ci,ci
-2025-05-10T04:35:00.688Z,52.2067,160.5838,10,4.4,mb,20,190,1.435,1.25,us,us7000pydq,2025-05-10T22:36:11.040Z,"163 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.57,1.965,0.138,16,reviewed,us,us
-2025-05-10T04:30:50.100Z,35.8606667,-117.6905,8.37,0.64,ml,17,64,0.07973,0.13,ci,ci41149856,2025-05-10T05:31:29.700Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.64,0.11,9,reviewed,ci,ci
-2025-05-10T04:30:48.160Z,35.3313333,-117.8166667,6.91,0.46,ml,5,165,0.06808,0.08,ci,ci37543957,2025-05-10T05:31:28.164Z,"17 km WSW of Johannesburg, CA",earthquake,0.46,0.8,0.156,3,reviewed,ci,ci
-2025-05-10T04:30:27.390Z,61.265,-152.21766666667,5.7,-0.83,ml,4,168,0.03029,0.13,av,av93041069,2025-05-10T22:54:41.110Z,"62 km WNW of Tyonek, Alaska",earthquake,1.19,0.97,0.16399446196911,4,reviewed,av,av
-2025-05-10T04:29:36.078Z,59.815,-153.2645,34.1,1.8,ml,,,,0.8,ak,ak0255z2f55z,2025-05-10T22:48:20.220Z,"47 km E of Pedro Bay, Alaska",earthquake,,6.7,,,automatic,ak,ak
-2025-05-10T04:25:52.255Z,32.461,-102.023,4.0731,1.4,mlv,37,46,0.1,0.4,tx,tx2025jcax,2025-05-10T18:54:01.409Z,"29 km WSW of Ackerly, Texas",earthquake,0,0.90729922056198,0.2,24,automatic,tx,tx
-2025-05-10T04:24:50.110Z,61.284,-152.3765,5.55,-0.8,ml,6,149,0.02508,0.33,av,av93602221,2025-05-10T22:41:47.370Z,"70 km WNW of Tyonek, Alaska",earthquake,1.39,1.75,0.25413643784307,6,reviewed,av,av
-2025-05-10T04:24:21.720Z,61.257333333333,-152.354,2.98,-0.87,ml,5,133,0.008974,0.25,av,av93041064,2025-05-10T22:35:35.560Z,"68 km WNW of Tyonek, Alaska",earthquake,1.65,0.71,0.10039277488793,5,reviewed,av,av
-2025-05-10T04:18:41.558Z,60.5029,-143.0384,16,1.6,ml,,,,0.35,ak,ak0255z2cspn,2025-05-10T04:19:55.479Z,"103 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
