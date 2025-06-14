@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-14T07:25:31.271Z,59.9065,-153.0944,122.5,2.5,ml,,,,0.42,ak,ak0257kzzq1z,2025-06-14T07:27:28.933Z,"58 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-06-14T07:49:53.614Z,60.0614,-151.3584,57.7,1.8,ml,,,,0.4,ak,ak0257l04wxt,2025-06-14T07:51:21.879Z,"17 km E of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-06-14T07:43:32.680Z,38.765335083008,-122.73149871826,1.6000000238419,1.6,md,26,62,0.006395,0.04,nc,nc75195471,2025-06-14T07:45:11.059Z,"3 km SE of The Geysers, CA",earthquake,0.21,0.289999992,0.13,25,automatic,nc,nc
+2025-06-14T07:41:00.009Z,31.673,-104.184,3.191,1.6,ml,27,61,0.1,0.8,tx,tx2025lpqjnq,2025-06-14T08:04:20.189Z,"54 km NW of Toyah, Texas",earthquake,0,1.0942169427872,0.2,16,automatic,tx,tx
+2025-06-14T07:25:31.271Z,59.9065,-153.0944,122.5,2.5,ml,,,,0.42,ak,ak0257kzzq1z,2025-06-14T07:36:03.498Z,"58 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-14T07:23:09.253Z,32.869,-100.949,0.8668,2.2,ml,31,68,0,0.7,tx,tx2025lpptzt,2025-06-14T07:27:25.022Z,"17 km N of Snyder, Texas",earthquake,0,1.0799485445023,0.1,18,automatic,tx,tx
 2025-06-14T07:16:44.731Z,31.672,-104.188,4.1342,2.1,ml,42,61,0.1,0.2,tx,tx2025lpposa,2025-06-14T07:19:56.399Z,"54 km NW of Toyah, Texas",earthquake,0,0.84736275672913,0.2,30,automatic,tx,tx
 2025-06-14T07:03:59.992Z,31.677,-104.201,4.3179,1.7,ml,32,62,0.1,0.2,tx,tx2025lppdsl,2025-06-14T07:09:27.594Z,"55 km NW of Toyah, Texas",earthquake,0,0.96489894390106,0.2,23,automatic,tx,tx
@@ -9,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-14T06:50:06.336Z,63.8835,-149.0155,85.8,1.4,ml,,,,0.55,ak,ak0257kzjleh,2025-06-14T06:52:00.059Z,"3 km NW of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-06-14T06:49:48.720Z,38.83466720581,-122.81683349609,1.6799999475479,1.58,md,27,48,0.01243,0.03,nc,nc75195461,2025-06-14T06:51:25.495Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.330000013,0.15,31,automatic,nc,nc
 2025-06-14T06:48:28.709Z,60.3603,-142.4495,3.2,1,ml,,,,0.39,ak,ak0257kzj7p2,2025-06-14T06:50:00.675Z,"122 km SSE of McCarthy, Alaska",earthquake,,5.5,,,automatic,ak,ak
-2025-06-14T06:43:33.961Z,-36.5916,-110.5501,10,5,mb,49,116,30.738,0.74,us,us6000qk90,2025-06-14T07:00:37.040Z,"southern East Pacific Rise",earthquake,15.44,1.906,0.045,160,reviewed,us,us
+2025-06-14T06:43:33.820Z,-36.5676,-110.604,10,5.6,mww,45,116,30.786,0.79,us,us6000qk90,2025-06-14T08:14:38.585Z,"southern East Pacific Rise",earthquake,15.49,1.906,0.08,15,reviewed,us,us
 2025-06-14T06:37:31.530Z,34.914,-119.3605,4.21,1.1,ml,20,113,0.05047,0.18,ci,ci40993895,2025-06-14T06:41:02.637Z,"16 km SSE of Maricopa, CA",earthquake,0.39,0.56,0.081,16,automatic,ci,ci
 2025-06-14T06:36:51.570Z,33.2231667,-116.0381667,7.95,0.64,ml,41,83,0.07086,0.24,ci,ci40993887,2025-06-14T06:40:19.743Z,"11 km SW of Salton City, CA",earthquake,0.29,0.92,0.117,9,automatic,ci,ci
 2025-06-14T06:31:39.080Z,38.823665618896,-122.81233215332,1.7400000095367,1.53,md,31,39,0.01774,0.03,nc,nc75195456,2025-06-14T06:34:46.700Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.310000002,0.15,32,automatic,nc,nc
@@ -19,40 +22,42 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-14T06:18:19.228Z,31.666,-104.201,4.237,2,ml,35,112,0.1,0.3,tx,tx2025lpnqas,2025-06-14T07:03:08.565Z,"54 km NW of Toyah, Texas",earthquake,0,0.90913587808609,0.3,25,automatic,tx,tx
 2025-06-14T06:12:32.830Z,31.672,-104.181,8.0138,1.7,ml,21,77,0.1,0.8,tx,tx2025lpnlkc,2025-06-14T07:02:36.642Z,"54 km NW of Toyah, Texas",earthquake,0,2.0987238883972,0.2,12,automatic,tx,tx
 2025-06-14T06:11:27.205Z,31.665,-104.186,3.8694,1.6,ml,23,119,0.1,0.6,tx,tx2025lpnkit,2025-06-14T07:02:43.639Z,"53 km NW of Toyah, Texas",earthquake,0,1.1767469644547,0.2,15,automatic,tx,tx
+2025-06-14T06:11:17.989Z,32.089,-103.74,0.6564,2.5,mlv,14,126,0.2,1,tx,tx2025lpnjxn,2025-06-14T07:39:08.686Z,"34 km ESE of Malaga, New Mexico",earthquake,0,3.1701722145081,0.7,9,automatic,tx,tx
 2025-06-14T06:09:23.294Z,31.674,-104.192,3.6595,2,ml,39,61,0.1,0.3,tx,tx2025lpnhcp,2025-06-14T06:13:39.891Z,"54 km NW of Toyah, Texas",earthquake,0,0.86720967292786,0.2,29,automatic,tx,tx
-2025-06-14T06:00:07.773Z,31.666,-104.191,3.2804,2,ml,35,111,0.1,0.4,tx,tx2025lpnaqw,2025-06-14T06:04:07.326Z,"54 km NW of Toyah, Texas",earthquake,0,0.90793460607529,0.3,27,automatic,tx,tx
+2025-06-14T06:00:07.730Z,31.669,-104.187,3.5054,2,mlv,40,61,0.1,0.4,tx,tx2025lpnaqw,2025-06-14T08:01:51.409Z,"54 km NW of Toyah, Texas",earthquake,0,0.8598438501358,0.2,30,automatic,tx,tx
 2025-06-14T05:59:23.880Z,35.07,-119.1333333,14.4,1.38,ml,31,50,0.2172,0.26,ci,ci40993879,2025-06-14T06:02:56.241Z,"23 km NW of Grapevine, CA",earthquake,0.35,0.77,0.163,29,automatic,ci,ci
-2025-06-14T05:58:28.241Z,31.665,-104.19,4.2995,2.6,ml,42,62,0.1,0.3,tx,tx2025lpmzde,2025-06-14T07:01:06.604Z,"54 km NW of Toyah, Texas",earthquake,0,0.83438831567764,0.2,30,automatic,tx,tx
+2025-06-14T05:58:28.267Z,31.667,-104.19,4.4384,2.6,mlv,44,62,0.1,0.2,tx,tx2025lpmzde,2025-06-14T08:01:46.310Z,"54 km NW of Toyah, Texas",earthquake,0,0.83202594518661,0.1,34,automatic,tx,tx
 2025-06-14T05:50:37.925Z,31.658,-104.192,4.4317,1.6,ml,26,63,0.1,0.3,tx,tx2025lpmsmr,2025-06-14T05:54:01.225Z,"53 km NW of Toyah, Texas",earthquake,0,1.0885031223297,0.2,19,automatic,tx,tx
 2025-06-14T05:49:11.870Z,38.820667266846,-122.81300354004,3.0199999809265,1.09,md,23,45,0.01728,0.02,nc,nc75195441,2025-06-14T05:50:50.112Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.49000001,0.23,24,automatic,nc,nc
 2025-06-14T05:48:15.080Z,38.816165924072,-122.76233673096,1.9900000095367,1.03,md,12,112,0.01463,0.02,nc,nc75195436,2025-06-14T05:49:52.381Z,"3 km W of Cobb, CA",earthquake,0.3,0.74000001,0.32,14,automatic,nc,nc
 2025-06-14T05:45:24.377Z,31.666,-104.199,4.1938,1.7,ml,40,62,0.1,0.4,tx,tx2025lpmnzm,2025-06-14T05:52:02.214Z,"54 km NW of Toyah, Texas",earthquake,0,0.8818524479866,0.2,28,automatic,tx,tx
 2025-06-14T05:42:59.560Z,38.822666168213,-122.81099700928,3.0099999904633,0.76,md,13,64,0.001024,0.02,nc,nc75195431,2025-06-14T05:45:51.194Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.939999998,0.08,15,automatic,nc,nc
-2025-06-14T05:33:10.361Z,31.675,-104.183,5.9602,1.5,ml,16,61,0.1,0.5,tx,tx2025lpmdlp,2025-06-14T06:01:58.323Z,"54 km NW of Toyah, Texas",earthquake,0,2.7155685424805,0.2,12,automatic,tx,tx
+2025-06-14T05:33:10.713Z,31.668,-104.193,4.1262,1.4,mlv,28,111,0.1,0.2,tx,tx2025lpmdlp,2025-06-14T08:01:15.299Z,"54 km NW of Toyah, Texas",earthquake,0,1.0699878931046,0.2,19,automatic,tx,tx
 2025-06-14T05:30:53.985Z,31.666,-104.184,3.2843,1.8,ml,28,117,0.1,0.5,tx,tx2025lpmalf,2025-06-14T05:35:19.445Z,"53 km NW of Toyah, Texas",earthquake,0,1.2287811040878,0.2,18,automatic,tx,tx
 2025-06-14T05:30:18.426Z,31.678,-104.195,4.1851,1.8,ml,34,61,0.1,0.3,tx,tx2025lpmazg,2025-06-14T06:01:44.335Z,"55 km NW of Toyah, Texas",earthquake,0,0.94059485197067,0.2,24,automatic,tx,tx
 2025-06-14T05:19:43.023Z,62.5407,-151.2452,81.6,1.9,ml,,,,0.47,ak,ak0257kyrlfi,2025-06-14T05:21:34.587Z,"25 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-06-14T05:14:16.401Z,31.669,-104.194,3.9003,1.5,mlv,30,110,0.1,0.4,tx,tx2025lplned,2025-06-14T08:00:57.299Z,"54 km NW of Toyah, Texas",earthquake,0,1.0323065519333,0.2,22,automatic,tx,tx
 2025-06-14T05:14:11.517Z,36.7545,-116.2511,4.6,0.9,ml,25,46.12,0.041,0.2493,nn,nn00898919,2025-06-14T05:15:57.635Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.43,18,automatic,nn,nn
 2025-06-14T05:13:52.137Z,31.667,-104.193,8.6538,1.6,ml,16,62,0.1,0.6,tx,tx2025lplmuf,2025-06-14T05:16:03.590Z,"54 km NW of Toyah, Texas",earthquake,0,2.9761650562286,0.2,10,automatic,tx,tx
 2025-06-14T05:12:19.110Z,19.272166666667,-66.018,12.49,3.24,md,11,268,0.9274,0.29,pr,pr71485748,2025-06-14T05:25:17.330Z,"89 km N of San Juan, Puerto Rico",earthquake,3.1,4.48,0.11204401112434,7,reviewed,pr,pr
-2025-06-14T05:00:42.646Z,31.669,-104.192,4.3626,1.7,ml,28,62,0.1,0.3,tx,tx2025lplbmb,2025-06-14T06:00:54.266Z,"54 km NW of Toyah, Texas",earthquake,0,1.0243321657181,0.2,21,automatic,tx,tx
+2025-06-14T05:00:42.718Z,31.669,-104.191,4.2441,1.7,mlv,33,62,0.1,0.3,tx,tx2025lplbmb,2025-06-14T08:00:45.297Z,"54 km NW of Toyah, Texas",earthquake,0,0.99712097644806,0.2,24,automatic,tx,tx
 2025-06-14T05:00:10.730Z,38.815334320068,-122.7628326416,1.8999999761581,0.77,md,11,109,0.0141,0.01,nc,nc75195421,2025-06-14T05:01:44.678Z,"4 km W of Cobb, CA",earthquake,0.31,0.790000021,0.1,12,automatic,nc,nc
 2025-06-14T04:52:56.000Z,38.829833333333,-122.7895,1.98,0.24,md,16,54,0.008589,0.02,nc,nc75195416,2025-06-14T05:19:28.466Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.8,0.224,15,reviewed,nc,nc
 2025-06-14T04:52:31.560Z,33.8761667,-116.2043333,9.56,0.56,ml,28,72,0.05548,0.13,ci,ci40993807,2025-06-14T04:55:54.041Z,"17 km N of Indio, CA",earthquake,0.19,0.4,0.033,6,automatic,ci,ci
 2025-06-14T04:51:06.492Z,-47.8628,116.0457,10,4.8,mb,20,93,14.946,0.96,us,us6000qk86,2025-06-14T05:11:06.040Z,"western Indian-Antarctic Ridge",earthquake,13.66,1.922,0.135,17,reviewed,us,us
 2025-06-14T04:49:24.330Z,31.672,-104.201,3.3556,2.4,ml,42,62,0.1,0.4,tx,tx2025lpkrmp,2025-06-14T04:55:28.732Z,"55 km NW of Toyah, Texas",earthquake,0,0.86950290203094,0.2,28,automatic,tx,tx
-2025-06-14T04:48:57.253Z,31.687,-104.185,3.6854,2.3,ml,13,118,0.1,0.6,tx,tx2025lpkpzl,2025-06-14T05:03:07.495Z,"55 km W of Mentone, Texas",earthquake,0,1.571023106575,0.3,9,automatic,tx,tx
+2025-06-14T04:48:56.912Z,31.67,-104.195,4.4037,2.3,mlv,38,62,0.1,0.2,tx,tx2025lpkpzl,2025-06-14T08:00:33.295Z,"54 km NW of Toyah, Texas",earthquake,0,0.86890000104904,0.2,29,automatic,tx,tx
 2025-06-14T04:47:53.844Z,31.666,-104.196,4.782,1.7,ml,25,62,0.1,0.2,tx,tx2025lpkqjw,2025-06-14T05:03:16.127Z,"54 km NW of Toyah, Texas",earthquake,0,1.1081010103226,0.2,17,automatic,tx,tx
 2025-06-14T04:44:17.940Z,38.817501068115,-122.80950164795,3.1099998950958,1.05,md,20,71,0.005902,0.03,nc,nc75195411,2025-06-14T04:45:55.757Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.689999998,0.28,21,automatic,nc,nc
-2025-06-14T04:43:14.770Z,31.667,-104.181,4.1547,1.6,ml,17,115,0.1,0.4,tx,tx2025lpkmky,2025-06-14T05:02:51.495Z,"53 km NW of Toyah, Texas",earthquake,0,1.307507276535,0.2,13,automatic,tx,tx
-2025-06-14T04:42:05.991Z,31.68,-104.177,10.7205,2,ml,14,107,0.1,0.8,tx,tx2025lpkljr,2025-06-14T04:45:03.994Z,"54 km NW of Toyah, Texas",earthquake,0,3.7042808532715,0.2,6,automatic,tx,tx
+2025-06-14T04:43:15.132Z,31.676,-104.18,3.5515,1.7,mlv,36,61,0.1,0.5,tx,tx2025lpkmky,2025-06-14T07:58:24.805Z,"54 km NW of Toyah, Texas",earthquake,0,0.90082746744156,0.2,25,automatic,tx,tx
+2025-06-14T04:42:06.120Z,31.668,-104.172,10.3668,1.7,mlv,17,117,0.1,0.8,tx,tx2025lpkljr,2025-06-14T07:58:16.799Z,"53 km NW of Toyah, Texas",earthquake,0,3.6413590908051,0.2,10,automatic,tx,tx
 2025-06-14T04:39:57.586Z,31.673,-104.191,6.1383,3.5,ml,40,61,0.1,0.2,tx,tx2025lpkjpj,2025-06-14T06:51:47.502Z,"54 km NW of Toyah, Texas",earthquake,0.44283774118073,0.5042311879533,0.2,18,reviewed,tx,tx
 2025-06-14T04:36:21.350Z,31.675,-104.192,6.0999,3.5,ml,43,68,0.1,0.1,tx,tx2025lpkgmj,2025-06-14T06:50:05.438Z,"55 km NW of Toyah, Texas",earthquake,0.40335716469445,0.43514777062647,0.1,17,reviewed,tx,tx
 2025-06-14T04:23:24.509Z,31.6725,-104.205,5,3.5,ml,33,114,0.233,0.27,us,us6000qk7v,2025-06-14T06:37:50.806Z,"55 km NW of Toyah, Texas",earthquake,1.23,1.16,0.042,76,reviewed,us,us
 2025-06-14T04:21:50.938Z,30.6291,141.5771,10,4.6,mb,44,119,2.897,1,us,us6000qk7w,2025-06-14T04:59:17.040Z,"Izu Islands, Japan region",earthquake,10.13,1.89,0.097,32,reviewed,us,us
 2025-06-14T04:21:33.540Z,36.1093333,-117.8885,4.9,1.13,ml,20,50,0.02846,0.13,ci,ci40993799,2025-06-14T04:24:59.831Z,"9 km NE of Coso Junction, CA",earthquake,0.22,0.44,0.203,17,automatic,ci,ci
 2025-06-14T04:13:21.770Z,38.830333709717,-122.81549835205,1.7200000286102,1.07,md,20,53,0.008121,0.02,nc,nc75195401,2025-06-14T04:14:59.419Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.439999998,0.13,19,automatic,nc,nc
-2025-06-14T04:10:19.870Z,31.521,-104.017,5.57,1.5,ml,36,59,0,0.3,tx,tx2025lpjkbw,2025-06-14T05:02:19.504Z,"31 km NW of Toyah, Texas",earthquake,0,2.035218000412,0.2,19,automatic,tx,tx
+2025-06-14T04:10:20.057Z,31.521,-104.016,4.6604,1.5,mlv,33,61,0,0.3,tx,tx2025lpjkbw,2025-06-14T07:57:06.792Z,"31 km NW of Toyah, Texas",earthquake,0,1.00758934021,0.2,25,automatic,tx,tx
 2025-06-14T04:10:00.520Z,34.2675,-118.4586667,10.47,0.97,ml,25,68,0.02233,0.17,ci,ci40993791,2025-06-14T04:14:17.766Z,"3 km SW of San Fernando, CA",earthquake,0.28,0.49,0.222,32,automatic,ci,ci
 2025-06-14T04:02:01.900Z,35.8701667,-117.645,7.64,0.35,ml,10,105,0.1152,0.09,ci,ci40993783,2025-06-14T04:05:27.254Z,"25 km WNW of Searles Valley, CA",earthquake,0.3,1.12,0.125,4,automatic,ci,ci
 2025-06-14T04:01:42.140Z,38.8265,-122.8115,1.23,-0.03,md,17,63,0.003294,0.02,nc,nc75195396,2025-06-14T05:13:56.597Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.54,0.285,16,reviewed,nc,nc
@@ -81,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-14T01:59:17.342Z,64.4561,-149.2923,7.5,1.3,ml,,,,0.66,ak,ak0257kwmdo6,2025-06-14T02:01:44.251Z,"13 km NNW of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-14T01:38:13.090Z,33.7653333,-116.9033333,11.7,0.73,ml,26,88,0.09976,0.2,ci,ci40993695,2025-06-14T01:42:20.821Z,"2 km NNW of Valle Vista, CA",earthquake,0.31,0.65,0.202,19,automatic,ci,ci
 2025-06-14T01:36:19.320Z,40.300998687744,-124.35199737549,7.210000038147,2.06,md,14,230,0.01446,0.07,nc,nc75195356,2025-06-14T01:37:55.408Z,"6 km WSW of Petrolia, CA",earthquake,1.26,0.829999983,0.13,12,automatic,nc,nc
-2025-06-14T01:17:22.688Z,31.641,-104.421,3.4436,1.9,ml,28,82,0,0.3,tx,tx2025lpdraj,2025-06-14T02:00:29.106Z,"59 km S of Whites City, New Mexico",earthquake,0,1.1466381549835,0.1,19,automatic,tx,tx
+2025-06-14T01:17:22.585Z,31.651,-104.413,4.3293,1.9,mlv,31,73,0,0.3,tx,tx2025lpdraj,2025-06-14T07:56:02.794Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0712085962296,0.2,21,automatic,tx,tx
 2025-06-14T01:13:30.700Z,38.821166666667,-122.811,3.01,-0.17,md,18,46,0.00234,0.02,nc,nc75195351,2025-06-14T04:44:47.613Z,"7 km NNW of The Geysers, CA",earthquake,0.3,0.87,0.14,17,reviewed,nc,nc
 2025-06-14T01:11:23.484Z,60.6727,-149.9404,30.8,2.1,ml,,,,0.47,ak,ak0257kwc3rw,2025-06-14T01:13:20.732Z,"21 km NNW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-14T01:06:57.190Z,33.5403333,-116.7806667,9.14,0.27,ml,13,78,0.04362,0.13,ci,ci40993679,2025-06-14T01:11:17.797Z,"10 km W of Anza, CA",earthquake,0.28,0.51,0.106,7,automatic,ci,ci
@@ -146,6 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-13T17:38:39.310Z,35.903,-117.7455,7.22,1.84,ml,34,38,0.07467,0.15,ci,ci40993375,2025-06-13T20:44:27.870Z,"15 km ESE of Little Lake, CA",earthquake,0.16,0.46,0.331,26,reviewed,ci,ci
 2025-06-13T17:35:43.660Z,17.8295,-66.852166666667,7.87,2.18,md,5,296,0.147,0.08,pr,pr71485738,2025-06-13T17:43:06.030Z,"16 km SSE of Guánica, Puerto Rico",earthquake,0.84,31.61,0.010024782579096,4,reviewed,pr,pr
 2025-06-13T17:29:49.620Z,63.6985,-149.2441,0,1.4,ml,,,,0.69,ak,ak0257jiflv6,2025-06-13T17:32:13.395Z,"16 km WSW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-06-13T17:29:47.740Z,44.845833333333,-123.57033333333,-0.39,0.65,md,5,159,0.1012,0.13,uw,uw62127941,2025-06-14T07:39:21.210Z,"10 km WSW of Falls City, Oregon",explosion,1.27,31.61,0.18844074200112,3,reviewed,uw,uw
 2025-06-13T17:29:18.680Z,17.896,-66.871166666667,9.63,1.72,md,5,237,0.079,0.14,pr,pr71485733,2025-06-13T17:37:14.780Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.73,1.1,0.1017812125059,3,reviewed,pr,pr
 2025-06-13T17:26:19.190Z,17.936333333333,-66.941666666667,9.97,2.12,md,7,218,0.0708,0.07,pr,pr71485723,2025-06-13T17:36:15.020Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.65,0.68,0.093238006592519,5,reviewed,pr,pr
 2025-06-13T17:18:45.140Z,36.367,-121.63266666667,6.35,0.67,md,14,78,0.0604,0.08,nc,nc75195186,2025-06-13T18:33:11.880Z,"20 km SSE of Carmel Valley Village, CA",earthquake,0.26,0.53,0.413,11,reviewed,nc,nc
@@ -213,7 +219,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-13T12:18:44.350Z,41.590833333333,-112.41133333333,3.95,0.71,md,5,119,0.1231,0.07,uu,uu80110261,2025-06-13T14:40:55.350Z,"15 km SW of Thatcher, Utah",earthquake,0.55,3.69,0.075586772594025,5,reviewed,uu,uu
 2025-06-13T12:14:23.250Z,38.814167022705,-122.82033538818,2.7300000190735,0.76,md,15,63,0.008702,0.02,nc,nc75195106,2025-06-13T12:16:01.303Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.680000007,0.11,15,automatic,nc,nc
 2025-06-13T12:09:19.968Z,54.6528,161.3854,10,4.1,mb,23,126,2.3,0.96,us,us6000qk2i,2025-06-13T12:34:54.040Z,"153 km SE of Atlasovo, Russia",earthquake,11.31,1.95,0.123,19,reviewed,us,us
-2025-06-13T12:08:20.385Z,40.0369,-104.9561,8.167,2.9,ml,21,56,0.484,0.81,us,us6000qk2g,2025-06-14T07:07:00.461Z,"5 km SSW of Dacono, Colorado",earthquake,2.72,7.844,0.051,51,reviewed,us,us
+2025-06-13T12:08:20.385Z,40.0369,-104.9561,8.167,2.9,ml,21,56,0.484,0.81,us,us6000qk2g,2025-06-14T07:51:13.065Z,"5 km SSW of Dacono, Colorado",earthquake,2.72,7.844,0.051,51,reviewed,us,us
 2025-06-13T12:06:00.810Z,39.298,-110.81566666667,7.18,1.73,ml,17,70,0.1843,0.07,uu,uu80110256,2025-06-13T14:39:38.310Z,"6 km SSE of Cleveland, Utah",earthquake,0.26,1.84,0.12150379938952,4,reviewed,uu,uu
 2025-06-13T11:59:31.510Z,60.2897,-150.8366,61.6,1.2,ml,,,,0.48,ak,ak0257jf1ebj,2025-06-13T19:25:01.536Z,"24 km S of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-06-13T11:54:52.470Z,35.6751667,-117.563,6.63,0.97,ml,27,49,0.1139,0.14,ci,ci40993071,2025-06-13T11:58:22.000Z,"12 km ENE of Ridgecrest, CA",earthquake,0.18,0.69,0.184,17,automatic,ci,ci
@@ -267,18 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-13T08:39:02.830Z,38.792167663574,-122.77633666992,1.5099999904633,1.11,md,26,79,0.01549,0.03,nc,nc75195041,2025-06-13T08:40:40.916Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.360000014,0.14,24,automatic,nc,nc
 2025-06-13T08:29:46.957Z,31.722,-104.283,5,1.5,ml,26,79,0,0.9,tx,tx2025lnwgke,2025-06-13T08:34:34.618Z,"51 km S of Whites City, New Mexico",earthquake,0,,0.1,15,automatic,tx,tx
 2025-06-13T08:29:07.767Z,61.8707,-150.9163,7.2,2.1,ml,,,,0.54,ak,ak0257jd2m6w,2025-06-13T08:31:07.350Z,"28 km ESE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-06-13T08:13:18.081Z,5.2174,125.0861,10,5,mb,61,60,0.62,0.91,us,us6000qk1p,2025-06-13T12:23:07.463Z,"46 km WSW of Sarangani, Philippines",earthquake,5.79,1.849,0.053,115,reviewed,us,us
-2025-06-13T08:12:44.060Z,33.9795,-117.0445,17.57,0.9,ml,48,36,0.07937,0.16,ci,ci40992991,2025-06-13T23:33:49.372Z,"1 km SE of Calimesa, CA",earthquake,0.18,0.48,0.178,35,reviewed,ci,ci
-2025-06-13T08:09:42.400Z,18.812166666667,-65.857666666667,14.43,2.89,md,16,223,0.6223,0.24,pr,pr71485658,2025-06-13T08:37:41.120Z,"42 km N of Loíza, Puerto Rico",earthquake,0.87,2.66,0.098728303184518,16,reviewed,pr,pr
-2025-06-13T07:58:34.970Z,38.830833435059,-122.87799835205,1.8799999952316,1.84,md,38,44,0.00852,0.04,nc,nc75195036,2025-06-13T08:01:45.190Z,"12 km NW of The Geysers, CA",earthquake,0.18,0.25,0.18,36,automatic,nc,nc
-2025-06-13T07:55:32.700Z,37.468333333333,-118.84566666667,1.35,0.6,md,20,111,0.1222,0.04,nc,nc75195031,2025-06-13T11:24:08.899Z,"18 km WSW of Toms Place, CA",earthquake,0.34,2.21,0.103,8,reviewed,nc,nc
-2025-06-13T07:55:19.170Z,53.881166666667,-166.9235,4.1,0.59,ml,7,230,0.07389,0.13,av,av93636171,2025-06-13T21:50:17.680Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.66,1.49,0.22082621783559,7,reviewed,av,av
-2025-06-13T07:44:47.750Z,40.334166666667,-124.881,8.99,4.08,mw,185,230,0.4142,0.3,nc,nc75195021,2025-06-14T05:23:17.889Z,"51 km WNW of Petrolia, CA",earthquake,0.47,0.74,,14,reviewed,nc,nc
-2025-06-13T07:44:35.110Z,38.837001800537,-122.78483581543,1.75,0.79,md,13,77,0.004525,0.03,nc,nc75195016,2025-06-13T07:46:10.553Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.660000026,0.26,15,automatic,nc,nc
-2025-06-13T07:44:03.480Z,38.445666666667,-122.481,4.92,1.3,md,48,34,0.05711,0.13,nc,nc75195026,2025-06-13T23:40:10.220Z,"6 km SSW of St. Helena, CA",earthquake,0.16,0.53,0.23,31,reviewed,nc,nc
-2025-06-13T07:41:27.876Z,31.721,-104.287,7.9456,2.3,ml,26,83,0.1,0.3,tx,tx2025lnurcj,2025-06-13T12:59:28.540Z,"51 km S of Whites City, New Mexico",earthquake,0.47512640437624,0.83439242829583,0.2,20,reviewed,tx,tx
-2025-06-13T07:37:10.534Z,64.5337,-150.7763,6.1,1.1,ml,,,,0.46,ak,ak0257jciwj1,2025-06-13T07:39:42.099Z,"52 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-13T07:35:25.952Z,59.9469,-151.7924,50.2,1.4,ml,,,,0.84,ak,ak0257jciiab,2025-06-13T07:38:55.587Z,"3 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-06-13T07:34:07.408Z,31.722,-104.559,5.7922,1.9,ml,31,101,0,0.2,tx,tx2025lnukur,2025-06-13T14:15:29.622Z,"53 km SSW of Whites City, New Mexico",earthquake,0.88236330772723,0.38551862716177,0.2,25,reviewed,tx,tx
-2025-06-13T07:33:45.069Z,31.65,-104.276,4.8436,1.9,ml,5,187,0.1,0.3,tx,tx2025lnukmw,2025-06-13T08:01:45.921Z,"59 km NW of Toyah, Texas",earthquake,0,2.6824464797974,0.6,4,automatic,tx,tx
-2025-06-13T07:30:39.600Z,35.0008333,-116.9118333,1.88,1.75,ml,26,59,0.2516,0.14,ci,ci40992983,2025-06-13T13:01:15.958Z,"15 km NE of Barstow, CA",earthquake,0.19,0.7,0.135,14,reviewed,ci,ci
