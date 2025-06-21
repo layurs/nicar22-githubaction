@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-21T08:48:40.565Z,61.5829,-147.0248,20,1.5,ml,,,,0.78,ak,ak0257wlhja0,2025-06-21T08:50:31.555Z,"40 km S of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-21T08:06:16.570Z,18.185666666667,-67.377833333333,19.32,2.75,md,6,278,0.2238,0.1,pr,pr71486373,2025-06-21T08:18:33.310Z,"20 km SW of Stella, Puerto Rico",earthquake,0.96,0.42,0.21691603169411,4,reviewed,pr,pr
 2025-06-21T07:58:21.520Z,35.3218333,-117.8128333,7.65,1.2,ml,37,84,0.06062,0.18,ci,ci41000335,2025-06-21T08:02:13.468Z,"17 km WSW of Johannesburg, CA",earthquake,0.18,0.52,0.125,27,automatic,ci,ci
 2025-06-21T07:50:31.630Z,18.260333333333,-66.26,14.66,3,md,29,84,0.1137,0.29,pr,pr71486363,2025-06-21T08:18:25.840Z,"3 km N of Palomas, Puerto Rico",earthquake,0.38,0.83,0.16877869063666,11,reviewed,pr,pr
@@ -9,7 +10,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-21T07:28:00.954Z,64.5038,-39.8343,10,4.5,mb,99,55,4.221,0.73,us,us6000qlkz,2025-06-21T07:42:37.040Z,"161 km SW of Tasiilaq, Greenland",earthquake,6.19,1.896,0.054,99,reviewed,us,us
 2025-06-21T07:27:17.210Z,19.006332397461,-155.36250305176,14.14999961853,2.16,ml,56,220,0.1757,0.25,hv,hv74703927,2025-06-21T07:31:16.130Z,"23 km ESE of Naalehu, Hawaii",earthquake,1,1.33000004,0.66,8,automatic,hv,hv
 2025-06-21T07:24:56.480Z,46.855667114258,-121.7628326416,-0.059999998658895,0.360000014,md,14,173,,0.0299999993,uw,uw62124432,2025-06-21T07:26:28.670Z,"23 km ENE of Ashford, Washington",earthquake,0.42,0.779999971,,1,automatic,uw,uw
-2025-06-21T07:20:18.860Z,40.378833770752,-125.13632965088,0.33000001311302,3.15,md,37,277,0.6134,0.42,nc,nc75198441,2025-06-21T07:27:17.459Z,"72 km WNW of Petrolia, CA",earthquake,8.05,14.3400002,0.08,22,automatic,nc,nc
+2025-06-21T07:23:59.263Z,-23.8942,-179.9116,519.984,4.3,mb,22,178,6.407,0.52,us,us6000qlky,2025-06-21T08:48:57.040Z,"south of the Fiji Islands",earthquake,23.6,20.83,0.123,19,reviewed,us,us
+2025-06-21T07:23:51.822Z,-23.872,-179.8247,541.935,4.1,mb,21,244,18.082,0.66,us,us6000qllb,2025-06-21T08:55:45.040Z,"south of the Fiji Islands",earthquake,23.72,19.303,0.131,19,reviewed,us,us
+2025-06-21T07:20:18.860Z,40.378833770752,-125.13632965088,0.33000001311302,3.15,md,37,277,0.6134,0.42,nc,nc75198441,2025-06-21T08:44:49.040Z,"72 km WNW of Petrolia, CA",earthquake,8.05,14.3400002,0.08,22,automatic,nc,nc
 2025-06-21T07:13:12.420Z,33.5711667,-116.3901667,9.89,0.74,ml,30,74,0.07719,0.14,ci,ci41000319,2025-06-21T07:17:25.138Z,"13 km SW of La Quinta, CA",earthquake,0.2,0.54,0.179,17,automatic,ci,ci
 2025-06-21T07:12:39.800Z,33.9183333,-117.0801667,15.7,0.9,ml,36,58,0.1185,0.13,ci,ci41000311,2025-06-21T07:16:45.670Z,"8 km SSW of Calimesa, CA",earthquake,0.14,0.48,0.24,33,automatic,ci,ci
 2025-06-21T07:12:26.696Z,28.896,-98.038,6.7757,1.5,ml,18,64,0.1,0.5,tx,tx2025mclnea,2025-06-21T08:00:44.439Z,"9 km SSW of Falls City, Texas",earthquake,0,2.4391295909882,0.1,12,automatic,tx,tx
@@ -225,13 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-20T09:07:35.480Z,17.921,-66.851833333333,12.08,2.34,md,17,189,0.05346,0.11,pr,pr71486258,2025-06-20T09:24:03.250Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.5,0.31,0.16988639316209,7,reviewed,pr,pr
 2025-06-20T09:03:31.190Z,38.830333709717,-122.81549835205,2,0.71,md,15,59,0.008121,0.01,nc,nc75198006,2025-06-20T11:22:18.751Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.730000019,0.32,16,automatic,nc,nc
 2025-06-20T09:02:19.820Z,38.820835113525,-122.80982971191,2.960000038147,0.76,md,11,73,0.002563,0.02,nc,nc75198001,2025-06-20T10:57:16.558Z,"7 km NNW of The Geysers, CA",earthquake,0.39,1.05999994,0.2,11,automatic,nc,nc
-2025-06-20T09:00:36.987Z,31.697,-104.135,7.0099,1.7,ml,37,81,0.1,0.2,tx,tx2025matjmt,2025-06-20T10:45:55.219Z,"50 km W of Mentone, Texas",earthquake,0.47037556532934,0.53923043533167,0.2,21,reviewed,tx,tx
-2025-06-20T09:00:17.130Z,33.9798333,-116.8266667,6.79,0.83,ml,42,43,0.05736,0.13,ci,ci40999471,2025-06-20T17:16:52.070Z,"8 km NE of Banning, CA",earthquake,0.13,0.53,0.18,27,reviewed,ci,ci
-2025-06-20T08:57:09.240Z,37.549333333333,-118.82666666667,3.39,0.52,md,10,200,0.04067,0.03,nc,nc75197996,2025-06-20T23:22:33.401Z,"13 km W of Toms Place, CA",earthquake,1.05,1.24,0.058,7,reviewed,nc,nc
-2025-06-20T08:56:22.433Z,31.7,-104.132,6.9586,2.3,ml,44,47,0.1,0.2,tx,tx2025matfuw,2025-06-21T00:58:08.581Z,"50 km W of Mentone, Texas",earthquake,0.48535733300234,0.56050299290615,0.2,19,reviewed,tx,tx
-2025-06-20T08:48:45.670Z,33.586,-116.6195,13.61,0.46,ml,17,60,0.03445,0.19,ci,ci40999463,2025-06-20T19:19:24.899Z,"6 km NE of Anza, CA",earthquake,0.38,0.7,0.095,11,reviewed,ci,ci
-2025-06-20T08:40:13.100Z,17.920333333333,-66.8585,12.02,2.45,md,25,190,0.05261,0.2,pr,pr71486233,2025-06-20T09:05:29.040Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.54,0.32,0.029077903619008,8,reviewed,pr,pr
-2025-06-20T08:32:07.443Z,59.3923,-152.4501,71,2.1,ml,,,,0.36,ak,ak0257uxuoql,2025-06-20T23:25:09.475Z,"30 km W of Nanwalek, Alaska",earthquake,,0,,,reviewed,ak,ak
-2025-06-20T08:30:07.326Z,59.9464,-153.2639,127.3,1.7,ml,,,,0.51,ak,ak0257uxu9bw,2025-06-20T23:25:11.057Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
-2025-06-20T08:28:27.400Z,36.0951667,-117.87,2.75,1.61,ml,29,41,0.02551,0.14,ci,ci40999455,2025-06-20T17:16:53.071Z,"9 km NE of Coso Junction, CA",earthquake,0.15,0.36,0.198,27,reviewed,ci,ci
-2025-06-20T08:28:16.184Z,64.0301,-147.4746,6.4,1.9,ml,,,,1.04,ak,ak0257uxtunf,2025-06-20T23:25:09.183Z,"57 km SW of Harding-Birch Lakes, Alaska",earthquake,,0,,,reviewed,ak,ak
