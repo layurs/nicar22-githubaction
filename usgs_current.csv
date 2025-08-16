@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T12:43:21.102Z,64.4766,-146.9609,6,0.9,ml,,,,0.33,ak,ak025ah9xl9q,2025-08-16T12:45:34.827Z,"5 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-16T12:20:49.680Z,32.9378333,-116.2748333,6.09,0.87,ml,36,45,0.1191,0.19,ci,ci40400298,2025-08-16T12:25:01.324Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.94,0.238,13,automatic,ci,ci
 2025-08-16T12:14:11.010Z,35.580001831055,-120.68683624268,7.3200001716614,0.86,md,8,149,0.08076,0.02,nc,nc75224542,2025-08-16T12:15:46.095Z,"4 km NE of Templeton, CA",earthquake,1.02,1.59000003,0.32,2,automatic,nc,nc
-2025-08-16T12:08:23.906Z,-23.1842,170.8076,10,5.6,mww,69,80,3.151,0.65,us,us6000r1l5,2025-08-16T12:38:43.166Z,"southeast of the Loyalty Islands",earthquake,9.8,1.872,0.06,27,reviewed,us,us
+2025-08-16T12:08:23.906Z,-23.1842,170.8076,10,5.6,mww,69,80,3.151,0.65,us,us6000r1l5,2025-08-16T14:31:18.615Z,"southeast of the Loyalty Islands",earthquake,9.8,1.872,0.06,27,reviewed,us,us
 2025-08-16T11:54:43.730Z,38.793334960938,-122.75350189209,0.43000000715256,0.8,md,6,192,0.01654,0.02,nc,nc75224532,2025-08-16T11:56:15.076Z,"2 km NNE of The Geysers, CA",earthquake,0.67,1.44000006,0.08,5,automatic,nc,nc
 2025-08-16T11:53:26.090Z,34.0106667,-117.2055,5.8,0.71,ml,25,103,0.06873,0.2,ci,ci40400290,2025-08-16T11:57:16.231Z,"5 km SSW of Redlands, CA",earthquake,0.26,0.71,0.377,18,automatic,ci,ci
 2025-08-16T11:52:15.650Z,35.9355,-118.5335,7.02,1.39,ml,31,59,0.1803,0.18,ci,ci40400282,2025-08-16T11:55:42.803Z,"22 km NNW of Kernville, CA",earthquake,0.21,1.47,0.192,27,automatic,ci,ci
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T10:57:14.462Z,32.096,-101.48,9.2041,1.1,ml,26,53,0.1,0.1,tx,tx2025qbnqdq,2025-08-16T12:40:22.232Z,"10 km W of Forsan, Texas",earthquake,0.34200042132852,0.67534544702314,0.1,20,reviewed,tx,tx
 2025-08-16T10:54:49.381Z,31.229,-103.505,11.2886,1.6,ml,12,76,0.1,0.2,tx,tx2025qbnnrc,2025-08-16T11:01:26.474Z,"15 km SSE of Lindsay, Texas",earthquake,0,4.2614750862122,0.2,9,automatic,tx,tx
 2025-08-16T10:47:48.420Z,33.5383333,-116.7161667,6.24,0.12,ml,18,76,0.03225,0.11,ci,ci40400250,2025-08-16T10:51:21.265Z,"4 km WSW of Anza, CA",earthquake,0.18,0.33,0.107,7,automatic,ci,ci
-2025-08-16T10:47:02.343Z,-0.5696,-78.3309,10,4.6,mb,47,96,0.176,0.81,us,us6000r1kx,2025-08-16T13:19:13.965Z,"27 km ESE of Machachi, Ecuador",earthquake,6.94,1.886,0.048,129,reviewed,us,us
+2025-08-16T10:47:02.343Z,-0.5696,-78.3309,10,4.6,mb,47,96,0.176,0.81,us,us6000r1kx,2025-08-16T14:14:15.543Z,"27 km ESE of Machachi, Ecuador",earthquake,6.94,1.886,0.048,129,reviewed,us,us
 2025-08-16T10:45:57.220Z,32.9323333,-116.2788333,8.6,0.67,ml,27,84,0.1176,0.17,ci,ci40400242,2025-08-16T10:49:24.418Z,"26 km ENE of Pine Valley, CA",earthquake,0.24,0.87,0.143,10,automatic,ci,ci
 2025-08-16T10:43:01.880Z,18.149833333333,-66.752,19.92,1.97,md,13,88,0.1068,0.1,pr,pr71492953,2025-08-16T11:13:33.140Z,"3 km WSW of Adjuntas, Puerto Rico",earthquake,0.26,0.69,0.067951381029424,6,reviewed,pr,pr
 2025-08-16T10:38:37.590Z,33.1315,-116.035,4.57,0.79,ml,34,83,0.06372,0.22,ci,ci40400234,2025-08-16T10:42:03.375Z,"9 km E of Ocotillo Wells, CA",earthquake,0.23,0.73,0.164,7,automatic,ci,ci
@@ -145,6 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T19:14:08.760Z,32.808,-116.1456667,10.85,2.18,ml,17,75,0.0439,0.17,ci,ci40399594,2025-08-15T19:20:43.506Z,"16 km WNW of Ocotillo, CA",earthquake,0.31,0.65,0.46,20,automatic,ci,ci
 2025-08-15T19:13:30.000Z,47.479666666667,-122.4275,21.76,2.29,ml,33,75,0.05946,0.17,uw,uw62163642,2025-08-16T00:28:17.790Z,"4 km NE of Vashon, Washington",earthquake,0.31,1.02,0.18432777565342,21,reviewed,uw,uw
 2025-08-15T19:09:12.700Z,54.753166666667,-163.982,-0.72,0.28,ml,5,92,0.04468,0.11,av,av93048279,2025-08-15T19:25:07.090Z,"38 km WSW of False Pass, Alaska",earthquake,0.27,0.33,0.39170268420544,5,reviewed,av,av
+2025-08-15T19:06:42.879Z,49.1665,156.2778,31.914,4.5,mb,103,155,4.141,0.74,us,us6000r1hq,2025-08-16T14:53:51.040Z,"168 km S of Severo-Kuril’sk, Russia",earthquake,11.77,6.05,0.057,97,reviewed,us,us
 2025-08-15T19:04:36.310Z,33.8626667,-117.5108333,9.5,1.08,ml,30,55,0.04378,0.36,ci,ci40399578,2025-08-15T19:08:08.333Z,"2 km SSE of Home Gardens, CA",earthquake,0.61,1.08,0.238,27,automatic,ci,ci
 2025-08-15T18:57:26.010Z,46.847666666667,-121.76533333333,-2.61,0.28,ml,14,99,0.01922,0.06,uw,uw62163622,2025-08-16T05:22:01.970Z,"22 km ENE of Ashford, Washington",earthquake,0.21,0.38,0.16975479098991,5,reviewed,uw,uw
 2025-08-15T18:54:03.837Z,49.9285,158.7559,10,4.5,mb,124,131,3.1,0.52,us,us6000r1hp,2025-08-15T21:38:21.040Z,"204 km ESE of Severo-Kuril’sk, Russia",earthquake,10.08,1.917,0.052,121,reviewed,us,us
@@ -189,7 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T15:14:37.880Z,35.6961667,-117.5128333,4.37,0.84,ml,25,69,0.0789,0.14,ci,ci41261440,2025-08-15T15:18:06.844Z,"13 km SW of Searles Valley, CA",earthquake,0.2,0.62,0.15,16,automatic,ci,ci
 2025-08-15T15:11:55.730Z,58.2955,-154.9635,3.72,0.17,ml,8,154,0.05303,0.12,av,av93717323,2025-08-15T21:01:35.680Z,"86 km NNW of Karluk, Alaska",earthquake,0.35,0.66,0.29632840938186,8,reviewed,av,av
 2025-08-15T15:11:40.430Z,61.314833333333,-152.4985,2.69,0.31,ml,12,121,0.05077,0.26,av,av93717328,2025-08-15T20:57:29.440Z,"78 km WNW of Tyonek, Alaska",earthquake,1.09,1.37,0.16382198476883,12,reviewed,av,av
-2025-08-15T14:56:16.020Z,33.3206667,-116.292,9.75,1.03,ml,46,30,0.0632,0.22,ci,ci41261408,2025-08-15T14:59:46.874Z,"11 km NE of Borrego Springs, CA",earthquake,0.22,0.49,0.158,18,automatic,ci,ci
-2025-08-15T14:55:51.650Z,37.458333333333,-113.63933333333,0.78,0.9,md,4,155,0.1732,0.14,uu,uu80113861,2025-08-15T16:05:15.110Z,"4 km NNW of Central, Utah",earthquake,0.9,31.61,0.21362341577008,4,reviewed,uu,uu
-2025-08-15T14:48:05.820Z,62.1044,-150.2416,13.1,1.1,ml,,,,0.69,ak,ak025afnm5dy,2025-08-15T14:50:08.673Z,"21 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-15T14:43:00.220Z,35.7693333,-117.5956667,7.72,0.69,ml,27,54,0.04633,0.15,ci,ci41261392,2025-08-15T17:55:36.608Z,"17 km W of Searles Valley, CA",earthquake,0.19,0.55,0.174,13,reviewed,ci,ci
